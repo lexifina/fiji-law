@@ -1,0 +1,6 @@
+# BANABAN LANDS ACT 1965
+AN ACT TO MAKE BETTER PROVISION FOR THE OWNERSHIP, REGISTRATION AND DEALING WITH LAND ON RABI ISLAND AND LAND OWNED BY THE BANABAN COMMUNITY AND MATTERS INCIDENTAL THERETO
+Table of Amendments
+Banaban Lands Act 1965 (No 31 of 1965) commenced on 29 October 1965, as amended by:
+Amending Legislation | Date of Commencement
+Banaban Lands (Amendment) Ordinance 1970 (No 37 of 1970) | 8 October 1970

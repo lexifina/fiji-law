@@ -1,0 +1,3 @@
+# FORM B CERTIFICATE OF REGISTRATION OF INDUSTRIAL ASSOCIATION
+It is hereby certified that the ........ has been registered under the Industrial Associations Act 1941 this ........ day of.... 20....
+Signature of Registrar

@@ -1,0 +1,9 @@
+# FORM C NOTICE OF CHANGE OF ADDRESS
+Industrial Association Registered No....
+To the Registrar of Industrial Associations,
+Suva.
+Notice is hereby given that the registered office of the abovementioned Industrial Association has been removed from................ in................ to................ in........
+Dated this........ day of.... 20..
+| } | Committee
+| of Management
+Received this ........ day of............, notice of removal of the registered office of the ........ Register No.... to........ in....

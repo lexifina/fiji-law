@@ -1,0 +1,2 @@
+# r 4 Where default in delivery of defence (O 7, R 4)
+In admiralty actions, if the defendant makes default in delivering a defence, the plaintiff may, on filing the statement of claim, set down the action on motion for judgment, and such judgment shall be given as upon the statement of claim the Judge shall consider the plaintiff to be entitled to. If the property proceeded against in action in rem remains under arrest the plaintiff shall together with the statement of claim file his or her proofs in support thereof.

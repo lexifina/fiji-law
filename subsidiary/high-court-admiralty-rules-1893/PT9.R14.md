@@ -1,0 +1,2 @@
+# r 14 If bail not given, action may proceed (O 9, R 14)
+After the expiration of 12 days from the service of a copy of the writ as required by Rule 12, if the party on whose behalf the caveat has been entered shall not have given bail in such sum, or paid the same into the registry, the plantiff's barrister and solicitor may proceed with the action by default, and, on filing his or her proofs in the registry, may have the action placed on the list for hearing.

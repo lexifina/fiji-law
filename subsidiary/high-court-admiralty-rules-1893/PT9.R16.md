@@ -1,0 +1,2 @@
+# r 16 Warrant for arrest notwithstanding caveat (O 9, R 16)
+Nothing in these Rules shall prevent a barrister and solicitor from taking out a warrant for the arrest of any property, notwithstanding the entry of a caveat in the Caveat Warrant Book, but the party at whose instance any property in respect of which a caveat is entered shall be arrested, shall be liable to have the warrant discharged and to be condemned in costs and damages, unless he or she shall show, to the satisfaction of the Judge, good and sufficient reasons for having so done.

@@ -1,0 +1,2 @@
+# r 6 Release on filing bail-bond etc (O 9, R 6)
+A barrister and solicitor, who shall have filed a bail-bond in the sum in respect of which the action has been commenced, or paid such sum into the registry, and, if the action be one of salvage, shall have also filed an affidavit as to the value of the property arrested, shall be entitled to a release for the same, unless there be a caveat against the release thereof outstanding in the Caveat Release Book.

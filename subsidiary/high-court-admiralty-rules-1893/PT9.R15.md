@@ -1,0 +1,2 @@
+# r 15 Judgment enforced by attachment (O 9, R 15)
+If, when the action comes before the Judge, he or she is satisfied that the claim is well founded, he or she may pronounce for the amount which appears to him or her to be due, and may enforce the payment thereof by attachment against the party on whose behalf the caveat has been entered, and by the arrest of the property if it then be or thereafter come within the jurisdiction of the Court.

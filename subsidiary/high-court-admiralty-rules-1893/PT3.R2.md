@@ -1,0 +1,2 @@
+# r 2 Service of warrant of arrest (O 3, R 2)
+In admiralty actions in rem the warrant of arrest shall be served by the Marshal or his or her substitutes, whether the property to be arrested be situate within the port of Suva or elsewhere within the jurisdiction of the Court, and the barrister and solicitor issuing the warrant shall, within 6 days from the service thereof, file the same in the Admiralty Registry.

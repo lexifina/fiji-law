@@ -1,0 +1,6 @@
+## ORDER 2 ARREST WARRANT
+# r 1 Admiralty affidavit etc required to lead warrant (O 2, R 1)
+In admiralty actions in rem a warrant for the arrest of property may be issued at the instance either of the plaintiff or of the defendant at any time after the writ of summons has issued, but no warrant of arrest shall be issued until an affidavit by the party or his or her agent has been filed, and the following provisions complied with—
+(a)the affidavit shall state the name and description of the party at whose instance the warrant is to be issued, the nature of the claim or counterclaim, the name and nature of the property to be arrested, and that the claim or counterclaim has not been satisfied;
+(b)in an action of wages or of possession the affidavit shall state the national character of the vessel proceeded against; and, if against a foreign vessel, that notice of the commencement of the action has been given to the Consul of the State to which the vessel belongs if there be one resident in Fiji, and a copy of the notice shall be annexed to the affidavit;
+(c)in any action of bottomry the bottomry-bond, and, if in a foreign language, also a notarial translation thereof, shall be produced for the inspection and perusal of the Registrar, and a copy of the bond, or of the translation thereof, certified to be correct, shall be annexed to the affidavit.

@@ -1,0 +1,2 @@
+# r 3 Time for filing bond (O 4, R 3)
+A bail-bond shall not, unless by consent, be filed until after the expiration of 24 hours from the time when a notice containing the names and addresses of the sureties and of the commissioner before whom the bail was taken shall have been served upon the adverse barrister and solicitor, and a copy of the notice verified by affidavit shall be filed with the bail-bond.

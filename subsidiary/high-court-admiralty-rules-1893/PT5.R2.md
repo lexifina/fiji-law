@@ -1,0 +1,2 @@
+# r 2 Trial by default (O 5, R 2)
+In admiralty actions in rem, upon default of appearance, if, when the action comes before him or her, the Judge is satisfied that the plaintiff's claim is well founded, he or she may pronounce for the claim with or without a reference to the Admiralty Registrar or to the Admiralty Registrar assisted by merchants, and may at the same time order the property to be appraised and sold, with or without previous notice, and the proceeds to be paid into Court, or may make such order as he or she shall think just.

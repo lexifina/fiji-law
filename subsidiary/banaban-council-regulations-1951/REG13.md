@@ -1,0 +1,2 @@
+# reg 13 Power to impose annual rate
+The Council shall have power by resolution, subject to the approval of the Minister, to impose an annual rate to be called the island rate on every adult male member of the Banaban community, who, on or before 1 January of the year in respect of which the island rate is imposed, is between the ages of 18 and 60 and who is not excepted by regulation 14. Every such resolution shall be published in Rabi Island and shall state the amount of the rate and the method and time of payment.

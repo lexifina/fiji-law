@@ -1,0 +1,2 @@
+# reg 7 Re-opening of graves
+No grave shall be re-opened for the purpose of burying therein the body of a person until after the expiration of 8 years from the date of the burial in such grave of the body of a person whose age at the time of death did not exceed 20 years or until after the expiration of 14 years from the date of the burial in such grave of the body of a person whose age at the time of death exceeded 20 years.

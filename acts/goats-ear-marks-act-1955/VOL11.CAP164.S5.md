@@ -1,0 +1,7 @@
+# s 5 Application for registration
+(1) Any person who desires to own a registered ear-mark shall apply to the Registrar in writing in the form prescribed accompanying the application by the prescribed fee.
+(2) The Registrar, if satisfied that the application complies with the provisions of this Act or of the regulations made thereunder, shall allot to the applicant such ear-mark as the Registrar thinks fit and shall register the same. As soon as is practicable after such allotment and registration the Registrar shall transmit to the owner a certificate of registration in the prescribed form.
+(3) As soon as is practicable after the end of each month the Registrar shall cause to be published in the Gazette a list of ear-marks registered during such month.
+(4) As soon as is practicable after the end of every year the Registrar shall cause to be posted at his or her office a complete list of ear-marks registered up to 31 December of such year and still in force together with the respective dates of registration thereof.
+(5) The Registrar may order the owner as a condition of allotment and registration of an ear-mark to advertise the fact of allotment and registration within a specified time in any newspaper in Fiji, and the Registrar shall when making the order specify whatever he or she requires inserted in the said newspaper. The cost of such advertisement shall be paid for by the owner.
+(6) Registration of an ear-mark shall have effect for 5 years from the date thereof.

@@ -1,0 +1,3 @@
+# s 7 Transfer
+(1) When any registered ear-mark is intended to be transferred, the owner and the intending transferee shall execute a joint memorandum in the form prescribed and upon the receipt of such memorandum and the prescribed fee, the Registrar shall cancel the existing registration of such ear-mark and may either register the same in the name of the transferee or allot and register whatever earmark he or she thinks fit thereto and, as soon as practicable after such registration, shall transmit to the owner a certificate of registration in the form prescribed.
+(2) Transfer of the registration of an ear-mark shall have effect for 5 years from the date thereof.

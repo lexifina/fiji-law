@@ -1,0 +1,6 @@
+# SCHEDULE 2 UNDERTAKING GIVEN IN ACCORDANCE WITH RULE 9 OF THE PUBLIC RECORDS (COURTS) RULES 1970
+I undertake that, if I am granted access to records relating to the proceedings of any court in Fiji, I shall submit to the Chief Registrar of the High Court for inspection, if required, any work which I intend to publish or otherwise make available to the public and for which I have used such records and I also undertake to eliminate from such work any part of the said record, or any account of the contents of the said record, wholly or in part, which the Chief Justice may consider it undesirable or inexpedient to publish or otherwise make available to the public. It is agreed that these undertakings do not apply to any statistics which I may make from inspection of such records. It is also understood that these undertakings do not apply to any conclusions I may draw from or make of such records.
+… | | Date…
+Signature of Applicant | |
+| |
+Witness… | | Date…

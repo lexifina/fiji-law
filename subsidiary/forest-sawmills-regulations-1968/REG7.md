@@ -1,0 +1,3 @@
+# reg 7 Revocation and suspension of licences
+(1) The Conservator may revoke or suspend any licence granted under the provisions of these Regulations if the licensee fails to comply with any condition thereof, provided that the Conservator shall, before exercising his or her powers under this regulation, give to the licensee adequate notice of his or her intention and reasonable time within which to remedy the failure.
+(2) Where a sawmill ceases production for a period of more than 6 months without the written approval of the Conservator, the licence granted in respect thereof shall be deemed to have been revoked.

@@ -1,0 +1,4 @@
+## PART 4 PROVISION OF INFORMATION REGARDING AIRCRAFT WEIGHT
+# reg 11 Information regarding aircraft weight
+(1) Upon request by the Authority, the operator or pilot in command of any aircraft landing in Fiji shall provide a declaration of the maximum permissible take-off weight of the aircraft authorised by the aeronautical authority of the country within which the said aircraft is registered, reckoned in tonnes or kilograms.
+(2) If a person required to provide information by virtue of this regulation fails to comply with the requirement or, in purporting to comply with the requirement, knowingly or recklessly furnishes information which is false, he or she shall be guilty of an offence and be liable to a fine not exceeding $400 or to imprisonment for a period not exceeding 6 months or both such fine and imprisonment.

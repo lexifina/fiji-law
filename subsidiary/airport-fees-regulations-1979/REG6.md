@@ -1,0 +1,3 @@
+# reg 6 Relevant weight in calculation of land fees
+In calculating the fees to be charged in accordance with the scale set out in Schedule 1, the weight of the aircraft shall be assessed on the basis of the maximum permissible take-off weight of the aircraft authorised by the aeronautical authority of the country in which it is registered, reckoned in tonnes or kilograms, provided that the Authority may for the purpose of fixing landing fees, determine a standard weight for each type of aircraft operated by an airline on regular schedule flights into any airport owned or operated by the Authority.
+[reg 6 am LN 55 of 1980 reg 2, effective 1 February 1980]

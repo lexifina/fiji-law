@@ -1,0 +1,2 @@
+# reg 9 Commutation of fees for Fiji-registered aircraft
+The operator of any Fiji registered aircraft with a maximum permissible take-off weight of less than 3 tonnes may commute the landing fees payable under these Regulations, on flights not for the purposes of public transport, by the payment of an annual fee of $100 in respect of each such aircraft. The period of validity of such commutation shall be 12 months from the payment to the Authority of the fee.

@@ -1,0 +1,2 @@
+# by-law 5 Re-registration required in certain cases
+Any person registered with the Board as a student who fails, within 9 years, to pass the examinations set by the Board shall, if he or she wishes to remain a student, apply to the Board for re-registration as a student and the Board may, in its discretion, either refuse or permit such re-registration and, in the event of permitting re-registration, may impose such conditions as it deems advisable.

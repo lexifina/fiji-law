@@ -1,0 +1,5 @@
+# by-law 6 Reports of experience
+(1) Each person registered with the Board as a student shall, on or before 31 January in each year, make a report to the Board, in a form to be obtained from the Registrar, as to the type of work upon which he or she has been engaged during the previous calendar year.
+(2) Two weeks before a student takes the final examination, he or she shall submit to the Secretary of the Board a written report giving a summary of his or her job experience since his or her registration as a student.
+(3) If the Board is of the opinion that any student has had insufficient training and experience as shown in the report referred to in paragraph (2), it may direct that such student shall undertake further training to be specified by the Board or obtain further experience.
+(4) For the purpose of paragraph (3), a period of training of less than 5 years and a proportion of less than 60% of the time occupied during training on the performance of field work shall be regarded as insufficient.

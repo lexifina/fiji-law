@@ -1,0 +1,2 @@
+# reg 10 Proceedings to be confidential
+All applications for assistance, reports of regional committees and all proceedings of the Managing Committee and regional committees shall be treated as confidential and shall not, except so far as may be necessary for the efficient administration of the Fund, be published or otherwise disclosed to any person not concerned with the administration of the Fund.

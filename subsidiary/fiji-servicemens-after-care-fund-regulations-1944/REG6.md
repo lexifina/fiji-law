@@ -1,0 +1,2 @@
+# reg 6 Temporary members
+During the illness, incapacity or absence from Fiji of a chairperson or member of a regional committee the Minister or Managing Committee, as the case may be, may appoint any person to act as chairperson or member of such committee in his or her place for so long as the illness, incapacity or absence continues or until such chairperson or member otherwise ceases to be a chairperson or member of the regional committee.

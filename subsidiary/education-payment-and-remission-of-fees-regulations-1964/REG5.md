@@ -1,0 +1,7 @@
+# reg 5 Tuition fees payable in advance
+No pupil shall be admitted or readmitted to a Government school unless his or her tuition fees for that term are paid in full within 14 days from the opening day of term, provided that—
+(a)where a pupil has been granted partial remission, or a partly-free place, or where a proportion of his or her tuition fees is being met from some other source or sources, the balance of the annual tuition fees payable may, in cases where such assistance is equivalent to or greater than one term’s fees, be paid in equal instalments on or before the opening day of the second and third terms of the year in respect of which such balance is payable;
+(b)no primary school pupil whose application for remission of tuition fees is still under consideration on the opening day of term shall be refused admission solely on grounds of inability to pay the full fee for that term;
+(c)no tuition fees shall be payable in respect of a pupil provisionally admitted to the Lower Sixth Form of any Government school the provisional admission of which pupil is subsequently cancelled by reason of his or her failure to achieve an adequate standard of pass in the School Certificate examination;
+(d)the Permanent Secretary may, in exceptional circumstances, in his or her absolute discretion and subject to such conditions as he or she may see fit to impose, permit a pupil to be admitted or readmitted to a Government school on special terms as to payment of the tuition fees in respect of such pupil.
+[reg 5 am LN 79 of 1978 reg 2, effective 1 January 1979]

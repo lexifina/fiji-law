@@ -1,0 +1,4 @@
+# reg 7 Transfer of dairy
+(1) If the proprietor of a registered dairy desires to transfer his or her business to another person he or she shall apply to the Permanent Secretary for permission to make such transfer and the Permanent Secretary may approve, either absolutely or subject to such conditions as he or she may see fit to impose, or refuse permission for the transfer to take place.
+(2) If the transfer is approved absolutely, the transferee shall, on payment of the fee prescribed in the Schedule, be entitled to be registered as the proprietor of the dairy.
+(3) If the transfer is approved subject to conditions, the transferee shall upon observing and performing such conditions and upon payment of the fee prescribed in the Schedule, be entitled to be registered as the proprietor of the dairy.

@@ -1,0 +1,3 @@
+# reg 13 No infected person to be employed in dairy
+(1) No person having been exposed to infection or suffering, from any disease shall knowingly be employed or allowed to take part in the conduct of the trade or business of a dairyman until such time as such person shall have shown to the satisfaction of a medical officer of health that all danger of his or her communicating such infection has ceased.
+(2) The proprietor of a dairy shall immediately inform a medical officer of health in the event of any case of any disease affecting any person employed or residing in the dairy and the proprietor shall, in such event, and if required by the medical officer of health so to do, disclose to the medical officer of health particulars of the customers of the dairy.

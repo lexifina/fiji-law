@@ -1,0 +1,3 @@
+# reg 5 Suspension or cancellation of registration
+(1) When the Permanent Secretary is of the opinion that any dairy is not being maintained in accordance with any conditions imposed by him or her, he or she may order the suspension of the registration of such dairy until such time as the proprietor has complied with all such conditions to the satisfaction of the Permanent Secretary.
+(2) If the registered proprietor of a dairy is convicted of an offence against the provisions of these Regulations, the court recording the conviction may order the registration of such dairy to be cancelled or to be suspended for such period as the court may think fit and the Permanent Secretary may cause the necessary entries to be made in the register accordingly.

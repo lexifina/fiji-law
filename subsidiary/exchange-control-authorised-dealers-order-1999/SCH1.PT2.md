@@ -1,0 +1,3 @@
+# PART 2 AUTHORISED RESTRICTED DEALERS
+[Pt 2 am LN 139 of 1999 O 2, effective 26 November 1999; LN 31 of 2000 O 2, effective 24 March 2000; LN 37 of 2000 O 2, effective 14 April 2000; LN 119 of 2000 O 2, effective 17 November 2000; LN 23 of 2001 O 2, effective 20 April 2001; LN 63 of 2001 O 2, effective 15 June 2001; LN 72 of 2001 O 2, effective 31 August 2001; LN 33 of 2002 O 2, effective 31 May 2002; LN 45 of 2002 O 2, effective 2 August 2002]
+Exchange and Finance Pty (Fiji) LtdLodhias Travel Services LimitedSita World TravelThomas Cook Financial Services of the United KingdomGlobal Transfers LimitedExchange World (Fiji) LimitedCity Forex (Fiji) Propriety LimitedSandalwood Developments Limited

@@ -1,0 +1,3 @@
+# cl 6.
+Goods of an inflammable, explosive or dangerous nature to the shipment whereof the carrier, master or agent of the carrier, has not consented, with knowledge of their nature and character, may at any time before discharge be landed at any place or destroyed or rendered innocuous by the carrier without compensation, and the shipper of such goods shall be liable for all damages and expenses directly or indirectly arising out of or resulting from such shipment.
+If any such goods shipped with such knowledge and consent shall become a danger to the ship or cargo, they may in like manner be landed at any place or destroyed or rendered innocuous by the carrier without liability on the part of the carrier except to general average, if any.

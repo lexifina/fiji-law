@@ -1,0 +1,2 @@
+# cl 3.
+The shipper shall not be responsible for loss or damage sustained by the carrier or the ship arising or resulting from any cause without the act, fault or neglect of the shipper, his or her agents or his or her servants.

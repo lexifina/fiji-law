@@ -1,0 +1,2 @@
+# cl 5.
+The shipper shall be deemed to have guaranteed to the carrier the accuracy at the time of shipment of the marks, number, quantity and weight, as furnished by him or her, and the shipper shall indemnify the carrier against all loss, damages and expenses arising or resulting from inaccuracies in such particulars. The right of the carrier to such indemnity shall in no way limit his or her responsibility and liability under contract of carriage to any person other than the shipper.

@@ -1,0 +1,5 @@
+# cl 6.
+Unless notice of loss or damage and the general nature of such loss or damage be given in writing to the carrier or his or her agent at the port of discharge before or at the time of the removal of the goods into the custody of the person entitled to delivery thereof under the contract of carriage, or, if the loss or damage be not apparent, within 3 days, such removal shall be prima facie evidence of the delivery by the carrier of the goods as described in the bill of lading.
+The notice in writing need not be given if the state of the goods has at the time of their receipt been the subject of joint survey or inspection.
+In any event the carrier and the ship shall be discharged from all liability in respect of loss or damage unless suit is brought within one year after delivery of the goods or the date when the goods should have been delivered.
+In the case of any actual or apprehended loss or damage the carrier and the receiver shall give all reasonable facilities to each other for inspecting and tallying the goods.

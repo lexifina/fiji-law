@@ -1,0 +1,2 @@
+# cl 4.
+Any deviation in saving or attempting to save life or property at sea, or any reasonable deviation shall not be deemed to be an infringement or breach of these rules or of the contract of carriage, and the carrier shall not be liable for any loss or damage resulting therefrom.

@@ -1,0 +1,2 @@
+# reg 27 Burial to be without delay
+There shall be no delay in the burial of bodies after death from infectious disease. The District Officer or medical officer shall have power to order the immediate burial of bodies of persons who have died from infectious disease and to direct where such bodies shall be buried. Any person who, being responsible for the burial of any such body, refuses or neglects to comply with any such order as aforesaid shall be guilty of a breach of these Regulations.

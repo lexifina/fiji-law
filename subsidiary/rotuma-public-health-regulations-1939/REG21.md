@@ -1,0 +1,2 @@
+# reg 21 Isolation of person suffering from infectious disease
+The District Officer or medical officer shall have power to order the isolation or removal to hospital of persons suffering from any infectious disease and no person so isolated or removed to hospital shall leave or be taken from the place where he or she has been isolated or leave the hospital or be taken from it unless ordered to do so by the medical officer.

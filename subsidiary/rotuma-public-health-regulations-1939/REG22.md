@@ -1,0 +1,2 @@
+# reg 22 Isolation of person who has been in contact with infectious disease
+Any person who has been in contact with a person suffering from any infectious disease or who is known to have rendered himself or herself liable in any other way to infection by any infectious disease shall, if so ordered by the medical officer, remain in his or her town or in such place as the medical officer may direct for such period not exceeding 14 days as the medical officer may direct.

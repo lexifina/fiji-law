@@ -1,0 +1,2 @@
+# reg 16 Mosquito control
+Every occupier of premises on which is situated any barrel, tank or cistern, or other receptacle for the collection or storage of water shall fit such receptacle with a sufficient cover or screen so as to prevent the ingress of mosquitoes and shall at all times maintain the said barrel, tank, cistern or other receptacle in a clean condition to the satisfaction of the District Officer or medical officer.

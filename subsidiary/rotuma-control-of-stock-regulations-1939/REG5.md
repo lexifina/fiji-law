@@ -1,0 +1,3 @@
+# reg 5 Restriction on keeping of pigs
+All pigs shall be kept within fences not less than 4 feet high. No enclosure for keeping pigs shall, with effect from 1 January 1965, be built within 200 yards of any dwelling. Any person erecting a pig fence within 200 yards of any dwelling may be ordered to remove the same by the District Officer and in addition shall be liable to any fine or penalty provided in these Regulations. It shall be the duty of any person owning pigs to ensure the cleanliness of the pens and good condition of the fences. Each pen shall have a suitable shed for shelter.
+[reg 5 am LN 33 of 1961 reg 2, effective 21 April 1961; LN 110 of 1964 reg 2, effective 13 November 1964]

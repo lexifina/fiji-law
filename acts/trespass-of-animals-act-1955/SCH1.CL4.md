@@ -1,0 +1,2 @@
+# cl 4
+A substantial wire fence having not less than 3 wires tightly stretched or 2 wires with a top rail or barbed-wire with or without battens or lacing affixed to the wires between the posts or standards, the posts or standards to be of durable wood, concrete or iron, well and substantially erected and not more than 3.5 m apart, the top wire not to be less than 1,150 mm from the surface of the ground, the wires to be not lighter than No 8 in steel or black or galvanised iron.

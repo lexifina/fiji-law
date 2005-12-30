@@ -1,0 +1,2 @@
+# reg 8 Relaxation of provisions in the approved town planning scheme
+A fee of $168 is payable for any application seeking any major relaxation or dispensations from the provisions in a Town Planning Scheme. A major relaxation constitutes invoking of Provisions 7(a), (b) and (c) of the General Provisions (1999) under the Town Planning Act 1946 or other approved Town Planning Scheme General Provisions in respect of a city or town.

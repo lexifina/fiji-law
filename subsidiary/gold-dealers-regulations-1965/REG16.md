@@ -1,0 +1,2 @@
+# reg 16 Yearly return by gold dealer
+Every bank, by some responsible officer thereof, and every gold dealer other than a bank, shall during the months of January in each year forward to the Minister a return in accordance with Form 11 in Schedule 1, under the hand of such officer or dealer, setting forth the particulars therein mentioned for the year ending on the last day of the preceding month.

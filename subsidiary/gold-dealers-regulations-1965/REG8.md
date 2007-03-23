@@ -1,0 +1,2 @@
+# reg 8 Form of gold dealer's book
+The gold dealer's book kept at the registered place of business of every gold dealer, and at every branch of an incorporated bank holding a gold dealer's licence at which gold dealing is carried on, shall be in Form 6 in Schedule 1. Every licensee shall personally conduct and carry out every transaction relating to the purchase or sale of gold, and shall, after every purchase or sale has been effected, forthwith record in his or her gold dealer's book the prescribed particulars of the transaction.

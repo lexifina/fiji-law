@@ -1,0 +1,2 @@
+# reg 9 Returns to be forwarded to Minister
+On or before the tenth day of each month every licensed gold dealer and the manager at any branch of an incorporated bank holding a gold dealer's licence shall forward to the Minister a return in accordance with Form 7 in Schedule 1 containing the particulars therein prescribed with regard to every transaction relating to gold undertaken by him or her or by his or her bank during the preceding month.

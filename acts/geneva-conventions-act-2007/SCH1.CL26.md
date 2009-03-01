@@ -1,0 +1,3 @@
+# cl Art 26.
+The staff of National Red Cross Societies and that of other Voluntary Aid Societies, duly recognized and authorized by their Governments, who may be employed on the same duties as the personnel named in Article 24, are placed on the same footing as the personnel named in the said Article, provided that the staff of such societies are subject to military laws and regulations.
+Each High Contracting Party shall notify to the other, either in time of peace or at the commencement of or during hostilities, but in any case before actually employing them, the names of the societies which it has authorized, under its responsibility, to render assistance to the regular medical service of its armed forces.

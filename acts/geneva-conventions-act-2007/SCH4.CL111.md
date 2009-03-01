@@ -1,0 +1,7 @@
+# cl Art 111.
+Should military operations prevent the Powers concerned from fulfilling their obligation to ensure the conveyance of the mail and relief shipments provided for in Articles 106, 107, 108 and 113, the Protecting Powers concerned, the International Committee of the Red Cross or any other organization duly approved by the Parties to the conflict may undertake the conveyance of such shipments by suitable means (rail, motor vehicles, vessels or aircraft, etc). For this purpose, the High Contracting Parties shall endeavour to supply them with such transport, and to allow its circulation, especially by granting the necessary safe-conducts.
+Such transport may also be used to convey:
+(a)correspondence, lists and reports exchanged between the Central Information Agency referred to in Article 140 and the National Bureaux referred to in Article 136;
+(b)correspondence and reports relating to internees which the Protecting Powers, the International Committee of the Red Cross or any other organization assisting the internees exchange either with their own delegates or with the Parties to the conflict.
+These provisions in no way detract from the right of any Party to the conflict to arrange other means of transport if it should so prefer, nor preclude the granting of safe-conducts, under mutually agreed conditions, to such means of transport.
+The costs occasioned by the use of such means of transport shall be borne, in proportion to the importance of the shipments, by the Parties to the conflict whose nationals are benefited thereby.

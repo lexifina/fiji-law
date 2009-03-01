@@ -1,0 +1,7 @@
+# cl Art 118.
+Prisoners of war shall be released and repatriated without delay after the cessation of active hostilities.
+In the absence of stipulations to the above effect in any agreement concluded between the Parties to the conflict with a view to the cessation of hostilities, or failing any such agreement, each of the Detaining Powers shall itself establish and execute without delay a plan of repatriation in conformity with the principle laid down in the foregoing paragraph.
+In either case, the measures adopted shall be brought to the knowledge of the prisoners of war.
+The costs of repatriation of prisoners of war shall in all cases be equitably apportioned between the Detaining Power and the Power on which the prisoners depend. This apportionment shall be carried out on the following basis:
+(a)If the two Powers are contiguous, the Power on which the prisoners of war depend shall bear the costs of repatriation from the frontiers of the Detaining Power.
+(b)If the two Powers are not contiguous, the Detaining Power shall bear the costs of transport of prisoners of war over its own territory as far as its frontier or its port of embarkation nearest to the territory of the Power on which the prisoners of war depend. The Parties concerned shall agree between themselves as to the equitable apportionment of the remaining costs of the repatriation. The conclusion of this agreement shall in no circumstances justify any delay in the repatriation of the prisoners of war.

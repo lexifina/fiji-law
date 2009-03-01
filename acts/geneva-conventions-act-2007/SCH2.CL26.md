@@ -1,0 +1,2 @@
+# cl Art 26.
+The protection mentioned in Articles 22, 24 and 25 shall apply to hospital ships of any tonnage and to their lifeboats, wherever they are operating. Nevertheless, to ensure the maximum comfort and security, the Parties to the conflict shall endeavour to utilize, for the transport of wounded, sick and shipwrecked over long distances and on the high seas, only hospital ships of over 2,000 tons gross.

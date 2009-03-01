@@ -1,0 +1,6 @@
+## CHAPTER VIII. REPRESSION OF ABUSES AND INFRACTIONS
+# cl Art 50.
+The High Contracting Parties undertake to enact any legislation necessary to provide effective penal sanctions for persons committing, or ordering to be committed, any of the grave breaches of the present Convention defined in the following Article.
+Each High Contracting Party shall be under the obligation to search for persons alleged to have committed, or to have ordered to be committed, such grave breaches, and shall bring such persons, regardless of their nationality, before its own courts. It may also, if it prefers, and in accordance with the provisions of its own legislation, hand such persons over for trial to another High Contracting Party concerned, provided such High Contracting Party has made out a prima facie case.
+Each High Contracting Party shall take measures necessary for the suppression of all acts contrary to the provisions of the present Convention other than the grave breaches defined in the following Article.
+In all circumstances, the accused persons shall benefit by safeguards of proper trial and defence, which shall not be less favourable than those provided by Article 105 and those following of the Geneva Convention relative to the Treatment of Prisoners of War of 12 August 1949.

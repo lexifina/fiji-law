@@ -1,0 +1,5 @@
+# cl Art 87.
+Prisoners of war may not be sentenced by the military authorities and courts of the Detaining Power to any penalties except those provided for in respect of members of the armed forces of the said Power who have committed the same acts.
+When fixing the penalty, the courts or authorities of the Detaining Power shall take into consideration, to the widest extent possible, the fact that the accused, not being a national of the Detaining Power, is not bound to it by any duty of allegiance, and that he is in its power as the result of circumstances independent of his own will. The said courts or authorities shall be at liberty to reduce the penalty provided for the violation of which the prisoner of war is accused, and shall therefore not be bound to apply the minimum penalty prescribed.
+Collective punishment for individual acts, corporal punishment, imprisonment in premises without daylight and, in general, any form of torture or cruelty, are forbidden.
+No prisoner of war may be deprived of his rank by the Detaining Power, or prevented from wearing his badges.

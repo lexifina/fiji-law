@@ -1,0 +1,4 @@
+# cl Art 103.
+Judicial investigations relating to a prisoner of war shall be conducted as rapidly as circumstances permit and so that his trial shall take place as soon as possible. A prisoner of war shall not be confined while awaiting trial unless a member of the armed forces of the Detaining Power would be so confined if he were accused of a similar offence, or if it is essential to do so in the interests of national security. In no circumstances shall this confinement exceed three months.
+Any period spent by a prisoner of war in confinement awaiting trial shall be deducted from any sentence of imprisonment passed upon him and taken into account in fixing any penalty.
+The provisions of Articles 97 and 98 of this Chapter shall apply to a prisoner of war whilst in confinement awaiting trial.

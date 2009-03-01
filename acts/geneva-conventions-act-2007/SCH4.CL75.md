@@ -1,0 +1,4 @@
+# cl Art 75.
+In no case shall persons condemned to death be deprived of the right of petition for pardon or reprieve.
+No death sentence shall be carried out before the expiration of a period of a least six months from the date of receipt by the Protecting Power of the notification of the final judgment confirming such death sentence, or of an order denying pardon or reprieve.
+The six months period of suspension of the death sentence herein prescribed may be reduced in individual cases in circumstances of grave emergency involving an organized threat to the security of the Occupying Power or its forces, provided always that the Protecting Power is notified of such reduction and is given reasonable time and opportunity to make representations to the competent occupying authorities in respect of such death sentences.

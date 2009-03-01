@@ -1,0 +1,2 @@
+# cl Art 14.
+All warships of a belligerent Party shall have the right to demand that the wounded, sick or shipwrecked on board military hospital ships, and hospital ships belonging to relief societies or to private individuals, as well as merchant vessels, yachts and other craft shall be surrendered, whatever their nationality, provided that the wounded and sick are in a fit state to be moved and that the warship can provide adequate facilities for necessary medical treatment.

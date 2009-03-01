@@ -1,0 +1,2 @@
+# cl Art 16.
+Taking into consideration the provisions of the present Convention relating to rank and sex, and subject to any privileged treatment which may be accorded to them by reason of their state of health, age or professional qualifications, all prisoners of war shall be treated alike by the Detaining Power, without any adverse distinction based on race, nationality, religious belief or political opinions, or any other distinction founded on similar criteria.

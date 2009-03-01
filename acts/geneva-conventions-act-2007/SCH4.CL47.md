@@ -1,0 +1,2 @@
+# cl Art 47.
+Protected persons who are in occupied territory shall not be deprived, in any case or in any manner whatsoever, of the benefits of the present Convention by any change introduced, as the result of the occupation of a territory, into the institutions or government of the said territory, nor by any agreement concluded between the authorities of the occupied territories and the Occupying Power, nor by any annexation by the latter of the whole or part of the occupied territory.

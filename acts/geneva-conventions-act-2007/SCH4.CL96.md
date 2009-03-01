@@ -1,0 +1,3 @@
+# cl Art 96.
+All labour detachments shall remain part of and dependent upon a place of internment. The competent authorities of the Detaining Power and the commandant of a place of internment shall be responsible for the observance in a labour detachment of the provisions of the present Convention. The commandant shall keep an up-to-date list of the labour detachments subordinate to him and shall communicate it to the delegates of the Protecting Power, of the International Committee of the Red Cross and of other humanitarian organizations who may visit the places of internment.
+CHAPTER VI — PERSONAL PROPERTY AND FINANCIAL RESOURCES

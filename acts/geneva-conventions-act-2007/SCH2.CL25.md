@@ -1,0 +1,2 @@
+# cl Art 25.
+Hospital ships utilized by National Red Cross Societies, officially recognized relief societies, or private persons of neutral countries shall have the same protection as military hospital ships and shall be exempt from capture, on condition that they have placed themselves under the control of one of the Parties to the conflict, with the previous consent of their own governments and with the authorization of the Party to the conflict concerned, in so far as the provisions of Article 22 concerning notification have been complied with.

@@ -1,0 +1,9 @@
+# cl Art 65.
+Cessation of protection
+1. The protection to which civilian civil defence organizations, their personnel, buildings, shelters and matériel are entitled shall not cease unless they commit or are used to commit, outside their proper tasks, acts harmful to the enemy. Protection may, however, cease only after a warning has been given setting, whenever appropriate, a reasonable time limit, and after such warning has remained unheeded.
+2. The following shall not be considered as acts harmful to the enemy:
+(a)that civil defence tasks are carried out under the direction or control of military authorities;
+(b)that civilian civil defence personnel co-operate with military personnel in the performance of civil defence tasks, or that some military personnel are attached to civilian civil defence organizations;
+(c)that the performance of civil defence tasks may incidentally benefit military victims, particularly those who are hors de combat.
+3. It shall also not be considered as an act harmful to the enemy that civilian civil defence personnel bear light individual weapons for the purpose of maintaining order or for self-defence. However, in areas where land fighting is taking place or is likely to take place, the Parties to the conflict shall undertake the appropriate measures to limit these weapons to handguns, such as pistols or revolvers, in order to assist in distinguishing between civil defence personnel and combatants. Although civil defence personnel bear other light individual weapons in such areas, they shall nevertheless be respected and protected as soon as they have been recognized as such.
+4. The formation of civilian civil defence organizations along military lines, and compulsory service in them, shall also not deprive them of the protection conferred by this Chapter.

@@ -1,0 +1,3 @@
+# cl Art 144.
+The High Contracting Parties undertake, in time of peace as in time of war, to disseminate the text of the present Convention as widely as possible in their respective countries, and, in particular, to include the study thereof in their programmes of military and, if possible, civil instruction, so that the principles thereof may become known to the entire population.
+Any civilian, military, police or other authorities, who in time of war assume responsibilities in respect of protected persons, must possess the text of the Convention and be specially instructed as to its provisions.

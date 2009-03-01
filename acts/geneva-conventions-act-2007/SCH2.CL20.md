@@ -1,0 +1,3 @@
+# cl Art 20.
+Parties to the conflict shall ensure that burial at sea of the dead, carried out individually as far as circumstances permit, is preceded by a careful examination, if possible by a medical examination, of the bodies, with a view to confirming death, establishing identity and enabling a report to be made. Where a double identity disc is used, one half of the disc should remain on the body.
+If dead persons are landed, the provisions of the Geneva Convention for the Amelioration of the Condition of the Wounded and Sick in Armed Forces in the Field of 12 August 1949 shall be applicable.

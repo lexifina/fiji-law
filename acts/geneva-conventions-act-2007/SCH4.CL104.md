@@ -1,0 +1,6 @@
+# cl Art 104.
+Members of Internee Committees shall not be required to perform any other work, if the accomplishment of their duties is rendered more difficult thereby.
+Members of Internee Committees may appoint from amongst the internees such assistants as they may require. All material facilities shall be granted to them, particularly a certain freedom of movement necessary for the accomplishment of their duties (visits to labour detachments, receipt of supplies, etc).
+All facilities shall likewise be accorded to members of Internee Committees for communication by post and telegraph with the detaining authorities, the Protecting Powers, the International Committee of the Red Cross and their delegates, and with the organizations which give assistance to internees. Committee members in labour detachments shall enjoy similar facilities for communication with their Internee Committee in the principal place of internment. Such communications shall not be limited, nor considered as forming a part of the quota mentioned in Article 107.
+Members of Internee Committees who are transferred shall be allowed a reasonable time to acquaint their successors with current affairs.
+CHAPTER VIII — RELATIONS WITH THE EXTERIOR

@@ -1,0 +1,7 @@
+# cl Art 75.
+Should military operations prevent the Powers concerned from fulfilling their obligation to assure the transport of the shipments referred to in Articles 70, 71, 72 and 77, the Protecting Powers concerned, the International Committee of the Red Cross or any other organization duly approved by the Parties to the conflict may undertake to ensure the conveyance of such shipments by suitable means (railway wagons, motor vehicles, vessels or aircraft, etc). For this purpose, the High Contracting Parties shall endeavour to supply them with such transport and to allow its circulation, especially by granting the necessary safe-conducts.
+Such transport may also be used to convey:
+(a)correspondence, lists and reports exchanged between the Central Information Agency referred to in Article 123 and the National Bureaux referred to in Article 122;
+(b)correspondence and reports relating to prisoners of war which the Protecting Powers, the International Committee of the Red Cross or any other body assisting the prisoners, exchange either with their own delegates or with the Parties to the conflict.
+These provisions in no way detract from the right of any Party to the conflict to arrange other means of transport, if it should so prefer, nor preclude the granting of safe-conducts, under mutually agreed conditions, to such means of transport.
+In the absence of special agreements, the costs occasioned by the use of such means of transport shall be borne proportionally by the Parties to the conflict whose nationals are benefited thereby.

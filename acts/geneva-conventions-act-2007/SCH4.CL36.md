@@ -1,0 +1,3 @@
+# cl Art 36.
+Departures permitted under the foregoing Article shall be carried out in satisfactory conditions as regards safety, hygiene, sanitation and food. All costs in connection therewith, from the point of exit in the territory of the Detaining Power, shall be borne by the country of destination, or, in the case of accommodation in a neutral country, by the Power whose nationals are benefited. The practical details of such movements may, if necessary, be settled by special agreements between the Powers concerned.
+The foregoing shall not prejudice such special agreements as may be concluded between Parties to the conflict concerning the exchange and repatriation of their nationals in enemy hands.

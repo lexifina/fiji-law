@@ -1,0 +1,7 @@
+# cl Art 2.
+Definitions
+For the purposes of this Protocol
+(a)“First Convention”, “Second Convention”, “Third Convention” and “Fourth Convention” mean, respectively, the Geneva Convention for the Amelioration of the Condition of the Wounded and Sick in Armed Forces in the Field of 12 August 1949; the Geneva Convention for the Amelioration of the Condition of Wounded, Sick and Ship-wrecked Members of Armed Forces at Sea of 12 August 1949; the Geneva Convention relative to the Treatment of Prisoners of War of 12 August 1949; the Geneva Convention relative to the Protection of Civilian Persons in Time of War of 12 August 1949; “the Conventions” means the four Geneva Conventions of 12 August 1949 for the protection of war victims;
+(b)“Rules of international law applicable in armed conflict” means the rules applicable in armed conflict set forth in international agreements to which the Parties to the conflict are Parties and the generally recognized principles and rules of international law which are applicable to armed conflict;
+(c)“Protecting Power” means a neutral or other State not a Party to the conflict which has been designated by a Party to the conflict and accepted by the adverse Party and has agreed to carry out the functions assigned to a Protecting Power under the Conventions and this Protocol;
+(d)“Substitute” means an organization acting in place of a Protecting Power in accordance with Article 5.

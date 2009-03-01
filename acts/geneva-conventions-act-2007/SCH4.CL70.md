@@ -1,0 +1,3 @@
+# cl Art 70.
+Protected persons shall not be arrested, prosecuted or convicted by the Occupying Power for acts committed or for opinions expressed before the occupation, or during a temporary interruption thereof, with the exception of breaches of the laws and customs of war.
+Nationals of the occupying Power who, before the outbreak of hostilities, have sought refuge in the territory of the occupied State, shall not be arrested, prosecuted, convicted or deported from the occupied territory, except for offences committed after the outbreak of hostilities, or for offences under common law committed before the outbreak of hostilities which, according to the law of the occupied State, would have justified extradition in time of peace.

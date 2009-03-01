@@ -1,0 +1,2 @@
+# cl Art 61.
+The Detaining Power shall accept for distribution as supplementary pay to prisoners of war sums which the Power on which the prisoners depend may forward to them, on condition that the sums to be paid shall be the same for each prisoner of the same category, shall be payable to all prisoners of that category depending on that Power, and shall be placed in their separate accounts, at the earliest opportunity, in accordance with the provisions of Article 64. Such supplementary pay shall not relieve the Detaining Power of any obligation under this Convention.

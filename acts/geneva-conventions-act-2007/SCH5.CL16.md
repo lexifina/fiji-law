@@ -1,0 +1,5 @@
+# cl Art 16.
+General protection of medical duties
+1. Under no circumstances shall any person be punished for carrying out medical activities compatible with medical ethics, regardless of the person benefiting therefrom.
+2. Persons engaged in medical activities shall not be compelled to perform acts or to carry out work contrary to the rules of medical ethics or to other medical rules designed for the benefit of the wounded and sick or to the provisions of the Conventions or of this Protocol, or to refrain from performing acts or from carrying out work required by those rules and provisions.
+3. No person engaged in medical activities shall be compelled to give to anyone belonging either to an adverse Party, or to his own Party except as required by the law of the latter Party, any information concerning the wounded and sick who are, or who have been, under his care, if such information would, in his opinion, prove harmful to the patients concerned or to their families. Regulations for the compulsory notification of communicable diseases shall, however, be respected.

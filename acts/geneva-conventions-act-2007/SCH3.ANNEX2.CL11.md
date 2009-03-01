@@ -1,0 +1,2 @@
+# cl Art 11.
+The decisions made by the Mixed Medical Commissions in each specific case shall be communicated, during the month following their visit, to the Detaining Power, the Protecting Power and the International Committee of the Red Cross. The Mixed Medical Commissions shall also inform each prisoner of war examined of the decision made, and shall issue to those whose repatriation has been proposed, certificates similar to the model appended to the present Convention.

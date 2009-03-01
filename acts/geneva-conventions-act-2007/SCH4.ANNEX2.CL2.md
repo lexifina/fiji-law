@@ -1,0 +1,2 @@
+# cl Art 2.
+The distribution of collective relief shipments shall be effected in accordance with the instructions of the donors and with a plan drawn up by the Internee Committees. The issue of medical stores shall, however, be made for preference in agreement with the senior medical officers, and the latter may, in hospitals and infirmaries, waive the said instructions, if the needs of their patients so demand. Within the limits thus defined, the distribution shall always be carried out equitably.

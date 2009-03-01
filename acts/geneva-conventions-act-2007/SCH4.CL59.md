@@ -1,0 +1,5 @@
+# cl Art 59.
+If the whole or part of the population of an occupied territory is inadequately supplied, the Occupying Power shall agree to relief schemes on behalf of the said population, and shall facilitate them by all the means at its disposal.
+Such schemes, which may be undertaken either by States or by impartial humanitarian organizations such as the International Committee of the Red Cross, shall consist, in particular, of the provision of consignments of foodstuffs, medical supplies and clothing.
+All Contracting Parties shall permit the free passage of these consignments and shall guarantee their protection.
+A Power granting free passage to consignments on their way to territory occupied by an adverse Party to the conflict shall, however, have the right to search the consignments, to regulate their passage according to prescribed times and routes, and to be reasonably satisfied through the Protecting Power that these consignments are to be used for the relief of the needy population and are not to be used for the benefit of the Occupying Power.

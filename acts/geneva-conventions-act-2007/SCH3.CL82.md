@@ -1,0 +1,3 @@
+# cl Art 82.
+A prisoner of war shall be subject to the laws, regulations and orders in force in the armed forces of the Detaining Power; the Detaining Power shall be justified in taking judicial or disciplinary measures in respect of any offence committed by a prisoner of war against such laws, regulations or orders. However, no proceedings or punishments contrary to the provisions of this Chapter shall be allowed.
+If any law, regulation or order of the Detaining Power shall declare acts committed by a prisoner of war to be punishable, whereas the same acts would not be punishable if committed by a member of the forces of the Detaining Power, such acts shall entail disciplinary punishments only.

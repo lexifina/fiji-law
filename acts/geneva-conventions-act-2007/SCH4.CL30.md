@@ -1,0 +1,4 @@
+# cl Art 30.
+Protected persons shall have every facility for making application to the Protecting Powers, the International Committee of the Red Cross, the National Red Cross (Red Crescent, Red Lion and Sun) Society of the country where they may be, as well as to any organization that might assist them.
+These several organizations shall be granted all facilities for that purpose by the authorities, within the bounds set by military or security considerations.
+Apart from the visits of the delegates of the Protecting Powers and of the International Committee of the Red Cross, provided for by Article 143, the Detaining or Occupying Powers shall facilitate, as much as possible, visits to protected persons by the representatives of other organizations whose object is to give spiritual aid or material relief to such persons.

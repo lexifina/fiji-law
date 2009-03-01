@@ -1,0 +1,4 @@
+# cl Art 61.
+The distribution of the relief consignments referred to in the foregoing Articles shall be carried out with the cooperation and under the supervision of the Protecting Power. This duty may also be delegated, by agreement between the Occupying Power and the Protecting Power, to a neutral Power, to the International Committee of the Red Cross or to any other impartial humanitarian body.
+Such consignments shall be exempt in occupied territory from all charges, taxes or customs duties unless these are necessary in the interests of the economy of the territory. The Occupying Power shall facilitate the rapid distribution of these consignments.
+All Contracting Parties shall endeavour to permit the transit and transport, free of charge, of such relief consignments on their way to occupied territories.

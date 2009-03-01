@@ -1,0 +1,4 @@
+# cl Art 73.
+In the absence of special agreements between the Powers concerned on the conditions for the receipt and distribution of collective relief shipments, the rules and regulations concerning collective shipments, which are annexed to the present Convention, shall be applied.
+The special agreements referred to above shall in no case restrict the right of prisoners’ representatives to take possession of collective relief shipments intended for prisoners of war, to proceed to their distribution or to dispose of them in the interest of the prisoners.
+Nor shall such agreements restrict the right of representatives of the Protecting Power, the International Committee of the Red Cross or any other organization giving assistance to prisoners of war and responsible for the forwarding of collective shipments, to supervise their distribution to the recipients.

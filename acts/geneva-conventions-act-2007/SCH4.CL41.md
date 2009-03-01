@@ -1,0 +1,3 @@
+# cl Art 41.
+Should the Power, in whose hands protected persons may be, consider the measures of control mentioned in the present Convention to be inadequate, it may not have recourse to any other measure of control more severe than that of assigned residence or internment, in accordance with the provisions of Articles 42 and 43.
+In applying the provisions of Article 39, second paragraph, to the cases of persons required to leave their usual places of residence by virtue of a decision placing them in assigned residence elsewhere, the Detaining Power shall be guided as closely as possible by the standards of welfare set forth in Part III, Section IV of this Convention.

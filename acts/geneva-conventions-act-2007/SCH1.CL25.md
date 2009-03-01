@@ -1,0 +1,2 @@
+# cl Art 25.
+Members of the armed forces specially trained for employment, should the need arise, as hospital orderlies, nurses or auxiliary stretcher-bearers, in the search for or the collection, transport or treatment of the wounded and sick shall likewise be respected and protected if they are carrying out these duties at the time when they come into contact with the enemy or fall into his hands.

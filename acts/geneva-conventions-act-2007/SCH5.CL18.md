@@ -1,0 +1,10 @@
+# cl Art 18.
+Identification
+1. Each Party to the conflict shall endeavour to ensure that medical and religious personnel and medical units and transports are identifiable.
+2. Each Party to the conflict shall also endeavour to adopt and to implement methods and procedures which will make it possible to recognize medical units and transports which use the distinctive emblem and distinctive signals.
+3. In occupied territory and in areas where fighting is taking place or is likely to take place, civilian medical personnel and civilian religious personnel should be recognizable by the distinctive emblem and an identity card certifying their status.
+4. With the consent of the competent authority, medical units and transports shall be marked by the distinctive emblem. The ships and craft referred to in Article 22 of this Protocol shall be marked in accordance with the provisions of the Second Convention.
+5. In addition to the distinctive emblem, a Party to the conflict may, as provided in Chapter III of Annex 1 to this Protocol, authorize the use of distinctive signals to identify medical units and transports. Exceptionally, in the special cases covered in that Chapter, medical transports may use distinctive signals without displaying the distinctive emblem.
+6. The application of the provisions of paragraphs 1 to 5 of this article is governed by Chapters I to III of Annex 1 to this Protocol. Signals designated in Chapter III of the Annex for the exclusive use of medical units and transports shall not, except as provided therein, be used for any purpose other than to identify the medical units and transports specified in that Chapter.
+7. This article does not authorize any wider use of the distinctive emblem in peacetime than is prescribed in Article 44 of the First Convention.
+8. The provisions of the Conventions and of this Protocol relating to supervision of the use of the distinctive emblem and to the prevention and repression of any misuse thereof shall be applicable to distinctive signals.

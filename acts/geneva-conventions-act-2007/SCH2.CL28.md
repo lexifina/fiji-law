@@ -1,0 +1,2 @@
+# cl Art 28.
+Should fighting occur on board a warship, the sick-bays shall be respected and spared as far as possible. Sick-bays and their equipment shall remain subject to the laws of warfare, but may not be diverted from their purpose so long as they are required for the wounded and sick. Nevertheless, the commander into whose power they have fallen may, after ensuring the proper care of the wounded and sick who are accommodated therein, apply them to other purposes in case of urgent military necessity.

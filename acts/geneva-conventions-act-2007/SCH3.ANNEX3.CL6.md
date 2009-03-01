@@ -1,0 +1,2 @@
+# cl Art 6.
+In order to secure the regular issue of collective relief to the prisoners of war in their camp, and to meet any needs that may arise from the arrival of new contingents of prisoners, prisoners’ representatives shall be allowed to build up and maintain adequate reserve stocks of collective relief. For this purpose, they shall have suitable warehouses at their disposal; each warehouse shall be provided with two locks, the prisoners’ representative holding the keys of one lock and the camp commander the keys of the other.

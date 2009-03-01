@@ -1,0 +1,5 @@
+# cl Art 23.
+No prisoner of war may at any time be sent to, or detained in areas where he may be exposed to the fire of the combat zone, nor may his presence be used to render certain points or areas immune from military operations.
+Prisoners of war shall have shelters against air bombardment and other hazards of war, to the same extent as the local civilian population. With the exception of those engaged in the protection of their quarters against the aforesaid hazards, they may enter such shelters as soon as possible after the giving of the alarm. Any other protective measure taken in favour of the population shall also apply to them.
+Detaining Powers shall give the Powers concerned, through the intermediary of the Protecting Powers, all useful information regarding the geographical location of prisoner of war camps.
+Whenever military considerations permit, prisoner of war camps shall be indicated in the day-time by the letters PW or PG, placed so as to be clearly visible from the air. The Powers concerned may, however, agree upon any other system of marking. Only prisoner of war camps shall be marked as such.

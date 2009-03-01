@@ -1,0 +1,7 @@
+# cl Art 49.
+Individual or mass forcible transfers, as well as deportations of protected persons from occupied territory to the territory of the Occupying Power or to that of any other country, occupied or not, are prohibited, regardless of their motive.
+Nevertheless, the Occupying Power may undertake total or partial evacuation of a given area if the security of the population or imperative military reasons so demand. Such evacuations may not involve the displacement of protected persons outside the bounds of the occupied territory except when for material reasons it is impossible to avoid such displacement. Persons thus evacuated shall be transferred back to their homes as soon as hostilities in the area in question have ceased.
+The Occupying Power undertaking such transfers or evacuations shall ensure, to the greatest practicable extent, that proper accommodation is provided to receive the protected persons, that the removals are effected in satisfactory conditions of hygiene, health, safety and nutrition, and that members of the same family are not separated.
+The Protecting Power shall be informed of any transfers and evacuations as soon as they have taken place.
+The Occupying Power shall not detain protected persons in an area particularly exposed to the dangers of war unless the security of the population or imperative military reasons so demand.
+The Occupying Power shall not deport or transfer parts of its own civilian population into the territory it occupies.

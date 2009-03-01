@@ -1,0 +1,2 @@
+# cl Art 5.
+Prisoners’ representatives shall be allowed to fill up, and cause to be filled up by the prisoners’ representatives of labour detachments or by the senior medical officers of infirmaries and hospitals, forms or questionnaires intended for the donors, relating to collective relief supplies (distribution, requirements, quantities, etc). Such forms and questionnaires, duly completed, shall be forwarded to the donors without delay.

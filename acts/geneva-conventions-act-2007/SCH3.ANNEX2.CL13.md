@@ -1,0 +1,2 @@
+# cl Art 13.
+If there is no neutral physician in a country where the services of a Mixed Medical Commission seem to be required, and if it is for any reason impossible to appoint neutral doctors who are resident in another country, the Detaining Power, acting in agreement with the Protecting Power, shall set up a Medical Commission which shall undertake the same duties as a Mixed Medical Commission, subject to the provisions of Articles 1, 2, 3, 4, 5 and 8 of the present Regulations.

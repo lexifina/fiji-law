@@ -1,0 +1,3 @@
+# cl Art 32.
+Prisoners of war who, though not attached to the medical service of their armed forces, are physicians, surgeons, dentists, nurses or medical orderlies, may be required by the Detaining Power to exercise their medical functions in the interests of prisoners of war dependent on the same Power. In that case they shall continue to be prisoners of war, but shall receive the same treatment as corresponding medical personnel retained by the Detaining Power. They shall be exempted from any other work under Article 49.
+CHAPTER IV — MEDICAL PERSONNEL AND CHAPLAINS RETAINED TO ASSIST PRISONERS OF WAR

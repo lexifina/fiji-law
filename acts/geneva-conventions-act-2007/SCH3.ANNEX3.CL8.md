@@ -1,0 +1,2 @@
+# cl Art 8.
+The High Contracting Parties, and the Detaining Powers in particular, shall authorize, as far as possible and subject to the regulations governing the supply of the population, all purchases of goods made in their territories for the distribution of collective relief to prisoners of war. They shall similarly facilitate the transfer of funds and other financial measures of a technical or administrative nature taken for the purpose of making such purchases.

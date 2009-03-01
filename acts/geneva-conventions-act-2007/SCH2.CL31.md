@@ -1,0 +1,5 @@
+# cl Art 31.
+The Parties to the conflict shall have the right to control and search the vessels mentioned in Articles 22, 24, 25 and 27. They can refuse assistance from these vessels, order them off, make them take a certain course, control the use of their wireless and other means of communication, and even detain them for a period not exceeding seven days from the time of interception, if the gravity of the circumstances so requires.
+They may put a commissioner temporarily on board whose sole task shall be to see that orders given in virtue of the provisions of the preceding paragraph are carried out.
+As far as possible, the Parties to the conflict shall enter in the log of the hospital ship in a language he can understand, the orders they have given the captain of the vessel.
+Parties to the conflict may, either unilaterally or by particular agreements, put on board their ships neutral observers who shall verify the strict observation of the provisions contained in the present Convention.

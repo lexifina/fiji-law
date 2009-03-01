@@ -1,0 +1,5 @@
+## PART II. GENERAL PROTECTION OF PRISONERS OF WAR
+# cl Art 12.
+Prisoners of war are in the hands of the enemy Power, but not of the individuals or military units who have captured them. Irrespective of the individual responsibilities that may exist, the Detaining Power is responsible for the treatment given to them.
+Prisoners of war may only be transferred by the Detaining Power to a Power which is a party to the Convention and after the Detaining Power has satisfied itself of the willingness and ability of such transferee Power to apply the Convention. When prisoners of war are transferred under such circumstances, responsibility for the application of the Convention rests on the Power accepting them while they are in its custody.
+Nevertheless, if that Power fails to carry out the provisions of the Convention in any important respect, the Power by whom the prisoners of war were transferred shall, upon being notified by the Protecting Power, take effective measures to correct the situation or shall request the return of the prisoners of war. Such requests must be complied with.

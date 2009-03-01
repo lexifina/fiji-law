@@ -1,0 +1,10 @@
+# cl Art 47.
+Mercenaries
+1. A mercenary shall not have the right to be a combatant or a prisoner of war.
+2. A mercenary is any person who:
+(a)is specially recruited locally or abroad in order to fight in an armed conflict;
+(b)does, in fact, take a direct part in the hostilities;
+(c)is motivated to take part in the hostilities essentially by the desire for private gain and, in fact, is promised, by or on behalf of a Party to the conflict, material compensation substantially in excess of that promised or paid to combatants of similar ranks and functions in the armed forces of that Party;
+(d)is neither a national of a Party to the conflict nor a resident of territory controlled by a Party to the conflict;
+(e)is not a member of the armed forces of a Party to the conflict; and
+(f)has not been sent by a State which is not a Party to the conflict on official duty as a member of its armed forces.

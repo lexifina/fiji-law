@@ -1,0 +1,5 @@
+# cl Art 123.
+A Central Prisoners of War Information Agency shall be created in a neutral country. The International Committee of the Red Cross shall, if it deems necessary, propose to the Powers concerned the organization of such an Agency.
+The function of the Agency shall be to collect all the information it may obtain through official or private channels respecting prisoners of war, and to transmit it as rapidly as possible to the country of origin of the prisoners of war or to the Power on which they depend. It shall receive from the Parties to the conflict all facilities for effecting such transmissions.
+The High Contracting Parties, and in particular those whose nationals benefit by the services of the Central Agency, are requested to give the said Agency the financial aid it may require.
+The foregoing provisions shall in no way be interpreted as restricting the humanitarian activities of the International Committee of the Red Cross, or of the relief societies provided for in Article 125.

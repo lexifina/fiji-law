@@ -1,0 +1,5 @@
+# cl Art 87.
+Duty of commanders
+1. The High Contracting Parties and the Parties to the conflict shall require military commanders, with respect to members of the armed forces under their command and other persons under their control, to prevent and, where necessary, to suppress and to report to competent authorities breaches of the Conventions and of this Protocol.
+2. In order to prevent and suppress breaches, High Contracting Parties and Parties to the conflict shall require that, commensurate with their level of responsibility, commanders ensure that members of the armed forces under their command are aware of their obligations under the Conventions and this Protocol.
+3. The High Contracting Parties and Parties to the conflict shall require any commander who is aware that subordinates or other persons under his control are going to commit or have committed a breach of the Conventions or of this Protocol, to initiate such steps as are necessary to prevent such violations of the Conventions or this Protocol, and, where appropriate, to initiate disciplinary or penal action against violators thereof.

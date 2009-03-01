@@ -1,0 +1,5 @@
+# cl Art 99.
+Every place of internment shall be put under the authority of a responsible officer, chosen from the regular military forces or the regular civil administration of the Detaining Power. The officer in charge of the place of internment must have in his possession a copy of the present Convention in the official language, or one of the official languages, of his country and shall be responsible for its application. The staff in control of internees shall be instructed in the provisions of the present Convention and of the administrative measures adopted to ensure its application.
+The text of the present Convention and the texts of special agreements concluded under the said Convention shall be posted inside the place of internment, in a language which the internees understand, or shall be in the possession of the Internee Committee.
+Regulations, orders, notices and publications of every kind shall be communicated to the internees and posted inside the places of internment, in a language which they understand.
+Every order and command addressed to internees individually must, likewise, be given in a language which they understand.

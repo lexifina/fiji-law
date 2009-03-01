@@ -1,0 +1,2 @@
+# cl (1)
+The conditions given shall, in a general way, be interpreted and applied in as broad a spirit as possible. Neuropathic and psychopathic conditions caused by war or captivity, as well as cases of tuberculosis in all stages, shall above all benefit by such liberal interpretation. Prisoners of war who have sustained several wounds, none of which, considered by itself, justifies repatriation, shall be examined in the same spirit, with due regard for the psychic traumatism due to the number of their wounds.

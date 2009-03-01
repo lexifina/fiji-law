@@ -1,0 +1,3 @@
+# cl Art 7.
+When collective consignments of clothing are available, each prisoner of war shall retain in his possession at least one complete set of clothes. If a prisoner has more than one set of clothes, the prisoners’ representative shall be permitted to withdraw excess clothing from those with the largest number of sets, or particular articles in excess of one, if this is necessary in order to supply prisoners who are less well provided.
+He shall not, however, withdraw second sets of underclothing, socks or footwear, unless this is the only means of providing for prisoners of war with none.

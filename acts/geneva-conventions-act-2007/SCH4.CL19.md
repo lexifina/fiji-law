@@ -1,0 +1,3 @@
+# cl Art 19.
+The protection to which civilian hospitals are entitled shall not cease unless they are used to commit, outside their humanitarian duties, acts harmful to the enemy. Protection may, however, cease only after due warning has been given, naming, in all appropriate cases, a reasonable time limit and after such warning has remained unheeded.
+The fact that sick or wounded members of the armed forces are nursed in these hospitals, or the presence of small arms and ammunition taken from such combatants and not yet been handed to the proper service, shall not be considered to be acts harmful to the enemy.

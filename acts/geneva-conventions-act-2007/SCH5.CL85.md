@@ -1,0 +1,18 @@
+# cl Art 85.
+Repression of breaches of this Protocol
+1. The provisions of the Conventions relating to the repression of breaches and grave breaches, supplemented by this Section, shall apply to the repression of breaches and grave breaches of this Protocol.
+2. Acts described as grave breaches in the Conventions are grave breaches of this Protocol if committed against persons in the power of an adverse Party protected by Articles 44, 45 and 73 of this Protocol, or against the wounded, sick and shipwrecked of the adverse Party who are protected by this Protocol, or against those medical or religious personnel, medical units or medical transports which are under the control of the adverse Party and are protected by this Protocol.
+3. In addition to the grave breaches defined in Article 11, the following acts shall be regarded as grave breaches of this Protocol, when committed wilfully, in violation of the relevant provisions of this Protocol, and causing death or serious injury to body or health:
+(a)making the civilian population or individual civilians the object of attack;
+(b)launching an indiscriminate attack affecting the civilian population or civilian objects in the knowledge that such attack will cause excessive loss of life, injury to civilians or damage to civilian objects, as defined in Article 57, paragraph 2(a)(iii);
+(c) launching an attack against works or installations containing dangerous forces in the knowledge that such attack will cause excessive loss of life, injury to civilians or damage to civilian objects, as defined in Article 57, paragraph 2(a)(iii);
+(d)making non-defended localities and demilitarized zones the object of attack;
+(e)making a person the object of attack in the knowledge that he is hors de combat;
+(f)the perfidious use, in violation of Article 37, of the distinctive emblem of the red cross, red crescent or red lion and sun or of other protective signs recognized by the Conventions or this Protocol.
+4. In addition to the grave breaches defined in the preceding paragraphs and in the Conventions, the following shall be regarded as grave breaches of this Protocol, when committed wilfully and in violation of the Conventions or the Protocol:
+(a)the transfer by the occupying Power of parts of its own civilian population into the territory it occupies, or the deportation or transfer of all or parts of the population of the occupied territory within or outside this territory, in violation of Article 49 of the Fourth Convention;
+(b)unjustifiable delay in the repatriation of prisoners of war or civilians;
+(c)practices of apartheid and other inhuman and degrading practices involving outrages upon personal dignity, based on racial discrimination;
+(d)making the clearly recognized historic monuments, works of art or places of worship which constitute the cultural or spiritual heritage of peoples and to which special protection has been given by special arrangement, for example, within the framework of a competent international organization, the object of attack, causing as a result extensive destruction thereof, where there is no evidence of the violation by the adverse Party of Article 53, subparagraph (b), and when such historic monuments, works of art and places of worship are not located in the immediate proximity of military objectives;
+(e)depriving a person protected by the Conventions or referred to in paragraph two of this Article of the rights of fair and regular trial.
+5. Without prejudice to the application of the Conventions and of this Protocol, grave breaches of these instruments shall be regarded as war crimes.

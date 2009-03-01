@@ -1,0 +1,6 @@
+# cl Art 39.
+Medical aircraft, that is to say, aircraft exclusively employed for the removal of the wounded, sick and shipwrecked, and for the transport of medical personnel and equipment, may not be the object of attack, but shall be respected by the Parties to the conflict, while flying at heights, at times and on routes specifically agreed upon between the Parties to the conflict concerned.
+They shall be clearly marked with the distinctive emblem prescribed in Article 41, together with their national colours, on their lower, upper and lateral surfaces. They shall be provided with any other markings or means of identification which may be agreed upon between the Parties to the conflict upon the outbreak or during the course of hostilities.
+Unless agreed otherwise, flights over enemy or enemy-occupied territory are prohibited.
+Medical aircraft shall obey every summons to alight on land or water. In the event of having thus to alight, the aircraft with its occupants may continue its flight after examination, if any.
+In the event of alighting involuntarily on land or water in enemy or enemy-occupied territory, the wounded, sick and shipwrecked, as well as the crew of the aircraft shall be prisoners of war. The medical personnel shall be treated according to Articles 36 and 37.

@@ -1,0 +1,4 @@
+# reg 8 Other conditions for CITES permits or certificates
+(1) The Management Authority must not issue an import permit for a living specimen listed in Appendix I, unless it is satisfied that the proposed recipient of a living specimen is suitably equipped to house and care for the specimen and the specimen will not be used primarily for commercial purposes.
+(2) The Management Authority must not issue an import permit for a specimen listed in Appendix III, unless it is satisfied that the shipment is accompanied by a valid certificate of origin issued by the relevant CITES authority of the exporting country in accordance with the laws of that country for protection of fauna and flora and CITES.
+(3) The Management Authority must not issue a certificate of introduction from the sea for a species listed in Appendix I unless the Council has advised the Authority that the introduction from the sea will not be detrimental to the survival of that species.

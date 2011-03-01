@@ -1,0 +1,24 @@
+# SCHEDULE 5 RESERVED AREAS IN RESPECT OF ALL GAME
+[Sch 5 am Proclamation 4 of 1926, effective 7 May 1926 ; Proclamation 10 of 1931, effective 27 February 1931 ; Proclamation 16 of 1942, effective 5 October 1942 ; Ordinance 26 of 1966 s 6, effective 4 August 1966; LN 80 of 1979, effective 4 May 1979; LN 46 of 2012 s 1, effective 18 May 2012; Decree 7 of 2011 s 4, effective 1 March 2011]
+(a)The Islands of Makogai and Makodraga.
+(b)Commencing at a point at the mouth of the Nubukalou Creek; thence following the said creek upwards to the junction of the Nubukalou and Layard Roads; thence in a straight line bearing about 100 degrees for 600 m to Signal Station Hill; thence in a straight line bearing about 130 degrees for 200 m to the source of the Vatuwaqa Creek; thence following the said creek in a north-easterly direction to the seacoast; thence following the seacoast in a south-westerly direction to Suva Point; thence from the said point in a north-easterly direction following the seacoast to the point of commencement.
+(c)Commencing at the source of the Naivuivuinikawai Creek indicated by a cement peg on the east side of the main road from Suva to Waimanu; thence by said creek downwards to its junction with the Wainiveiota Creek; thence by the said Wainiveiota Creek upwards to a cement peg near a yasiyasi tree marked with a broad arrow; thence by lines bearing 298 degrees 50 minutes for 30 m, 301 degrees 14 minutes for 103 m, 297 degrees 43 minutes for 191 m and 300 degrees 18 minutes for 131 m to a cement peg on the east side of the main road abovementioned; thence by the said main road in a north-easterly direction for a distance of about 1,170 m to a cement peg; thence by lines bearing 276 degrees 44 minutes for 204 m and 344 degrees 42 minutes for 137 m to a peg on the Nabiro Creek; thence by said Nabiro Creek downwards to the south-west corner of Naivuivuinikawai leasehold; thence by the south-west boundary of the said lease to the main road and thence by the said main road in a north-easterly direction to the point of commencement.
+(d)Commencing at the south-east corner of Koro No 1, iTaukei Grant No 158, 3,404 ha, on the Wainivesi Creek; thence by part of the southern boundary of the said freehold by lines bearing 226 degrees 51 minutes for 784 m and 262 degrees 34 minutes for 823 m links to Nualevu on a ridge; thence by a direct line in a westerly direction for about 4,290 m to a corner of the above freehold at Tagane on a ridge; thence by the crest of the said ridge in a southerly direction to the top of the main Koroboya Range; thence along the crest of the said range in a south-easterly direction for a distance of about 600 m to a branch ridge; thence by the crest of the said ridge in a southerly direction to a point about 800 m direct distance from the main range aforesaid; thence in a general easterly direction along the south slope of the said main range and distant 800 m more or less from the crest thereof to the north-west corner of Vunimalawaci iTaukei Lease to the Fiji Kauri Timber and Land Company; thence by the north boundary of the said lease to the Wainukunuku Creek, being part of the west boundary of Nadala iTaukei Grant No 2, 6,251 ha, and thence by said creek upwards to a peg at Turanagale on the main range; thence, by part of the west boundary of Nubuiluva iTaukei Grant No 1, 1,380 ha, by lines bearing 332 degrees 38 minutes for 213 m, 333 degrees 13 minutes for 41 m and 331 degrees 5 minutes for 99 m to the Wainivesi Creek; thence by said creek downwards to the point of commencement.
+(e)the area of land situated about Korobaba comprising an area of about 100.4 ha;
+(f)Suva and Namuka Harbours including Draunibota Island [Quarry Island], Labeko and Vuo [Admiralty Island];
+(g)the area of Taveuni known as Taveuni Forest Reserve containing about 10.965 ha;
+(h)the area of Taveuni known as Taveuni Forest Reserve containing about 4019.67 ha;
+(i)the area known as Nadarivatu Nature Reserve containing about 93.07 ha;
+(j)the area known as Nadarivatu Nature Reserve containing about 6915.05 ha;
+(k)the area known as Naqaranibuluti Nature Reserve and containing about 279.23 ha;
+(l)the area known as Yarawa Forest Reserve and containing about 159.5 ha;
+(m)the area known as Galoa Nature Reserve and containing about 17.2 ha;
+(n)the area known as Qoya Forest Reserve and containing about 49.52 ha;
+(o)the area known as Colo-i-Suva Forest Reserve and containing about 1083.35 ha;
+(p)the area known as Korotari Forest Reserve and containing about 2679.10 ha;
+(q)the area known as Vunimoli Forest Reserve and containing about 18.70 ha;
+(r)the area known as Lololo Forest Reserve and containing about 6870.45 ha;
+(s)Mangrove Forest bounded in the West by the Namosi/Rewa Provincial Boundaries and in the east by the main course of the Rewa River;
+(t)the Lautoka water catchment area;
+(u)the Ba water catchment area; and
+(v)the Tavua water catchment area.

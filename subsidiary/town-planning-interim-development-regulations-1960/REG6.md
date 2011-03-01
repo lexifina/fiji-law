@@ -1,0 +1,3 @@
+# reg 6 Conditions applicable to all advertisements
+(1) Without prejudice to the power of the local authority to impose additional conditions upon a grant of permission under section 6 of the Act, the standard conditions 1 and 2 set out in Part 2 of Schedule 2 shall apply without further notice to the display of all advertisements, including those being displayed on the commencement of these Regulations.
+(2) For the purposes of this regulation all advertisements existing at the commencement of these Regulations shall be deemed to be displayed in accordance with permission granted under section 7 of the Act.

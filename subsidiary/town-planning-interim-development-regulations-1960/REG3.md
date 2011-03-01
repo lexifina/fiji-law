@@ -1,0 +1,21 @@
+# reg 3 Interpretation
+In these Regulations, unless the context otherwise requires—
+"advertisement" means any word, letter, model, sign, placard, board, notice, device or representation, employed wholly or in part for the purposes of advertisement, announcement or direction and without prejudice to the foregoing provision includes any hoarding or similar structure used or adapted for use for the display of advertisements and references to the display of advertisements shall be construed accordingly;
+"agricultural land" means land used for farming purposes including horticulture, fruit farming, the growing of crops of all descriptions, dairy farming, bee keeping, poultry keeping and breeding and the breeding and keeping of livestock;
+"building" includes any house, hut, shed or roofed enclosure, whether used for the purpose of a human habitation or otherwise and also any wall, fence, platform, septic tank, staging, gate, post, pillar, paling, frame, hoarding, slip, dock, wharf, pier, jetty, landing stage or bridge or any structure or erection connected with the foregoing;
+"business premises" means any building, normally used for the carrying on of any professional, commercial or industrial undertaking, or any undertaking for the provision of services for profit and without prejudice to the generality thereof includes public restaurants, licensed premises and places of public entertainment; but in the case of any buildings used principally for residential purposes includes only that part of the building normally used as business premises;
+"dwelling house" does not include a flat or tenement building;
+"enclosed land" means land which is wholly or for the most part enclosed within a hedge, fence, wall or similar screen or structure, but shall not include any public park, public garden or other land held for the use or enjoyment of the public;
+"forestry" includes logging, afforestation and reafforestation but does not include saw milling;
+"front" in relation to a dwelling house includes any wall of such dwelling house which faces towards a street other than a rear access road;
+"general industrial building" means an industrial building other than a light industrial building or a special industrial building;
+"industrial building" means a building used for the carrying on of any process for or incidental to any of the following purposes, namely—
+(a)the making of any article or part of any article; or
+(b)the altering, repairing, ornamenting, fishing, cleaning, washing, packing or canning or adapting for sale or breaking up or demolition of any article; or
+(c)the getting, dressing or treatment of minerals,
+being a process carried on in the course of trade or business other than agriculture, and for the purposes of this definition the expression article means an article of any description, including a ship or vessel;
+"light industrial building" means an industrial building (not being a special industrial building) in which the processes carried on or the machinery installed are such as could be carried on or installed in any residential area without detriment to the amenity of that area by reason of noise, vibration, smell, fumes, smoke, soot, ash, dust or grit;
+"original" means, in relation to a building existing at the commencement of these Regulations as existing on that date; and in relation to a building built after that date, as so built;
+"shop" means a building used for the carrying on of any retail trade or retail business wherein the primary purpose is the selling of goods by retail, and includes a building used for the purposes of a hairdresser, undertaker or ticket agency or for the reception of goods to be washed, cleaned or repaired, or for any other purpose appropriate to a shopping area, but does not include a building used as a garage, petrol filling station, office or hotel or premises licensed for the sale of intoxicating liquor for consumption on the premises;
+"site" in relation to an advertisement, means any land or any building other than an advertisement as herein defined, on which an advertisement is displayed; and
+"special industrial building" means an industrial building used for one or more of the purposes specified in Classes 5, 6, 7 and 8 referred to in Schedule 3.

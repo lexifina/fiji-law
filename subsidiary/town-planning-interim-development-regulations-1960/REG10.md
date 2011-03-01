@@ -1,0 +1,10 @@
+# reg 10 Orders relating to authorised development
+(1) An order made by a local authority under section 10 of the Act shall specify the use which is required to be discontinued, or the conditions under which such use may be continued, or the steps required to be taken for the alteration or removal of the building or works, as the case may be.
+(2) Notice of intention to make an order by a local authority under section 10 of the Act shall be served by that authority on the owner and on the occupier of the land affected, and on any other person who in its opinion will be affected by the order.
+(3) A notice served under subregulation (2) shall specify the reason or reasons for the making of the order, and shall prescribe a period (not being less than 28 days from the service of the notice) within which representations in writing may be made to the local authority.
+(4) When making application to the Director for the confirmation of an order under section 10(1) of the Act, the local authority shall forward to the Director at the same time copies of all representations made to that authority under subregulation (3) together with a statement of its opinions as to the merits thereof.
+[subreg (4) am Act 22 of 1973 s 4, effective 26 October 1973]
+(5) The Director shall consider all representations made to the local authority under subregulation (3) and any statement of opinion by the local authority as to the merits thereof, and may confirm, with or without modifications, or refuse to confirm the order.
+[subreg (5) am Act 22 of 1973 s 4, effective 26 October 1973]
+(6) In the event of the Director confirming, with or without modifications, any order under section 10(1) of the Act, the local authority shall not be liable for any compensation under section 10(4) of the Act in respect of any damage arising from any building or other work carried out on the land by the owner or the occupier after the date of any notice served by the local authority under subregulation (2).
+[subreg (6) am Act 22 of 1973 s 4, effective 26 October 1973]

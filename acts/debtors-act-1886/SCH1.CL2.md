@@ -1,0 +1,2 @@
+# cl 2
+On the return day of the summons the judgment debtor may be examined on oath as to his or her means of payment and the court may, for the purpose of ascertaining the said means of payment, order the production of any document or the attendance of any person for examination on oath at such time and place as may be specified in the order, and wilful failure of the debtor to attend or disobedience of any person to any such order shall be deemed a contempt of court and shall be punishable accordingly.

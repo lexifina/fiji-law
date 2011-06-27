@@ -1,0 +1,2 @@
+# cl 6
+A defendant shall be released before the expiration of the term for which he or she was imprisoned on the judgment being satisfied or at the request of the person at whose instance he or she was imprisoned or by order of the court on such person omitting to pay the fees for subsistence as above provided for or if the court shall think fit on an adjudication in bankruptcy being made against him or her.

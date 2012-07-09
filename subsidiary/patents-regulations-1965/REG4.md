@@ -1,0 +1,3 @@
+# reg 4 Production of documents of title
+Every document giving effect to or being evidence of the assignment, transmission or devolution of the privileges and rights or interest specified in section 30 of the Act or affecting the proprietorship thereof, or any interest therein as claimed by an application under the said section, except such documents as are matters of record in Fiji, shall, unless the Solicitor-General otherwise directs, be produced to him or her together with the application and he or she may call for such other proof of title as he or she may think fit.
+[reg 4 am Decree 55 of 2012 s 3, effective 9 July 2012]

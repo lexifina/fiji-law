@@ -1,0 +1,7 @@
+# MARINE SPACES ACT 1977
+AN ACT TO MAKE PROVISION FOR THE DEMARCATION OF THE MARINE SPACES APPERTAINING TO FIJI, DECLARING THE RIGHTS OF FIJI IN RELATION THERETO; TO REGULATE THE EXPLOITATION OF THE RESOURCES THEREOF AND OTHER ACTIVITIES THEREIN AND TO MAKE FURTHER PROVISION FOR THE REGULATION OF FISHING
+Table of Amendments
+Marine Spaces Act 1977 (No 18 of 1977) commenced on 21 April 1978 (except s 6 and Part 3 which commenced on 1 December 1981), as amended by:
+Amending Legislation | Date of Commencement
+Marine Spaces (Amendment) Act 1978 (No 15 of 1978) | 6 October 1978
+Offshore Fisheries Management Decree 2012 (No 78 of 2012) | 1 January 2013

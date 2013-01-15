@@ -1,0 +1,12 @@
+# reg 21 Equipment of aircraft
+(1) In the case of aircraft registered in Fiji, the equipment required to be provided shall be in accordance with regulation 23. Such equipment, except as specified in regulation 23(3), shall be of a type approved by the Authority either generally or in relation to a class of aircraft or in relation to that aircraft and shall be installed in manner so approved.
+(2) In any particular case, the Authority may direct that an aircraft registered in Fiji shall carry such additional or special equipment or supplies as it may specify for the purpose of facilitating the navigation of the aircraft, the carrying out of search and rescue operations, or the survival of the persons in the aircraft.
+(3) The equipment carried in compliance with this regulation shall be so installed or stowed, and kept stowed and so maintained and adjusted, as to be readily accessible and capable of being used by the person for whose use it is intended.
+(4) The position of equipment provided for emergency use shall be indicated by clear markings in or on the aircraft. In particular, in every public transport aircraft registered in Fiji, there shall be—
+(a)exhibited in a prominent position in every passenger compartment; or
+(b)provided individually for each passenger,
+a notice stating where the life jackets, if any, are to be found, and containing instructions as to how they are to be used.
+(5) All equipment installed or carried in an aircraft, whether or not in compliance with these Regulations, shall be so installed or stowed, and kept stowed and so maintained and adjusted, as not to be a source of danger in itself or to impair the airworthiness of the aircraft or the proper functioning of any equipment or services necessary for the safety of the aircraft.
+(6) Without prejudice to paragraph (1), all specialised navigational equipment, other than radio apparatus, when carried in an aircraft registered in Fiji, whether or not in compliance with these Regulations, shall be of a type approved by the Authority either generally or in relation to a class of aircraft or in relation to that aircraft and shall be installed in manner so approved.
+(7) This regulation shall not apply in relation to radio equipment except that specified in Table 2 of regulation 23(7).
+(8) The Authority may, if it is satisfied that circumstances so warrant, exempt an operator or aircraft from provision of equipment specified in Table 1 of regulation 23(5) subject to such conditions as it thinks fit.

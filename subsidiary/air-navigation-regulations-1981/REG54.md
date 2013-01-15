@@ -1,0 +1,22 @@
+# reg 54 General privileges and conditions for issue or renewal of licences
+(1) For the purposes of regulation 53, the applicant for a licence or rating shall furnish such evidence of having acquired such experience, and shall pass such tests and examinations, as may be required by the Authority.
+(2) Subject to the provisions of these Regulations and to any conditions of the licence, a licence of any class specified in regulation 61 shall entitle the holder to perform the functions specified in that regulation in respect of that licence under the heading “privileges”; and a rating of any class specified in regulation 64 shall entitle the holder of the licence in which such rating is included to perform the functions specified in respect of that rating in that regulation.
+(3) Subject to the provisions of subregulation (10) and of regulations 30(9) and 66, the holder of a licence shall not be entitled to perform any of the functions specified in regulation 64 in respect of a rating unless his or her licence includes that rating.
+(4) The holder of a licence shall not be entitled to perform any of the functions to which his or her licence or rating relates if he or she knows or has reason to believe that his or her physical or mental condition renders him or her temporarily or permanently unfit to perform such function.
+(5) The holder of a licence which includes an instrument rating, assistant flight instructor rating, flight instructor rating or other type of instructor rating authorised under subregulation 53(2)(f) shall not be entitled to perform the functions relating to the ratings included in the licence unless the licence bears a certificate signed by a person authorised by the Authority to sign such certificates, indicating that the holder has, within the period of 13 months, in the case of instrument rating and an assistant flight instructor rating, 25 months in the case of a flight instructor rating and such period as is prescribed in the relevant Standard for any other instructor rating, preceding the day on which he or she performs those functions, passed a test of his or her ability to perform the functions to which the rating relates, being a test required by the Authority.
+[subreg (5) subst LN 82 of 2009 reg 29, effective 6 February 2010]
+(6) Every holder of a licence, other than a flight radiotelephony operator's licence, granted or rendered valid under these Regulations who—
+(a)suffers any personal injury involving incapacity to undertake the functions to which his or her licence relates; or
+(b)suffers any illness involving incapacity to undertake those functions throughout a period of 20 days or more; or
+(c)becomes pregnant;
+shall inform the Authority in writing of such injury, illness or pregnancy, as soon as practicable.
+[subreg (6) am LN 72 of 2003 reg 19, effective 1 July 2004; LN 82 of 2009 reg 29, effective 6 February 2010]
+(7) A licence holder to whom subregulation (6) applies shall cease to exercise the privileges of his or her licence until such time the licence holder has been medically examined by a designated medical examiner and declared fit to resume his or her functions and duties under the licence.
+[subreg (7) subst LN 82 of 2009 reg 29, effective 6 February 2010]
+(8) A licence or permit holder who becomes pregnant may continue, if the pregnancy is determined to be low-risk by an approved medical authority, to exercise the privileges of their licence for the periods as advised in Annex 1 Chapter 6 relevant to the particular medical standard for their licence or permit.
+[subreg (8) subst LN 82 of 2009 reg 29, effective 6 February 2010]
+(8A)
+[subreg (8A) rep LN 82 of 2009 reg 29, effective 6 February 2010]
+(9) Nothing in these Regulations shall prohibit the holder of a pilot's licence from acting as a pilot of an aircraft having a maximum total weight authorised of not more than 5,700 kg, when he or she is testing, with the permission of the Authority, any person for the purposes of this regulation, notwithstanding that the type of aircraft in which the test is conducted is not specified in the aircraft type rating included in his or her licence.
+[subreg (9) am LN 72 of 2003 reg 2, effective 1 July 2004]
+(10) Nothing in these Regulations shall be taken to prohibit the holder of a commercial pilot's licence, senior commercial pilot's licence or airline transport pilot's licence from acting as pilot in command of an aircraft carrying passengers by night, by reason of the lack of a night rating in his or her licence.

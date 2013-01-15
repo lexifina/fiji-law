@@ -1,0 +1,4 @@
+# reg 9 Nationality and registration marks
+(1) Every aircraft registered in Fiji shall bear the capital letters DQ in roman character as nationality mark and a group of 3 capital letters in roman character assigned by the Authority as registration mark. The letters shall be without ornamentation and a hyphen shall be placed between the nationality mark and the registration mark. The letters shall always be kept clean and visible.
+(2) The nationality and the registration marks shall be painted on the aircraft or shall be affixed thereto by any other means ensuring a similar degree of permanence.
+(3) The nationality and registration marks shall also be inscribed together with the name and address of the registered owner of the aircraft, on a fireproof metal plate affixed in a prominent position to the fuselage or, in the case of a balloon, to the car or basket, and near the main entrance to the aircraft.

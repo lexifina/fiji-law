@@ -1,0 +1,2 @@
+# reg 77 Reporting of hazardous conditions
+As far as is possible, weather observed en route shall be reported by the pilot in command of an aircraft at specified times, or points as requested by the appropriate meteorological authorities. Hazardous flight conditions encountered en route shall be reported to the appropriate air traffic control unit as soon as possible. The reports so rendered shall give such details as may be relevant to the safety of other aircraft.

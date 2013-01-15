@@ -1,0 +1,2 @@
+# reg 26 Nationality and registration markings
+Subject to the provisions of Part 1, no person shall fly an aircraft in Fiji unless it is registered and it bears its nationality and registration marks and the name and address of the registered owner affixed or painted thereon; in the case of aircraft registered in Fiji, in accordance with regulations 9 and 10, and in the case of aircraft registered elsewhere than in Fiji, in accordance with the law of the country in which it is registered.

@@ -1,0 +1,2 @@
+# reg 52 Reports
+If, in respect of any flight of an aircraft, the flight times or duty periods of any member of the flight crew of that aircraft exceed the duty period or the flight times established in respect of that person for that flight by the operator in accordance with the requirements of regulation 49(1)(a), that person shall report the circumstances in writing to the operator, and the operator shall forward the report with his or her comments to the Authority within 7 days of the termination of this flight.

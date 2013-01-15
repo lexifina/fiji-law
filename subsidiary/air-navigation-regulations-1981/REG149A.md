@@ -1,0 +1,6 @@
+# reg 149A Power to prevent unsafe procedures or practices in air traffic services and/or navigation services
+If it appears to the Authority or an authorised person that any air traffic service provider or air navigation service provider or its employee intends to or is likely to provide an air traffic service or an air navigation service—
+(a)in such circumstances that any provision of these Regulations or any directions issued thereunder would be contravened in relation to the provision of air traffic services or an air navigation services; or
+(b)in such circumstances that the provision of air services or an air navigation services would be a cause of danger to any person, aircraft or property; or
+(c)while in condition unfit for the provision of air traffic services or an air navigation services, whether or not such services would otherwise be in contravention of any provision of these Regulations or any directions issued thereunder, the Authority, or such authorised person may direct the air service provider or air navigation service provider or its employee concerned to discontinue, of such a description as may be specified in the direction until the direction has been revoked by the Authority or by the authorised person.
+[reg 149A insrt LN 82 of 2009 reg 80, effective 6 February 2010]

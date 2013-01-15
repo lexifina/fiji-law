@@ -1,0 +1,2 @@
+# reg 59 Validation of foreign licence
+Where a licence to act as a member of the flight crew of aircraft has been granted under the law of a country other than Fiji and is for the time being in force, the Authority may, subject to such conditions and limitations and for such period as it thinks fit, issue a certificate of validation rendering such licence valid for the purpose of flying aircraft registered in Fiji as if it had been granted under these Regulations.

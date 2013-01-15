@@ -1,0 +1,2 @@
+# reg 8 Aircraft destroyed or withdrawn from use
+When an aircraft registered in Fiji has been destroyed or permanently withdrawn from use, the registered owner of the aircraft or, if he or she is dead his or her personal representative, or if being a body corporate it is dissolved its successor in title, shall as soon as possible notify the Authority accordingly, and the registration shall not lapse unless and until it is cancelled by the Authority.

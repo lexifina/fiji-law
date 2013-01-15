@@ -1,0 +1,2 @@
+# reg 20 Aircraft required to be equipped
+No persons shall fly an aircraft unless it is so equipped with such instruments and equipment as to comply with the law of the country in which it is registered for an aircraft of that class or description, and to enable lights and markings to be displayed, and signals to be made and received in accordance of the provisions of these Regulations and any directions issued thereunder.

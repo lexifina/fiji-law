@@ -1,0 +1,10 @@
+# reg 81 Dropping of articles and descent by parachute
+(1) No article or animal, whether or not attached to a parachute, shall be dropped, or projected or lowered or permitted to drop, project or lower from an aircraft in flight so as to endanger persons or property.
+(2) No article, animal or person, whether or not attached to a parachute, shall be dropped, projected or lowered or permitted to drop, project or lower to the surface from an aircraft in flight over Fiji, provided that this subregulation shall not apply to the descent of persons by parachute from an aircraft in an emergency, or to the dropping of articles by, or with the authority of, the pilot in command of the aircraft in the following circumstances—
+(a)the dropping, projecting or lowering of articles for the purpose of saving life;
+(b)the jettisoning, in case of emergency, of fuel or other articles in the aircraft;
+(c)the dropping of ballast in the form of fine sand or water;
+(d)the dropping of articles solely for the purpose of navigating the aircraft in accordance with ordinary practice or with the provisions of these Regulations;
+(e)the dropping, projecting or lowering at an airport, of ropes, banners or similar articles towed by aircraft with the prior permission of the Authority and in accordance with any conditions subject to which that permission may have been given;
+(f)the dropping of articles for the purposes of agriculture, horticulture, forestry or public health or as a measure against weather conditions, oil pollution, or for training for the dropping of articles for any such purposes, if the articles are dropped with the permission of the Authority and in accordance with any conditions subject to which that permission may have been given.
+(3) Nothing in this regulation shall prohibit the lowering of any person, animal or article from a helicopter to the surface if the certificate of airworthiness issued or rendered valid in respect of the helicopter under the law of the country in which it is registered includes an express provision that it may be used for that purpose.

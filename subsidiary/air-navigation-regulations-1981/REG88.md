@@ -1,0 +1,2 @@
+# reg 88 Right of way
+The aircraft that has the right-of-way in accordance with the provisions of these Regulations shall maintain its heading and speed, but nothing in these Regulations shall relieve the pilot in command of an aircraft from the responsibility of taking such action as will best avert collision. An aircraft that is obliged by these Regulations to keep out of the way of another, shall avoid passing over or under the other, or crossing ahead of it, unless passing well clear.

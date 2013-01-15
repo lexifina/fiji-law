@@ -1,0 +1,3 @@
+# reg 69 Responsibility of the pilot in command
+(1) Subject to the provisions of regulation 31, the pilot in command of an aircraft shall, whether manipulating the controls or not, be responsible for the operation of the aircraft in accordance with the provisions of these Regulations.
+(2) The pilot in command of an aircraft shall, before beginning a flight, familiarise himself or herself with all available information appropriate to the intended operation. Pre-flight action for flights away from the vicinity of an airport, and for all IFR flights, shall include a careful study of available current weather reports and forecasts, taking into consideration fuel requirements and an alternative course of action if the flight cannot be completed as planned.

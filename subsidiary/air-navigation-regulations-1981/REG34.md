@@ -1,0 +1,20 @@
+# reg 34 Air operator's certificate of competency
+(1) An aircraft operated by an operator domiciled in Fiji shall not fly on any flight for the purpose of public transport, otherwise than under and in accordance with the terms of an air operator's certificate granted to the operator by the Authority in accordance with subregulation (2).
+[subreg (1) am LN 82 of 2009 reg 16, effective 6 February 2010]
+(2) The Authority may grant to any person applying therefore an air operator's certificate if it is satisfied that such person is competent, having regard to his or her previous conduct and experience, his or her equipment, organisation, staffing, quality assurance systems, safety management systems, procedures for the exercise of operational control, maintenance and other arrangements, to secure the safe operation of aircraft of the types specified in the certificate, on flights of the description and for the purposes so specified. The certificate may be granted subject to such conditions as the Authority thinks fit and shall, unless previously surrendered, suspended or revoked, remain in force for the period specified in the certificate.
+[subreg (2) am LN 82 of 2009 reg 16, effective 6 February 2010]
+(3) The Authority may, for the purpose of securing the safety of aircraft operation under these Regulations or of satisfying itself that the holder of an air operator's certificate is competent to operate safely and securely, direct the owner or operator of an aircraft operated by an operator domiciled in Fiji to make available, free of charge, within 7 days of the direction or, if the circumstances so warrant, at a shorter notice, a seat on the aircraft to a person authorised by it in writing to undertake—
+(a)en route examination and inspection of the work of a flight crew member;
+(b)inspection of the maintenance facilities at the en route and terminal stations;
+(c)inspection of an aircraft or of its equipment; and
+(d)such other examination or inspection as may be necessary for the purpose of securing the safety of aircraft operation.
+[subreg (3) am LN 82 of 2009 reg 16, effective 6 February 2010]
+(4) In any case where such transportation at short notice requires off loading of a passenger or cargo being carried on the particular flight, the operator shall be reimbursed by the Authority to the extent of the net loss of revenue thereby caused, if any.
+(5) The operator shall comply with Air Operator's Certificate of Competency standards notified by the Authority.
+[subreg (5) insrt LN 72 of 2003 reg 13, effective 1 July 2004; am LN 82 of 2009 reg 83, effective 6 February 2010]
+(6) Notwithstanding subregulation (2) above, no person shall fly an aircraft for the purpose of public transport under an Air Operator's Certificate of Competency issued by the Authority unless it is maintained and its Certificate of Release to Service is issued by an Approved Maintenance Organisation certificated under regulation 145C.
+[subreg (6) insrt LN 82 of 2009 reg 16, effective 6 February 2010]
+(7) The Operator shall prepare and submit to the Authority its maintenance control manual and maintenance procedures manual for approval. The content of the maintenance control and maintenance procedures manuals shall be in accordance with the standards document for air operators published by the Authority.
+[subreg (7) insrt LN 82 of 2009 reg 16, effective 6 February 2010]
+(8) No operator shall operate an aircraft under a Lease arrangement or for ETOPS, RVSM, RNP, PBN, ADS-B, ADS-C or similar requirement unless such type of operation is approved under the air operator's certificate issued by the Authority. The operator when conducting such operation shall comply with any relevant standards document issued by the Authority. When deemed necessary by the Authority, the operator shall produce a supplement to its other manuals, explaining how to safely conduct such operation and submit the same for the Authority's acceptance or approval.
+[subreg (8) insrt LN 82 of 2009 reg 16, effective 6 February 2010]

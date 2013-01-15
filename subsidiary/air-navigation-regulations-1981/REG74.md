@@ -1,0 +1,4 @@
+# reg 74 Carriage of persons in unauthorised parts of aircraft
+No person shall at any time be carried on the wings or under carriage of an aircraft in flight, or on or in any part thereof which is not a part designed for the accommodation of persons. A person shall not be in or on any object, other than a glider or flying machine, towed by or attached to an aircraft in flight, provided that a person may have temporary access to—
+(a)any part of an aircraft for the purpose of carrying out repairs to the aircraft or adjusting the machinery or equipment thereof, or for the purpose of doing anything which may be necessary for the safety of the aircraft or persons or goods carried therein;
+(b)any part of an aircraft in which goods or stores are carried, being a part which is designed to enable a person to have access thereto while the aircraft is in flight.

@@ -1,0 +1,2 @@
+# reg 19 Access and inspection for airworthiness purposes
+The Authority may cause such inspections, investigations, tests, experiments and flight trials to be made as it deems necessary for the purposes of this Part and any person authorised to do so in writing by the Authority may at a reasonable time inspect any part of an aircraft or its equipment or any documents relating thereto and may for that purpose enter any airport.

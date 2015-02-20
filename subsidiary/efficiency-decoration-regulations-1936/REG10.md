@@ -1,0 +1,2 @@
+# reg 10 Loss and replacement
+When the Decoration has been lost and it is desired to replace it, a declaration must be made before a Magistrate stating the circumstances under which the loss occurred. and the rank, name, and Corps of the officer to whom the Decoration belonged. This declaration will be forwarded to the President through the usual channel of correspondence in the case of an officer who is still serving, and direct in the case of an officer who has retired. The decoration will be replaced, on payment, if the explanation as to loss is considered satisfactory.

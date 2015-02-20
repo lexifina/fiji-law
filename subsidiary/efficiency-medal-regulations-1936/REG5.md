@@ -1,0 +1,2 @@
+# reg 5 Twelve year service
+Warrant officers, non-commissioned officers, and men of the Fiji Defence Force, who on or after 23 September 1930, have completed 12 years’ qualifying service as hereinafter defined shall be eligible for the award of the Medal. A Clasp to be worn on the ribbon of the Medal will be awarded to a recipient of the Medal on completing 18 years’ qualifying service, and a further Clasp on completing 24 years’ qualifying service.

@@ -1,0 +1,3 @@
+# reg 3 Other eligibility
+Officers as aforesaid who were serving as warrant officers, non-commissioned officers, or men on the Reserve of any of the Authorised Auxiliary Forces of the Empire (provided such Reserve Service entailed for Reservists a liability to join the Auxiliary Force for active service upon its mobilisation) on 2 September 1939, and who were embodied under any Proclamation by the President shall be eligible subject in other respects to the conditions laid down in the Royal Warrant of 23 September 1930, for the Efficiency Medal and Clasps and be allowed to reckon their service as officers as qualifying service therefore.
+[reg 3 insrt LN 194 of 1947 reg 2, effective 24 December 1947]

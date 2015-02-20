@@ -1,0 +1,2 @@
+# reg 8 Wearing the Efficiency Medal
+The Efficiency Medal will be worn suspended on the left breast by a green ribbon, one inch and a quarter in width, with yellow stripes down the edges, but the recipient of any other Long Service, Good Conduct or Efficiency Medal will only be permitted to wear the Efficiency Medal (with or without Clasps) with them if he or she has completed the full period of qualifying service in respect of each Medal or Clasp.

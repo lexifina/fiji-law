@@ -1,0 +1,2 @@
+# cl 7
+If on the last day of any financial year of the company it appears by the books of the company that any member has held a smaller number of shares in the company than is required to be held by him or her in terms of article 6 hereof, it shall be lawful for the directors immediately to allot to him or her without any application therefore by or on behalf of that member, such further number of shares as shall be required to be held by him or her in terms of these Articles.

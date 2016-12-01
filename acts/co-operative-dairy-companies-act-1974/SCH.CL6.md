@@ -1,0 +1,2 @@
+# cl 6
+Each person supplying dairy produce shall, in respect of the financial year of the company in which he or she is so supplying, be required to hold such number of shares as may from time to time be fixed by the directors, but being not more than one share for every one kilogram of butterfat obtained or obtainable from the dairy produce or, alternatively, for every litres or kilograms of milk supplied by him or her or which in the estimation of the directors he or she will supply during that financial year.

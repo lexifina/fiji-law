@@ -1,0 +1,7 @@
+# cl 10
+(1) The net annual returns arising from or in relation to such dairy produce shall, as at the last day of each financial year, be arrived at by adding to the gross returns all penalties or charges of the kind specified in article 18 hereof and deducting from that sum the whole or so much thereof as the directors consider equitable of the following—
+(a)the costs, charges and expenses incurred in or about the carrying out of any of the objects, powers, or authorities of the company;
+(b)all premiums and allowances of the character specified in articles 16 and 18 hereof;
+(c)depreciation of any of the company's assets;
+(d)such sums as the directors may consider necessary or desirable to set aside as a reserve fund or for meeting contingencies of any description or for stabilising or making more uniform monthly progress, or final or other payments to persons supplying dairy produce to the company or for any capital expenditure incurred or to be incurred in that or in any other year or for such other purposes as the directors in their absolute discretion think fit, provided that nothing contained in this paragraph shall authorise the payment of any dividend on shares out of returns arising from or in relation to dairy produce produced in Fiji for supply to the company.
+(2) The directors may from time to time use all or any part of the moneys so deducted for all or any of the purposes referred to in paragraph (1).

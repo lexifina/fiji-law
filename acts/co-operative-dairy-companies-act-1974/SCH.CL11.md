@@ -1,0 +1,4 @@
+# cl 11
+(1) The directors may at any time in respect of the dairy produce received by the company during the immediately preceding month make to each person supplying that dairy produce such payments as they deem advisable, having regard to their estimate of the net returns for that dairy produce after making such deductions as they consider ought to be made under article 10 hereof.
+(2) Payments under paragraph (1) shall be due and payable on the 20th day of the month following the month in which the dairy produce was supplied or on such other monthly date as the directors from time to time determine.
+(3) The directors may if they think fit from time to time in any financial year make further progress payments in respect of dairy produce supplied to the company during any previous month or months in that financial year.

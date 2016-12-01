@@ -1,0 +1,2 @@
+# cl 16 Premiums in respect of Dairy Produce
+The directors may fix and pay from time to time such premiums or allowances to individual members or persons or sections or groups of members or persons in respect of the supply of dairy produce of any particular type or in any particular form or during any particular period or at any particular factory, place or times as they from time to time consider to be necessary.

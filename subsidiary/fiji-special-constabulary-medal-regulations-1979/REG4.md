@@ -1,0 +1,4 @@
+# reg 4 Qualification for the award of Special Constabulary medal
+(1) Qualifying service in the Reserve and the Fiji Special Constabulary before 10 October 1970, may be allowed to reckon towards the required period of qualifying service. Service in a Special Constabulary which was qualifying service for the Colonial Special Constabulary Medal may be aggregated with service in the Reserve and the Fiji Special Constabulary and allowed to count towards the required period of 15 years’ service provided no award for the Colonial Special Constabulary Medal has been made.
+(2) Where service has been rendered in the Fiji Special Constabulary and in one or more other Special Constabulary 12 months between the 2 periods of service shall not be regarded as breaking the continuity of such service.
+(3) A break in service in any one Special Constabulary Force not exceeding 6 calendar months shall not be regarded as breaking the continuity of such service.

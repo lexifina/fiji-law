@@ -1,0 +1,4 @@
+# reg 20 Signals and notices to be displayed
+On or immediately prior to the arrival in port of any petroleum ship, and so long as the ship remains in port, the master shall—
+(a)display by day the International Code flag B or, if carrying dangerous petroleum, a red flag not less than 3 feet square with a white circular centre 6 inches in diameter, and by night a red light at the masthead or where it can best be seen but not less than 20 feet above the deck, and so that the flag or light is clear of all obstructions and clearly visible in all directions;
+(b)where the vessel is berthed at any wharf or landing place, exhibit, at the forward side of the gangway, a notice board with the words “DANGER—NO SMOKING—NO NAKED LIGHTS” printed in conspicuous lettering not less than 6 inches in size, and by night display a red light at the after side of the gangway, and a white light over the forward side, over the said notice board.

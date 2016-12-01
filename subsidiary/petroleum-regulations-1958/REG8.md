@@ -1,0 +1,6 @@
+# reg 8 Strong containers required
+(1) No petroleum shall be conveyed, loaded or unloaded on, into or from any vessel in tanks or packages unless such petroleum is contained in tanks or packages from which, in the opinion of the port master the petroleum cannot escape in the form of liquid and/or vapour.
+[subreg (1) am LN 99 of 2016 reg 200, effective 1 December 2016]
+(2) It shall be the duty of every member of the crew of a ship loading petroleum, and of every waterside worker or stevedore assisting in such loading, and of every other person on board the ship, forthwith to report to the master or officer in charge of the loading the presence of any leaky containers that may come under his or her observation.
+(3) It shall be an offence under these Regulations for any person to ship petroleum, or to cause or allow petroleum to be shipped, if to his or her knowledge any such petroleum or any petroleum vapour is escaping or is likely to escape from any drum, tin or other container in which it is contained.
+(4) It shall be an offence under these Regulations for the master or owner of any ship to receive on board that ship any petroleum if to his or her knowledge any such petroleum or any petroleum vapour is escaping or is likely to escape from any drum, tin, or other container in which it is contained.

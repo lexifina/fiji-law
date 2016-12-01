@@ -1,0 +1,2 @@
+# reg 38 Warning notices on wharf
+No person shall handle or deposit petroleum upon any wharf or in any place within 50 feet of any wharf until notice boards with conspicuous lettering not less than 6 inches in size, and bearing the words “DANGER—NO SMOKING—NO NAKED LIGHTS” in English, iTaukei and Hindi, have been erected in conspicuous positions not less than 50 feet from the petroleum so as to be visible to any person approaching from any direction.

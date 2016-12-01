@@ -1,0 +1,2 @@
+# reg 6 Escape of oil
+No petroleum or ballast water or water mixed with any petroleum shall be permitted to escape from or be discharged from any vessel into any inland or tidal water, and no liquid of any kind shall be discharged into any inland or tidal water from bilges, tanks, or other spaces which have contained any petroleum unless such tanks or spaces have been cleaned of petroleum, or such liquid has been freed from petroleum by means of a separating apparatus.

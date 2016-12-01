@@ -1,0 +1,2 @@
+# reg 41 Signalling and telephone arrangements
+Before any pumping of petroleum is commenced on any ship, the master, or owner shall ensure that a competent signalling staff is in attendance both at the tank installation and on board the ship, or that direct uninterrupted telephonic communication between the same points is established and maintained during the periods of pumping. The master or owner shall also detail a responsible person for attendance on the wharf to superintend the opening and closing of valves and for patrol of the pipe line.

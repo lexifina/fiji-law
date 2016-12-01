@@ -1,0 +1,3 @@
+# reg 35 Petroleum on wharves
+No person shall deposit any petroleum or cause or allow any petroleum to be deposited on any wharf or in any shed on any wharf or on or in any place within 50 feet of any wharf or on any vessel without the permission of the port master, and no person shall deposit any petroleum or allow petroleum to remain on any such wharf or place at any time between sunset and sunrise. Except with the written permission of the port master no person shall place on any wharf any greater quantity of petroleum than can be handled in a period of one hour with the means of transport available at that wharf.
+[reg 35 am LN 99 of 2016 reg 200, effective 1 December 2016]

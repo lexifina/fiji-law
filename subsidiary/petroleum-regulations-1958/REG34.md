@@ -1,0 +1,2 @@
+# reg 34 Repairs or alterations to tanks
+Such measures as are necessary shall be taken to free the tanks from inflammable vapours before any repairs or alterations are made to tanks on tank vessels in which petroleum is or has been conveyed, involving such operations as welding, cutting, boring, soldering or hammering, which may produce heat or be liable to cause the ignition of inflammable vapours.

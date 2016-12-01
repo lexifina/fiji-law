@@ -1,0 +1,2 @@
+# reg 10 Licences to cut or collect etc any produce
+Except as provided in regulation 9, licences in Form 3 may be issued by or under the authority of the Conservator to cut, manufacture or collect and remove any forest produce for any period not exceeding 6 months on payment of a monthly fee at the rate laid down in the royalty rate list in Schedule 2, or such lower rates as the Conservator may from time to time in special circumstances authorise. Every such licence shall be personal to its holder and shall not extend to any person employed by him or her.

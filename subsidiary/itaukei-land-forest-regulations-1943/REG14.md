@@ -1,0 +1,2 @@
+# reg 14 List of persons engaged in cutting to be posted
+The person in charge of every body of persons living or working together in any occupation having for its object the cutting or removal of timber or forest produce under a licence issued under these Regulations shall cause a working board containing a full and correct list of all persons so employed or engaged, to be exhibited in a conspicuous place in the main entrance to the house or workshed, and every person whose name is contained in the said list shall be provided with a licence or sub-licence.

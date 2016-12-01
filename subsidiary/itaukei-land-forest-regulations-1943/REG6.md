@@ -1,0 +1,2 @@
+# reg 6 Sub-licence
+When a holder of a licence in Form 1 employs workmen for the purposes of his or her licence, there may be issued, at the discretion of any officer empowered by the Board in that behalf, a sub-licence in Form 4 for every workman so employed. No such sub-licence shall be transferable or be for a period exceeding 3 months or shall remain in force after the determination of the licence under which it was issued.

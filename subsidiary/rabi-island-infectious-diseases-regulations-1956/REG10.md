@@ -1,0 +1,2 @@
+# reg 10 Burial of bodies
+There shall be no delay in the burial of bodies after death from infectious disease. Any medical officer shall have power to order the immediate burial of bodies of persons who have died from infectious disease. Any person responsible for the burial of any such body who refuses or neglects to comply with any such order as aforesaid shall be guilty of a breach of these Regulations.

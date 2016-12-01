@@ -1,0 +1,5 @@
+# reg 37 Expenses on return to Fiji
+(1) Where it is necessary for a Head of Mission or an officer returning to Fiji to spend the night at Nadi before proceeding to Suva or elsewhere, he or she may claim reimbursement of actual and reasonable living expenses for himself or herself and his or her dependants for a period not exceeding 24 hours spent at a hotel in Nadi.
+(2) Where a Head of Mission or officer is to resume duty in Fiji immediately upon his or her return, he or she may in addition to subregulation (1), claim reimbursement of three-fifths of the cost of actual and reasonable living expenses for himself or herself and his or her dependants at a hotel at his or her place of duty in Fiji for a period not exceeding 7 days, which may be extended by the permanent secretary responsible for the civil service only in special circumstances.
+[subreg (2) am LN 99 of 2016 reg 32, effective 1 December 2016]
+(3) Officers returning to Fiji for leave are not entitled to claim expenses under this regulation.

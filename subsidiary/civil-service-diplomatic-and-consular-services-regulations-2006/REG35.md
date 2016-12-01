@@ -1,0 +1,5 @@
+# reg 35 Expenses on arrival at post
+(1) On first arrival at an overseas mission, Heads of Missions or an officer will be entitled to reimbursement of taxi fares from the airport to their place of accommodation and such incidentals as porterage charges.
+(2) Where no residential accommodation is immediately available, Head of Missions and officers may be reimbursed, or the overseas mission may pay direct, the actual and reasonable living expenses of the Head of Mission or officer and his or her dependants at a hotel for a period of up to 14 days.
+(3) If it is unavoidable for a Head of Mission or an officer to remain at a hotel for a period exceeding 14 days, the officer may claim reimbursement of the amount by which his or her actual and reasonable living expenses at the hotel, and those of his or her dependants, exceed 50% of his or her salary and post allowances (excluding representation allowance) for the same period except that no such reimbursement for any period exceeding 3 months must be made without the prior authority of the Permanent Secretary.
+[subreg (3) am LN 99 of 2016 reg 32, effective 1 December 2016]

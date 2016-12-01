@@ -1,0 +1,4 @@
+# reg 86 Death of Head of Mission or an officer
+(1) If a Head of Mission or an officer dies during his or her service overseas, all reasonable funeral expenses in the country in which he or she was serving or all reasonable expenses for the conveyance of his or her remains to Fiji shall be paid by the Government.
+(2) If a Head of Mission or an officer dies during his or her service in an overseas mission, his or her spouse and dependant children if then in resident with the deceased Head of Mission or officer will be provided with the cost of appropriate class single passages by the most direct route by air to Fiji, provided they leave the country in which they have been in resident with the officer within such time as the Permanent Secretary may direct, in consultation with the permanent secretary responsible for the civil service.
+[subreg (2) am Act 2 of 2016 s 20, effective 16 February 2016; LN 99 of 2016 reg 32, effective 1 December 2016]

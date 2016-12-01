@@ -1,0 +1,6 @@
+# reg 49 Definition of allowances
+Under this regulation, the post allowances listed under regulation 48 are as follows—
+"child allowance" the cost to compensate a Head of Mission or officer for additional costs, other than for education, necessarily incurred in maintaining a dependant child, if the said child is residing with him or her at an overseas mission, as compared with the costs necessarily incurred in maintaining that child in Fiji;
+"location allowance" the cost to compensate for additional expenditures necessarily incurred in maintaining a Head of Mission or officer and his or her family at an overseas mission as compared with the costs necessarily incurred by an officer of equal rank and circumstances in Fiji;
+"representation allowance" the costs to cover direct and necessary expenditures on official entertainment. Officers other than the Head of Mission must account for two-thirds of their representative allowance; and
+"representational supplementary allowance" the cost to compensate a Head of Mission or officer serving in an overseas mission for costs additional to those covered in regulation 48(a) of which are necessarily incurred for domestic service, cleaning, clothing, hairdressing, minor travelling and casual hospitality as a result of representational responsibilities.

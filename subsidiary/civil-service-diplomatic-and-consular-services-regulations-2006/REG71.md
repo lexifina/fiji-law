@@ -1,0 +1,5 @@
+# reg 71 Holiday visit passages
+(1) Where a dependant child remains at school in Fiji, and both parents or parent have left Fiji at public expense to take up residence and serve at an overseas mission, public funds may be used subject to the approval of the permanent secretary responsible for the civil service to meet the cost of student concession air fares or, if such are not available, of economy class return air fares, to enable the child to visit his or her parents once during each 12 months period that the officer is at post, the duration of such visits being wherever possible, not less than 10 days.
+[subreg (1) am LN 99 of 2016 reg 32, effective 1 December 2016]
+(2) In special circumstances, the permanent secretary responsible for the civil service may authorise a visit to Fiji by one of the parents in lieu of the annual visit to the post by the child, provided that the amount paid in fares does not exceed the cost of one economy class return air fare by the shortest route.
+[subreg (2) am LN 99 of 2016 reg 32, effective 1 December 2016]

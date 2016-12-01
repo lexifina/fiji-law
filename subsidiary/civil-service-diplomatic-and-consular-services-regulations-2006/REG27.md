@@ -1,0 +1,3 @@
+# reg 27 Parking offences
+(1) Any Fijian officer or family member who is notified that he or she has infringed the local parking regulations must pay promptly any fine for which he or she is liable unless the breach occurred during the transaction of official business and could not have been readily avoided.
+(2) However, if the breach occurred in the course of official business the officer must report it to Head of Mission who, if satisfied that the breach was unavoidable in the circumstances, may arrange for the notice to be returned through the appropriate local authority with a note setting out the circumstances which led to the contravention.

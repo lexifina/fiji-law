@@ -1,0 +1,6 @@
+# reg 23 Duty to observe local laws
+(1) A person who possesses any measure of diplomatic immunity from legal proceedings in the receiving State is still generally subject to the operations of ordinary civil and criminal laws and legislation of that State and is expected to observe them, and in particular, such a person is expected to honour his or her private contractual obligations and to make reparation for any torts he or she commits.
+(2) A person may not rely upon any relevant immunity so as to evade civil liability for his or her private actions, and any such abuse may result in a request by the receiving State for the recall of the person in question.
+(3) If a civil dispute between a member of the mission and a citizen of the receiving State cannot be settled directly between the parties, the officer must report the matter promptly to the Head of Mission, who should inform the Permanent Secretary if it appears that the dispute cannot be properly settled without recourse to the courts or to private arbitration.
+[subreg (3) am LN 99 of 2016 reg 32, effective 1 December 2016]
+(4) An officer entitled to immunity who is charged with an offence, or who has reason to believe that but for his or her status he or she would have been charged with an offence, must without exception report the circumstances promptly and fully to the Head of Mission.

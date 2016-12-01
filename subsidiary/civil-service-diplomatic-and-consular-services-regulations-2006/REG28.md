@@ -1,0 +1,4 @@
+# reg 28 Detention of members of the mission
+(1) If for any reason, including mistaken identity, alleged impaired driving, civil disorder, or mere coincidence, the police or security authorities of the receiving State attempts to arrest or detain a member of a mission, the officer concerned must explain his or her official status and personal inviolability and must insist on getting in touch with the mission by telephone or the quickest available means.
+(2) Inviolability from arrest applies at all times to the diplomatic staff and seconded administrative and technical staff.
+(3) The other subordinate staff are entitled to inviolability only in respect of things done in the performance of their duty, and in case of doubt, inviolability should be claimed pending reference of the circumstances to the Head of Mission.

@@ -1,0 +1,4 @@
+# reg 22 Engaging in private business or professional activity
+(1) A member of the family of any diplomatic staff, who is engaged in private employment in the receiving State, will in Vienna Convention countries, forfeit some immunities to which he or she would otherwise be entitled (under regulation 21(1)(c) above).
+(2) Subregulation (1) applies also to members of the administrative and technical staff of the mission. In addition, the Vienna Convention establishes and the same principle would be followed in most countries that the Head of Mission and the members of his or her staff who are of diplomatic rank “shall not in the receiving State practice for personal profit any professional or commercial activity.”
+(3) For these reasons, the Head of Mission must be consulted in relation to any case where a member of a family of a diplomatic staff contemplates undertaking private employment or professional activity, whether for gain or otherwise.

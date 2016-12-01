@@ -1,0 +1,4 @@
+# reg 42 Use of private vehicles on official business
+(1) Subject to regulation 41(2) and the rate of reimbursement approved by the Permanent Secretary, the Heads of Missions or officers who use their private vehicles for official duties in their overseas missions are entitled to casual user mileage allowance at the rate provided by the government of that country for officers of that country's civil service.
+(2) Mileage allowance may only be paid where neither an official car nor suitable public transport facilities are available for the journey in question, or where the cost of using the only available public transport would exceed the mileage allowance payable.
+(3) For the purposes of this regulation, “suitable public facilities” refers to both the convenience of the facilities and to their suitability taking into account the officer's diplomatic status.

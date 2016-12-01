@@ -1,0 +1,3 @@
+# reg 74 Medical arrangements overseas
+(1) Each Head of Mission must, in consultation with the local authorities, keep and maintain a list of qualified medical practitioners whose charges are reasonable. In countries where a State-subsidised health scheme is in operation, only doctors who practice within the schemes are to be placed on the approved list.
+(2) Medical assistance to the extent specified in the following regulations will be provided for officers posted overseas and their dependants, while they are at post in the country of posting, while they are in the same or another country for purposes of local leave or official duties; and while they are travelling to and from the post.

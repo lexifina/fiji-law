@@ -1,0 +1,5 @@
+# reg 30 Abuse of diplomatic privileges and immunities
+(1) The officers must avoid abusing the privileges and immunities granted to them.
+(2) The officers must not, whether by importing or carrying goods into the receiving State for use by anyone other than themselves or their families, by selling goods on which no duty has been paid, or by other arrangement, allow a resident of the receiving State to defeat the tax or exchange control regulations of that State.
+(3) The officers must take particular care in connection with supplies of wines, spirits and cigarettes, and other similar items obtained without the payment of taxes under diplomatic privilege, and in no case such supplies must be sold or used for the payment of financial obligations, or given to persons in more than nominal amounts.
+(4) The officers must honour the laws of the receiving State and must not deliberately commit driving offences or damage a landlord's property in the comfort that they are immune from arrest and prosecution.

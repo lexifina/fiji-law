@@ -1,0 +1,2 @@
+# RANKS OF THE FIJI POLICE FORCE
+LN 25 of 1992 commenced on 6 March 1992

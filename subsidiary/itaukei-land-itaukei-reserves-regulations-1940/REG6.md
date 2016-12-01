@@ -1,0 +1,2 @@
+# reg 6 Sittings
+The statement of particulars prepared under the provisions of regulation 5 shall be examined by the Commissioner, who may accept it as a basis for his or her recommendation in respect of reservations within the tikina, and the Commissioner shall, when he or she deems it advisable to do so, call and examine witnesses and make such alterations and amendments in the statements as are justified by the evidence elicited.

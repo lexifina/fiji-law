@@ -1,0 +1,5 @@
+# reg 2 Appointment of Commissioner and assessors
+(1) The Minister may appoint a Commissioner, who shall be charged with the duty of holding inquiries for the purpose of ascertaining the boundaries of portions of iTaukei land which the iTaukei owners desire should be set aside and notified as iTaukei reserves, and may appoint a person or persons to assist such Commissioner, and may, by general or special order published in the Gazette, confer on any such person or persons all or any of the powers of the Commissioner under these Regulations; and the term “Commissioner” wherever it is used in these Regulations shall include a person duly appointed under this subregulation to assist the Commissioner.
+[subreg (1) am LN 20 of 1958 reg 2 effective 7 March 1958 ; LN 112 of 1970 O 253, effective 8 October 1970; Decree 8 of 2011 s 3, effective 1 March 2011]
+(2) The Minister may appoint for the inquiries in each province a person being an iTaukei to sit as assessor with the Commissioner appointed as aforesaid.
+[subreg (2) am LN 112 of 1970 O 253, effective 8 October 1970; Decree 31 of 2010 s 4 effective 2 July 2010; Decree 8 of 2011 s 3, effective 1 March 2011]

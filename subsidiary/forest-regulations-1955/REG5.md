@@ -1,0 +1,5 @@
+# reg 5 Deposit
+(1) Before the issue of any licence, the applicant shall, if so required by the person empowered to issue the licence, deposit with that person such sum of money as that person may require not exceeding the amount estimated by that person as likely to be payable by the applicant in fees or royalties, or both, under the licence within the next ensuing 3 months.
+(2) Any sum of money deposited under the provisions of this regulation (hereinafter referred to as a “deposit”) may be applied towards the payment of any fees, royalties or other charges due and payable by the licensee under any licence issued to the licensee.
+(3) Where a deposit or any part of a deposit is applied in accordance with the provisions of this regulation the licensee shall, within 14 days of his or her being so required by a forest officer duly authorised in that behalf by the Conservator, deposit an equivalent amount with the forest officer.
+(4) The Conservator or any forest officer authorised by him or her in that behalf may cancel any licence held by any person who fails to deposit any money on being so required under the provisions of this regulation.

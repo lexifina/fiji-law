@@ -1,0 +1,2 @@
+# reg 22 Dealer etc to be licensed
+No person shall carry on business as a cycle dealer, cycle repairer, or hirer unless he or she is in possession of a licence in respect of each shop in which any or all of such businesses are being carried on, provided that no licence under this Regulation shall be required by the holder of a wholesale or retail licence carrying on any of the said businesses at the store specified in his or her wholesale or retail licence.

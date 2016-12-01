@@ -1,0 +1,2 @@
+# reg 30 Seizure of bicycle
+Any police officer may seize and detain pending inquiry any bicycle in respect of which any breach or attempted breach of these Regulations appears to have been committed. Any bicycle so seized and detained remaining unclaimed for 2 months from the date of such seizure or detention shall thereafter be treated as unclaimed property and the provisions of section 25 of the Police Act 1965 shall apply to any unclaimed bicycle.

@@ -1,0 +1,3 @@
+# reg 4 Boards of inquiry
+The composition and proceedings of boards of inquiry and regimental inquiries shall be governed, mutatis mutandis, by the Queen's Regulations, and the rules of procedure made by the Her Majesty in pursuance of the Army Act, in so far as they can be made applicable to the establishment and constitution of the Republic of Fiji Military Forces and are not inconsistent with the provisions of the Act and in particular with those sections of the Act which relate to boards of inquiry and regimental inquiries, offences and punishments.
+[reg 4 am LN 7 of 1962 reg 3, effective 26 January 1962]

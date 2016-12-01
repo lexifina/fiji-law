@@ -1,0 +1,2 @@
+# reg 5 Certificates of exemption
+Certificates of exemption may be claimed by any copra producer who can establish that solely as a result of hurricane damage he or she was unable during the period from 26 June 1975 until 26 September 1976 to produce copra. Such certificates of exemption shall be issued by the Minister responsible for primary industries and may be subject to such conditions as to location or amount or otherwise as in all the circumstances he or she considers equitable.

@@ -1,0 +1,5 @@
+# reg 2 Penalty for trespass
+Every person shall on conviction before the District Officer in each of the following cases be liable to a fine not exceeding $40 and in default of payment to be imprisoned for any period not exceeding 3 months—
+(a)if he or she shall contrary to the order of the Minister or District Officer enter into the occupation of any land the tenure of which is vested in any Rotuman “kainaga” unless he or she shall prove that he or she is a member of such “kainaga”;
+(b)if he or she shall contrary to the order of the Minister or District Officer become a resident in any Rotuman village unless he or she shall prove that he or she is a member of a “kainaga” of such village;
+(c)if he or she is found in the occupation of any land the tenure of which is vested in any “kainaga” of which he or she is not a member or residing in a Rotuman village not being the town of a “kainaga” of which he or she is a member and being warned by the Minister or District Officer or some person authorised by the District Officer to depart therefrom he or she for the space of 7 days neglects or refuses to do so.

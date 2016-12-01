@@ -1,0 +1,3 @@
+## PART 3 IMPORT AND EXPORT
+# cl 1
+The Customs Act 1986 shall, subject to such modifications, if any, as may be prescribed to adapt it to this Act, apply in relation to anything prohibited to be imported or exported by any of the provisions of Part 5 of this Act except with the permission of the Minister as they apply in relation to goods prohibited to be imported or exported by or under any of the said enactments, and any reference in the Customs Act 1986 to goods shall be construed as including a reference to anything prohibited to be imported or exported by any of the provisions of the said Part 5 except with the permission of the Minister.

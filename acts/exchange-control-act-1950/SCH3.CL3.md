@@ -1,0 +1,2 @@
+# cl 3
+Where a direction is given that a sum is to be paid or credited to a blocked account only, then, notwithstanding the direction, the sum may, with the consent of the person to whom it is to be paid or credited, and subject to the requirements of Part 4, be invested instead in the purchase for that person of any such investments as may be prescribed for the purposes of subparagraph (a) of the proviso to paragraph 4.

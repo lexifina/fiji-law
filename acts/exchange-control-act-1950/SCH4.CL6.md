@@ -1,0 +1,2 @@
+# cl 6
+A debt for the payment of which the permission of the Minister is required under this Act shall, if in other respects it complies with the requirements of section 6(1) of the Bankruptcy Act 1944, be allowed to be a good petitioning creditor's debt, notwithstanding the said requirement, if and to the extent that the debt can be satisfied either by a payment into court or by a payment to a blocked account.

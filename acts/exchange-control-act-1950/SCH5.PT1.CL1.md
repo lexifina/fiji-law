@@ -1,0 +1,7 @@
+## SCHEDULE 5 ENFORCEMENT
+## PART 1 GENERAL PROVISIONS AS TO EVIDENCE AND INFORMATION
+# cl 1
+(1) Without prejudice to any other provisions of this Act, the Minister may give to any person in or resident in Fiji directions requiring him or her, within such time and in such manner as may be specified in the directions, to furnish to him or her, or to any person designated in the directions as a person authorised to require it, any information in his or her possession or control which the Minister or the person so authorised, as the case may be, may require for the purpose of securing compliance with or detecting evasion of this Act.
+(2) A person required by any such directions as aforesaid to furnish information shall also produce such books, accounts or other documents (hereafter in this Part referred to as “document”) in his or her possession or control as may be required for the said purpose by the Minister or by the person authorised to require the information, as the case may be.
+(3) Nothing in subparagraph (1) or (2) shall be taken to require any person who has acted as barrister and solicitor for any person to disclose any privileged communication made to him or her in that capacity.
+(4) Where a person is convicted on indictment for failing to give information or produce documents when required so to do under this paragraph, the court may make an order requiring the offender, within such period as may be specified in the order, to comply with the requirement to give the information or produce the documents.

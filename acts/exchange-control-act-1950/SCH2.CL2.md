@@ -1,0 +1,2 @@
+# cl 2
+Where the identity of the persons by whom or for whose benefit any sum, assets, interest or dividends are directly or indirectly receivable depends on the exercise by a person resident in Fiji of a power of appointment or similar power, the sum, assets, interest or dividends shall, for the purposes of this Schedule, be deemed to be receivable directly or indirectly by or for the benefit of persons resident in Fiji.

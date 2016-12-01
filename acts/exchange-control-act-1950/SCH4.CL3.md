@@ -1,0 +1,8 @@
+# cl 3
+Without prejudice to the provisions of any enactments relating to the making of rules of court, rules of court—
+(a)enabling any person who is required by any judgment, order or award to pay any sum, if he or she apprehends that the payment of that sum is unlawful under this Act except with the permission of the Minister, to pay that sum into court; and
+(b)declaring that payment of a sum into court by virtue of subparagraph (a) together with the delivery to the other party concerned of such evidence of the payment as may be prescribed by the rules, shall, to the extent of the payment, be a good discharge to the person making the payment; and
+(c)so regulating the process of execution which may issue in respect of any sum required to be paid by any judgment, order or award as to secure that, unless it is shown, in such manner as may be prescribed by the rules, that the permission of the Minister for the payment of the sum is not required under this Act or has been given without conditions, the proceeds of the execution will be paid into court, and, so far as is necessary for that purpose, varying the form of any writ of execution or other similar document or the duties of the sheriff or other officer to whom any such writ or other similar document is directed,
+may be made, as respects the High Court, or any other court, by such authority as may be designated in that behalf by the Chief Justice, provided that—
+(i)the form of any bankruptcy notice shall be such as may be prescribed by the Minister; and
+(ii)nothing in this paragraph shall affect the provisions of any legislation which requires rules of court for inferior courts to have the concurrence of the rulemaking authority for the High Court.

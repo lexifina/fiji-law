@@ -1,0 +1,2 @@
+# reg 24 Stamping of postcards
+The postage stamps shall be affixed to the upper right hand corner of the address side of a postcard. The address of the recipient as well as any indications relating to the postal service shall appear on the address side of which the right hand half is reserved for these indications. The sender may make use of the back and of the left hand half of the address side subject to the provisions of the following regulations.

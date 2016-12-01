@@ -1,0 +1,3 @@
+# reg 87 Compensation
+Compensation for the loss or damage of an insured article or its contents in the post shall not exceed the amount of the actual loss or damage, and shall not be paid on prohibited articles, or articles which have been taken delivery of without remark, or for damage or loss caused by the fault or negligence of the sender, or arising from the nature of the article, or from tempest, ship-wreck, earthquake, war, the acts of the State’s enemies, or other causes beyond control. Compensation shall not be paid for the loss or damage of any article in respect of which the relative official documents have been destroyed through a cause beyond control.
+[reg 87 am LN 99 of 2016 reg 208, effective 1 December 2016]

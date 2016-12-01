@@ -1,0 +1,3 @@
+# reg 15 Plant matter
+The transmission through the post of plants or parts of plants, such as cuttings, roots, tubers, bulbs, fruit, or other vegetable matter, and the delivery of similar articles shall be subject to the approval of the Biosecurity Authority of Fiji. The cost of any steps which may be taken in connection with the examination or fumigation of any such articles by the direction of the Biosecurity Authority of Fiji shall be borne by the sender in the case of postal packets handed in at a post office within Fiji, or by the addressee in the case of articles received from beyond Fiji for delivery within Fiji.
+[reg 15 am LN 99 of 2016 reg 208, effective 1 December 2016]

@@ -1,0 +1,2 @@
+# reg 74 Letters to which insurance system applies
+Letters to which the insurance system shall be applicable shall be those which contain bank notes, currency notes, bonds, coupons, securities, and other documents of the kind. Documents of value such as deeds, plans, contracts, autographs, rare manuscripts, may be also sent by insured post, provided that where documents have a value by reason of the cost of their preparation, the insured value shall not exceed the cost of replacing them in case of loss.

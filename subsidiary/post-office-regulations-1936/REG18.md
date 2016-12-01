@@ -1,0 +1,3 @@
+# reg 18 Overseas mail subject to conventions
+Postal packets addressed to or received from any country outside Fiji shall be subject to the provisions of any convention or agreement in regard to the transmission of such packets through the post in force for the time being between the Government and the postal authority of such country (hereinafter referred to as postal arrangements) and to the provisions of any contract for the conveyance of mails by sea or by air in force for the time being between the Government and any company or person or body of persons.
+[reg 18 am LN 81 of 1967 reg 2, effective 10 October 1967]

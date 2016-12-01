@@ -1,0 +1,3 @@
+# reg 48 Acknowledgement of receipt
+The sender of any registered postal packet may upon application either at the time of registration thereof or at any time within one year thereafter and upon payment of the fees set out in Schedule 2 in addition to the fee for registration, require to be furnished with an acknowledgement by the addressee of the receipt of such packet, and any registered packet for delivery within Fiji the acknowledgement of the receipt of which has been applied for at the time of registration, shall not be delivered until such acknowledgement shall have been obtained by the company.
+[reg 48 am LN 82 of 1971 reg 16, effective 1 July 1971; LN 99 of 2016 reg 208, effective 1 December 2016]

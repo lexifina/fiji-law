@@ -1,0 +1,2 @@
+# reg 95 Charges on redirected parcel
+Every parcel redirected at the request of either the sender or the addressee thereof from one post office to another shall be subject upon delivery, in addition to any other charges which may be leviable thereon, to a charge equal to the postage which would have been payable upon such parcel if it were being transmitted for the first time from the one office to the other.

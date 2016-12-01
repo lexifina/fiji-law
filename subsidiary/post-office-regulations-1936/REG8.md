@@ -1,0 +1,3 @@
+# reg 8 Stamps exchanged
+Any denomination of postage stamps, envelopes, cards, wrappers, or other articles embossed or impressed with postage values of Fiji may be exchanged for any other denomination of such postage stamps, envelopes, cards, wrappers or other articles, or for cash for unused mint stamps in no smaller amounts than $2 at the discretion of the company, provided they have been purchased for postal purposes within the past 2 years and upon payment of the charge set out in Schedule 2.
+[reg 8 am LN 82 of 1971 reg 3, effective 1 July 1971; LN 99 of 2016 reg 208, effective 1 December 2016]

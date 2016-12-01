@@ -1,0 +1,3 @@
+# reg 52 Undeliverable packets
+Every registered postal packet which may from any cause be undelivered to the person to whom it is addressed shall be returned to the sender, if known, by registered post without further charge for postage or registration. And any unregistered postal packet which may likewise be undeliverable and the contents of which may be found to be of intrinsic value may be returned by the company to the sender, if known, through the registered post, and such sender shall be liable in respect of such packet for the fee set out in Schedule 2 for compulsory registration.
+[reg 52 am LN 82 of 1971 reg 18, effective 1 July 1971; LN 99 of 2016 reg 208, effective 1 December 2016]

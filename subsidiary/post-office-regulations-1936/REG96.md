@@ -1,0 +1,5 @@
+# reg 96 Stoppage and stoppage fee
+(1) Upon every parcel the transmission of which is stopped at the request of either the sender or the addressee thereof and delivered from the office at which stoppage is effected there shall be levied a stoppage fee of $0.10, and such fee shall be payable on delivery in addition to any other charges which may be due upon such parcel.
+[subreg (1) am LN 78 of 1962 reg 10, effective 1 July 1962]
+(2) In the case of any parcel returned to the sender at his or her request before the same has been despatched from the office at which it was handed in, the sender shall have no claim in respect of the postage stamps affixed to such parcel if such stamps have already been cancelled.
+(3) Any parcel stopped in transit for return to the sender or delivery to the addressee at any post office other than the office at which stoppage is effected, and any undeliverable parcel returned to the sender direct from the office to which the same has been forwarded for delivery shall be regarded as redirected from such office to another office and shall be subject to the usual charges in respect of such redirection.

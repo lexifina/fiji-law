@@ -1,0 +1,2 @@
+# reg 80 Securing etc of insured box
+An insured box shall be tied crosswise with a single strong string (not 2 or more pieces joined) the 2 ends of the string being held together under a seal of fine wax bearing a private mark. The box shall also be sealed on the 4 sides with seals identical with that used for the ends of the string. The box shall not be wrapped in paper, but the surfaces of the top and bottom shall be covered with white paper to receive the address of the addressee, the declaration of the insured value and the impression of the official stamps.

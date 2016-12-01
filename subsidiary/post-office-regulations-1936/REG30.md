@@ -1,0 +1,4 @@
+# reg 30 How to be made up
+(1) Printed papers must be made up in such a way that they can be easily examined. They shall be either placed in wrappers, or upon rollers, or between boards, or in cases open at both ends or open at both sides, or in unclosed envelopes, or they shall be secured with a string easy to untie.
+(2) Printed papers of the form and substance of a card may be sent unenclosed without band, envelope or fastening. The same method of despatch shall be allowed for printed papers folded in such a way that they cannot become unfolded during transmission and so that there shall be no risk of their entrapping other articles.
+(3) Packets containing bank pass books for delivery within Fiji only shall be allowed to pass at the rate for printed papers if the covers are sufficiently open at the ends to enable the pass books to be identified as such.

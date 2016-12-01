@@ -1,0 +1,3 @@
+# reg 17 Inquiries
+For every inquiry instituted by the chief executive officer of the company at the request of either the sender or the addressee in regard to any ordinary or registered postal packet or parcel said to have been posted, the chief executive officer of the company may require the applicant to make a declaration in support of the information furnished by him or her in such form as may be decided by the chief executive officer of the company, and except where an acknowledgement of delivery has been paid for may further require the applicant to pay the fee set out in Schedule 2.
+[reg 17 am LN 78 of 1962 reg 4, effective 1 July 1962; LN 82 of 1971 reg 8, effective 1 July 1971; LN 99 of 2016 reg 208, effective 1 December 2016]

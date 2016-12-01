@@ -1,0 +1,3 @@
+# reg 93 Parcel to be handed in at post office
+Every parcel for transmission shall be handed in over a post office counter during such hours as may be notified by the board of the company. Any parcel posted in a posting box shall be subject on delivery to a fee as set out in Schedule 2 in addition to any other charges which may be due thereon. Parcels received at a post office in a private post bag approved by the company shall be regarded and treated as if handed in in accordance with the provisions of these Regulations.
+[reg 93 am LN 82 of 1971 reg 24, effective 1 July 1971; LN 99 of 2016 reg 208, effective 1 December 2016]

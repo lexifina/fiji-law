@@ -1,0 +1,5 @@
+# reg 19 Postage paid in cash
+(1) The permanent secretary may licence the use of approved postage meters or stamping machines for impressing upon postal packets the sign of postage or stamp values, subject to such conditions as he or she may deem necessary.
+(2) Prepayment of postage may be made at such offices as may be determined and notified by the company in money instead of postage stamps, whenever the number of postal packets handed in for transmission at one and the same time by any one person amounts to 60 and the total postage amounts to $0.50, provided the packets are made up in bundles with the addresses arranged in the same direction. In every such case the amount prepaid in respect of each such packet shall be indicated thereon by the officer receiving the same in such manner as the company may direct.
+[subreg (2) am LN 99 of 2016 reg 208, 208]
+(3) Mail matter prepaid in money must be handed in at the post office between the hours of 9.00 am and 4.00 pm on weekdays and between 9.00 am and 12.00 pm on Saturdays. Postings of packets prepaid in money shall not be accepted on Sundays or public holidays.

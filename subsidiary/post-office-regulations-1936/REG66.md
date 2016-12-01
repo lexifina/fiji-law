@@ -1,0 +1,2 @@
+# reg 66 Transmission of coin etc
+There shall not be conveyed by unregistered post, or enclosed in small packets even if registered, coin, bank-notes, currency notes, negotiable instruments payable to bearer, platinum, gold or silver, manufactured or not, precious stones, jewels and other valuable articles. The transmission of postage stamps, whether obliterated or not, in open packets is prohibited.

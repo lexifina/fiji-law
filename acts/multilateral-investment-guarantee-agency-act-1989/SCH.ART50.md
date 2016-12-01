@@ -1,0 +1,2 @@
+# cl Article 50.—Waiver
+The immunities, exemptions and privileges provided in this Chapter are granted in the interests of the Agency and may be waived, to such extent and upon such conditions as the Agency may determine, in cases where such a waiver would not prejudice its interests. The Agency shall waive the immunity of any of its staff in cases where, in its opinion, the immunity would impede the course of justice and can be waived without prejudice to the interests of the Agency.

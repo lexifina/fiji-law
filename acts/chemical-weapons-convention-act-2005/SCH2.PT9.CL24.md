@@ -1,0 +1,2 @@
+# cl 24.
+At its regular session in the third year after entry into force of this Convention, the Conference, on the basis of a report of the Director-General, may also decide on the distribution of resources available for verification under section B between “PSF-plants” and other chemical production facilities. Otherwise, this distribution shall be left to the expertise of the Technical Secretariat and be added to the weighting factors in paragraph 11.

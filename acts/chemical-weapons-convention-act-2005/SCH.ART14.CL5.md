@@ -1,0 +1,2 @@
+# cl 5.
+The Conference and the Executive Council are separately empowered, subject to authorization from the General Assembly of the United Nations, to request the International Court of Justice to give an advisory opinion on any legal question arising within the scope of the activities of the Organization. An agreement between the Organization and the United Nations shall be concluded for this purpose in accordance with Article VIII, paragraph 34(a).

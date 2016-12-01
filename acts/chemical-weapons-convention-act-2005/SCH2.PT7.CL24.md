@@ -1,0 +1,2 @@
+# cl 24.
+A facility agreement for the declared plant site shall be concluded not later than 90 days after completion of the initial inspection between the inspected State Party and the Organization unless the inspected State Party and the Technical Secretariat agree that it is not needed. It shall be based on a model agreement and govern the conduct of inspections at the declared plant site. The agreement shall specify the frequency and intensity of inspections as well as detailed inspection procedures, consistent with paragraphs 25 to 29.

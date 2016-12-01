@@ -1,0 +1,2 @@
+# cl 7
+The Director-General shall prepare a list of qualified experts whose particular field of expertise could be required in an investigation of alleged use of chemical weapons and constantly keep this list updated. This list shall be communicated, in writing, to each State Party not later than 30 days after entry into force of this Convention and after each change to the list. Any qualified expert included in this list shall be regarded as designated unless a State Party, not later than 30 days after its receipt of the list, declares its non-acceptance in writing.

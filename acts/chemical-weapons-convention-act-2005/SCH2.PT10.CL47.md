@@ -1,0 +1,2 @@
+# cl 47.
+The inspected State Party shall designate the perimetre entry/exit points to be used for access. The inspection team and the inspected State Party shall negotiate: the extent of access to any particular place or places within the final and requested perimeters as provided in paragraph 48; the particular inspection activities, including sampling, to be conducted by the inspection team; the performance of particular activities by the inspected State Party; and the provision of particular information by the inspected State Party.

@@ -1,0 +1,3 @@
+# cl 34.
+After the pre-inspection briefing, the inspection team shall prepare, on the basis of the information available and appropriate to it, an initial inspection plan which specifies the activities to be carried out by the inspection team, including the specific areas of the site to which access is desired. The inspection plan shall also specify whether the inspection team will be divided into subgroups. The inspection plan shall be made available to the representatives of the inspected State Party and the inspection site. Its implementation shall be consistent with the provisions of Section C, including those related to access and activities.
+Perimeter activities

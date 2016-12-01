@@ -1,0 +1,2 @@
+# cl 13.
+Each State Party that plans to operate a single small-scale facility shall provide the Technical Secretariat with the precise location and a detailed technical description of the facility, including an inventory of equipment and detailed diagrams. For existing facilities, this initial declaration shall be provided not later than 30 days after this Convention enters into force for the State Party. Initial declarations on new facilities shall be provided not less than 180 days before operations are to begin.

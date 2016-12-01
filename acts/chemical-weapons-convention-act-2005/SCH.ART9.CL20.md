@@ -1,0 +1,2 @@
+# cl 20.
+The inspected State Party shall assist the inspection team throughout the challenge inspection and facilitate its task. If the inspected State Party proposes, pursuant to Part X, section C, of the Verification Annex, arrangements to demonstrate compliance with this Convention, alternative to full and comprehensive access, it shall make every reasonable effort, through consultations with the inspection team, to reach agreement on the modalities for establishing the facts with the aim of demonstrating its compliance.

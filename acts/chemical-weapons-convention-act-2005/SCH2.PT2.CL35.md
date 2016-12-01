@@ -1,0 +1,2 @@
+# cl 35.
+The inspected State Party or Host State Party which has been notified of the arrival of an inspection team, shall ensure its immediate entry into the territory and shall through an in-country escort or by other means do everything in its power to ensure the safe conduct of the inspection team and its equipment and supplies, from its point of entry to the inspection site(s) and to a point of exit.

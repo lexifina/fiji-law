@@ -1,0 +1,2 @@
+# cl 4.
+Subject to the provisions of paragraph 5, a State Party has the right at any time to object to an inspector or inspection assistant who has already been designated. It shall notify the Technical Secretariat of its objection in writing and may include the reason for the objection. Such objection shall come into effect 30 days after receipt by the Technical Secretariat. The Technical Secretariat, shall immediately inform the State Party concerned of the withdrawal of the designation of the inspector or inspection assistant.

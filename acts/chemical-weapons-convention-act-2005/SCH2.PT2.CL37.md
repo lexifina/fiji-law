@@ -1,0 +1,2 @@
+# cl 37.
+Upon arrival at the inspection site and before the commencement of the inspection, the inspection team shall be briefed by facility representatives, with the aid of maps and other documentation as appropriate, on the facility, the activities carried out there, safety measures and administrative and logistic arrangements necessary for the inspection. The time spent for the briefing shall be limited to the minimum necessary and in any event not exceed 3 hours.

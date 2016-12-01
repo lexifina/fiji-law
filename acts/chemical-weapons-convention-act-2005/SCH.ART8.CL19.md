@@ -1,0 +1,2 @@
+# cl 19.
+The Conference shall be the principal organ of the Organization. It shall consider any questions, matters or issues within the scope of this Convention, including those relating to the powers and functions of the Executive Council and the Technical Secretariat. It may make recommendations and take decisions on any questions, matters or issues related to this Convention raised by a State Party or brought to its attention by the Executive Council.

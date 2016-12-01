@@ -1,0 +1,2 @@
+# cl 48.
+Inspectors shall have the right to have photographs taken at their request by representatives of the inspected State Party or of the inspected facility. The capability to take instant development photographic prints shall be available. The inspection team shall determine whether photographs conform to those requested and, if not, repeat photographs shall be taken. The inspection team and the inspected State Party shall each retain one copy of every photograph.

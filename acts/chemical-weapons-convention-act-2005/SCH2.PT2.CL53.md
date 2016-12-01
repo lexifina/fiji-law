@@ -1,0 +1,2 @@
+# cl 53.
+Where possible, the analysis of samples shall be performed on-site. The inspection team shall have the right to perform on-site analysis of samples using approved equipment brought by it. At the request of the inspection team, the inspected State Party shall, in accordance with agreed procedures, provide assistance for the analysis of samples on-site. Alternatively, the inspection team may request that appropriate analysis on-site be performed in its presence.

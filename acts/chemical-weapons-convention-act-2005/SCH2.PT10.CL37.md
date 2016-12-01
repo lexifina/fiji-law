@@ -1,0 +1,2 @@
+# cl 37.
+The perimetre activities of the inspection team may be conducted within a band around the outside of the perimetre up to 50 metres in width measured outward from the perimeter. If the inspected State Party agrees, the inspection team may also have access to any building or structure within the perimetre band. All directional monitoring shall be oriented inward. For declared facilities, at the discretion of the inspected State Party, the band could run inside, outside or on both sides of the declared perimeter.

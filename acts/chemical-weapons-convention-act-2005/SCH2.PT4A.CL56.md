@@ -1,0 +1,2 @@
+# cl 56.
+The agreed detailed plans for verification, with an appropriate recommendation by the Technical Secretariat, shall be forwarded to the Executive Council for review. The Executive Council shall review the plans with a view to approving them, consistent with verification objective are obligations under this Convention. It should also confirm that verification schemes for destruction are consistent with verification aims and are efficient and practical. This review should be completed not less than 180 days before the destruction period begins.

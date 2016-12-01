@@ -1,0 +1,2 @@
+# ARTICLE III [ss 1., 2.]
+DECLARATIONS

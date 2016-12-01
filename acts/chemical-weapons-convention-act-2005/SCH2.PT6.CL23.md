@@ -1,0 +1,2 @@
+# cl 23.
+The number, intensity, duration, timing and mode of inspections for a particular facility shall be based on the risk to the object and purpose of this Convention posed by the relevant chemicals, the characteristics of the facility and the nature of the activities carried out there Appropriate guidelines shall be considered and approved by the Conference pursuant to Article VIII, paragraph 21(i).

@@ -1,0 +1,2 @@
+# cl 1.
+The Conference shall take the necessary measures, as set forth in paragraphs 2, 3 and 4, to ensure compliance with this Convention and to redress and remedy any situation which contravenes the provisions of this Convention. In considering action pursuant to this paragraph, the Conference shall take into account all information and recommendations on the issues submitted by the Executive Council.

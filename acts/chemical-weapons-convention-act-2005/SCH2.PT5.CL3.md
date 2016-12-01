@@ -1,0 +1,2 @@
+# cl 3.
+A State Party that has transferred or received chemical weapons production equipment since 1 January 1946 shall declare these transfers and receipts pursuant to Article III, paragraph 1(c)(iv), and in accordance with paragraph 5 below. When not all the specified information is available for transfer and receipt of such equipment for the period between 1 January 1946 and 1 January 1970, the State Party shall declare whatever information is still available to it and provide an explanation as to why it cannot submit a full declaration.

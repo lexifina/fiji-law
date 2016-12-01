@@ -1,0 +1,2 @@
+# cl 43.
+Upon arrival at the final perimetre of facilities declared pursuant to Articles IV, V and VI, access shall be granted following the pre-inspection briefing and discussion of the inspection plan which shall be limited to the minimum necessary and in any event shall not exceed 3 hours. For facilities declared pursuant to Article III, paragraph 1(d), negotiations shall be conducted and managed access commenced not later than 12 hours after arrival at the final perimeter.

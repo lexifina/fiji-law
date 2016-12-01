@@ -1,0 +1,2 @@
+# cl 19.
+Each State Party shall meet the costs of destruction of chemical weapons production facilities it is obliged to destroy. It shall also meet the costs of verification under this Article unless the Executive Council decides otherwise. If the Executive Council decides to limit verification measures of the Organization pursuant to paragraph 16, the costs of complementary verification and monitoring by the Organization shall be paid in accordance with the United Nations scale of assessment, as specified in Article VIII, paragraph 7.

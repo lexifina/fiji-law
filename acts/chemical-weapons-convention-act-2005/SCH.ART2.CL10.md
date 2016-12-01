@@ -1,0 +1,3 @@
+# cl 10.
+“Production Capacity” means:
+The annual quantitative potential for manufacturing a specific chemical based on the technological process actually used or, if the process is not yet operational, planned to be used at the relevant facility. It shall be deemed to be equal to the nameplate capacity or, if the nameplate capacity is not available, to the design capacity. The nameplate capacity is the product output under conditions optimised for maximum quantity for the production facility, as demonstrated by one or more test-runs. The design capacity is the corresponding theoretically calculated product output.

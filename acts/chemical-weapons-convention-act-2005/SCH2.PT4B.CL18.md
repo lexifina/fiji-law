@@ -1,0 +1,2 @@
+# cl 18.
+States Parties may conclude between themselves agreements or arrangements concerning the destruction of abandoned chemical weapons. The Executive Council may, upon request of the Territorial State Party, individually or together with the Abandoning State Party, decide that selected provisions of such agreements or arrangements take precedence over provisions of this section, if it determines that the agreement or arrangement ensures the destruction of the abandoned chemical weapons in accordance with paragraph 17.

@@ -1,0 +1,2 @@
+# cl 26.
+At the first special session of the Conference convened pursuant to Article VIII, paragraph 22, the provisions of this Part of the Verification Annex shall be re-examined in the light of a comprehensive review of the overall verification regime for the chemical industry (Article VI, Parts VII to IX of this Annex) on the basis of the experience gained. The Conference shall then make recommendations so as to improve the effectiveness of the verification regime.

@@ -1,0 +1,2 @@
+# cl 8.
+Each State Party shall destroy all chemical weapons production facilities specified in paragraph 1 and related facilities and equipment, pursuant to the Verification Annex and in accordance with an agreed rate and sequence of destruction (hereinafter referred to as “order of destruction”). Such destruction shall begin not later than one year after this Convention enters into force for it, and shall finish not later than 10 years after entry into force of this Convention, A State Party is not precluded from destroying such facilities at a faster rate.

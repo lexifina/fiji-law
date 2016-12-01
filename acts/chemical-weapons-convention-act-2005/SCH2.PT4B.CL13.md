@@ -1,0 +1,2 @@
+# cl 13.
+Pursuant to Article I, paragraph 3, the Territorial State Party shall have the right to request the State Party which has been established as the Abandoning State Party pursuant to paragraphs 8 to 12 to enter into consultations for the purpose of destroying the abandoned chemical weapons in cooperation with the Territorial State Party. It shall immediately inform the Technical Secretariat of this request.

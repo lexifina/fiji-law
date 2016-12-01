@@ -1,0 +1,2 @@
+# cl 23.
+Not later than 12 hours after the arrival of the inspection team at the point of entry, the inspected State Party shall begin collecting factual information of all vehicular exit activity from all exit points for all land, air and water vehicles of the requested perimeter. It shall provide this information to the inspection team upon its arrival at the alternative or final perimeter, whichever occurs first.

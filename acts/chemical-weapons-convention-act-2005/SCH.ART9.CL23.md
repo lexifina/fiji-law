@@ -1,0 +1,2 @@
+# cl 23.
+If the Executive Council reaches the conclusion, in keeping with its powers and functions, that further action may be necessary with regard to paragraph 22, it shall take the appropriate measures to redress the situation and to ensure compliance with this Convention, including specific recommendations to the Conference. In the case of abuse, the Executive Council shall examine whether the requesting State Party should bear any of the financial implications of the challenge inspection.

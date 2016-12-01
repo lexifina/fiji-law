@@ -1,0 +1,3 @@
+# cl 47.
+If, on the basis of the initial inspection, the Director-General believes that additional measures are necessary to inactivate the facility in accordance with this Convention, the Director-General may request, not later than 135 days after this Convention enters into force for a State Party, that such measures be implemented by the inspected State Party not later than 180 days after this Convention enters into force for it. At its discretion, the inspected State Party may satisfy the request. If it does not satisfy the request, the inspected State Party and the Director-General shall consult to resolve the matter.
+Systematic verification of chemical weapons production facilities and cessation of their activities

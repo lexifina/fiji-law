@@ -1,0 +1,2 @@
+# cl 2.
+In cases where a State Party has been requested by the Executive Council to take measures to redress a situation raising problems with regard to its compliance, and where the State Party fails to fulfil the request within the specified time, the Conference may, inter alia upon the recommendation of the Executive Council, restrict or suspend the State Party’s rights and privileges under this Convention until it undertakes the necessary action to conform with its obligations under this Convention.

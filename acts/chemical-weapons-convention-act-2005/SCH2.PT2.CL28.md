@@ -1,0 +1,2 @@
+# cl 28.
+The equipment shall be in the custody of the Technical Secretariat and be designated, calibrated and approved by the Technical Secretariat. The Technical Secretariat shall, to the extent possible, select that equipment which is specifically designed for the specific kind of inspection required. Designated and approved equipment shall be specifically protected against unauthorized alteration.

@@ -1,0 +1,3 @@
+# cl 28.
+The State Party shall continue to submit detailed annual plans for destruction in accordance with paragraph 29 and annual reports on the destruction of Category 1 chemical weapons in accordance with paragraph 36, until all Category 1 chemical weapons are destroyed. In addition, not later than at the end of each 90 days of the extension period, the State Party shall report to the Executive Council on its destruction activity. The Executive Council shall review progress towards completion of destruction and take the necessary measures to document this progress. All information concerning the destruction activities during the extension period shall be provided by the Executive Council to States Parties, upon request.
+Detailed annual plans for destruction

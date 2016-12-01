@@ -1,0 +1,2 @@
+# cl 60
+The inspection team shall, not later than 72 hours after its return to its primary work location, submit a preliminary inspection report, having taken into account, inter alia, paragraph 17 of the Confidentiality Annex, to the Director-General. The Director-General shall promptly transmit the preliminary inspection report to the requesting State Party, the inspected State Party and to the Executive Council.

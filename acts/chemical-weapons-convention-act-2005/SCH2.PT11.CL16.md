@@ -1,0 +1,2 @@
+# cl 16
+The inspection team shall have the right to collect samples of types, and in quantities it considers necessary. If the inspection team deems it necessary, and if so requested by it, the inspected State Party shall assist in the collection of samples under the supervision of inspectors or inspection assistants. The inspected State Party shall also permit and cooperate in the collection of appropriate control samples from areas neighbouring the site of the alleged use and from other areas as requested by the inspection team.

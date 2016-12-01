@@ -1,0 +1,3 @@
+# cl 19.
+Chemical weapons production facilities converted into chemical weapons destruction facilities before entry into force of this Convention shall be declared under the category of chemical weapons production facilities.
+They shall be subject to an initial visit by inspectors, who shall confirm the correctness of the information about these facilities. Verification that the conversion of these facilities was performed in such a manner as to render them inoperable as chemical weapons production facilities shall also be required, and shall fall within the framework of measures provided for the facilities that are to be rendered inoperable not later than 90 days after entry into force of this Convention.

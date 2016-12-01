@@ -1,0 +1,2 @@
+# cl 11.
+The Technical Secretariat shall conduct an initial inspection, and any further inspections as may be necessary, in order to verify all available relevant information submitted pursuant to paragraphs 8 to 10 and determine whether systematic verification in accordance with Part IV(A), paragraphs 41 to 43, of this Annex is required. It shall, if necessary, verify the origin of the abandoned chemical weapons and establish evidence concerning the abandonment and the identity of the Abandoning State.

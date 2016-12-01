@@ -1,0 +1,2 @@
+# cl 44.
+The particular storage facility to be inspected shall be chosen by the Technical Secretariat in such a way as to preclude the prediction of precisely when the facility is to be inspected. The guidelines for determining the frequency of systematic on-site inspections shall be elaborated by the Technical Secretariat, taking into account the recommendations to be considered and approved by the Conference pursuant to Article VIII, paragraph 21(i).

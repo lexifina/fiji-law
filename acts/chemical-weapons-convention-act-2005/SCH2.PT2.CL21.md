@@ -1,0 +1,3 @@
+# cl 21.
+In cases we the facilities or areas sought to be inspected are located on the territory of a State Party, but in a place under the jurisdiction or control of a State not Party to this Convention, the State Party shall take all necessary measures as would be required of an inspected State Party and a Host State Party to ensure that inspections of such facilities or areas can be carried out in accordance with the provisions of this Annex. If the State Party is unable to ensure access to those facilities or areas, it shall demonstrate that it took all necessary measures to ensure access. This paragraph shall not apply where the facilities or areas sought to be inspected are those of the State Party.
+Arrangements for use of non-scheduled aircraft

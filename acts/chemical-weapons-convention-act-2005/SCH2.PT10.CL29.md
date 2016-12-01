@@ -1,0 +1,2 @@
+# cl 29.
+The inspection team has the right to inspect on a managed access basis vehicular traffic exiting the site. The inspected State Party shall make every reasonable effort to demonstrate to the inspection team that any vehicle, subject to inspection, to which the inspection team is not granted full access, is not being used for purposes related to the possible non-compliance concerns raised in the inspection request.

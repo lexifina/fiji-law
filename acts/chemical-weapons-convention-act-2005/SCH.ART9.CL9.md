@@ -1,0 +1,2 @@
+# cl 9.
+Each State Party is under the obligation to keep the inspection request within the scope of this Convention and to provide in the inspection request all appropriate information on the basis of which a concern has arisen regarding possible non-compliance with this Convention as specified in the Verification Annex. Each State Party shall refrain from unfounded inspection requests, care being taken to avoid abuse. The challenge inspection shall be carried out for the sole purpose of determining facts relating to the possible non-compliance.

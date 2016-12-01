@@ -1,0 +1,5 @@
+# cl 49.
+Inspectors shall, in accordance with facility agreements:
+(a)Have unimpeded access to all parts of the storage facilities including any munitions, devices, bulk containers, or other containers therein. While conducting their activity, inspectors shall comply with the safety regulations at the facility. The items to be inspected will be chosen by the inspectors; and
+(b)Have the right, during the first and any subsequent inspection of each chemical weapons storage facility, to designate munitions, devices, and containers from which samples are to be taken, and to affix to such munitions, devices, and containers a unique tag that will indicate an attempt to remove or alter the tag. A sample shall be taken from a tagged item at a chemical weapons storage facility or a chemical weapons destruction facility as soon as it is practically possible in accordance with the corresponding destruction programmes, and, in any case, not later than by the end of the destruction operations.
+Systematic verification of the destruction of chemical weapons

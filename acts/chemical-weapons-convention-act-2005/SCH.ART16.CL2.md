@@ -1,0 +1,2 @@
+# cl 2.
+Each State Party shall, in exercising its national sovereignty, have the right to withdraw from this Convention if it decides that extraordinary events, related to the subject-matter of this Convention, have jeopardized the supreme interests of its country. It shall give notice of such withdrawal 90 days in advance to all other States Parties, the Executive Council, the Depositary and the United Nations Security Council. Such notice shall include a statement of the extraordinary events it regards as having jeopardized its supreme interests.

@@ -1,0 +1,2 @@
+# cl 21.
+If a State Party, due to exceptional circumstances beyond its control, believes that it cannot achieve the level of destruction specified for Phase 1, Phase 2 or Phase 3 of the order of destruction of Category 1 chemical weapons, it may propose changes in those levels. Such a proposal must be made not later than 120 days after the entry into force of this Convention and shall contain a detailed explanation of the reasons for the proposal.

@@ -1,0 +1,2 @@
+# cl 14.
+Inspection teams shall be guided by the principle of conducting on-site inspections in the least intrusive manner possible consistent with the effective and timely accomplishment of their mission. They shall take into consideration proposals which may be made by the State Party receiving the inspection, at whatever stage of the inspection, to ensure that sensitive equipment or information, not related to chemical weapons, is protected.

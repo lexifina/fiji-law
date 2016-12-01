@@ -1,0 +1,2 @@
+# cl 4.
+Each State Party shall, immediately after the declaration under Article III, paragraph 1(a), has been submitted, provide access to chemical weapons specified in paragraph 1 for the purpose of systematic verification of the declaration through on-site inspection. Thereafter, each State Party shall not remove any of these chemical weapons, except to a chemical weapons destruction facility. It shall provide access to such chemical weapons, for the purpose of systematic on-site verification.

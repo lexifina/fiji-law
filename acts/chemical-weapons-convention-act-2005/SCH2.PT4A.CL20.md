@@ -1,0 +1,2 @@
+# cl 20.
+The Executive Council shall review the general plans for destruction of chemical weapons, submitted pursuant to Article III, paragraph 1(a)(v), and in accordance with paragraph 6, inter alia, to assess their conformity with the order of destruction set forth in paragraphs 15 to 19. The Executive Council shall consult with any State Party whose plan does not conform, with the objective of bringing the plan into conformity.

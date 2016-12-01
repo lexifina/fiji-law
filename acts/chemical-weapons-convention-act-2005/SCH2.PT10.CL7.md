@@ -1,0 +1,2 @@
+# cl 7.
+The inspection site shall be designated by the requesting State Party as specifically as possible by providing a site diagram related to a reference point with geographic coordinates, specified to the nearest second if possible. If possible, the requesting State Party shall also provide a map with a general indication of the inspection site and a diagram specifying as precisely as possible the requested perimetre of the site to be inspected.

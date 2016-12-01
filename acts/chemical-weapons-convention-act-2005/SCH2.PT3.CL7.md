@@ -1,0 +1,2 @@
+# cl 7.
+In the case of a facility, referred to in paragraph 6, that will cease operations not later than 2 years after this Convention enters into force for the State Party, the Executive Council may decide that transitional verification arrangements, approved in accordance with Part IV(A), paragraph 51, of this Annex and including a transitional facility agreement, provisions for verification through on-site inspection and monitoring with on-site instruments, and the time-frame for application of the arrangements, are sufficient.

@@ -1,0 +1,2 @@
+# cl 7.
+The Director-General, the inspectors and the other members of the staff shall not disclose even after termination of their functions to any unauthorized persons any confidential information coming to their knowledge in the performance of their official duties. They shall not communicate to any State, organization or person outside the Technical Secretariat any information to which they have access in connection with their activities in relation to any State Party.

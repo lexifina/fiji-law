@@ -1,0 +1,2 @@
+# cl 12.
+If the information available from the ongoing investigation or other reliable sources would give sufficient proof that there are victims of use of chemical weapons and immediate action is indispensable, the Director-General shall notify all States Parties and shall take emergency measures of assistance, using the resources the Conference has placed at his disposal for such contingencies. The Director-General shall keep the Executive Council informed of actions undertaken pursuant to this paragraph.

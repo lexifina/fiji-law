@@ -1,0 +1,2 @@
+# cl 24.
+If a State Party believes that it will be unable to ensure the destruction of all Category 1 chemical weapons not later than 10 years after the entry into force of this Convention, it may submit a request to the Executive Council for an extension of the deadline for completing the destruction of such chemical weapons. Such a request must be made not later than 9 years after the entry into force of this Convention.

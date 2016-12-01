@@ -1,0 +1,2 @@
+# cl 19.
+The Director-General shall oversee the implementation of individual secrecy agreements. The Director-General shall promptly initiate an investigation if, in his judgment, there is sufficient indication that obligations concerning the protection of confidential information have been violated. The Director-General shall also promptly initiate an investigation if an allegation concerning a breach of confidentiality is made by a State Party.

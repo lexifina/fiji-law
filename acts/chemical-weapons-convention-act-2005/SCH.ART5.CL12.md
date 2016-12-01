@@ -1,0 +1,2 @@
+# cl 12.
+Chemical weapons production facilities specified in paragraph 1 may be temporarily converted for destruction of chemical weapons in accordance with Part V, paragraphs 18 to 25, of the Verification Annex. Such a converted facility must be destroyed as soon as it is no longer in use for destruction of chemical weapons but, in any case, not later than 10 years after entry into force of this Convention.

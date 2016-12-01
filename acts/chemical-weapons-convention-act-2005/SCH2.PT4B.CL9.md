@@ -1,0 +1,2 @@
+# cl 9.
+A State Party which discovers abandoned chemical weapons after this Convention enters into force for it shall, not later than 180 days after the discovery, submit to the Technical Secretariat all available relevant information concerning the discovered abandoned chemical weapons. This information shall include, to the extent possible, the location, type, quantity and the present condition of the abandoned chemical weapons as well as information on the abandonment.

@@ -1,0 +1,2 @@
+# cl 11.
+Any State Party which has on its territory chemical weapons that are owned or possessed by another State, or that are located in any place under the jurisdiction or control of another State, shall make the fullest efforts to ensure that these chemical weapons are removed from its territory not later than one year after this Convention enters into force for it. If they are not removed within one year, the State Party may request the Organization and other States Parties to provide assistance in the destruction of these chemical weapons.

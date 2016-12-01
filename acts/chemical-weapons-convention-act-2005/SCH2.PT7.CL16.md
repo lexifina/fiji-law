@@ -1,0 +1,2 @@
+# cl 16.
+Each plant site to be inspected pursuant to paragraph 12 shall receive an initial inspection as soon as possible but preferably not later than 3 years after entry into force of this Convention. Plant sites declared after this period shall receive an initial inspection not later than one year after production, processing or consumption is first declared. Selection of plant sites for initial inspections shall be made by the Technical Secretariat in such a way as to preclude the prediction of precisely when the plant site is to be inspected.

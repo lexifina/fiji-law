@@ -1,0 +1,2 @@
+# cl 8.
+Each State Party has the right to request an on-site challenge inspection of any facility or location in the territory or in any other place under the jurisdiction or control of any other State Party for the sole purpose of clarifying and resolving any questions concerning possible non-compliance with the provisions of this Convention, and to have this inspection conducted anywhere without delay by an inspection team designated by the Director-General and in accordance with the Verification Annex.

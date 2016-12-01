@@ -1,0 +1,2 @@
+# cl 12.
+The report of the Technical Secretariat shall be submitted to the Executive Council, the Territorial State Party, and to the Abandoning State Party or the State Party declared by the Territorial State Party or identified by the Technical Secretariat as having abandoned the chemical weapons. If one of the States Parties directly concerned is not satisfied with the report it shall have the right to settle the matter in accordance with provisions of this Convention or bring the issue to the Executive Council with a view to settling the matter expeditiously.

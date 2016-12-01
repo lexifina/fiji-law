@@ -1,0 +1,2 @@
+# cl 68.
+Pending a decision of the Conference, a State Party may continue to use for purposes not prohibited under this Convention a facility that was being used for such purposes before this Convention enters into force for it, but only if the State Party certifies in its request that no specialized equipment and no specialized buildings are being used and that the specialized equipment and specialized buildings have been rendered inactive using the methods specified in paragraph 13.

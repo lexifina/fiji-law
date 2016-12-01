@@ -1,0 +1,2 @@
+# cl 20.
+In selecting particular plant sites for inspection and in deciding on the frequency and intensity of inspections, the Technical Secretariat shall give due consideration to the risk to the object and purpose of this Convention posed by the relevant chemical, the characteristics of the plant site and the nature of the activities carried out there, taking into account the respective facility agreement as well as the results of the initial inspections and subsequent inspections.

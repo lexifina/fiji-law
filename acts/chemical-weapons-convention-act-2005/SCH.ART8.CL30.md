@@ -1,0 +1,2 @@
+# cl 30.
+The Executive Council shall be the executive organ of the Organization. It shall be responsible to the Conference. The Executive Council shall carry out the powers and functions entrusted to it under this Convention, as well as those functions delegated to it by the Conference. In so doing, it shall act in conformity with the recommendations, decisions and guidelines of the Conference and assure their proper and continuous implementation.

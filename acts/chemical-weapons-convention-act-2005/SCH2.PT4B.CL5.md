@@ -1,0 +1,2 @@
+# cl 5.
+The Technical Secretariat shall conduct an initial inspection, and any further inspections as may be necessary, in order to verify the information submitted pursuant to paragraphs 3 and 4 and in particular to determine whether the chemical weapons meet the definition of old chemical weapons as specified in Article II, paragraph 5. Guidelines to determine the usability of chemical weapons produced between 1925 and 1946 shall be considered and approved by the Conference pursuant to Article VIII, paragraph 21(i).

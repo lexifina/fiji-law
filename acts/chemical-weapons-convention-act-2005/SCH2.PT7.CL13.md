@@ -1,0 +1,2 @@
+# cl 13.
+The programme and budget of the Organization to be adopted by the Conference pursuant to Article VIII, paragraph 21(a) shall contain, as a separate item, a programme and budget for verification under this section. In the allocation of resources made available for verification under Article VI, the Technical Secretariat shall, during the first 3 years after the entry into force of this Convention, give priority to the initial inspections of plant sites declared under section A. The allocation shall thereafter be reviewed on the basis of the experience gained.

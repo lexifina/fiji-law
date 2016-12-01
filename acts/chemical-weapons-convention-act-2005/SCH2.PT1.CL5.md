@@ -1,0 +1,9 @@
+# cl 5.
+“Equipment” as referred to in the definition of chemical weapons production facility in Article II comprises specialized equipment and standard equipment.
+(a)“Specialized Equipment” means:
+(i)The main production train, including any reactor or equipment for product synthesis, separation or purification, any equipment used directly for heat transfer in the final technological stage, such as in reactors or in product separation, as well as any other equipment which has been in contact with any chemical specified in Article II, paragraph 8(a), or would be in contact with such a chemical if the facility were operated;
+(ii)Any chemical weapon filling machines;
+(iii)Any other equipment specially designed, built or installed for the operation of the facility as a chemical weapons production facility, as distinct from a facility constructed according to prevailing commercial industry standards for facilities not producing any chemical specified in Article II, paragraph 8(a)(i), or corrosive chemicals, such as: equipment made of high-nickel alloys or other special corrosion-resistant material; special equipment for waste control, waste treatment, air filtering, or solvent recovery; special containment enclosures and safety shields; non-standard laboratory equipment used to analyse toxic chemicals for chemical weapons purposes; custom-designed process control panels; or dedicated spares for specialized equipment.
+(b)“Standard Equipment” means:
+(i)Production equipment which is generally used in the chemical industry and is not included in the types of specialized equipment;
+(ii)Other equipment commonly used in the chemical industry, such as: fire-fighting equipment; guard and security/safety surveillance equipment; medical facilities, laboratory facilities; or communications equipment.

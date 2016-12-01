@@ -1,0 +1,2 @@
+# cl 17.
+The report to be prepared after each inspection shall only contain facts relevant to compliance with this Convention. The report shall be handled in accordance with the regulations established by the Organization governing the handling of confidential information. If necessary, the information contained in the report shall be processed into less sensitive forms before it is transmitted outside the Technical Secretariat and the inspected State Party.

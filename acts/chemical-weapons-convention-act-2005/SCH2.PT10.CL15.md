@@ -1,0 +1,5 @@
+# cl 15.
+For all declared facilities, the procedures in subparagraphs (a) and (b) shall apply. (For the purposes of this Part, “declared facility” means all facilities declared pursuant to Articles III, IV, and V. With regard to Article VI, “declared facility” means only facilities declared pursuant to Part VI of this Annex, as well as declared plants specified by declarations pursuant to Part VII, paragraphs 7 and 10(c), and Part VIII, paragraphs 7 and 10(c), of this Annex).
+(a)If the requested perimetre is contained within or conforms with the declared perimeter, the declared perimetre shall be considered the final perimeter. The final perimetre may, however, if agreed by the inspected State Party, be made smaller in order to conform with the perimetre requested by the requesting State Party.
+(b)The inspected State Party shall transport the inspection team to the final perimetre as soon as practicable, but in any case shall ensure their arrival at the perimetre not later than 24 hours after the arrival of the inspection team at the point of entry.
+Alternative determination of final perimeter

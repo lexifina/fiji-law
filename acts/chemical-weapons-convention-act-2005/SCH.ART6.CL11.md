@@ -1,0 +1,2 @@
+# cl 11.
+The provisions of this Article shall be implemented in a manner which avoids hampering the economic or technological development of States Parties, and international cooperation in the field of chemical activities for purposes not prohibited under this Convention including the international exchange of scientific and technical information and chemicals and equipment for the production, processing or use of chemicals for purposes not prohibited under this Convention.

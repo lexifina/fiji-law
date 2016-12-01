@@ -1,0 +1,2 @@
+# cl 40.
+The Technical Secretariat shall inform the Executive Council of any problem that has arisen with regard to the discharge of its functions, including doubts, ambiguities or uncertainties about compliance with this Convention that have come to its notice in the performance of its verification activities and that it has been unable to resolve or clarify through its consultations with the State Party concerned.

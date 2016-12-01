@@ -1,0 +1,2 @@
+# cl 10.
+A State Party which has abandoned chemical weapons on the territory of another State Party (hereinafter referred to as the “Abandoning State Party”) shall, not later than 30 days after this Convention enters into force for it, submit to the Technical Secretariat all available relevant information concerning the abandoned chemical weapons. This information shall include, to the extent possible, the location, type, quantity as well as information on the abandonment, and the condition of the abandoned chemical weapons.

@@ -1,0 +1,2 @@
+# cl 3.
+Each State Party shall subject chemicals listed in Schedule 1 (hereinafter referred to as “Schedule 1 chemicals”) to the prohibitions on production, acquisition, retention, transfer and use as specified in Part VI of the Verification Annex. It shall subject Schedule 1 chemicals and facilities specified in Part VI of the Verification Annex to systematic verification through on-site inspection and monitoring with on-site instruments in accordance with that Part of the Verification Annex.

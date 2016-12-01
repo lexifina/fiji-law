@@ -1,0 +1,2 @@
+# cl 5.
+Declarations pursuant to paragraph 3 are generally not required for mixtures containing a low concentration of a Schedule 2 chemical. They are only required, in accordance with guidelines, in cases where the ease of recovery from the mixture of the Schedule 2 chemical and its total weight are deemed to pose a risk to the object and purpose of this Convention. These guidelines shall be considered and approved by the Conference pursuant to Article VIII, paragraph 21(i).

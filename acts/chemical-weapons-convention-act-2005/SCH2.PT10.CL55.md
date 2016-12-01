@@ -1,0 +1,2 @@
+# cl 55
+The observer shall have the right to arrive at the alternative or final perimetre of the inspection site, wherever the inspection team arrives first, and to have access to the inspection site as granted by the inspected State Party. The observer shall have the right to make recommendations to the inspection team, which the team shall take into account to the extent it deems appropriate. Throughout the inspection, the inspection team shall keep the observer informed about the conduct of the inspection and the findings.

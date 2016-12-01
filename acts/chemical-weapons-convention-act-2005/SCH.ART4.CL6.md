@@ -1,0 +1,2 @@
+# cl 6.
+Each State Party shall destroy all chemical weapons specified in paragraph 1 pursuant to the Verification Annex and in accordance with the agreed rate and sequence of destruction (hereinafter referred to as “order of destruction”). Such destruction shall begin not later than 2 years after this Convention enters into force for it and shall finish not later than 10 years after entry into force of this Convention. A State Party is not precluded from destroying such chemical weapons at a faster rate.

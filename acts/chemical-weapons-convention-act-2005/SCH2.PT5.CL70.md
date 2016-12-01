@@ -1,0 +1,2 @@
+# cl 70.
+As a condition for conversion of a chemical weapons production facility for purposes not prohibited under this Convention, all specialized equipment at the facility must be destroyed and all special features of buildings and structures that distinguish them from buildings and structures normally used for purposes not prohibited under this Convention and not involving Schedule 1 chemicals must be eliminated.

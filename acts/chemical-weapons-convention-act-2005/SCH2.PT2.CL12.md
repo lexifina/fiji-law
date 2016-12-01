@@ -1,0 +1,2 @@
+# cl 12.
+When transiting the territory of non-inspected States Parties, the members of the inspection team shall be accorded the privileges and immunities enjoyed by diplomatic agents pursuant to Article 40, paragraph 1, of the Vienna Convention on Diplomatic Relations. Papers and correspondence, including records, and samples and approved equipment, carried by them, shall be accorded the privileges and immunities set forth in paragraph 11(c) and (d).

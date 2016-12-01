@@ -1,0 +1,3 @@
+# cl 29.
+Each member of the Executive Council shall have one vote. Unless otherwise specified in this Convention, the Executive Council shall take decisions on matters of substance by a two-thirds majority of all its members. The Executive Council shall take decisions on questions of procedure; by a simple majority of all its members. When the issue arises as to whether the question is one of substance or not, that question shall be treated as a matter of substance unless otherwise decided by the Executive Council by the majority required for decisions on matters of substance.
+Powers and functions

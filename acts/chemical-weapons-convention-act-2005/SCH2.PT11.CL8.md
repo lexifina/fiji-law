@@ -1,0 +1,2 @@
+# cl 8
+The Director-General shall select the leader and members of an inspection team from the inspectors and inspection assistants already designated for challenge inspections taking into account the circumstances and specific nature of a particular request. In addition, members of the inspection team may be selected from the list of qualified experts when, in the view of the Director-General, expertise not available among inspectors already designated is required for the proper conduct of a particular investigation.

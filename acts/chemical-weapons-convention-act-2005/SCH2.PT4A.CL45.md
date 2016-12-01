@@ -1,0 +1,2 @@
+# cl 45.
+The Technical Secretariat shall notify the inspected State Party of its decision to inspect or visit the storage facility 48 hours before the planned arrival of the inspection team at the facility for systematic inspections or visits. In cases of inspections or visits to resolve urgent problems, this period may be shortened. The Technical Secretariat shall specify the purpose of the inspection or visit.

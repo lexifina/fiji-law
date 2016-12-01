@@ -1,0 +1,2 @@
+# cl 21.
+Should a State Party have the need to convert to a chemical weapons destruction facility an additional chemical weapons production facility that had been closed after this Convention entered into force for it, it shall inform the Technical Secretariat thereof not less than 150 days before conversion. The Technical Secretariat, in conjunction with the State Party, shall make sure that the necessary measures are taken to render that facility, after its conversion, inoperable as a chemical weapons production facility.

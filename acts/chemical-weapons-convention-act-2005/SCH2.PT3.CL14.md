@@ -1,0 +1,2 @@
+# cl 14.
+The inspected State Party shall immediately notify the Technical Secretariat if an event occurs or may occur at a facility where monitoring instruments are installed, which may have an impact on the monitoring system. The inspected State Party shall coordinate subsequent actions with the Technical Secretariat with a view to restoring the operation of the monitoring system and establishing interim measures, if necessary, as soon as possible.

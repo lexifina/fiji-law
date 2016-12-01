@@ -1,0 +1,2 @@
+# cl 16.
+Each State Party shall designate the points of entry and shall supply the required information to the Technical Secretariat not later than 30 days after this Convention enters into force for it. These points of entry shall be such that the inspection team can reach any inspection site from at least one point of entry within 12 hours. Locations of points of entry shall be provided to all States Parties by the Technical Secretariat.

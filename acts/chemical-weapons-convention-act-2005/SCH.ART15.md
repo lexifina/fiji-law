@@ -1,0 +1,2 @@
+# ARTICLE XV [ss 1.–5.]
+AMENDMENTS

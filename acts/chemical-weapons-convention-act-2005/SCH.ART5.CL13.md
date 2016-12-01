@@ -1,0 +1,2 @@
+# cl 13.
+A State Party may request, in exceptional cases of compelling need, permission to use a chemical weapons production facility specified in paragraph 1 for purposes not prohibited under this Convention. Upon the recommendation of the Executive Council, the Conference of the States Parties shall decide whether or not to approve the request and shall establish the conditions upon which approval is contingent in accordance with Part V, section D, of the Verification Annex.

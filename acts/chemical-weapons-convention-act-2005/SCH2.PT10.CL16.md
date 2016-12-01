@@ -1,0 +1,2 @@
+# cl 16.
+At the point of entry, if the inspected State Party cannot accept the requested perimeter, it shall propose an alternative perimetre as soon as possible, but in any case not later than 24 hours after the arrival of the inspection team at the point of entry. In case of differences of opinion, the inspected State Party and the inspection team shall engage in negotiations with the aim of reaching agreement on a final perimeter.

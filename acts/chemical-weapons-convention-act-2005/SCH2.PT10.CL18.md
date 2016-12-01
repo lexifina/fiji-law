@@ -1,0 +1,2 @@
+# cl 18.
+If the alternative perimetre is acceptable to the inspection team, it shall become the final perimetre and the inspection team shall be transported from the point of entry to that perimeter. If the inspected State Party deems it necessary, such transportation may begin up to 12 hours before the expiry of the time period specified in paragraph 16 for proposing an alternative perimeter. Transportation shall, in any case, be completed not later than 36 hours after the arrival of the inspection team at the point of entry.

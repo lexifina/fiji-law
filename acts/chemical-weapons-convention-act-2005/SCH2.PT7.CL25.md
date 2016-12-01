@@ -1,0 +1,2 @@
+# cl 25.
+The focus of the inspection shall be the declared Schedule 2 plant(s) within the declared plant site. If the inspection team requests access to other parts of the plant site, access to these areas shall be granted in accordance with the obligation to provide clarification pursuant to Part II, paragraph 51, of this Annex and in accordance with the facility agreement, or, in the absence of a facility agreement, in accordance with the rules of managed access as specified in Part X, Section C, of this Annex.

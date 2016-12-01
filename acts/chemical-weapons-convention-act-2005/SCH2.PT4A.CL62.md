@@ -1,0 +1,2 @@
+# cl 62.
+The inspectors shall verify the arrival of the chemical weapons at the destruction facility and the storing of these chemical weapons. The inspectors shall verify the inventory of each shipment, using agreed procedures consistent with facility safety regulations, prior to the destruction of the chemical weapons. They shall employ, as appropriate, agreed seals, markers or other inventory control procedures to facilitate an accurate inventory of the chemical weapons prior to destruction.

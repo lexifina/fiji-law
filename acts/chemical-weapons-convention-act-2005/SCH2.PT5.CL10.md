@@ -1,0 +1,2 @@
+# cl 10.
+For a chemical weapons production facility declared pursuant to Article III, paragraph 1(c)(iii), it is the responsibility of the State Party on whose territory the facility is or has been located to make appropriate arrangements to ensure that the declarations specified in paragraphs 6 to 9 above are made. If the State Party on whose territory the facility is or has been located is not able to fulfil this obligation, it shall state the reasons therefor.

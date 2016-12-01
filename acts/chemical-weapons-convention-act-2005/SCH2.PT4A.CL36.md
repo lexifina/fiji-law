@@ -1,0 +1,2 @@
+# cl 36.
+Information regarding the implementation of plans for destruction of chemical weapons shall be submitted to the Technical Secretariat pursuant to Article IV, paragraph 7(b), not later than 60 days after the end of each annual destruction period and shall specify the actual amounts of chemical weapons which were destroyed during the previous year at each destruction facility. If appropriate, reasons for not meeting destruction goals should be stated.

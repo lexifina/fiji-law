@@ -1,0 +1,3 @@
+# reg 7 Replacement of lost medal
+(1) When a Medal is lost through carelessness or neglect, the Commissioner of Police may recommend that the loser be provided with a new Medal at his or her own expense. If the loss is accidental, it may be recommended that the loser be supplied with a new Medal, either at his or her own or at the public expense, according to the circumstances of the case.
+(2) An application for a new Medal to replace one which has been lost must be accompanied by a declaration as to the circumstances under which the original Medal was lost. A new Medal will not be issued until a period of 6 months has elapsed since the date on which the loss occurred.

@@ -1,0 +1,2 @@
+# reg 8 Death of owner
+Upon the death of an owner of a registered timber mark his or her personal representative shall be deemed to be the owner of such timber mark. Such representative may apply in the form prescribed to have such timber mark registered in his or her name or in the name of his or her nominee. If no such application is made within 12 months after the death, the registration of the timber mark shall be cancelled and the timber mark shall be available for re-allotment and registration.

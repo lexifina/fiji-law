@@ -1,0 +1,3 @@
+# reg 7 Transfer
+(1) When any registered timber mark is intended to be transferred, the owner and intending transferee shall execute a joint memorandum in the form prescribed in Schedule 3 and upon the receipt of such memorandum and a fee of $1 the Registrar shall cancel the existing registration of such timber mark and may either register the same in the name of the transferee, in which case he or she shall as soon as practicable after such registration transmit to the owner a certificate of registration in the form prescribed, or may for any good and sufficient reason refuse to register such transfer. The decision of the Registrar shall be final.
+(2) A transferred registered timber mark shall have effect for 3 years from the date of registration of the transfer.

@@ -1,0 +1,5 @@
+# s 11 Complementary matter in revised edition
+(1) The revised edition may also contain a reprint of such imperial enactments, treaties and conventions and such indices, notes and references as the Commissioner considers useful to include.
+(2) When any imperial enactment, treaty or convention is reprinted in pursuance of subsection (1), the provisions of the imperial enactment, treaty or convention may be reproduced with such amendments as may have been made thereto, and where any imperial enactment, treaty or convention has been applied or extended to Fiji with modifications, the provisions of that imperial enactment, treaty or convention may be reproduced with those modifications, provided that every departure from the original text of the imperial enactment, treaty or convention shall be clearly shown by notes, references or other similar means.
+(3) The Commissioner may also cause the reprint referred to in subsection (1) to be published in such number of separate binders, in the manner prescribed by section 7, or in such other form as he or she considers convenient.
+[subs (3) am Act 6 of 2016 s 5, effective 16 February 2016]

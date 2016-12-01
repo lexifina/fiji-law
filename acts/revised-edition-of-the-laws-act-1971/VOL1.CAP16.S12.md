@@ -1,0 +1,10 @@
+# s 12 Revision of revised edition
+(1) The Attorney-General must, as soon as reasonably practicable following the enactment of a written law, including an amendment, revocation or repeal of a written law—
+(a)cause to be prepared and included in the revised edition the enacted written law, other than any written law the sole or substantial effect of which was to amend, revoke or repeal another written law;
+(b)cause to be prepared and included in the revised edition the effects of a written law the sole or substantial effect of which was to amend, revoke or repeal another written law; and
+(c)if the Attorney-General considers it necessary, cause to be prepared and included a new index to the revised edition with the old index omitted.
+(2) The Attorney-General must include, with any material published pursuant to this section, suitable instructions for the insertion of such material in the revised edition and for the removal of redundant pages.
+(3) Subject to the other provisions of this Act, the material comprising a revision of the revised edition prepared pursuant to this section must, when inserted in the revised edition in conformity with the instructions issued by the Attorney-General under subsection (2), be deemed to be included in and to form part of the revised edition and as such and in place of any material removed in conformity with those instructions, must without any question whatsoever in all courts of justice and for all purposes whatsoever be the sole and only proper law of Fiji in respect of the written law contained therein.
+(4) For the purposes of this section, the Attorney-General has and performs mutatis mutandis the powers and duties conferred or imposed by this Act on the Commissioner.
+(5) Notwithstanding subsections (1) to (4), the Attorney-General must, following the approval of Cabinet, cause to be prepared and published a new revised edition in accordance with the provisions of this Act.
+[s 12 subst Act 6 of 2016 s 6, effective 16 February 2016]

@@ -1,0 +1,6 @@
+# FORM 2 APPLICATION FOR SEARCH CERTIFICATE
+The Registrar of Titles, Government Buildings,
+Suva.
+Date ....
+I hereby request to be informed whether there is any and if any what obstacle to a dealing by (give name of proprietor and number of certificate or lease), with the land comprised in (certificate of title or lease) ....
+Signature of Applicant

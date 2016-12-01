@@ -1,0 +1,2 @@
+# reg 7 Alterations etc to be initialled
+Before documents are presented for registration they should be carefully examined to see that they are properly prepared. All blanks shall be ruled out and all interlineations, alterations and corrections shall be properly initialled in any place in the document before the date thereof by the party adversely affected. If such party is illiterate, then it shall be initialled by the witness to his or her signature. Where alterations are made of a material nature, the Registrar may require the document to be withdrawn.

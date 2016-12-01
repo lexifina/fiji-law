@@ -1,0 +1,6 @@
+# FORM 3 SEARCH CERTIFICATE NO
+The last registered dealing or encumbrance affecting the title of the proprietor to the land comprised in the above certificate of title or lease is noted upon the certificate as follows, (Refer to the last entry upon the certificate or lease in such a way as distinctly to identify or if the title be clear state that there is no dealing or encumbrance mentioned upon the certificate or lease).
+At the time of issuing this certificate there is nothing to prevent the registration of a dealing by the registered proprietor except, (If the title be clear and there is nothing to prevent dealing strike out the word “except”).
+(If there be any caveat dealing lodged for registration, application by Official Receiver, notice of fi. fa. or other obstacle to dealing not noted on the certificate of title or lease, refer to such obstacle in such a way as to give the applicant notice of it and to enable him or her to ascertain particulars by inspection).
+The information above given refers only to the present state of the register and the present right to register a dealing with the interest of the proprietor appearing on the register.
+The seal of the Registrar of Titles was affixed to this search certificate at the ........ hour of ........ o’clock on the ........ day of ........ 20.....

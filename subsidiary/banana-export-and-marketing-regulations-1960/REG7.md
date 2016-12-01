@@ -1,0 +1,2 @@
+# reg 7 Purchase of bananas
+The Board shall not be required to purchase any bananas submitted to it by any licensed supplier unless such bananas are supplied in the quantities, at the times, and in all respects in accordance with the lawful directions issued by the Produce Inspector with respect to such bananas and unless and until they have been passed by the Produce Inspector as having attained the quality standards prescribed and are packed in cases which in all respects conform to the standards prescribed.

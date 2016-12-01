@@ -1,0 +1,13 @@
+# SCHEDULE 3 STATEMENT OF QUANTITY OF BANANAS SUBMITTED FOR INSPECTION
+To the Produce Inspector, Suva.
+The bananas described hereunder are submitted for your inspection and, if passed for export or for purchase by the Fiji Banana Marketing Board for export by ............ of ................
+(Vessel) (Date)
+I hereby certify that to the best of my knowledge and belief these bananas have been harvested, packed and transported in accordance with the Banana Export and Marketing Regulations now in force.
+Signed ........
+Licensed Supplier
+Mark … | | | | |
+No of cases … | | | | |
+I certify that the above figures for cases submitted for inspection have been found correct.
+........
+Produce Inspector
+Date ........

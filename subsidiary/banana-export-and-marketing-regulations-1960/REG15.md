@@ -1,0 +1,2 @@
+# reg 15 Allocation of quotas
+When at any time or during any period the Board is unable to obtain shipping space for all bananas available from licensed suppliers, the Board shall be empowered to allot quotas to such licensed suppliers as near as possible in proportion to the quantity of bananas, so far as the Board can determine this, which each licensed supplier has available for export, provided that with approval of the Minister the Board may allot quotas on an area basis.

@@ -1,0 +1,13 @@
+# reg 8 Standards of quality of bananas and cases
+(1)
+(a)Cases shall be constructed of sound, clean, seasoned and dry timber of the following dimensions, ends and centre partitions 11.5 inches by 11.5 inches by three-quarter inch; 9 battens each 26 inches by 3 inches by three-eighth inch; 3 lidding battens each 26.5 inches by 3 inches by three-eighth inch or 2 lidding battens each 26.5 inches by 4.5 inches by three-eighth inch. Cases shall be tidily constructed with evenly spaced battens without protruding ends and without nails protruding;
+(b)the ends of cases shall be constructed of white timber. The centre partition and all battens may be of white or light coloured timber;
+(c)all timber of which cases are constructed shall be reasonably smoothly finished on all external surfaces and dressed or planed on surfaces in contact with bananas;
+(d)nails shall be flatheaded 13 gauge and not less than 1.5 inches in length. Side battens shall be nailed to ends and to the centre partition by 2 nails at each point. Bottom battens shall be nailed to ends only with 2 nails at each point. Lidding battens shall be nailed to ends only;
+(e)all cases shall be bound at each end with wire.
+[subs (1) am LN 45 of 1963 reg 2, effective 22 March 1963]
+(2) Only bananas of the varieties Veimama, Gros Michel or Cavendish of the species Musa acuminata shall be accepted.
+(3) Bananas shall be packed firmly in single fingers with the stalk end outwards so as to contain not less than 72 lb nett weight of bananas in each case; the bananas shall be so packed that the lid will have a bulge of 1.5 inches or thereabouts above the top line of the case.
+(4) Bananas shall be three-quarters full, free from bruising, twisted stems or any form of damage which, in the opinion of an inspector, may lead to deterioration during transit; no bananas shall have more than 10% of the surface affected by scab moth or other damage; bananas must be normal in shape and shall not be less than 5.5 inches in length (including the stalk when measured straight) or such lesser length as the Board may from time to time prescribe by notice in the Gazette; bananas must be in fresh, firm condition at all times.
+[subs (4) am LN 185 of 1960 reg 2, effective 30 December 1960; LN 122 of 1964 reg 2, effective 27 November 1964]
+(5) No line of bananas shall be rejected for purchase and export by an Inspector unless at least 5% of the total number of cases in such line have been examined and unless 20% or more of the cases so examined have been found to contain 20 bananas or more which, in the opinion of an Inspector, do not conform to the standards prescribed.

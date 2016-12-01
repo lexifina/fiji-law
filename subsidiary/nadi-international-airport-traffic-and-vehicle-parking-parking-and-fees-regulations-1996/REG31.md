@@ -1,0 +1,2 @@
+# reg 31 Penalties
+Any person who acts in contravention, or fails to comply with any of the provisions of these Regulations shall be guilty of an offence and shall be liable in the case of a first conviction to a fine not exceeding $100 and in the case of every subsequent conviction to a fine not exceeding $200 or to imprisonment for a term not exceeding 2 months or to both such fine and imprisonment.

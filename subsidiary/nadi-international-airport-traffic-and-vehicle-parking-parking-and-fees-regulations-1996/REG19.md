@@ -1,0 +1,2 @@
+# reg 19 Tour transport operators
+Tour transport operators may apply for an annual licence for which a fee will be charged. Such licence will not entitle the operator to a parking space, but will entitle the operator to pick up and set down passengers in the designated areas only. Vehicles will be denied entry to the Nadi lnternational Airport precincts unless identification stickers as prescribed are displayed.

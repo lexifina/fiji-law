@@ -1,0 +1,2 @@
+# r 12 Endorsement of service
+The party serving the notice shall, within 3 days at most after such service, endorse on the notice or a copy or duplicate thereof the day of the month and week of the service thereof, otherwise the judgment creditor shall not be at liberty to issue execution on the judgment; and every affidavit of service of such notice shall mention the day on which such endorsement was made. This rule shall apply to substituted as well as other service. The 3 days limited by this rule may under special circumstances be extended by order of the court.

@@ -1,0 +1,2 @@
+# ARTICLE V
+The States Parties to this Convention undertake to consult one another and to cooperate in solving any problems which may arise in relation to the objective of, or in the application of the provisions of, the Convention. Consultation and Cooperation pursuant to this article may also be undertaken through appropriate international procedures within the framework of the United Nations and in accordance with its Charter.

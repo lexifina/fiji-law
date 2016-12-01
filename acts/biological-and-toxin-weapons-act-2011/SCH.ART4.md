@@ -1,0 +1,2 @@
+# ARTICLE IV
+Each State Party to this Convention shall, in accordance with its constitutional processes, take any necessary measures to prohibit and prevent the development, production, stockpiling, acquisition, or retention of the agents, toxins, weapons, equipment and means of delivery specified in article I of the Convention, within the territory of such State, under its jurisdiction or under its control anywhere.

@@ -1,0 +1,2 @@
+# ARTICLE II
+Each State Party to this Convention undertakes to destroy, or to divert to peaceful purposes, as soon as possible but not later than nine months after entry into force of the Convention, all agents, toxins, weapons, equipment and means of delivery specified in article I of the Convention, which are in its possession or under its jurisdiction or control. In implementing the provisions of this article all necessary safety precautions shall be observed to protect populations and the environment.

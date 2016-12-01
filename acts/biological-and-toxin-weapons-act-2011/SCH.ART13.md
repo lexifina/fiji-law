@@ -1,0 +1,3 @@
+# ARTICLE XIII
+(1)This Convention shall be of unlimited duration.
+(2)Each State Party to this Convention shall in exercising its national sovereignty have the right to withdraw from the Convention if it decides that extraordinary events, related to the subject matter of the Convention, have jeopardized the supreme interests of its country. It shall give notice of such withdrawal to all other States Parties to the Convention and to the United Nations Security Council three months in advance. Such notice shall include a statement of the extraordinary events it regards as having jeopardized its supreme interests.

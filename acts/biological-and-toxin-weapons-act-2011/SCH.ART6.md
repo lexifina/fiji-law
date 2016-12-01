@@ -1,0 +1,3 @@
+# ARTICLE VI
+(1)Any State Party to this convention which finds that any other State Party is acting in breach of obligations deriving from the provisions of the Convention may lodge a complaint with the Security Council of the United Nations. Such a complaint should include all possible evidence confirming its validity, as well as a request for its consideration by the Security Council.
+(2)Each State Party to this Convention undertakes to cooperate in carrying out any investigation which the Security Council may initiate, in accordance with the provisions of the Charter of the United Nations, on the basis of the complaint received by the Council. The Security Council shall inform the States Parties to the Convention of the results of the investigation.

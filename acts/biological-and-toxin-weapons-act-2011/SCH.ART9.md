@@ -1,0 +1,2 @@
+# ARTICLE IX
+Each State Party to this Convention affirms the recognized objective of effective prohibition of chemical weapons and, to this end, undertakes to continue negotiations in good faith with a view to reaching early agreement on effective measures for the prohibition of their development, production and stockpiling and for their destruction, and on appropriate measures concerning equipment and means of delivery specifically designed for the production or use of chemical agents for weapons purposes.

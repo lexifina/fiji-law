@@ -1,0 +1,7 @@
+# MUTUAL ASSISTANCE IN CRIMINAL MATTERS ACT 1997
+AN ACT TO REGULATE THE OBTAINING OF INTERNATIONAL ASSISTANCE IN CRIMINAL MATTERS RELATING TO TAKING OF EVIDENCE, ASSISTANCE IN INVESTIGATIONS AND PROCEDURES FOR FORFEITURE OR CONFISCATION OF PROPERTIES USED IN THE COMMISSION OF A SERIOUS OFFENCE AND RELATED MATTERS
+Table of Amendments
+Mutual Assistance in Criminal Matters Act 1997 (No 28 of 1997) commenced on 1 June 1998, as amended by:
+Amending Legislation | Date of Commencement
+Mutual Assistance in Criminal Matters (Amendment) Act 2005 (No 2 of 2005) | 1 September 2005
+Revised Edition of the Laws (Consequential Amendments) Act 2016 (No 31 of 2016) | 1 December 2016

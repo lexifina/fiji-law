@@ -1,0 +1,2 @@
+# cl 11
+Upon at least 72 hours notice, the members of the fact-finding mission shall arrive in the territory of the requested State Party at the earliest opportunity. The requested State Party shall take the necessary administrative measures to receive, transport and accommodate the mission, and shall be responsible for ensuring the security of the mission to the maximum extent possible while they are on territory under its control.

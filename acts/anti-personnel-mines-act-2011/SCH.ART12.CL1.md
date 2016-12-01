@@ -1,0 +1,2 @@
+# cl 1
+A Review Conference shall be convened by the Secretary-General of the United Nations five years after the entry into force of this Convention. Further Review Conferences shall be convened by the Secretary-General of the United Nations if so requested by one or more States Parties, provided that the interval between Review Conferences shall in no case be less than five years. All States Parties to this Convention shall be invited to each Review Conference.

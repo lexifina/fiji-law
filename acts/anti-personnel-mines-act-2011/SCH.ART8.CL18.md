@@ -1,0 +1,2 @@
+# cl 18
+The Meeting of the States Parties or the Special Meeting of the States Parties shall consider all relevant information, including the report submitted by the fact-finding mission, and may request the requested State Party to take measures to address the compliance issue within a specified period of time. The requested State Party shall report on all measures taken in response to this request.

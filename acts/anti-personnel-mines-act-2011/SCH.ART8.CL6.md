@@ -1,0 +1,2 @@
+# cl 6
+The Meeting of the States Parties or the Special Meeting of the States Parties, as the case may be, shall first determine whether to consider the matter further, taking into account all information submitted by the States Parties concerned. The Meeting of the States Parties or the Special Meeting of the States Parties shall make every effort to reach a decision by consensus. If despite all efforts to that end no agreement has been reached, it shall take this decision by a majority of States Parties present and voting.

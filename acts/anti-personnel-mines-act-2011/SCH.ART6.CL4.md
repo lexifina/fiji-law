@@ -1,0 +1,2 @@
+# cl 4
+Each State Party in a position to do so shall provide assistance for mine clearance and related activities. Such assistance may be provided, inter alia, through the United Nations system, international or regional organizations or institutions, non-governmental organizations or institutions, or on a bilateral basis, or by contributing to the United Nations Voluntary Trust Fund for Assistance in Mine Clearance, or other regional funds that deal with demining.

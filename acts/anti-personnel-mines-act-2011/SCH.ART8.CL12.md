@@ -1,0 +1,2 @@
+# cl 12
+Without prejudice to the sovereignty of the requested State Party, the fact-finding mission may bring into the territory of the requested State Party the necessary equipment which shall be used exclusively for gathering information on the alleged compliance issue. Prior to its arrival, the mission will advise the requested State Party of the equipment that it intends to utilize in the course of its fact-finding mission.

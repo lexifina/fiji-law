@@ -1,0 +1,2 @@
+# cl 1
+“Anti-personnel mine” means a mine designed to be exploded by the presence, proximity or contact of a person and that will incapacitate, injure or kill one or more persons. Mines designed to be detonated by the presence, proximity or contact of a vehicle as opposed to a person, that are equipped with anti-handling devices, are not considered anti-personnel mines as a result of being so equipped.

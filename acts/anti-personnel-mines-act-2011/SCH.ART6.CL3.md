@@ -1,0 +1,2 @@
+# cl 3
+Each State Party in a position to do so shall provide assistance for the care and rehabilitation, and social and economic reintegration, of mine victims and for mine awareness programs. Such assistance may be provided, inter alia, through the United Nations system, international, regional or national organizations or institutions, the International Committee of the Red Cross, national Red Cross and Red Crescent societies and their International Federation, non-governmental organizations, or on a bilateral basis.

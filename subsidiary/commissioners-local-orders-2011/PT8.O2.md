@@ -1,0 +1,2 @@
+# r 2 Scope
+This Local Order applies to all staff.

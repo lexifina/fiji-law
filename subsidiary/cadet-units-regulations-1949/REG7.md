@@ -1,0 +1,3 @@
+# reg 7 Command
+A unit shall be under the command of the principal or headmaster of the school in respect of which such unit has been established or such other person as the principal or headmaster of the school, with the approval of the Commander, may appoint. There may also be a second in command and such other officers as with the approval of the Commander a commanding officer may appoint. A commanding officer may also with the approval of the Commander promote any cadet to be a cadet officer or to hold any subordinate rank or reduce him or her from such rank as the commanding officer sees fit.
+[reg 7 am LN 99 of 2016 reg 29, effective 1 December 2016]

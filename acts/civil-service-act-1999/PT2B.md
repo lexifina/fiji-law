@@ -1,0 +1,2 @@
+# PART 2B EQUAL EMPLOYMENT OPPORTUNITIES (Repealed)
+(Repealed)

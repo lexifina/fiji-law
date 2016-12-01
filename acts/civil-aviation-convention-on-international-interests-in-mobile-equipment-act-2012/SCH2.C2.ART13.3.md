@@ -1,0 +1,2 @@
+# cl 3.
+The person in whose favour the authorisation has been issued (the “authorised party”) or its certified designee shall be the sole person entitled to exercise the remedies specified in Article IX(1) and may do so only in accordance with the authorisation and applicable aviation safety laws and regulations. Such authorisation may not be revoked by the debtor without the consent in writing of the authorised party. The registry authority shall remove an authorisation from the registry at the request of the authorised party.

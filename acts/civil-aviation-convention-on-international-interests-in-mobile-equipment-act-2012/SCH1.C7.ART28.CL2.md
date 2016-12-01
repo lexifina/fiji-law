@@ -1,0 +1,2 @@
+# cl 2.
+The Registrar shall not be liable under the preceding paragraph for factual inaccuracy of registration information received by the Registrar or transmitted by the Registrar in the form in which it received that information nor for acts or circumstances for which the Registrar and its officers and employees are not responsible and arising prior to receipt of registration information at the International Registry.

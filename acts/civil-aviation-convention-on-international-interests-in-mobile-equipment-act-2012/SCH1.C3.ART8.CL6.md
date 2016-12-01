@@ -1,0 +1,2 @@
+# cl 6.
+Where the sums collected or received by the chargee as a result of the exercise of any remedy set out in paragraph 1 or 2 exceed the amount secured by the security interest and any reasonable costs incurred in the exercise of any such remedy, then unless otherwise ordered by the court the chargee shall distribute the surplus among holders of subsequently ranking interests which have been registered or of which the chargee has been given notice, in order of priority and pay any remaining balance to the chargor.

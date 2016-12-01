@@ -1,0 +1,3 @@
+## Article 48 Regional Economic Integration Organisations
+# cl 1.
+A Regional Economic Integration Organisation which is constituted by sovereign States and has competence over certain matters governed by this Convention may similarly sign, accept, approve or accede to this Convention. The Regional Economic Integration Organisation shall in that case have the rights and obligations of a Contracting State, to the extent that that Organisation has competence over matters governed by this Convention. Where the number of Contracting States is relevant in this Convention, the Regional Economic Integration Organisation shall not count as a Contracting State in addition to its Member States which are Contracting States.

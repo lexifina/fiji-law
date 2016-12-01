@@ -1,0 +1,2 @@
+# cl 2.
+The Depositary shall communicate the text of any preliminary draft Protocol relating to a category of objects prepared by such a working group to all States Parties to this Convention, all member States of the Depositary, member States of the United Nations which are not members of the Depositary and the relevant intergovernmental organisations and shall invite such States and organisations to participate in intergovernmental negotiations for the completion of a draft Protocol on the basis of such a preliminary draft Protocol.

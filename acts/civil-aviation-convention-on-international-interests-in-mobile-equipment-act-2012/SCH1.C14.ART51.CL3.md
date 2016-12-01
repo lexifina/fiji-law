@@ -1,0 +1,2 @@
+# cl 3.
+The Depositary shall also communicate the text of any preliminary draft Protocol prepared by such a working group to such relevant non-governmental organisations as the Depositary considers appropriate. Such non-governmental organisations shall be invited promptly to submit comments on the text of the preliminary draft Protocol to the Depositary and to participate as observers in the preparation of a draft Protocol.

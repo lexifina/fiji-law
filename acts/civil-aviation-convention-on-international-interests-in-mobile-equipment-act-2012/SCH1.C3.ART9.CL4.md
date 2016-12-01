@@ -1,0 +1,2 @@
+# cl 4.
+At any time after default as provided in Article 11 and before sale of the charged object or the making of an order under paragraph 2, the chargor or any interested person may discharge the security interest by paying in full the amount secured, subject to any lease granted by the chargee under Article 8(1)(b) or ordered under Article 8(2). Where, after such default, the payment of the amount secured is made in full by an interested person other than the debtor, that person is subrogated to the rights of the chargee.

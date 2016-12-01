@@ -1,0 +1,2 @@
+# cl 3.
+Subject to paragraph 4, any amendment to this Convention shall be approved by at least a two-thirds majority of States Parties participating in the Conference referred to in the preceding paragraph and shall then enter into force in respect of States which have ratified, accepted or approved such amendment when ratified, accepted or approved by three States in accordance with the provisions of Article 49 relating to its entry into force.

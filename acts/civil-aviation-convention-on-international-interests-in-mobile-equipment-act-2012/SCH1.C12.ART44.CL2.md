@@ -1,0 +1,2 @@
+# cl 2.
+Where a person fails to respond to a demand made under Article 25 and that person has ceased to exist or cannot be found for the purpose of enabling an order to be made against it requiring it to procure discharge of the registration, the courts referred to in the preceding paragraph shall have exclusive jurisdiction, on the application of the debtor or intending debtor, to make an order directed to the Registrar requiring the Registrar to discharge the registration.

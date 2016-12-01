@@ -1,0 +1,2 @@
+# cl 3.
+Article 8(3) of the Convention shall not apply to aircraft objects. Any remedy given by the Convention in relation to an aircraft object shall be exercised in a commercially reasonable manner. A remedy shall be deemed to be exercised in a commercially reasonable manner where it is exercised in conformity with a provision of the agreement except where such a provision is manifestly unreasonable.

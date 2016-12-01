@@ -1,0 +1,2 @@
+# Article 40 Registrable non-consensual rights or interests
+A Contracting State may at any time in a declaration deposited with the Depositary of the Protocol list the categories of non-consensual right or interest which shall be registrable under this Convention as regards any category of object as if the right or interest were an international interest and shall be regulated accordingly. Such a declaration may be modified from time to time.

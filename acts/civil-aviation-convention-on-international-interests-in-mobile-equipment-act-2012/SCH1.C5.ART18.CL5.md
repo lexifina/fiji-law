@@ -1,0 +1,2 @@
+# cl 5.
+The Protocol may provide that a Contracting State may designate an entity or entities in its territory as the entry point or entry points through which the information required for registration shall or may be transmitted to the International Registry. A Contracting State making such a designation may specify the requirements, if any, to be satisfied before such information is transmitted to the International Registry.

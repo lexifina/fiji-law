@@ -1,0 +1,3 @@
+# FORM NO 20
+Declaration under Article XXX(2) in respect of Article X providing for partial application of Article X
+The Government of the Republic of Fiji declares that it will apply only the provisions of Article X(1), (2), (3), (4), (6) and (7), and that the number of working days to be used for the purposes of the time-limit laid down in Article X(2) shall be the number of working days equivalent to ten (10) calendar days in connection with the legal remedies provided for in Article 13(1)(a), (b) and (c) of the Convention and thirty (30) calendar days in connection with the legal remedies provided for in Article 13(1)(d) and (e) of the Convention.

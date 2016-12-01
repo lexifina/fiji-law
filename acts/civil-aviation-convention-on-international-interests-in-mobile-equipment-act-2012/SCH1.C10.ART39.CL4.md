@@ -1,0 +1,2 @@
+# cl 4.
+Notwithstanding the preceding paragraph, a Contracting State may, at the time of ratification, acceptance, approval of or accession to the Protocol, declare that a right or interest of a category covered by a declaration made under sub-paragraph (a) of paragraph 1 shall have priority over an international interest registered prior to the date of such ratification, acceptance, approval or accession.

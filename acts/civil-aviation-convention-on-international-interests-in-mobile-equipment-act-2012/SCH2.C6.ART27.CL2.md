@@ -1,0 +1,2 @@
+# cl 2.
+The Regional Economic Integration Organisation shall, at the time of signature, acceptance, approval or accession, make a declaration to the Depositary specifying the matters governed by this Protocol in respect of which competence has been transferred to that Organisation by its Member States. The Regional Economic Integration Organisation shall promptly notify the Depositary of any changes to the distribution of competence, including new transfers of competence, specified in the declaration under this paragraph.

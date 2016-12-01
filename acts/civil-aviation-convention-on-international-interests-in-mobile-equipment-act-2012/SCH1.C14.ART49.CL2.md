@@ -1,0 +1,2 @@
+# cl 2.
+For other States this Convention enters into force on the first day of the month following the expiration of three months after the date of the deposit of their instrument of ratification, acceptance, approval or accession but only as regards a category of objects to which a Protocol applies and subject, in relation to such Protocol, to the requirements of sub-paragraphs (a), (b) and (c) of the preceding paragraph.

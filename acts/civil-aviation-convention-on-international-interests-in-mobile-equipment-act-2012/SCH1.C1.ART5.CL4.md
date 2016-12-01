@@ -1,0 +1,2 @@
+# cl 4.
+Where a State comprises several territorial units, each of which has its own rules of law in respect of the matter to be decided and where there is no indication of the relevant territorial unit, the law of that State decides which is the territorial unit whose rules shall govern. In the absence of any such rule, the law of the territorial unit with which the case is most closely connected shall apply.

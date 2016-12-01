@@ -1,0 +1,2 @@
+# Article 55 Declarations regarding relief pending final determination
+A Contracting State may, at the time of ratification, acceptance, approval of, or accession to the Protocol, declare that it will not apply the provisions of Article 13 or Article 43, or both, wholly or in part. The declaration shall specify under which conditions the relevant Article will be applied, in case it will be applied partly or otherwise which other forms of interim relief will be applied.

@@ -1,0 +1,2 @@
+# cl 3.
+A Contracting State may, at the time of ratification, acceptance, approval of, or accession to this Protocol, declare that it will apply the entirety of Alternative A, or the entirety of Alternative B of Article XI and, if so, shall specify the types of insolvency proceeding, if any, to which it will apply Alternative A and the types of insolvency proceeding, if any, to which it will apply Alternative B. A Contracting State making a declaration pursuant to this paragraph shall specify the time-period required by Article XI.

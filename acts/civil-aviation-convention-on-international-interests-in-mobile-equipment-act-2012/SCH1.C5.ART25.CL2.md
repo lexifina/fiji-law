@@ -1,0 +1,2 @@
+# cl 2.
+Where a prospective international interest or a prospective assignment of an international interest has been registered, the intending creditor or intending assignee shall, without undue delay, procure the discharge of the registration after written demand by the intending debtor or assignor which is delivered to or received at its address stated in the registration before the intending creditor or assignee has given value or incurred a commitment to give value.

@@ -1,0 +1,2 @@
+# cl 7.
+The insolvency administrator or the debtor, as applicable, may retain possession of the aircraft object where, by the time specified in paragraph 2, it has cured all defaults other than a default constituted by the opening of insolvency proceedings and has agreed to perform all future obligations under the agreement. A second waiting period shall not apply in respect of a default in the performance of such future obligations.

@@ -1,0 +1,2 @@
+# cl 2.
+For the purposes of Article 25(2) of the Convention and in the circumstances there described, the holder of a registered prospective international interest or a registered prospective assignment of an international interest or the person in whose favour a prospective sale has been registered shall take such steps as are within its power to procure the discharge of the registration no later than five working days after the receipt of the demand described in such paragraph.

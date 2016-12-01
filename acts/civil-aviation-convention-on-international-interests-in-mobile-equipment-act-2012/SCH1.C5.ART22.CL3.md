@@ -1,0 +1,2 @@
+# cl 3.
+A search certificate issued under the preceding paragraph shall indicate that the creditor named in the registration information has acquired or intends to acquire an international interest in the object but shall not indicate whether what is registered is an international interest or a prospective international interest, even if this is ascertainable from the relevant registration information.

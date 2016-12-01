@@ -1,0 +1,2 @@
+# cl 5.
+If the insolvency administrator or the debtor, as applicable, does not give notice in conformity with paragraph 2 or when the insolvency administrator or the debtor has declared that it will give the creditor the opportunity to take possession of the aircraft object but fails to do so, the court may permit the creditor to take possession of the aircraft object upon such terms as the court may order and may require the taking of any additional step or the provision of any additional guarantee.

@@ -1,0 +1,2 @@
+# cl 3.
+A Contracting State may in its declaration under paragraph 1 specify a date, not earlier than three years after the date on which the declaration becomes effective, when this Convention and the Protocol will become applicable, for the purpose of determining priority, including the protection of any existing priority, to pre-existing rights or interests arising under an agreement made at a time when the debtor was situated in a State referred to in sub-paragraph (b) of the preceding paragraph but only to the extent and in the manner specified in its declaration.

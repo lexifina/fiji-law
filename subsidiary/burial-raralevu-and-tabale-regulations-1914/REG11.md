@@ -1,0 +1,2 @@
+# reg 11 Public or private graves
+Graves shall be either public or private. The sanitary inspector shall have a discretion to authorise or refuse the opening of a grave for the purpose of a second or subsequent interment therein, excepting in the case of a private grave or vault, in which no such second or subsequent interment shall take place without the consent of the owner or of the parties having a present interest in such private grave or vault.

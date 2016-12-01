@@ -1,0 +1,2 @@
+# reg 27 Fees
+The fees mentioned in Schedule 5 shall be paid to the sanitary inspector before interment, and all such fees shall be paid by him or her into the Consolidated Fund. If the fees are not paid before interment, double the amount due may be recovered either from the applicant or from any person or persons who shall have been responsible for or who shall have had the charge of the interment, unless a satisfactory guarantee has been made to the sanitary inspector before interment and the amount due is paid within 7 days after interment.

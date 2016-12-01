@@ -1,0 +1,2 @@
+# reg 24 Allottee to have exclusive right of interment and not ownership of soil
+Notwithstanding the use of the term “owner” in these Regulations the allotment of land for the purpose of any private grave or vault shall not vest the ownership of the soil in the allottee, but merely the exclusive right to him or her and his or her representatives to have interments therein, subject to the restrictions and conditions abovementioned.

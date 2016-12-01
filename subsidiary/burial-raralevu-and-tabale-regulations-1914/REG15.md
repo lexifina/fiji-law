@@ -1,0 +1,2 @@
+# reg 15 Applications for interments in vaults
+Whenever an application for interment in a vault shall be made by any person other than the owner, no such interment shall be permitted unless the application be accompanied with the owner's consent in writing, and such consent shall be filed by the sanitary inspector. For the purpose of this regulation the term “owner” shall include any person acting with the consent of the parties having an interest in the vault to which the application refers.

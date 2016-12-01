@@ -1,0 +1,3 @@
+# reg 14 Chairperson
+(1) The chairperson of the Board shall preside as chairperson of the annual general meeting or if he or she is not present within 30 minutes after the time appointed for the holding of the annual general meeting, or is unwilling to act, the vice-chairperson who is present and willing shall be the chairperson or if the vice-chairperson is not present or unwilling to act as chairperson, the delegates present shall elect one of their members to be chairperson at that annual general meeting.
+(2) In the case of equality of votes, the chairperson or acting chairperson of the general meeting shall be entitled to a second or casting vote.

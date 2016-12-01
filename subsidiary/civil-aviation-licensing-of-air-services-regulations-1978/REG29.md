@@ -1,0 +1,2 @@
+# reg 29 Application of certain provisions to provisional and special licences
+Any reference to a licence in regulation 5(2) and (3), in regulation 14(1), in regulations 17, 26, 28 and 30, or in regulation 31(3) shall be construed as including reference, so far as is appropriate, to a provisional licence or a special licence and, in the regulations cited above, references to the licensing authority or the Licensing Board shall be construed as references to the Permanent Secretary in the case of special licences.

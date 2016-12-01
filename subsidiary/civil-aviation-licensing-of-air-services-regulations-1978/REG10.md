@@ -1,0 +1,2 @@
+# reg 10 Inquiry
+The licensing authority may, if it thinks fit, for the purpose of determining applications for licences or for amendments thereof hold inquiries in public or in private. Before holding any such inquiry the licensing authority shall give to the applicant, and to any person who has made any representations or objections with regard to the application, notice in the form prescribed in Schedule 4 and shall give the applicant and any such person an opportunity of being heard at the inquiry.

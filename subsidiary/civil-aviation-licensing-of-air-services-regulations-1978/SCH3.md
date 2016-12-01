@@ -1,0 +1,5 @@
+# SCHEDULE 3 REPRESENTATIONS AND OBJECTIONS WITH REGARD TO AN APPLICATION FOR A LICENCE OR FOR AN AMENDMENT OF A LICENCE
+1Every representation with regard to or objection to an application for a licence (or for an amendment of a licence) shall be in writing and shall state the specific ground on which it is based and shall specify any conditions which it may be suggested might be attached to the licence (or amendment of a licence) if granted.
+2The representation and/or objection shall be made to the licensing authority not more than 21 days after the publication of the Notice specified in Schedule 2.
+3Where the representation or objection is made by any body corporate or partnership firm it shall be signed by a person duly authorised in that behalf by the body corporate or a partner of the partnership firm, as the case may be.
+4A copy of every representation or objection made shall be sent by the person making the same to the applicant for the licence (or for amendment of a licence) at the same time as it is sent to the licensing authority.

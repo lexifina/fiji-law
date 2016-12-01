@@ -1,0 +1,7 @@
+# reg 14 Power to revoke or suspend in particular circumstances
+(1) Subject to the provisions of subregulation (2), the licensing authority may revoke or suspend a licence if—
+(a)the holder of the licence has, since the licence was granted, been convicted of an offence against regulation 4; or
+(b)where the holder of the licence is a body corporate, any officer of that body corporate has, since the licence was granted, been convicted, in his or her capacity as such officer, of an offence against regulation 4; or
+(c)the holder of the licence has failed to comply with any condition subject to which the licence was granted.
+(2) Before revoking or suspending any licence under subregulation(1)(c),the licensing authority shall give to the holder such notice as is prescribed in Form 1 of Schedule 5 specifying the grounds upon which it is proposed to revoke or suspend the licence, and it shall not revoke or suspend the licence without first holding a public inquiry if, within the period prescribed in the authority's notice for the submission of representations, the holder of the licence (by such notice, as is prescribed in Form 2 of Schedule 5) requires it so to do, and unless it is satisfied that the licence should be revoked or suspended.
+(3) The expression “officer” in subregulation (1)(b) means a director, general manager, secretary or other responsible employee or servant of the body corporate and includes any person, who, with the authority of the body corporate, acts as such officer.

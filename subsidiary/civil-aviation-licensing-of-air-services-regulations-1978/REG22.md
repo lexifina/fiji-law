@@ -1,0 +1,4 @@
+# reg 22 Permit required
+(1) Subject to the provisions of these Regulations, it shall not be lawful for any person to use any aircraft registered outside Fiji, for the provision of an air service between any 2 places, of which at least one is in Fiji, except under and in accordance with the conditions of a permit granted by the Minister.
+(2) The provisions of this regulation shall not apply in respect of any journey performed on the authority of Article 5 of the Convention on International Civil Aviation if the aircraft performing the journey flies across Fiji without landing or lands in Fiji for non-traffic purposes only.
+(3) The provisions of this regulation shall not apply in respect of the aircraft of any state or territory which is a party to the International Air Services Transit Agreement, which fly across Fiji without landing or land in Fiji in accordance with the provisions of that agreement.

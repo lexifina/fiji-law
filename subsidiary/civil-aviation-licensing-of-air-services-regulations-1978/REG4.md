@@ -1,0 +1,2 @@
+# reg 4 Licence required
+Subject to the provisions of these Regulations, it shall not be lawful for any person to use any aircraft for the carriage in Fiji of passengers, mail or freight for hire or reward upon any journey between 2 places, of which at least one is in Fiji, except under, and in accordance with, the provisions of a licence or a provisional licence granted by the licensing authority or of a special licence granted by the Permanent Secretary in accordance with regulation 6.

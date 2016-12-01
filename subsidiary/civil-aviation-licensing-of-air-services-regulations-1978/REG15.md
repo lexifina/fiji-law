@@ -1,0 +1,2 @@
+# reg 15 Surrender of licence
+A licence may at any time be surrendered by the holder to the licensing authority for cancellation. If, during the currency of a licence, the holder applies to the licensing authority for a new licence in substitution for the current licence, he or she shall, if a new licence is granted, surrender the current licence for cancellation on the date from which the new licence is expressed to take effect.

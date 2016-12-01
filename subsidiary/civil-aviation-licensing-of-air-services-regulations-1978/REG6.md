@@ -1,0 +1,2 @@
+# reg 6 Special licence
+In an emergency, an application may be made to the Permanent Secretary for a special licence for a period not exceeding 14 days, and the Permanent Secretary may, if he or she is satisfied that it is a genuine case of emergency, issue such a special licence, and the provisions of this part as to the publication of particulars of applications, the making of objections and representations, and the holding of inquiries at the instance of the applicant or an objector shall not, in that case, apply.

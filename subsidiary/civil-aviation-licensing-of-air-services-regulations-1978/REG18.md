@@ -1,0 +1,11 @@
+# reg 18 Air Transport Licensing Board
+(1) The Licensing Board shall consist of such number of members, not being less than 3 but not more than 7, as the minister may from time to time determine, and shall be known as the “Air Transport Licensing Board”.
+(2) The chairperson and every other member of the Licensing Board shall be appointed by the minister and, unless he or she shall earlier resign his or her office by writing under his or her hand addressed to the minister, shall hold office for such term as the minister shall, at the time of making the appointment, determine but shall be eligible for reappointment from time to time on the expiration of his or her term of office.
+(3) At all meetings of the Licensing Board, the chairperson, or, in his or her absence, such member as the other members present may select, shall preside.
+(4) When the minister proposes to appoint a person to be a member of the Licensing Board, he or she shall, before making the appointment, require that person to declare whether he or she has any, and if so what, interest in any undertaking which provides transport for passengers or goods or which owns or operates airports, manufactures aircraft, aircraft engines or accessories, or supplies aircraft fuel or lubricants. If any member of the Licensing Board acquires any such interest, he or she shall, within 4 weeks after so doing, give notice thereof in writing to the minister specifying the interest so acquired, and the minister, after taking the matter into consideration, may, if he or she thinks fit, declare that the member has vacated his or her office and the seat of such member shall thereupon become vacant.
+(5)
+(a)The minister may appoint a person to be secretary to the Licensing Board.
+(b)The Permanent Secretary may appoint such officers and servants as are, in the opinion of the minister, necessary to enable the Licensing Board to discharge its duties.
+[subreg (5) am LN 99 of 2016 reg 30, effective 1 December 2016]
+(6) The minister may issue to the Licensing Board such general or specific directions as he or she may think fit.
+(7) The Licensing Authority shall regulate its procedure subject to any directions given to it in respect thereof under subregulation (6), provided that the quorum at meetings of the Licensing Board shall be 3.

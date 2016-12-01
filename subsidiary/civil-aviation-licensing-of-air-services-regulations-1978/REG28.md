@@ -1,0 +1,2 @@
+# reg 28 Disclosure of financial resources
+Nothing in these Regulations shall require the disclosure by any applicant for a licence or permit to any person other than the Licensing Board, the minister or the Permanent Secretary, as the case may be, of information as to the financial resources of the applicant, and any such information received by the Licensing Board, the minister or the Permanent Secretary, from any such applicant shall be treated as confidential.

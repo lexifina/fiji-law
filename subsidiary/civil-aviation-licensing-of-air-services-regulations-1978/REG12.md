@@ -1,0 +1,2 @@
+# reg 12 Duration of licence
+The licensing authority may grant licences to remain in force for such period, not exceeding 5 years, as it may in each case determine, commencing on the date on which the licence is expressed to take effect, provided that, if, on the date of the expiration of a licence, an application to the licensing authority is pending for the grant of a new licence in substitution for an existing licence held by the applicant, the existing licence shall continue in force until such application has been determined.

@@ -1,0 +1,2 @@
+# reg 33 Recognisance to come up for judgment
+When a person is convicted of any offence the court may, instead of passing sentence, discharge the offender upon his or her entering into his or her own recognisance in Form 13 in the Schedule, with or without sureties, in such sum as the court may think fit, and during such period (not exceeding 2 years) as the court may direct, conditioned that he or she shall appear to receive judgment at some future sitting of the court or when called upon.

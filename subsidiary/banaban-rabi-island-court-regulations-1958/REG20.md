@@ -1,0 +1,2 @@
+# reg 20 When defendant does not appear
+If at the time and place of hearing mentioned in a summons the person charged does not appear and it is proved on oath that the summons was duly served on him or her within a sufficient period before the time appointed for his or her appearance and if the court does not think it expedient to issue a warrant for his or her apprehension, the court may proceed to hear and determine the case without his or her appearance.

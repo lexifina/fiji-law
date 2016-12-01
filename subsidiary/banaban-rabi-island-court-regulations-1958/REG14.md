@@ -1,0 +1,2 @@
+# reg 14 Non-appearance of party summoned. Warrant to apprehend defendant
+If the person served with a summons does not appear at the time and place mentioned in the summons, and it is made to appear to the court on oath that the summons was duly served within a reasonable period before the time for his or her appearance as aforesaid, the court, after taking such evidence on oath to substantiate the matter of the charge as it considers necessary, may issue its warrant in Form 3 in the Schedule to apprehend the person so summoned as aforesaid.

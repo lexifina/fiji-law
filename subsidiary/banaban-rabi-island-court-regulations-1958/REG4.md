@@ -1,0 +1,3 @@
+# reg 4 Default of compliance with order of court
+(1) Unless otherwise provided in the regulation on which the order is based, a person disobeying for a period of 7 days any order of a court may, upon application being made to the court and on proof of disobedience, be ordered to pay a fine not exceeding $1 for every day during which he or she has disobeyed the order, or to be imprisoned until he or she consents to obey the order.
+(2) No person shall for disobeying any such order as is mentioned in regulation 3 or in subregulation (1), be liable to imprisonment for a period or periods amounting altogether to more than 2 months or to the payment of any sums exceeding in the aggregate $50.

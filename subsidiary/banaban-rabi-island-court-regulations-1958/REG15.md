@@ -1,0 +1,2 @@
+# reg 15 When warrant may issue in the first instance
+In all cases where a charge is made, the court, if it thinks it expedient that a warrant be issued instead of a summons, shall cause the charge to be written and verified by oath of the person making the charge and may issue its warrant in Form 3 in the Schedule to apprehend the person charged. The court may issue the warrant, notwithstanding that a summons in respect of the matter charged has been issued, at any time before the time of the appearance in that summons mentioned.

@@ -1,0 +1,2 @@
+# reg 26 Where person already undergoing imprisonment
+Where the person is adjudged to be imprisoned and he or she is then undergoing imprisonment upon conviction for any other offence, the court may direct and shall in that case enter on the warrant of commitment for the subsequent offence, that imprisonment therefore shall commence at the expiration of the period of imprisonment to which the prisoner was previously sentenced, or the court may order the sentences to be concurrent.

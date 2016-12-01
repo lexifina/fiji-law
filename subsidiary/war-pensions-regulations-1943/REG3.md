@@ -1,0 +1,2 @@
+# reg 3 Claim on behalf of child or person of unsound mind
+Where a person under the age of 16 years or a person of unsound mind is entitled to a pension, a claim may be made on behalf of such person by any other person over the age of 16 years, and the Minister may direct that payment of the pension be made to a trustee for the benefit of the pensioner, provided that the appointment of a trustee may at any time be cancelled by the Minister.

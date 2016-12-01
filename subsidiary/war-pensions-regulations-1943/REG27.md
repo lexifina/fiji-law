@@ -1,0 +1,2 @@
+# reg 27 Change of place of payment
+If a pensioner or a trustee desires to change the place of payment of pension, he may make application in Form N in the Schedule, to the officer authorised to pay the pension, and if such officer is satisfied that the request is a reasonable one, he shall make a note on the pension certificate as follows — “Payment to be made in future at “ and add his signature.

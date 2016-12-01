@@ -1,0 +1,2 @@
+# reg 5 Claim by dependant — Forms B and C
+Every person who claims a pension on the ground that such person was or would have been a dependant of a member of the forces shall prepare a claim in accordance with Form B in the Schedule, provided that where a dependant or dependants is or are under the age of 16 years, the claim shall be made on Form C in the Schedule, and the declaration on that form may be made by any person who has a knowledge of the facts and who is more than 16 years of age.

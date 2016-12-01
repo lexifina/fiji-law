@@ -1,0 +1,3 @@
+# reg 29 Inquiries and report by Registrar of Deaths
+(1) Whenever the death of any person is reported to the Registrar of Deaths for registration, the Registrar of Deaths may inquire whether the deceased was a pensioner under the Act and the person reporting the death shall state, to the best of his or her knowledge, whether the deceased was a pensioner or not. If the deceased was a pensioner, the Registrar of Deaths should send to the Board a notice of death, in accordance with Form O in the Schedule.
+(2) In this regulation, “Registrar of Deaths” means any officer charged with the duty of registering deaths.

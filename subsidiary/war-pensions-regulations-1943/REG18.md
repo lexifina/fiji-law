@@ -1,0 +1,2 @@
+# reg 18 Payment of pension
+The issue by the Board to the Chief Accountant or to any sub-accountant of a voucher authorising payment to the pensioner or trustee of the quarterly instalment then payable and the production to the Chief Accountant or the sub-accountant by the pensioner or trustee of the pension certificate shall be the authority of the Chief Accountant or the sub-accountant to make payment of the instalment of pension therein described.

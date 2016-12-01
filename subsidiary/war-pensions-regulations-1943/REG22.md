@@ -1,0 +1,2 @@
+# reg 22 Declaration as to marriage
+An instalment of pension granted to any female dependant of a member of the forces, being over the age of 16 years and being unmarried, widowed or divorced, shall not in any case be paid unless there is presented to the Chief Accountant or sub-accountant at the time of payment a declaration in Form K in the Schedule showing that, on the due date of such instalment, such female dependant has not married or remarried.

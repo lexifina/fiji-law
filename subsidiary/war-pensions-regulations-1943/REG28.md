@@ -1,0 +1,2 @@
+# reg 28 Payment to legal representative etc
+Any undrawn instalment of a pension due at the date of a pensioner's decease, if applied for within 6 months after such decease, may be paid to such person as in the opinion of the Board has a legal or equitable claim thereto, provided that the Board shall not authorise payment to any person who is not a legal representative of the deceased, until it is satisfied that probate of will or letters of administration will not be applied for.

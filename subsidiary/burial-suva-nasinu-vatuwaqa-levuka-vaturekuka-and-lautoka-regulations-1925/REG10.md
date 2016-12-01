@@ -1,0 +1,2 @@
+# reg 10 Exclusive right in the case of a public grave — how acquired
+Any person who, on payment of the fees prescribed for a public grave, has been allotted a place for interment may within 7 years thereafter acquire for himself or herself and his or her representatives the exclusive right to have interments therein by payment of the difference between the fees prescribed for public graves and the fees prescribed for private graves.

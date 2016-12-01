@@ -1,0 +1,2 @@
+# reg 31 Tending and weeding of private graves
+Private graves and allotments will be weeded and tended by the Burial Authority on application to the manager in writing, and on payment of the fees as provided in Schedule 6. All fees shall be paid in advance to cover the period 1 January to 31 December in each year. This regulation does not extend to erection of or repairs to monuments, tablets, fences or other memorials or buildings.

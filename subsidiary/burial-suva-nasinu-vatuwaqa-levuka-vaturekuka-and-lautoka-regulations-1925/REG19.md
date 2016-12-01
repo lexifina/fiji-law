@@ -1,0 +1,2 @@
+# reg 19 Erection of monuments etc
+No person shall erect or cause to be erected in the cemeteries any monument, tablet, fence or other memorial, or any building whatsoever without the previous consent in writing of the manager and every application for such consent as aforesaid shall be accompanied by a sketch of the monument, tablet, fence or other memorial or building proposed to be erected.

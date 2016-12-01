@@ -1,0 +1,3 @@
+# reg 99 Effect of cancellation
+(1) Where an approval given under regulation 97(1) is cancelled, the measuring instrument the subject of such approval shall thereupon be deemed not be in accordance with the requirements of this Act and any certifying stamp or certifying certificate in force in relation thereto shall cease to have any force.
+(2) Where an approval given under regulation 97(1) is cancelled, the person holding the approval shall submit forthwith to an inspector, the measuring instrument the subject of the cancelled approval and any certifying certificate issued in respect thereof and the inspector shall obliterate any and every certifying stamp thereon or destroy the certifying certificate in respect thereof.

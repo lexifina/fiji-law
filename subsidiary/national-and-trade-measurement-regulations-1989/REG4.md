@@ -1,0 +1,5 @@
+# reg 4 Adoption of rules, codes and specifications
+(1) Where any standard rule, code or specification adopted by or under these Regulations adopts by way of reference any other rule, code or specification or any part thereof, then such rule, code or specification or part thereof, as the case may be, shall be deemed to be adopted by these Regulations to the extent necessary to give full force and effect to the first mentioned rule, code or specification.
+(2) Wherever by or under these Regulations there is adopted by reference any standard rule, code or specification that adoption, unless the relevant adoption specifies otherwise, shall not include the adoption of any provision—
+(a)specifying or defining the respective rights, responsibilities or obligations as between themselves, of any manufacturer, supplier or purchaser; or
+(b)permitting a departure from any provision of the standard rule, code or specification at the sole discretion of the manufacturer or purchaser, or by arrangement between the manufacturer and purchaser.

@@ -1,0 +1,2 @@
+# O 11 Alteration of name of payee or remitter
+The remitter of a money order may have the name of the payee or remitter as specified in the original application altered, or in the case of a crossed order have the endorsement directing payment to be made through a bank cancelled, upon payment of the fee prescribed in Schedule 1, and such alteration may, in the case of a money order issued for payment within Fiji, be made by telegraph upon payment of such further charge as may be prescribed in the said Schedule.

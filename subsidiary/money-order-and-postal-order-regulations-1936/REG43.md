@@ -1,0 +1,4 @@
+# O 43 Stamps attached to postal orders in extension of value
+(1) Postage stamps not exceeding $0.09 in value and 2 in number may be affixed in the space provided on the face of any postal order to supplement its value and such order shall be cashed on presentation for the full value of the order and the stamps combined, provided that stamps shall be accepted for this purpose only if they are affixed in the space provided and if they are stamps of Fiji or of the country in which the order was issued and that such country has agreed to the encashment of its stamps when affixed to postal orders.
+[subreg (1) subst LN 30 of 1971 reg 4, effective 1 March 1971]
+(2) Postage stamps perforated with initials or marks, and embossed or impressed stamps cut out of envelopes, postcard wrappers, letter-cards, or other articles shall not be available for attachment to postal orders.

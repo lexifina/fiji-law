@@ -1,0 +1,3 @@
+# O 17 Orders void after 12 months
+Except in cases in which the regulations of the country of payment stipulate a lesser period, any money order issued in Fiji shall remain valid for 12 months after the last day of the month in which it shall have been issued, when it shall become void. Nevertheless, the chief executive officer of the company shall have the power to renew the currency of any money order issued in Fiji which shall have become void if he or she shall so think fit, upon the application of either the remitter or the payee and upon payment of the commission prescribed in Schedule 1.
+[reg 17 am LN 99 of 2016 reg 166, effective 1 December 2016]

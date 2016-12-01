@@ -1,0 +1,3 @@
+# O 12 Payment may be stopped
+The remitter of a money order shall have full control over the money represented thereby until the order shall have actually been paid, and shall have the power to stop payment of the amount thereof upon payment of the fee prescribed in Schedule 1 and upon application to the postmaster of the office at which the money order is payable in Fiji, or in the case of an order payable outside Fiji to the Accountant, General Post Office. No liability shall attach to the company if the order is paid in spite of such application.
+[reg 12 am LN 99 of 2016 reg 166, effective 1 December 2016]

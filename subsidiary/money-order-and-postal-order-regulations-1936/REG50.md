@@ -1,0 +1,6 @@
+# O 50 Payment of orders
+(1) Before any postal order shall be paid, the payee, unless it be presented through a bank, shall fill in the name of the office at which the order is to be paid (if this has not already been done), and sign his or her name in ink in the space provided for the purpose on the order, and shall furnish such means of identification or proof of his or her authority to receive payment of the order as may be required by the postmaster of the office of payment.
+(2) If the payee cannot write, his or her mark shall be attested by a witness in the presence of the paying officer.
+(3) The signature of the payee shall correspond in every particular with the name of the payee as stated in the postal order. Nevertheless, the company may in its discretion authorise the payment of a postal order purporting to be signed by the payee but in a form different from the name of the payee as stated in the order.
+[subreg (3) am LN 99 of 2016 reg 166, effective 1 December 2016]
+(4) Such signature shall in all cases be a sufficient authority to the postmaster for the payment of the amount of the order, and it shall not be necessary to prove that the receipt was signed by or under the authority of the payee.

@@ -1,0 +1,2 @@
+# O 3 Arrangements with other countries
+Money orders may be issued for payment in any country with which arrangements have been made by convention for the direct exchange of money orders, or in any other country through the intermediary of a country with which a money order convention exists, and similarly money orders issued in such countries for payment in Fiji may be paid at the money order offices specified in such orders.

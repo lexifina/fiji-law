@@ -1,0 +1,5 @@
+# SCHEDULE NOTICE
+[Sch am Ordinance 5 of 1969 s 2, effective 13 February 1969]
+A B, late of [set out the usual residence and addition or other description of the deceased].
+Creditors and other persons having claims (to which section 59 of the Trustee Act 1966, relates) in respect of the estate of the deceased, who died [set out the date of death with such accuracy as the information of the trustee, personal representative or applicant for grant of representation permits], are required by the trustee (or personal representative or applicant for grant of representation) , of [set out name and address of trustee or personal representative or applicant for grant of representation] to send particulars of their claims to him or her by the day of 20 ,* after which date the trustee (or personal representative or applicant for grant of representation) may convey or distribute the assets, having regard only to the claims of which he or she then has notice.
+(Date) *A date not less than 2 months from date of advertisement.

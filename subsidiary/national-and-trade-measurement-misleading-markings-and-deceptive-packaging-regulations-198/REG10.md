@@ -1,0 +1,2 @@
+# reg 10 Calculation of recess
+The volume of any concealed recess or recesses within or about a package shall be calculated as a percentage of the internal capacity of the package in accordance with the following formula— (B−A)D × 100 where the symbol B represents the perceived volume of a package, the symbol A represents the volume occupied by the article or articles contained in a package, and the symbol D represents the usable internal capacity of a package.

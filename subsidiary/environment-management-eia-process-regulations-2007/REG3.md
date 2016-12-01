@@ -1,0 +1,4 @@
+# reg 3 Authority for a development proposal
+(1) Every proponent of a development proposal must apply to the approving authority for a decision on the proposal under Part 4 of the Act before undertaking any work in respect of it that will alter the nature of any land as defined in the Act.
+(2) If a proponent does not know the identity of the approving authority, the proponent may in writing seek the advice of the EIA Administrator, providing for that purpose such documents and other information relating to the proposal as the EIA Administrator may reasonably require.
+(3) If the proponent of a proposal is the Ministry or other entity that would otherwise be the approving authority, the application for a decision under Part 4 of the Act must be made to the EIA Administrator and the provisions of these Regulations are to be read as if the proposal were a Part 1 proposal.

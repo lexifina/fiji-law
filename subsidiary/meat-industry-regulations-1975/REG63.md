@@ -1,0 +1,3 @@
+# reg 63 Packaging of poultry pieces
+Where any part of a carcass is to be sold, wholesale or retail, other than in the manner described in regulation 61, the package shall be clearly marked so as to indicate the contents thereof and its weight in kilograms to one decimal place of a kilogram, provided that chilled standard birds or parts thereof, excluding giblets, may be offered for sale by retail unpackaged, if the place in which such birds or parts are offered for sale is aircooled to a maximum temperature of 18°C and there appears, adjacent to such birds or parts, a sign clearly indicating the name of the product for sale.
+[reg 63 am LN 76 of 1979 reg 2, effective 4 May 1979; LN 128 of 1980 reg 21, effective 22 August 1980]

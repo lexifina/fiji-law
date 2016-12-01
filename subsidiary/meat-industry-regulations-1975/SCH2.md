@@ -1,0 +1,2 @@
+# SCHEDULE 2 POULTRY CODE SIZE NUMBER (Revoked)
+(Repealed)

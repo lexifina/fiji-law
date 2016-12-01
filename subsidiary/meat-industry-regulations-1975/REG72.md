@@ -1,0 +1,2 @@
+# reg 72 Removal of dirty animals
+An inspector may require any person for the time being in charge of any vehicle in which any animal has been transported by road to any slaughterhouse or poultry slaughterhouse to remove from the slaughterhouse or poultry slaughterhouse, before the animal is unloaded, any animal which, in his or her opinion, has been rendered excessively soiled owing to the unsatisfactory conditions of the vehicle.

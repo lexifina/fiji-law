@@ -1,0 +1,2 @@
+# reg 33F Business to be carried on in rural slaughterhouse
+No business other than the slaughtering, dressing and butchering of meat of cattle, sheep, goats or pigs for human consumption shall be carried on in any rural slaughterhouse, and the practice of any other trade, industry or any other process in a rural slaughterhouse shall render the registration of such rural slaughterhouse liable to cancellation.

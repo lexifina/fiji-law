@@ -1,0 +1,5 @@
+# reg 24 Refrigeration room and sterilisers
+Every poultry slaughterhouse shall have the following equipment or facilities—
+(a)the refrigeration system shall be of a type approved by the Permanent Secretary. Refrigeration rooms shall be maintained at a temperature, a degree of humidity and a state of cleanliness so that poultry products stored therein are protected adequately against contamination, deterioration or decomposition. No other frozen or unfrozen products other than edible poultry products may be kept in any refrigeration room. Any storage refrigeration equipment shall be of a minimum size so that the carcasses of 5 days’ slaughtering may be kept at a temperature not more than –7°C. For the purpose of this paragraph, a day's slaughtering shall mean the number of birds that the poultry slaughterhouse has been designed to process in any one working day or any other number the Permanent Secretary may determine from time to time;
+(b)a sufficient number of sterilisers of an approved design shall be provided to sterilise all knives, steels or other implements used for the dressing of poultry.
+[reg 24 am LN 91 of 1979 O 2, effective 4 May 1979]

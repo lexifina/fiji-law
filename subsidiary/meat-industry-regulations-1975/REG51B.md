@@ -1,0 +1,3 @@
+# reg 51B Grant of approvals and licences by Permanent Secretary
+Subject to the provisions of these Regulations, the Permanent Secretary may, on an application made to him or her in that behalf, licence any vehicle for the transportation of meat, or grant approval for the use of any container for that purpose, or of any method of packaging, or packing, hanging or stowing of meat during the transportation thereof, and may, upon the issue of such licence or the grant of such approval, impose such conditions, either generally or in any special case, as he or she may consider proper.
+[reg 51B insrt LN 128 of 1980 reg 18, effective 22 August 1980]

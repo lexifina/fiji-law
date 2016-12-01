@@ -1,0 +1,3 @@
+# reg 89 Separate facilities
+(1) Where any approved by-products works deals with materials derived from any slaughterhouse and serves also for the disposal of dead stock, there shall be provided a completely separate entrance leading directly to a collecting area and a handling area in which the dead stock are flayed, dismembered, or otherwise dealt with in preparation for rendering.
+(2) No dead stock shall be flayed or otherwise prepared in any approved by-products works for rendering in any part of the premises set aside for such handling of the dead stock, unless that part is physically separated from the remainder of the premises.

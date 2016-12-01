@@ -1,0 +1,2 @@
+# reg 17 Business to be carried on in slaughtering house
+No business other than that of the slaughtering and dressing, boning, packaging or freezing of meat of cattle, sheep, goats or pigs for human consumption shall be carried on in any slaughterhouse and the practice of any other trade, industry or any other process in a slaughterhouse shall render the registration of such slaughterhouse liable to cancellation, provided that any boning, packaging or freezing shall not take place where the actual slaughtering is to be carried out.

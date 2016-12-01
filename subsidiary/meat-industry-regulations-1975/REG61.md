@@ -1,0 +1,3 @@
+# reg 61 Packaging of poultry
+Every standard bird shall be packed in a plastic bag or other approved packaging material which shall bear on it or on a clearly visible label of a type approved by the Permanent Secretary, in permanent printing, the producer's trade mark or name, together with the code letter of the poultry slaughterhouse and the weight in kilograms to one decimal place of a kilogram, provided that, where giblets are to be sold as part of a standard bird, the package shall also be permanently marked or labelled with the words “With Giblets” and each packaged bird shall bear either the words “CHICKEN” or “BOILER”.
+[reg 61 subst LN 76 of 1979 reg 2, effective 4 May 1979; am LN 128 of 1980 reg 20, effective 22 August 1980]

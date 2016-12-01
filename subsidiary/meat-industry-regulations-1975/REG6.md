@@ -1,0 +1,16 @@
+# reg 6 Application to establish
+(1) Any person desiring to establish a slaughterhouse, a rural slaughterhouse or a poultry slaughterhouse shall, not less than 3 months prior to the commencement of the building of such slaughterhouse, apply in writing to the Permanent Secretary, for the registration of the premises as a slaughterhouse, a rural slaughterhouse or a poultry slaughterhouse and such application shall be accompanied by such specifications, information and particulars as the Permanent Secretary may require, but nothing in this regulation shall exempt any applicant from obtaining the permission or approval of the relevant local authority where such permission or approval is required under any written law for the establishment or building of the slaughterhouse, rural slaughterhouse or poultry slaughterhouse, as the case may be.
+[subreg (1) am LN 128 of 1980 reg 7, effective 22 August 1980]
+(2) If the Permanent Secretary is satisfied that—
+(a)there is a need for a slaughterhouse, rural slaughterhouse or poultry slaughterhouse, as the case may be, in the area in which the applicant seeks to establish such slaughterhouse, rural slaughterhouse or poultry slaughterhouse;
+(b)the applicant is a fit and proper person to become the proprietor of a registered slaughterhouse, rural slaughterhouse or poultry slaughterhouse; and
+(c)the proposed premises and the equipment to be installed therein will comply with the provisions of these Regulations,
+he or she shall cause notice of the application to be published, at the expense of the applicant, in 2 consecutive issues of the Gazette and of a newspaper published and circulating in Fiji stating a date before which objections to the application may be lodged with the Permanent Secretary.
+[subreg (2) subst LN 23 of 1983 reg 2, effective 8 April 1983]
+(3) Upon or after the date stated by the Permanent Secretary in accordance with the provisions of subregulation (2), the Permanent Secretary shall consider the application and the objections, if any, and subject to the payment of the prescribed fee, may, in his or her discretion, and subject to such conditions as he or she may see fit to impose, register the premises as a slaughterhouse, a rural slaughterhouse or a poultry slaughterhouse, as the case may be.
+[subreg (3) am LN 128 of 1980 reg 7, effective 22 August 1980]
+(4) If the Permanent Secretary imposes any conditions upon registration, he or she may suspend such registration until such time as those conditions have been complied with to his or her satisfaction.
+(5) Registration of a slaughterhouse, a rural slaughterhouse or a poultry slaughterhouse under the provisions of these Regulations shall remain in force until 31 December in the year of registration and may be renewed from year to year.
+[subreg (5) am LN 128 of 1980 reg 7, effective 22 August 1980]
+(6) In subregulation (1), “relevant local authority” means the Director of Town and Country Planning appointed under the Town Planning Act 1946, any City Council, Town Council or District Council constituted under the Local Government Act 1972, the Central Board of Health constituted under the Public Health Act 1935 or any local authority established under and for the purposes of that Act.
+[subreg (6) insrt LN 128 of 1980 reg 7, effective 22 August 1980]

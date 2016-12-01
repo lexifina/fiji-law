@@ -1,0 +1,6 @@
+# reg 51A Restrictions on conveyance of meat
+(1) No person shall convey meat from a slaughterhouse, rural slaughterhouse or poultry slaughterhouse or from any port of entry to any facility that is used for the storage of meat or to a place where meat is sold by wholesale or retail, unless it is conveyed in an approved container or in a licensed vehicle.
+(2) Where frozen or chilled meat is conveyed by aircraft within Fiji, it shall be packaged in an approved manner so as to prevent contamination of the meat.
+(3) Frozen meat which is transported by ship shall be packed in an approved manner and maintained at a maximum temperature of –8°C. It shall be stowed in such manner as to prevent contamination by any other cargo, including fish, carried by the ship.
+(4) Chilled meat which is transported by ship shall be enclosed in mutton cloth and hung in an approved manner so as to prevent contamination or deterioration. There shall be an adequate circulation of chilled air so that the temperature of the meat is maintained within the range from –1 to +2°C. It shall be stowed away from fish or other similar cargo carried by the ship.
+[subreg (4) insrt LN 128 of 1980 reg 18, effective 22 August 1980]

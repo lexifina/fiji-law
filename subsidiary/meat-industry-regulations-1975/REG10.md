@@ -1,0 +1,3 @@
+# reg 10 Cessation of business of slaughter
+If the Permanent Secretary is satisfied that slaughtering in a registered slaughterhouse, rural slaughterhouse or registered poultry slaughterhouse has been discontinued for a period of 12 months or more, he or she shall cancel the registration of such slaughterhouse, rural slaughterhouse or poultry slaughterhouse, provided that the proprietor of a slaughterhouse, rural slaughterhouse or poultry slaughterhouse may make a fresh application for registration in the event of his or her intending to re-establish the slaughterhouse in the same premises.
+[reg 10 am LN 128 of 1980 reg 28, effective 22 August 1980]

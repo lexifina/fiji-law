@@ -1,0 +1,3 @@
+# reg 66 Added substances and water
+(1) No person shall add to any packaged poultry meat any substance that will materially alter or misrepresent the weight of any poultry carcass or poultry prices.
+(2) Where an inspector has reason to believe that water has been added to any processed poultry meat, other than water allowable under regulation 65, so as to materially affect its true weight, he or she may detain and hold at a suitable place any such poultry meat while the free water test under the provisions of regulation 67 is carried out and then, subject to the findings in such test, either release the poultry meat for sale, or impound it at the processor's expense, until any offence against this regulation has been dealt with in a court of law.

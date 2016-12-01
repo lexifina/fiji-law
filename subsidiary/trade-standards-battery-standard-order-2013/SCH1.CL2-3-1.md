@@ -1,0 +1,2 @@
+# O 2.3.1 Positive terminal
+This marking shall take the form of the symbol +, indented or in relief, either on the upper surface of the positive terminal or on the lid adjacent to the positive terminal. The symbol used for marking the positive terminal shall be in accordance with symbol 5005-a: Plus; positive polarity of IEC 60417-2. The value of the dimensions ‘a’ should be equal to or greater than 5 mm.

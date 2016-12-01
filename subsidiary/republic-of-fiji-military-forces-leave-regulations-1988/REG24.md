@@ -1,0 +1,2 @@
+# reg 24 Leave schedules
+A leave schedule in the form Fiji Military Forces Z3 shall be kept in respect of every officer or soldier and included in the officer's or soldier's personal file. On the leave schedule will be entered records of all leave granted to the officer or soldier commencing from the date he or she first joined the Forces. This leave schedule shall be produced upon demand for inspection by the Commander.

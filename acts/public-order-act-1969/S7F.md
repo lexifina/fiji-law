@@ -1,0 +1,3 @@
+# s 7F Failure to report offence of possession of arm etc
+(1) Any person who, knowing or having reasonable cause to believe that another person is guilty of an offence against section 7B, fails to report the same to a police officer at the earliest possible opportunity shall be guilty of an offence and shall be liable upon conviction to a fine not exceeding $5,000 or to a term of imprisonment not exceeding 3 years, or to both.
+(2) Where any person is charged with an offence against subsection (1), the burden of proving that there was no opportunity of making a report to any of the officers referred to in that paragraph or that such a report was in fact made at the earliest opportunity, shall lie on the accused.

@@ -1,0 +1,3 @@
+# s 7D Possession of offensive weapons
+(1) Any person who, without lawful excuse, the onus of providing which shall be upon him or her, carried or has in his or her possession or under his or her control any offensive weapon shall be guilty of an offence and shall be liable upon conviction to a fine not exceeding $5,000 or to a term of imprisonment not exceeding 3 years, or to both.
+(2) Without prejudice to the general meaning of the words “offensive weapon” in this section it shall include a sword, spear, cane knife, cutlass, club, axe, hatchet, knife or other dangerous weapon, stick or stone or any object, article or thing (whether similar to the foregoing or otherwise) intended or likely to be used for an aggressive or unlawful purpose.

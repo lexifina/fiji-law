@@ -1,0 +1,7 @@
+# s 7B Possession of arms etc
+(1) Any person who, without lawful excuse, the onus of providing which shall be upon him or her, carries or has in his or her possession or under his or her control—
+(a)any arm, not being an arm which he or she is permitted to carry or possess or is duly licensed to carry or possess under the provisions of any law; or
+(b)any ammunition or explosive, or any corrosive or inflammable substance, without lawful authority thereof,
+shall be guilty of an offence and shall be liable upon conviction to a fine not exceeding $5,000 or to a term of imprisonment not exceeding 3 years, or to both.
+(2) Notwithstanding subsection (1), the Commissioner of Police may by written order prohibit in Fiji, or in any area of Fiji specified in the order, the carrying by any person without a permit granted by a police officer of any arm, ammunition or explosive, or any corrosive or inflammable substance, including any arm, ammunition or explosive, or any corrosive or inflammable substance, which any person is permitted or licensed to carry under the provisions of any law and any person who contravenes any such order shall be guilty of an offence and shall be liable upon conviction to a fine not exceeding $5,000 or to a term of imprisonment not exceeding 3 years, or to both.
+(3) This section shall not apply to any police officer, prisons officer or to any member of the Republic of Fiji Military Forces, in the execution of his or her duty.

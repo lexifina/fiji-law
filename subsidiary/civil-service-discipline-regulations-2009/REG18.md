@@ -1,0 +1,2 @@
+# reg 18 Hearing date
+Within 7 days of the compliance of pre-hearing disclosure under regulation 17, the Tribunal shall assign a date for hearing of the disciplinary charges, and shall issue a notice notifying the employee and the ministry or department of the hearing date, provided that the Tribunal may, on its own motion or at the request of the employee or the ministry or department, adjourn the hearing to such other date and time as the circumstances of the case may require.

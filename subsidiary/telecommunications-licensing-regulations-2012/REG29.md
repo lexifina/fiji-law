@@ -1,0 +1,6 @@
+# reg 29 Notification of agreement with other licensee
+(1) A licensee who enters into an agreement with another licensee or another telecommunications service provider relating to the provision of any telecommunications service shall notify the Authority in writing, within 30 days of that agreement, and shall provide a copy of the agreement to the Authority if requested to do so.
+(2) A licensee shall disclose to the Authority any agreement with another licensee or an unlicensed telecommunications service provider relating to the provision of any telecommunications service when requested to do so by the Authority.
+(3) Subject to subregulation (4) neither the Authority nor any of its officers or employees shall disclose to third parties including other agencies of the Government the existence or content of an agreement referred to in subregulations (1) and (2) without the written permission of the parties to the agreement.
+(4) The Authority may disclose the existence and contents of an agreement referred to in subregulations (1) and (2) to the Fijian Competition and Consumer Commission without the approval or permission of the parties to the agreement.
+[subreg (4) am Act 41 of 2017 s 25, effective 1 August 2017]

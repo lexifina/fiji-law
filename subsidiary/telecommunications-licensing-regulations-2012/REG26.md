@@ -1,0 +1,3 @@
+# reg 26 Regular inspection and correction of dangerous facilities
+(1) A licensee who, in connection with the provision of telecommunications services, owns or operates any telecommunications equipment, apparatus or facility must inspect the equipment or apparatus and any facility in which it is kept regularly in accordance with good engineering practice to ensure that it is operating in a safe manner.
+(2) When a licensee is made aware by whatever means that any telecommunications equipment, apparatus or a facility poses or may pose a danger to the health or safety of persons or property, the licensee shall investigate promptly the condition of the equipment, apparatus or facility and shall take any remedial action that is reasonably required.

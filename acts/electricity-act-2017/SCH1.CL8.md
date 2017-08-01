@@ -1,0 +1,2 @@
+# cl 8
+The Regulator is entitled to modify costs in the event that the public electricity supplier or any relevant licensee is either providing efficient services, at, or below the expected standard of a reasonable and prudent operator in the provision of generation, transmission, supply, system operations and wholesale market operations. It is anticipated that good service would have price enhancement and poor service a reduction.

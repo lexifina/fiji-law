@@ -1,0 +1,9 @@
+# cl 1.
+SCOPE
+1.1 The Fiji Plantation Grown Mahogany Harvesting Code of Practice (the “Code”) shall apply to all operations with respect of plantation grown mahogany in all mahogany plantation land (as defined in the Mahogany Industry Development Act 2010) in the Republic of Fiji in conjunction with any agreement between the Mahogany Industry Council (“Council”), the Fiji Hardwood Corporation Limited (“FHCL”) and the buyers of mahogany logs.
+1.2 The Code prescribes desirable practices aimed at protecting the mahogany plantation land, its environment, its assets and its users, while allowing the execution of economically viable operations within acceptable safety standards.
+1.3 The provisions of the Code are legally binding on all parties and individuals involved in marking, felling, extracting, loading and hauling mahogany logs and mahogany products from all mahogany plantation land in the Republic of Fiji. When addressing plantation grown mahogany, the terms of this Code shall govern.
+1.4 The Code must be used in conjunction with any additional directive issued by the Council.
+1.5 The Code governs the operational phase of the Harvesting Procedures for mahogany plantation land. All harvesting operations in mahogany plantation land must be carried out by FHCL in accordance with such directives as the Council may issue. In this regard, FHCL may by written agreement licence harvesting operators to undertake harvesting of mahogany in mahogany plantation land.
+1.6 The Code aims to optimise the utilisation of mahogany in an ecologically sustainable manner. All harvesting operations must comply with the standards prescribed in this Code and the licence granted by FHCL to any harvesting operator.
+1.7 This Code remains in force until such time that it is amended or revised by the Council.

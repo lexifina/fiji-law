@@ -1,0 +1,3 @@
+# SCHEDULE 2 SAMPLE OF EC CERTIFICATE OF CONFIRMITY
+[image] [image]
+[image]

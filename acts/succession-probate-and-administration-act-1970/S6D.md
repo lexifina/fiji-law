@@ -1,0 +1,6 @@
+# s 6D Easement on matrimonial home
+Where the right conferred by section 6A(2) is exercised in respect of a matrimonial home being—
+(a)a dwelling house within the meaning of paragraph (a) of the definition of “dwelling house” which is contiguous with other/and in which an estate or interest is comprised in the intestate's estate; or
+(b)a dwelling house within the meaning of paragraph (b) of the definition of “dwelling house” which is contiguous with another part of the building of which the dwelling house forms part and in which an estate or interest is comprised in the intestate's estate,
+the administrator may, when transferring or conveying the interest of the intestate in the matrimonial home or the estate or interest in the other land or the other part of the building, by the instrument of transfer or conveyance, create such easements or restrictions as to user benefiting or burdening the matrimonial home or benefiting or burdening that other land or part of the building as he or she considers necessary for the purpose of rendering usable that other land or part of the building or, as the case may be, the matrimonial home.
+[s 6D insrt Act 11 of 2004 s 4, effective 1 September 2004]

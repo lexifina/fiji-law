@@ -1,0 +1,8 @@
+# FORM 10
+COURT OF APPEAL RULES
+RECOGNISANCE OF BAIL OF APPELLANT'S SURETIES
+Be it remembered that on this.... day of.... 20.. of........ and........ of........ personally came before me and severally acknowledged themselves to owe to the State the several sums following, that is to say the said.... the sum of $.... and the said.... the sum of $...., of good and lawful money of Fiji to be made and levied of their goods and chattels, lands and tenements, respectively, to the use of the State if.. now in lawful custody in the.... prison fail in the condition hereon endorsed.
+Taken and acknowledged before me the undersigned the day and year first above mentioned
+Registrar or Magistrate
+CONDITION
+The condition of the above written recognisance is such that wherever the said........ having been convicted of.... and now in such lawful custody as before mentioned under a sentence of........ for such offence has duly appealed to the Court of Appeal against his or her said conviction (and sentence) and having applied to the Court of Appeal for bail, pending the determination of his or her said appeal, has been granted bail on his or her entering into recognisance in the sum of $.. with.... sureties each in the sum of $.... if the said.... shall personally appear and surrender himself or herself at and before the said Court of Appeal at each and every hearing of his or her appeal to such court and at the final determination thereof, and to then and there abide by the judgment of the said court and not depart or be absent from the said court at any such hearing without the leave of the court, and in the meantime not to depart out of Fiji, then this recognisance to be void or else to stand in full force and effect.

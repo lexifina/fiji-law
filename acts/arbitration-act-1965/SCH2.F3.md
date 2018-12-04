@@ -1,0 +1,6 @@
+# FORM 3 EXTENSION OF TIME BY ARBITRATOR BY ENDORSEMENT ON SUBMISSION
+In the matter of the Arbitration Act 1965, and an arbitration between A.B. of................ and C.D. of................
+I hereby extend the time of making my award in respect of the matters in difference referred to me by the within (or above) submission until the .... day of ................ 20 ....
+(Signed) X.Y.,
+Arbitrator.
+Dated the........ 20..

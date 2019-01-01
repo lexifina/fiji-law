@@ -1,0 +1,2 @@
+# cl 26
+If, within half an hour from the time appointed for the start of a general meeting of the body corporate a quorum is not present, the meeting shall stand adjourned to the same day in the next week at the same place and time, and, if, at the adjourned meeting, a quorum is not present within half an hour from the time appointed for the start of the meeting, the number of persons then present and entitled to vote constitute a quorum.

@@ -1,0 +1,8 @@
+# UNIT TITLES ACT 1985
+AN ACT TO FACILITATE THE SUBDIVISION OF LAND INTO UNITS TO BE OWNED BY INDIVIDUAL PROPRIETORS, AND COMMON PROPERTY TO BE OWNED BY ALL THE UNIT PROPRIETORS AS TENANTS IN COMMON, AND FOR THE ISSUE OF CERTIFICATES OF TITLE WITH RESPECT TO THOSE UNITS AND TO PROVIDE FOR THE USE AND MANAGEMENT OF THE UNITS AND COMMON PROPERTY
+Table of Amendments
+Unit Titles Act 1985 (No 14 of 1985) commenced on 1 January 1986, as amended by:
+Amending Legislation | Date of Commencement
+Unit Titles (Amendment) Decree 2013 (No 38 of 2013) | 13 December 2013
+Revised Edition of the Laws (Consequential Amendments) Act 2016 (No 31 of 2016) | 1 December 2016
+Workmen’s Compensation (Repeal) Act 2018 (No 30 of 2018) | 1 January 2019

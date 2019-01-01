@@ -1,0 +1,2 @@
+# cl 5
+Notwithstanding rule 4, proposed expenditure in excess of $100, not being expenditure which the body corporate is legally obliged or has previously been authorised to incur, shall be referred to a general meeting, and, if the share of the proprietor or proprietors of a principal unit in the expenditure exceeds $30, that expenditure shall not be incurred unless it is approved by at least a three-fourths majority of votes.

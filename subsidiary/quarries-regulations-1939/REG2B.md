@@ -1,0 +1,3 @@
+# reg 2B Power to waive or suspend regulations, in certain cases
+If, in the opinion of an inspector, the observance of any provision of these Regulations or of Part 11 of the Mining Regulations 1966 as applied by regulation 2A is not reasonably practical in relation to a quarry, he or she may, by notice in writing to the owner of that quarry, waive or suspend the operation of that provision in relation to that quarry, or any part of that quarry, for such period and in such manner, and subject to such conditions, as he or she considers appropriate.
+[reg 2B insrt LN 91 of 1982 reg 3, effective 27 August 1982]

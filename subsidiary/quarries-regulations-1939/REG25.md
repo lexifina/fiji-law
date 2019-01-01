@@ -1,0 +1,3 @@
+# reg 25 Filling in may be ordered
+(1) If, in the opinion of an inspector, disused trenches, pits or other excavations are dangerous to life or endanger public traffic, he or she may order them to be filled in with ground to his or her satisfaction or securely fenced or otherwise protected by the owner or foreman-in-charge of the quarry.
+(2) In the case of failure to comply with such order, the owner or foreman-in-charge of such quarry shall be deemed guilty of an offence against these Regulations and the inspector may have such trenches, pits or other excavations fenced or filled up or otherwise protected at the expense of such owner or foreman-in-charge.

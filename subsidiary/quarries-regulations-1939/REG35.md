@@ -1,0 +1,3 @@
+# reg 35 Drunkenness
+(1) Any person who, while in or about any quarry, is under the influence of intoxicating liquor to such an extent as not to be fully capable of performing his or her duties or as to be a likely cause of danger to himself or herself or other persons, shall be guilty of an offence against these Regulations, and shall be liable to a fine not exceeding $20.
+(2) No intoxicating liquor shall be in or about any quarry or be taken by any person into the quarry except with the knowledge and permission of the foreman-in-charge, and every person having intoxicating liquor in his or her possession while in or about the quarry, without such permission, shall be guilty of an offence against these Regulations, and shall be liable to a fine not exceeding $20.

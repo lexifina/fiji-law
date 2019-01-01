@@ -1,0 +1,2 @@
+# reg 55 Entry after blasting
+No person shall be caused or permitted to enter, after blasting has taken place therein, any tunnel or subterranean workings of a quarry, unless a quantity of fresh air not less than the volume of such tunnel or subterranean workings, or not less than a smaller quantity sanctioned by an inspector in writing, has been supplied to replace the air vitiated by dust or fumes due to blasting.

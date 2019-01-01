@@ -1,0 +1,4 @@
+# reg 4 Record Book
+(1) Whenever an inspector has inspected a quarry or machinery in connection therewith, he or she shall enter in a book known as the Record Book to be kept on the quarry for that purpose, his or her opinion, derived from the inspection of the actual condition of the quarry or machinery at the time of the inspection, and he or she shall also record what alterations or requirements he or she thinks necessary.
+(2) Nothing contained in or absent from such written report of an inspector shall be held to limit or affect the responsibility of the owner or foreman-in-charge under these Regulations.
+(3) The Record Book to be kept at every quarry shall be kept solely for the purpose of entering therein the reports and records required by these Regulations, shall be open at all reasonable times to the examination of an inspector, shall be kept in good order and condition and all entries therein shall be written in ink.

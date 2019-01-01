@@ -1,0 +1,2 @@
+# reg 6 Obstruction
+Every person who wilfully obstructs or uses insulting language to an inspector in the execution of his or her duties under these Regulations, and every owner, agent or foreman-in-charge of a quarry who refuses or neglects to furnish to the inspector the means necessary for making an entry, inspection, examination or inquiry under these Regulations in relation to such quarry shall be guilty of an offence against these Regulations.

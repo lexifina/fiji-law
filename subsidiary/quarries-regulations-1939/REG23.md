@@ -1,0 +1,2 @@
+# reg 23 Inquiry into accident
+All inquiries into accidents attended with serious injury to any person shall be held before the Commissioner and 2 persons experienced in mining or quarrying to be selected by the Commissioner, or in default of such experienced persons, such other suitable persons as are available, who shall state what in their opinion was the cause of the accident, and that opinion shall be forwarded by the Commissioner to an inspector.

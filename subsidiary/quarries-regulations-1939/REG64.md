@@ -1,0 +1,6 @@
+## PART 9 STATISTICAL RETURNS
+# reg 64 Half-yearly statement of operations
+(1) The owner, agent or foreman-in-charge of every quarry in respect of which royalties are payable shall within one calendar month of every half year ending 30 June and 31 December forward to the inspector a return in accordance with Form 1 showing the amount of material obtained from such quarry during the last preceding half-year, the nature of such material, the estimated value of such material, together with the amount due as royalty thereon.
+[subreg (1) am LN 91 of 1982 reg 5, effective 27 August 1982]
+(2) Any officer authorised for that purpose in writing shall at any time have access to the books and accounts of any such quarry and may examine the same for the purpose of ascertaining the amount of royalty payable and other details required with regard to the material obtained from such quarry.
+(3) Any owner, agent or foreman-in-charge who neglects or refuses to furnish returns to the inspector as hereinbefore required or who wilfully makes a false return or any person who impedes or obstructs any officer duly authorised to perform any duties under the provisions of this regulation shall be guilty of an offence against these Regulations.

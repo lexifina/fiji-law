@@ -1,0 +1,2 @@
+# cl 10 Gratuity in case of death after discharge
+Where a soldier dies (otherwise than by reason of injury sustained or disease contracted in circumstances to which section 37 of the Act applies) after having been granted or having become eligible for a pension or a pension and gratuity under regulation (8), and the total of the sums paid to him between his retirement and his death is less than the amount of the gratuity provided for by regulation 9(1), the Minister may grant to his personal representatives a gratuity equal to the difference.

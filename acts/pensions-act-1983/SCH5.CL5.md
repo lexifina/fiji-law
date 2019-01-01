@@ -1,0 +1,2 @@
+# cl 5 Gratuity where officer dies
+When an officer dies whilst serving in the Regular Force (otherwise than in circumstances to which section 37 of the Act applies) the Minister may grant to the personal representatives of the officer a gratuity in respect of any period of leave accrued to but not taken by that officer of an amount equal to the amount the officer would have received during that period at the current rate of pay for the rank the officer held at the time of his death.

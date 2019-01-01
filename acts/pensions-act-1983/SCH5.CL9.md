@@ -1,0 +1,3 @@
+# cl 9 Gratuity in case of death whilst serving
+(1) Where a soldier who has completed 12 or more years of qualifying service dies whilst serving as a soldier (otherwise than in the circumstances to which section 37 of the Act applies), the Minister may grant to his personal representatives a gratuity of an amount equal to one year's pay for the rank he held at the time of his death.
+(2) Where a soldier who has not completed 12 years qualifying service dies whilst serving as a soldier (otherwise than in the circumstances to which section 37 of the Act applies), the Minister may grant to his personal representatives a gratuity not exceeding such number of months pay, at the rate thereof at the date of his death, as he had completed years of continuous regular service.

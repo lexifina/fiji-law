@@ -1,0 +1,2 @@
+# cl 4 Pensions, to whom and at what rates to be granted
+Subject to the provisions of the Act and of these Regulations, every officer holding a pensionable office in Fiji who has been in service under the Government of the Republic of Fiji in a civil capacity for 10 years or more may be granted on retirement a pension at the annual rate of 1/600th of his pensionable emoluments for each complete month of pensionable service.

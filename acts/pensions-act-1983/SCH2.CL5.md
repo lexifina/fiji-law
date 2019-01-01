@@ -1,0 +1,2 @@
+# cl 5 Gratuities where length of service does not qualify for pension
+Every officer, otherwise qualified for a pension, who has not been in service under the Government of the Republic of Fiji in a civil capacity for 10 years, may be granted on retirement a gratuity not exceeding 5 times the annual amount of the pension which, if there had been no qualifying period, might have been granted to him under regulation 4.

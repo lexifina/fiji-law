@@ -1,0 +1,4 @@
+# cl 7 Re-engagement benefits
+(1) Subject to paragraphs (2) and (3), the Minister may grant to a soldier who has completed a minimum period of 12 years’ continuous service in the Regular Force, and is without break re-engaged for a further period of such service, on each successive re-engagement, benefit at the rate of one month's pay for the rank he held immediately prior to his re-engagement for each complete year of such intended re-engagement.
+(2) If a soldier who has accepted a re-engagement benefit under paragraph (1) retires from the Regular Force prior to the completion of his current engagement, he shall refund the whole or such portion of that re-engagement benefit as the Minister determines.
+(3) A break in continuous service which can be disregarded under regulation 12 of the regulations contained in Schedule 2 to the Act may likewise be disregarded for the purpose of paragraph (1).

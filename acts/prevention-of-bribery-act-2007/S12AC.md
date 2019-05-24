@@ -1,0 +1,8 @@
+# s 12AC Costs in proceedings on confiscation order
+(1) The court or the Court of Appeal, as the case may be, may, if it thinks fit, award to any person his or her reasonable costs in respect of any proceedings before it in relation to—
+(a)the making of an order under section 12AA; or
+(b)an appeal under section 12AB,
+where such an order is not made or is quashed.
+(2) Any costs awarded under subsection (1) —
+(a)shall, except where the amount is fixed by the court or the Court of Appeal, be ascertained by the Registrar of the High Court;
+(b)shall be paid from general revenue.

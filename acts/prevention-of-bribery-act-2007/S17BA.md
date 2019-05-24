@@ -1,0 +1,17 @@
+# s 17BA Permission to leave Fiji
+(1) Without prejudice to section 17B, a person on whom a notice under section 17A(1) is served may at any time make application in writing to the Commissioner or to a Magistrate or both for permission to leave Fiji, and every such application shall contain a statement of the grounds on which it is made.
+(2) A Magistrate shall not consider an application made under subsection (1) unless he or she is satisfied that reasonable notice in writing of it has been given to the Commissioner.
+(3) The Commissioner or a Magistrate shall only grant an application made under subsection (1) where the Commissioner or the Magistrate, as the case may be, is satisfied that having regard to all the circumstances, including the interests of the investigation referred to in section 17A(1), a refusal to grant the application would cause unreasonable hardship to the applicant.
+(4) Before an application is granted under this section—
+(a)the applicant may be required to—
+(i)deposit such reasonable sum of money with such person as may be specified;
+(ii)enter into such recognisance with such sureties, if any, as may be specified; or
+(iii)deposit such a sum of money and enter into such a recognisance as may be specified;
+(b)any such applicant or surety may be required to deposit such property or document of title thereto with such person as may be specified for retention by that person until such time as any recognisance entered into under this subsection is no longer required or is forfeited.
+(5) A recognisance referred to in subsection (4) shall be subject to a condition that the applicant shall appear at such time and place in Fiji as may be specified and at such other time and place in Fiji thereafter as may be further specified.
+(6) An application under this section may be granted either without condition or subject to a condition that the applicant shall appear at such time and place in Fiji as may be specified and at such other time and place in Fiji thereafter as may be further specified.
+(7) Where a person is permitted to leave Fiji under this section subject to a condition imposed under subsection (5) or (6), then after the time specified under that subsection or (if applicable) after the last of such times, the provisions of section 17A(3A) shall continue to apply in respect of the person as if the person had not been permitted to leave Fiji under this section.
+(8) Proceedings before a Magistrate under this section—
+(a)shall be conducted in chambers; and
+(b)shall be deemed to be proceedings which a Magistrate has power to determine in a summary way and, accordingly, any enabling statutory law (which relates to appeals) shall apply, with any necessary modifications, to appeals against an order of a Magistrate under this section.
+(9) Anything to be specified in respect of an applicant under this section shall be specified by notice in writing served personally on the applicant.

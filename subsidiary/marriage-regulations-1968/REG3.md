@@ -1,0 +1,2 @@
+# reg 3 Preservation of notice of marriage
+Immediately after the end of March, June, September and December in each year, each district registrar shall forward to the Registrar-General the original of every notice of marriage and declaration received by such district registrar in the quarter ending 31 December of the previous year and 31 March, 30 June and 30 September of the current year, respectively.

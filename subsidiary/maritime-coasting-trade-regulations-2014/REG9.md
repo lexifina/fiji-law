@@ -1,0 +1,2 @@
+# reg 9 Restrictions on number of Licence or Sea Route Licence issued
+The Minister in consultation with the Chief Executive Officer may consider restricting the number of Licences or Sea Route Licences issued under these Regulations, to ship owners and operators to 2 or 3 Licences after considering the volume of trade, the adequacy of facilities and existing licensed services to provide the proposed service.

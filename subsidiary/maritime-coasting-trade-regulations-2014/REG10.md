@@ -1,0 +1,2 @@
+# reg 10 Revocation of a Licence or Sea Route Licence
+Where the Minister after consultation with the Chief Executive Officer, has reason to believe that a shipping service is not being carried out by a ship in accordance with the conditions of the Licence or Sea Route Licence granted to the ship, he or she may revoke that Licence or Sea Route Licence and prevent the ship from engaging further in any coasting-trade in Fiji waters.

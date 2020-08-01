@@ -1,0 +1,8 @@
+# reg 13 Pre-contractual statement for credit not exceeding $5,000
+(1) The financial information prescribed under as set out in Schedule 1A of the Act (“the relevant financial information”) must be set out separately from any other information in the pre-contractual statement, the relevant financial information must be set out in tabular form, and in either portrait of landscape format (“the financial table”).
+(2) Additional information may be included in the financial table, but only information referred to in Schedule 1.
+(3) If the relevant financial information relates to more than one type of credit facility, the information may be set out in a single financial table or in separate financial tables.
+(4) The financial table must be set out in the first page of the pre-contractual statement (excluding the cover page) and, if necessary, on the immediately succeeding pages. If the pre-contractual statement consists of more than one document, the financial table need not be repeated.
+(5) If any of the relevant financial information can change under the credit contract because of a unilateral change by the credit provider, a clear statement must be made in the financial table that it is subject to change without consent. A single statement may be made in respect of 2 or more items of information subject to change.
+(6) Any expression may be used for the purpose of the relevant financial information if the expression is defined elsewhere in the pre-contractual statement.
+(7) The relevant date of disclosure of the information in the financial table may be set out in the financial table.

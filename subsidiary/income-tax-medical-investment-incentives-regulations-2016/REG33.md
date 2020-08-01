@@ -1,0 +1,2 @@
+# reg 33 Procedure in case of loss
+If a loss is incurred in connection with an ancillary medical centre in respect of which investment allowance has been approved under regulation 32, any loss incurred in the operation of the ancillary medical centre may be carried forward and set off against the total income of that ancillary medical centre business or the total income from that ancillary medical centre premises for the next 8 years in succession.

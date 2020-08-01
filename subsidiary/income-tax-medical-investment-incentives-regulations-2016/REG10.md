@@ -1,0 +1,2 @@
+# reg 10 Procedure in case of loss
+If a loss is incurred in connection with a private hospital in respect of which investment allowance has been approved under regulation 9, any loss incurred in the operation of the private hospital may be carried forward and set off against the total income of that private hospital business or the total income from that private hospital premises for the next 8 years in succession.

@@ -1,0 +1,2 @@
+# PART B MEMORANDUM OF SATISFACTION
+Charges as in Schedule 2.

@@ -1,0 +1,3 @@
+# PART B LETTERS OF ADMINISTRATION
+Comprising all work usual and necessary to draw up and publish advertisement under section 59 of the Trustee Act 1966 and Practice Direction No 2 of 1994 issued by the Chief Registrar, to draw up Oath, Affidavit of Justification of Sureties, Administration Bond, to obtain signatures, to obtain the grant from the court and to transmit the assets into the names of the personal representatives. In extraordinary cases the taxing officer may increase or reduce the charges if for any special reasons he or she thinks fit.
+Fees: as for Part A except that a further $250 be added to the sum computed under Part A.

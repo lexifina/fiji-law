@@ -1,0 +1,2 @@
+# reg 84 Names and addresses of all holders of a mining tenement to be supplied
+No mining tenement shall be granted in the name of any firm, syndicate or partnership unless the names and addresses of all of the members thereof are submitted to the Director in writing signed by each of such members or his or her registered attorney, and each of such members shall, for all purposes, be deemed to be the holder of such mining tenement and shall be subject to all of the obligations imposed on the holder thereof by or under the provisions of the Act.

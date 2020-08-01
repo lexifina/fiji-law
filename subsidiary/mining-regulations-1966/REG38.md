@@ -1,0 +1,2 @@
+# reg 38 Execution of lease
+Every mining lease shall be executed by the lessee, if he or she be resident within Fiji, within a period of 60 days from the date of issue of the notice that the lease is ready for execution, or in the case of a lessee residing outside Fiji, within a period of 6 months from the date of issue of such notice. Failure on the part of the lessee to execute a lease within the prescribed period shall render the approval of the lease liable to cancellation.

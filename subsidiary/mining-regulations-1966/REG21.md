@@ -1,0 +1,6 @@
+# reg 21 Priority
+(1) An application for a prospecting licence, permit to mine or mining lease shall have priority of consideration over an application for a special site right or road access licence where the areas the subject of the applications overlap or cover the same piece of land.
+(2) Subject to the provisions of paragraph (1) —
+(a)where more than one person applies for a mining tenement in respect of the same piece of land, the person who, in the opinion of the Director, has first correctly marked out the area and first applied for such mining tenement over such land in accordance with the provisions of these Regulations shall have priority of consideration;
+(b)where 2 or more applications in proper order in respect of the same piece of land are received simultaneously, the applicant who, in the opinion of the Director, first marked out the land shall have priority of consideration; and
+(c)where it appears that 2 or more persons have simultaneously marked out the same land for a mining tenement in accordance with these Regulations or where the Director is unable to determine which applicant was the first to mark out the land, the Director shall decide which application shall have priority of consideration and his or her decision shall be final.

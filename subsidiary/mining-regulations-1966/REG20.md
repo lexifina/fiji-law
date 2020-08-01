@@ -1,0 +1,2 @@
+# reg 20 Withdrawal of application for mining tenement Form 3
+An application for a mining tenement may be withdrawn by the applicant therefore at any time before it has been granted or refused by the Director by lodging a notice of withdrawal in duplicate with the Director in Form 3 or to like effect and, on acceptance by the Director of such withdrawal, all rents and fees paid by the applicant in respect of such application, less the filing fee, shall be refunded to him or her after deduction of the withdrawal fee.

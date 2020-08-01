@@ -1,0 +1,4 @@
+# reg 19 Notice of application for mining tenement Form 2
+Upon receipt of an application for a mining tenement, the receiving officer at the Mines Department shall prepare a notice in quadruplicate in Form 2 and shall cause one copy thereof to be placed upon the noticeboard at the office of the Mines Department at Suva and shall deliver the others to the applicant, who shall, as soon as possible after receipt thereof—
+(a)cause one of them to be placed inside a receptacle attached to the datum post of the area applied for and kept intact and legible until such time as the application has been dealt with by the Director, provided that the requirements of this paragraph may be dispensed with by the Director or an inspector upon it being proved to his or her satisfaction that such area is situated in a remote and unoccupied locality; and
+(b)publish the notice of application in the Gazette and in one newspaper published and circulating in Fiji.

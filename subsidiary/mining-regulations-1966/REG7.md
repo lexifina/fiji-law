@@ -1,0 +1,17 @@
+# reg 7 Director may permit payment of royalties on a yield basis
+(1) Notwithstanding the provisions of regulation 6, in cases where the holder of any mining tenement or tenements keeps books of account to the satisfaction of the Director, the Director may, with the approval of the Minister permit such holder to pay royalties on all minerals extracted from all his or her tenements, including those subsequently granted, on a yield basis, calculated as follows—
+(a)where the yield expressed as a percentage of the annual sale value does not exceed 20% royalty shall be at the rate of 10% of the yield; and
+(b)where the yield expressed as a percentage of the annual sale value exceeds 20%, royalty shall be at the rate of 10% of the yield, together with an additional 0.2% of the yield for each 1% by which the yield expressed as such percentage exceeds 20%.
+[subreg (1) am LN 112 of 1970 O 256, effective 8 October 1970]
+(2) Wherever the holder of mining tenements is permitted to pay royalties on a yield basis under provisions of subregulation (1), he or she shall submit to the Director a statement of account in respect of all his or her tenements within 3 months after the end of each year or within such longer period as the Director may allow.
+(3) All royalties assessed under this regulation shall be due and payable within one month of an assessment being made by the Director or such longer period as the Director may allow.
+(4) For the purposes of this regulation, unless the context otherwise requires—
+"annual expenditure" means the total of the following expenditure—
+(a)all expenses incurred by the holder, in relation to the mining tenement from which the minerals in respect of which the royalty is being determined were extracted, in the year for which royalty is being determined, in extracting, treating, refining and selling such minerals concerned including interest on loans, but excluding any head office expenses and any expenses other than such selling expenses as may in the discretion of the Director be included, incurred outside Fiji;
+(b)all expenses incurred by the holder of such tenement in the year for which royalty is being determined in experimentation, research or investigation (including prospecting) connected with the minerals in respect of which any royalty is being determined, as the Director may in his or her discretion allow; and
+(c)such expenditure as may be allowed as a set-off under the provisions of section 25(16) to (18) of the Income Tax Act 2015 for the year except to the extent it may have already been allowed under the provisions of paragraph (a) or (b).
+[def am LN 64 of 1968 reg 2, effective 17 May 1968; LN 147 of 1972 reg 2, effective 29 December 1972; LN 99 of 2016 reg 165, effective 1 December 2016]
+"annual sale value" means the total of all amounts received, whether directly or indirectly, from the sale or disposal of minerals, by the holder of the mining tenement from which the minerals in respect of which the royalty is being determined were extracted, in the year for which royalty is being determined;
+"year" means the calendar year, provided that for any company whose fiscal year is not the calendar year, year means such fiscal year; and
+"yield" means the difference between annual expenditure and annual sale value.
+(5) Where any doubt arises as to whether any expenses fall within paragraph (a) or paragraph (c) of the definition of “annual expenditure” the decision of the Director shall be final.

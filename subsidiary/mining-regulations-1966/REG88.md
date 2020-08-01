@@ -1,0 +1,2 @@
+# reg 88 Surrender of mining tenements. Form 22
+Notice of intention to surrender a mining tenement shall be in Form 22 with such alterations as may be required to meet the circumstances of each particular case, accompanied by the fee prescribed in Schedule 2, and shall be submitted in duplicate to the Director not less than one month before the date upon which such surrender is intended to take effect.

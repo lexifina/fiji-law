@@ -1,0 +1,3 @@
+# reg 13 Beacons and trenches to be maintained
+All beacons and all notices thereon, and all trenches marking out the boundaries of any mining tenement or proposed mining tenement, shall be maintained in good condition and repair by the holder of or the applicant for the mining tenement or proposed mining tenement, as the case may be, to which they refer, and such holder or applicant shall at all times keep every beacon clear of high grass and brushwood for a distance of not less than 4.5 m on all sides of such beacon and shall, if so required by the Director or an inspector, clear all vegetation away from the boundary lines for a width of not less than 600 mm on each side of the actual boundary line.
+[reg 13 am LN 95 of 1978 Sch, effective 21 July 1978]

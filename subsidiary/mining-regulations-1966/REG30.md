@@ -1,0 +1,8 @@
+# reg 30 Conditions to which prospecting licences are to be subject
+(1) Every prospecting licence shall, in addition to any special conditions contained therein, be deemed to be subject to the following conditions—
+(a)that the holder will vigorously and continuously prosecute prospecting operations on the land the subject thereof to the satisfaction of the Director; and
+(b)that the holder will employ in the prospecting operations not less than one person, who in the opinion of the Director or an inspector, is qualified and competent to prospect, for every 200 ha or part thereof the subject of the tenement, and not less than one other workman for every 10 ha of such land, provided that—
+(i)the Director may, on application in writing by the holder, suspend in whole or in part any of the obligations imposed by this subparagraph for such time as the Director may think fit; and
+(ii)where machinery is used, the number of workmen employed may be reduced in the proportion of one workman for each horsepower of machinery used, but so that the number of workmen employed shall not be less than one-third of the number prescribed by this subparagraph.
+[subreg (1) am LN 95 of 1978 Sch, effective 21 July 1978]
+(2) The land the subject of a prospecting licence shall be deemed to be continuously worked if 6 hours’ bona fide work per working day is performed thereon by the prescribed number of men for 200 working days per annum, provided that involuntary cessation of work during the continuance of stress of weather, epidemics or strikes, shall not be deemed to be a breach of any of the conditions imposed by the provisions of paragraph (1).

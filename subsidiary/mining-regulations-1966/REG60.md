@@ -1,0 +1,3 @@
+# reg 60 Erection of machinery or furnaces
+(1) The holder of a special site right shall commence the erection of machinery, furnaces or other works thereon within a period of 12 months from the date of commencement of the right.
+(2) If the holder of a special site right desires to obtain an extension of the time within which he or she must commence the erection of machinery, furnaces or other works, he or she shall make application to the Director, and, upon payment of the exemption fee prescribed in Schedule 2, the Director may grant such extension of time for any period not exceeding 6 months. Every such extension shall be noted on the special site right.

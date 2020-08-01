@@ -1,0 +1,2 @@
+# reg 85 Service and delivery of notices and process
+Any notice or process required under the provisions of these Regulations to be served on or delivered to any person shall be deemed to have been sufficiently served on or delivered to such person if delivered to him or her personally or if sent to him or her by prepaid registered post to his or her last known place of residence or business within Fiji.

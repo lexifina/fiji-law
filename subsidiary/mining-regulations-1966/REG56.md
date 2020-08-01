@@ -1,0 +1,4 @@
+# reg 56 Water right not required for water within a mining tenement, limitation of height of dam
+The holder of a mining tenement may divert or impound water for prospecting or mining purposes without obtaining a water right, provided that—
+(a)the diverted water is returned to its original channel and that the points of intake and return of the diverted water both lie within the area the subject of the mining tenement and that both the original watercourse between such points of intake and return and the water race to which the water is diverted lie wholly within such area; and
+(b)any dam constructed for the impounding of water on a mining tenement shall be only of such height and at such a distance from the boundary as in no way to interfere with the natural level of the stream above such boundary to the injury of any landowner or the holder of any other mining tenement.

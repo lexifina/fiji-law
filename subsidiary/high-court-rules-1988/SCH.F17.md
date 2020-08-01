@@ -1,0 +1,5 @@
+# FORM 17 ORDER FOR EXAMINATION BEFORE A JUDGE (O 39, R 1)
+[Heading as in action]
+On hearing [the barristers and solicitors on both sides] and on reading the affidavit of filed herein the day of 20 .
+It is ordered that a witness on behalf of the be examined viva voce on oath or affirmation before one of the examiners of the Court [or Esq., the examiner agreed upon or an examiner to be agreed upon, the plaintiff's [or defendant's] barrister and solicitor giving to the defendant's [or plaintiff's] barrister and solicitor days’ notice in writing of the time and place where the examination is to take place [or state the time and place if fixed by the order]. And it is ordered that the depositions taken at the examination be filed in the High Court and that office copies thereof may be read and given in evidence on the trial of this cause, saving all just exceptions, without any further proof of the absence of the said witness than the affidavit of the barrister and solicitor or agent of the party using the same, as to his or her belief, and that the costs of this application [and of the examination] be [costs in the cause].
+Dated the day of 20

@@ -1,0 +1,3 @@
+# ARTICLE 13
+1.The head of the mission is considered as having taken up his functions in the receiving State either when he has presented his credentials or when he has notified his arrival and a true copy of his credentials has been presented to the Ministry for Foreign Affairs of the receiving State, or such other ministry as may be agreed, in accordance with the practice prevailing in the receiving State which shall be applied in a uniform manner.
+2.The order of presentation of credentials or of a true copy thereof will be determined by the date and time of the arrival of the head of the mission.

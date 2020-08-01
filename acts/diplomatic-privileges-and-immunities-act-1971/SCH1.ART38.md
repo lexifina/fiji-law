@@ -1,0 +1,3 @@
+# ARTICLE 38
+1.Except insofar as additional privileges and immunities may be granted by the receiving State, a diplomatic agent who is a national of or permanently resident in that State shall enjoy only immunity from jurisdiction, and inviolability, in respect of official acts performed in the exercise of his functions.
+2.Other members of the staff of the mission and private servants who are nationals of or permanently resident in the receiving State shall enjoy privileges and immunities only to the extent admitted by the receiving State. However, the receiving State must exercise its jurisdiction over those persons in such a manner as not to interfere unduly with the performance of the functions of the mission.

@@ -1,0 +1,4 @@
+# SCHEDULE 8 PRIVILEGES AND IMMUNITIES OF A PERSON REFERRED TO IN SECTION 8 AND HIS OR HER FAMILY
+[Sch 8 insrt Act 52 of 1971 s 3, effective 17 December 1971; am Act 13 of 1977 s 18, effective 1 July 1977]
+1.Exemption from taxation on all stipends, emoluments and allowances paid to such person in connection with his or her duties in Fiji.
+2.Exemption from taxes on the importation of professional and technical equipment used by such person in connection with his or her duties in Fiji and on the importation of furniture and effects, including one motor vehicle, of such person and his or her family imported within 6 months from the time of first taking up post in Fiji, that exemption to be subject to compliance with such conditions as the Minister responsible for finance may determine for the protection of the revenue.

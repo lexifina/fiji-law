@@ -1,0 +1,3 @@
+# ARTICLE 9
+1.The receiving State may at any time and without having to explain its decision, notify the sending State that the head of the mission or any member of the diplomatic staff of the mission is persona non grata or that any other member of the staff of the mission is not acceptable. In any such case, the sending State shall, as appropriate, either recall the person concerned or terminate his functions with the mission. A person may be declared non grata or not acceptable before arriving in the territory of the receiving State.
+2.If the sending State refuses or fails within a reasonable period to carry out its obligations under paragraph 1 of this Article, the receiving State may refuse to recognize the person concerned as a member of the mission.

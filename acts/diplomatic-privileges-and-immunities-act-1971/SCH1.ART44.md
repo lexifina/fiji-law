@@ -1,0 +1,2 @@
+# ARTICLE 44
+The receiving State must, even in case of armed conflict, grant facilities in order to enable persons enjoying privileges and immunities, other than nationals of the receiving State, and members of the families of such persons irrespective of their nationality, to leave at the earliest possible moment. It must, in particular, in case of need, place at their disposal the necessary means of transport for themselves and their property.

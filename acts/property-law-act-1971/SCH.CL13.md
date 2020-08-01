@@ -1,0 +1,2 @@
+# cl (13)
+That the mortgagor will from time to time, so long as any money remains owing on the security, pay the rent reserved by the lease under which the mortgagor holds the land, and perform and observe the covenants and conditions expressed or implied in the lease and to be performed and observed by the lessee, and will at all times keep the mortgagee indemnified against all actions, expenses and claims on account of the non-payment of the said rent, or the breach or non-observance of the said covenants or conditions, or any of them.

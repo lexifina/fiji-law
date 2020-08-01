@@ -1,0 +1,3 @@
+# cl (14)
+That if the mortgagor makes default in the payment of the rent reserved by the lease under which the mortgagor holds the land, or in the performance or observance of any of the covenants and conditions expressed or implied in the lease and to be performed and observed by the lessee, it shall be lawful for but not obligatory upon the mortgagee to pay that rent and to perform and observe those covenants and conditions, and the provisions of the foregoing clause (7) shall, with the necessary modifications, apply with respect to all moneys so paid and all expenses incurred in performing or observing the covenants and conditions of the lease.
+INTERPRETATION

@@ -1,0 +1,3 @@
+# cl (8)
+That the mortgagee will, on payment by the mortgagor of all moneys due under the mortgage at the time and in the manner mentioned in the mortgage for payment of the principal sum, or at any time thereafter on payment of all moneys then due (3 clear months’ notice of the intention to pay the same having been given) execute a proper (and registerable where necessary) discharge, release or satisfaction of the mortgage to be prepared and stamped (and registered where necessary) by or at the cost of the mortgagor.
+COVENANTS, CONDITIONS AND POWERS IMPLIED IN MORTGAGES SUBJECT TO PRIOR MORTGAGES

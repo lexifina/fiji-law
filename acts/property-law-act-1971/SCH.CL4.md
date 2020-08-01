@@ -1,0 +1,2 @@
+# cl (4)
+That the mortgagor will from time to time, so long as any money remains owing on the security, well and substantially repair, and keep in good and substantial repair and condition, all buildings or other improvements erected and made upon the said land; and that the mortgagee shall at all reasonable times be at liberty, by himself or herself, his or her agents or servants, to enter upon the land to view and inspect the said buildings and improvements.

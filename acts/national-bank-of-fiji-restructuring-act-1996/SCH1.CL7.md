@@ -1,0 +1,2 @@
+# cl 7 References to Bank in other Acts
+Every reference to the Bank in any Act (other than this Act, the Banking Act 1995 and the Reserve Bank of Fiji Act 1983) or decree, or in any regulation, order, or notice made or given under any Act (other than this Act, the Banking Act 1995 and the Reserve Bank of Fiji Act 1983) or decree in relation to a transferred asset or transferred liability or transferred employee shall, from the vesting time, be read and construed as a reference to AMB.

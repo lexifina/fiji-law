@@ -1,0 +1,2 @@
+# cl 6 References to Bank in other enactments
+On and after the corporatisation day every reference to the Bank in any Act (other than this Act, the Banking Act 1995 and the Reserve Bank of Fiji Act 1983) or decree or in any regulation, order, or notice made or given under any Act (other than this Act, the Banking Act 1995 and the Reserve Bank of Fiji Act 1983) or decree shall be read and construed as a reference to the Company.

@@ -1,0 +1,8 @@
+# cl 10 Disclosure of interests of directors
+(1) Any director of the Bank or AMB, as the case may be, who, otherwise than as a director, is directly or indirectly interested in the exercise or performance of any function, power, or duty by the Bank or AMB, or who is directly or indirectly interested in any arrangement, agreement, or contract made or entered into, or proposed to be made or entered into, by the Bank or AMB shall, as soon as practicable after the relevant facts have come to the director's knowledge, disclose the nature of the interest to the Board.
+(2) Where a director makes a disclosure under this paragraph, that director—
+(a)shall not take part, after the disclosure, in any deliberation or decision of the Board relating to the exercise or performance of the function, power, or duty by the Bank or AMB or relating to the arrangement, agreement, or contract; but
+(b)may be counted for the purpose of forming a quorum of the Board for any such deliberation or decision.
+(3) Failure to comply with this paragraph shall not affect the validity of any action taken, or arrangement, agreement, or contract made, by the Bank or AMB, as the case may be.
+(4) The Minister may by written notice to the Board waive or modify any of the provisions of this paragraph in respect of any particular director or matter, or class of matters that, in the Minister's opinion, does not constitute a direct or indirect material interest.
+(5) The Minister shall lay before the House of Representatives and the Senate a copy of any notice issued under subparagraph (4) within 10 sitting days after the date on which the Minister issues the notice.

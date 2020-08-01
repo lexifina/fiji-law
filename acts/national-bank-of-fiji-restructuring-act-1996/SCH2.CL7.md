@@ -1,0 +1,2 @@
+# cl 7 Resolution assented to by all directors
+A resolution in writing signed or assented to by letter, telex, facsimile, or other written message, by every director for the time being of the Bank or AMB, as the case may be, shall be as valid and effective as if it had been passed at a meeting of the Board duly called and constituted. Any such resolution may consist of several documents in like form, each signed or purported to have been dispatched by one or more directors.

@@ -1,0 +1,6 @@
+# cl 12 Delegations
+(1) The Board may, by written notice, delegate any of its functions, duties, or powers, or any of the functions, duties, or powers of the Bank or AMB, as the case may be, to the Chief Manager or to any committee of the Board, director, employee, consultant or agent.
+(2) A delegation may be to any named person or to any member of a specified class of persons. If the delegation is to a class of persons, it shall, unless otherwise provided in the delegation, apply to each member of the class for the time being irrespective of any change in membership of the class.
+(3) Unless otherwise provided in the delegation, a delegate may exercise the function, duty, or power in the same manner and with the same effect as if the delegate were the Board or the Bank or AMB, as the case may be, but may not further delegate the function, duty, or power.
+(4) Every delegation shall be revocable at will and no such delegation shall prevent the exercise of the function, duty or power by the Board or the Bank or AMB, as the case may be.
+(5) Every delegate purporting to act under any delegation under this paragraph shall, until the contrary is proved, be presumed to be acting in accordance with the terms of the delegation.

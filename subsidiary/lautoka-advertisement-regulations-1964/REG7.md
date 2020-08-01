@@ -1,0 +1,2 @@
+# reg 7 Saving of existing advertisements
+In the case of any advertisement erected prior to the commencement of these Regulations for which permission would be required under these Regulations if erected after such commencement, if the occupier of the land, building or structure upon which such advertisement is displayed shall apply for permission therefore within 3 months of the commencement of these Regulations, such permission shall be granted by the local authority.

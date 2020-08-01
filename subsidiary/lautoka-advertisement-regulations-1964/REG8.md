@@ -1,0 +1,2 @@
+# reg 8 Removal of advertisement
+Any advertisement erected or displayed in contravention of these Regulations (including an advertisement erected prior to the commencement of these Regulations where the occupier has failed to apply for permission under regulation 7) may be removed by order of the Council, and the expense of such removal may be recovered from the occupier of the land, building or structure.

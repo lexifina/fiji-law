@@ -1,0 +1,8 @@
+# reg 8 Sale of restrained deteriorating property
+(1) The competent authority who has responsibility for the control and management of restrained property may make an application in court that made the relevant restraining order for an order under subregulation (2) that the property be sold.
+(2) The court that is hearing an application under subregulation (1) may order that the property be sold if it is more likely than not that—
+(a)the property is or shall be subject to substantial waste or loss of value if it is retained until it is dealt with under another provision of the Act or these Regulations; or
+(b)the cost of managing or protecting the property shall exceed the value of the property if it is retained until it is dealt with under regulation 13 of these Regulations.
+(3) If the competent authority has the control and management of property that is restrained under this regulation to property that is not land, the competent authority may sell the property for and on behalf of the State in the circumstances referred to in subregulation (2) without obtaining a court order under that subregulation if the Minister approves the sale in the circumstances.
+(4) Subregulations (2) and (3) also apply to property where, despite that the market value of the property may not be diminishing, interest charges of the like are resulting in or are likely to result in a diminishing realisable equity in the property.
+(5) If restrained property is sold pursuant to an order made under subregulation (2) or (3), the proceeds of the sale shall be restrained property and shall be deposited into the Forfeited Assets Fund.

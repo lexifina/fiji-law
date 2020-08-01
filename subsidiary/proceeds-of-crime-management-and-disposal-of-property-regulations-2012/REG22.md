@@ -1,0 +1,2 @@
+# reg 22 Legal professional privilege
+For the avoidance of doubt, the common law rules (including the exceptions) relating to legal professional privilege apply in relation to proceedings under these Regulations.

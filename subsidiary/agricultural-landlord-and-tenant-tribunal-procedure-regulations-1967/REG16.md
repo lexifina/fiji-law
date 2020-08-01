@@ -1,0 +1,2 @@
+# reg 16 Interpreters
+If during a hearing of any appeal or reference, any party, witness or other interested person is unable to understand the English language, a tribunal may direct a fit and proper person to attend and interpret the proceedings so far as may be necessary. Before so interpreting such person shall swear the following oath—“I swear that I will well and truly interpret and explanation make of all such matters and things as shall be required of me to the best of my skill and understanding. So help me God”.

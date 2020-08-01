@@ -1,0 +1,2 @@
+# reg 44 References to central agricultural tribunal
+After a reference file of a reference being appealed has been transmitted to the central agricultural tribunal, all applications in the proceedings shall be made directly to that tribunal, provided that in cases of urgency, a tribunal may make any interim order to prevent prejudice to the claims of any party pending an appeal, but any such order may be discharged or varied by the central agricultural tribunal.

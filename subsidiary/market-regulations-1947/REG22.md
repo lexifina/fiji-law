@@ -1,0 +1,3 @@
+# reg 22 Unsold produce
+(1) Goods unsold at the close of the day may be left in the market at the owner’s risk with the permission of the market master and any goods so left without such permission may be removed by the market master and disposed of in such manner as he or she may consider reasonable.
+(2) With his or her consent goods may be left in the care of the market master upon payment in advance of a charge of $0.02 per sack or any less quantity for a period of 58 hours.

@@ -1,0 +1,9 @@
+# cl 5
+(1) It shall be the duty of the Government and of the Company to take, as and when during the transitional period the Company considers appropriate, all such steps as may be requisite to secure that the vesting in the Company by virtue of Part 7 of this Act or this paragraph of any foreign property, right or liability is effective under the relevant foreign law.
+(2) During the transitional period, until the vesting in the Company by virtue of Part 7 of this Act or this paragraph of any foreign property, right or liability is effective under the relevant foreign law, it shall be the duty of the Government to hold that property or right for the benefit of, or to discharge that liability on behalf of, the Company.
+(3) Nothing in subparagraphs (1) and (2) above shall be taken as prejudicing the effect under the laws of Fiji of the vesting in the Company by virtue of Part 7 of this Act or this paragraph, of any foreign property, right or liability.
+(4) The Government shall have all such powers as may be requisite for the performance of its duty under this paragraph, but—
+(a)it shall be the duty of the Company during the transitional period to act on behalf of the Government (so far as possible) in performing the duty imposed on Government by this paragraph; and
+(b)any foreign property, rights and liabilities acquired or incurred during that period shall immediately become property, rights and liabilities of the Company.
+(5) References in this paragraph to any foreign property, right or liability are references, respectively, to any property, right or liability as respects which any issue arising in any proceedings would have been determined (in accordance with the rules of private international law) by references to the law of the country or territory outside Fiji.
+(6) Any expenses incurred by the Government under this paragraph shall be met by the Company.

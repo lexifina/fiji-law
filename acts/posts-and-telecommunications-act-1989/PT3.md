@@ -1,0 +1,2 @@
+# PART 3 OTHER FUNCTIONS OF THE MINISTER (Repealed)
+(Repealed)

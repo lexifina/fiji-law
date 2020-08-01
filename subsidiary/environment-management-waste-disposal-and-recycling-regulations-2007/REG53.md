@@ -1,0 +1,6 @@
+# reg 53 Appeals
+(1) A permit holder who is dissatisfied with a decision of the WPC Administrator under these Regulations relating to the issue, variation, suspension or renewal of a permit, or the conditions attached to a permit, may, within 10 days of being notified of the decision, appeal in writing to the Permanent Secretary.
+(2) The lodging of an appeal in respect of a permit does not prevent inspection and compliance measures being taken in respect of the permitted activity.
+(3) The Permanent Secretary when deciding an appeal must give the appellant and the WPC Administrator the opportunity to be heard, in writing or in person, and to produce evidence and call witnesses, and must give reasons for the decision on the appeal.
+(4) If an appeal involves a technical issue, the Permanent Secretary must obtain appropriate technical advice from a person, other than the WPC Administrator or staff of the Department.
+(5) The Permanent Secretary may, instead of adjudicating on any matter, on the application of either party, or of the Permanent Secretary's own motion, refer any matter that is the subject of an appeal to the Environmental Tribunal, in accordance with the rules of the Tribunal.

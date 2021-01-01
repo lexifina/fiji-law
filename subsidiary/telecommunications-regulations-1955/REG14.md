@@ -1,0 +1,3 @@
+# reg 14 Subscriber to give notice of vacation of premises
+Every subscriber shall, before vacating any premises to which a telephone service is connected, give notice to the Permanent Secretary of the date on which he or she will be vacating such premises and, unless the subscriber gives notice of intention to retain such service under the provisions of regulation 16, the Permanent Secretary may disconnect the premises from the telephone exchange as from that date, and, unless such service is transferred to another subscriber under the provisions of regulation 18, may remove the telephone instrument and apparatus from such premises.
+[reg 14 subst LN 38 of 1966 reg 3, effective 1 April 1966]

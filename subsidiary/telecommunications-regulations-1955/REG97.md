@@ -1,0 +1,2 @@
+# reg 97 Personal responsibility of licensee
+Notwithstanding any approval that may from time to time be given to the licensee by the Permanent Secretary for any person other than the licensee to utilise any radio station for the transmission of any message or communication, the licensee shall be personally responsible for the observance of these Regulations and all other conditions imposed as if any such message or communication were delivered by him or her.

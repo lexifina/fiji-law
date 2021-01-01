@@ -1,0 +1,6 @@
+# reg 54 Telephone credit cards
+(1) The Permanent Secretary or any person authorised by him or her may, in his or her discretion, on the application of any subscriber and on payment by such subscriber of the prescribed fee, issue such subscriber with a telephone credit card authorising such subscriber to make telephone calls from any telephone in Fiji, including a public telephone, and to have the charges therefor debited to such telephone account as is specified in such telephone credit card.
+(2) Where the Permanent Secretary has entered into an arrangement with the administration of another country—
+(a)the telephone credit card issued to the telephone subscriber in Fiji may, subject to any conditions which may be notified to the subscriber to whom the card has been issued, be used to authorise the transfer of charges for telephone calls from any telephone in the said country as in subregulation (1);
+(b)a person to whom a telephone credit card has been issued by the administration of the said country may, subject to any conditions notified to him or her, make telephone calls from any telephone in Fiji, including a public telephone and have the charges debited as provided for on his or her telephone credit card.
+[reg 54 subst LN 48 of 1972 reg 8, effective 30 June 1972]

@@ -1,0 +1,2 @@
+# reg 43 Party lines
+At the discretion of the Permanent Secretary party-exchange lines may be provided at reduced tariff rates if the parties are situated within an exchange radius and their premises are located within a reasonable distance of each other. When by reason of reduction or increase in the number of subscribers on a party line an alteration in rentals takes place, the new rentals shall take effect from the first day of the next half-yearly rental period except that a new subscriber shall pay the new rental from the date of connection.

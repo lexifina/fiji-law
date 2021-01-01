@@ -1,0 +1,3 @@
+# reg 45 Personal calls
+Subject to payment of the prescribed personal call charge in addition to any other charges arising from the call, a subscriber may book a call in advance to a specified telephone number or numbers for the purpose of communication with a particular person identified by name or by such description as the Permanent Secretary may consider sufficient, provided that the Permanent Secretary or any person authorised by him or her may, in his or her discretion, remit such charge if communication with the specified telephone number or numbers cannot be established.
+[reg 45 subst LN 38 of 1966 reg 10, effective 1 April 1966]

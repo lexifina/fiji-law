@@ -1,0 +1,4 @@
+# reg 22 Telephones not to be sold or irregularly transferred
+(1) A subscriber may not sell or offer for sale his or her telephone service nor accept a monetary offer for the transfer of his or her telephone except as provided in these Regulations.
+(2) If any subscriber contravenes this regulation, or if any telephone connection is obtained in contravention of this regulation, the Permanent Secretary may require the telephone service in respect of which the offence is committed to be forfeited, and may disconnect the premises from the telephone exchange with which such premises are connected, and may remove any telephone instruments and apparatus therefrom.
+(3) Nothing in this regulation shall prevent the transfer of a telephone service with the consent of the Permanent Secretary to a new or existing subscriber upon or in connection with a bona fide change in the occupancy of the premises in which the service is installed.

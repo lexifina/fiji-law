@@ -1,0 +1,9 @@
+# reg 16 Retention of subscriber's number or service during temporary absence
+(1) During the temporary absence of a subscriber for a period not exceeding 6 months and not less than 2 weeks, from any premises where a telecommunications service is provided, the Permanent Secretary may, on the application of such subscriber and on payment by the subscriber of a sum equal to the total amount due in respect of monthly rental payments during the subscriber's absence—
+(a)suspend the telecommunications service to such subscriber;
+(b)retain the subscriber's current telephone or telex number for the use of the subscriber on his or her return to the premises;
+(c)on receiving notification of the return of the subscriber to the premises, restore the service to the subscriber in the same position in the same premises on payment of the prescribed reconnection fee; and
+(d)at the request of the subscriber and on payment by him or her of the prescribed removal fee, (in addition to the reconnection fee) restore the service either in another position in the same premises or, if technical considerations permit, in other premises in the same exchange area.
+[subreg (1) subst LN 88 of 1986 reg 2, effective 15 August 1986]
+(2) During any temporary absence of a subscriber from any premises where a telephone service is provided, the Permanent Secretary may, on the application of such subscriber, permit him or her to retain such service at such premises for the use of another occupier during such period of temporary absence, provided that the subscriber shall remain liable for the payment of all amounts payable in respect of such service under the provisions of these Regulations and of his or her subscriber's agreement with the Permanent Secretary, and may have an entry in the name of the temporary occupier, in the telephone directory, on payment of the prescribed fee for an additional entry.
+[subreg (2) subst LN 48 of 1972 reg 5, effective 30 June 1972]

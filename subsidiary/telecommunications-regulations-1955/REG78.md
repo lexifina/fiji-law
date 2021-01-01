@@ -1,0 +1,2 @@
+# reg 78 Form of abbreviated address
+No abbreviated telegraph address may consist of more than one word in addition to the name of the town or place where registration is desired. The word must not contain more than 10 letters and must be easy to read. Proper names can only in rare cases be accepted, and in no case can a proper name be registered for a person of a different name. The names of professions, trades, districts, countries, States, towns, streets and newspapers may not be used as registered addresses.

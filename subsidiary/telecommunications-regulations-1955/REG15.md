@@ -1,0 +1,3 @@
+# reg 15 Failure of subscriber to notify vacation of premises
+If any subscriber vacates any premises to which a telephone service is provided without giving notice as required under the provisions of regulation 14, the Permanent Secretary may, without prejudice to his or her right of recovery of any amounts payable by such subscriber in respect of that service, disconnect the premises from the telephone exchange and remove the telephone instrument and apparatus from the premises, and the subscriber shall remain liable for all amounts payable in respect of such service until such time as the telephone is disconnected or is transferred to another subscriber.
+[reg 15 subst LN 38 of 1966 reg 4, effective 1 April 1966]

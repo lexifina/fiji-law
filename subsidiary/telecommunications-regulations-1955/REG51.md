@@ -1,0 +1,2 @@
+# reg 51 Overloaded party lines
+When in the opinion of the Permanent Secretary the number of calls originated or received by any subscriber connected with a party line precludes a reasonable use of the line by the other parties the Permanent Secretary may require the subscriber either to rent an individual line or to be transferred to a line with which there will be a lesser number of parties connected.

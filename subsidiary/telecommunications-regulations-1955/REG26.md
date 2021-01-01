@@ -1,0 +1,2 @@
+# reg 26 Precautions against damage to subscribers’ premises
+The Permanent Secretary shall take all reasonable precautions to prevent damage or injury to subscribers or their premises from any high potential current which may be conveyed to the subscriber's premises by the exchange line. But the subscriber shall make no claim against the Permanent Secretary on account of any damage or injury arising from such current not emanating from the premises of the Permanent Secretary.

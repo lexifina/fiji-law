@@ -1,0 +1,3 @@
+# reg 35 Non-liability of State and postal officers
+(1) Neither the State nor the Permanent Secretary nor any other officer of the department of telecommunications shall incur any liability for or on account of or in respect of any loss or damage sustained by reason of any interruption or failure of communication by means of any installation, or any failure or error in connection with the taking or giving of messages by officers of the department of telecommunications, or any omission or insertion of or error in any entry in a telephone directory published by or on behalf of the Permanent Secretary.
+(2) A subscriber shall not be entitled to any abatement of rental in connection with any of the matters aforesaid.

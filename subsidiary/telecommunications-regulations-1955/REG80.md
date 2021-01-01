@@ -1,0 +1,2 @@
+# reg 80 Delivery of telegram
+A telegram taken to a place of residence or business may be delivered either to the addressee, to an adult member of his or her family, to his or her employee, lodgers or landlord, or to a servant of the house who shall sign a receipt for the telegram, unless the addressee has given special instructions to the contrary. Telegrams may be delivered by telephone to the telephone number of the addressee and will be followed by confirmation.

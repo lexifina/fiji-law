@@ -1,0 +1,2 @@
+# reg 53 Direct circuits
+At any place where in the opinion of the Permanent Secretary circuits on existing poles or in telephone cables can conveniently be provided for the purpose of establishing direct communication between places of business or other premises without obtaining connection through a telephone exchange, any person may, upon making application in writing under such conditions as the Permanent Secretary may think fit to impose, obtain the use of such circuits on payment of the prescribed charges.

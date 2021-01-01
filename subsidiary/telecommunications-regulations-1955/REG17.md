@@ -1,0 +1,3 @@
+# reg 17 Landlord providing telephone service for bona fide tenant
+Notwithstanding the other provisions of these Regulations, a landlord may be provided with a telephone service in premises owned by him or her for the use of his or her bona fide tenant, and may have a telephone directory entry in the name of the tenant in lieu of an entry in his or her own name. The landlord as subscriber shall remain liable for all amounts payable in respect of such service under the provisions of these Regulations and of his or her subscriber's agreement with the Permanent Secretary.
+[reg 17 insrt LN 48 of 1972 reg 6, effective 30 June 1972]

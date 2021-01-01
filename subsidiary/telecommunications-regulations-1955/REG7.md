@@ -1,0 +1,4 @@
+# reg 7 Rentals payable monthly
+(1) The prescribed annual rentals shall be payable monthly in advance to the end of each month, provided that a subscriber who is connected to the telephone service on or after the 15th day of any month shall not be required to pay rental in respect of that month.
+(2) Without prejudice to the provisions of regulation 8, before being connected to the service every intending subscriber shall pay in advance the first month's rental for such service and shall in addition, deposit and keep deposited with the Permanent Secretary until the service is discontinued and the subscriber's final account settled to the satisfaction of the Permanent Secretary a sum equal to the prescribed annual rental for the service, or such sum as the Permanent Secretary may determine.
+[reg 7 subst LN 107 of 1977 reg 2, effective 1 September 1977; am LN 49 of 1978 reg 2, effective 1 April 1978]

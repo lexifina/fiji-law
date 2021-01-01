@@ -1,0 +1,2 @@
+# reg 27 Persons entitled to use a subscriber's telephone
+Except where otherwise provided in these Regulations, a telephone connection shall be used only by the subscriber, his or her family, guests or employees, and exclusively on his or her affairs. For any breach of this regulation the subscriber shall be liable to have his or her telephone disconnected without prejudice to the right of the Permanent Secretary to recover the rent and any other charge due under these Regulations.

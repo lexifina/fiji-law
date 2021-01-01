@@ -1,0 +1,2 @@
+# reg 8 Deposits
+At the discretion of the Permanent Secretary any subscriber may be required to deposit and keep deposited with the Permanent Secretary a sum not less than the average monthly value of the trunk line calls or any other supplementary services obtained by the subscriber, and on default the Permanent Secretary may decline to render any service involving a charge which has not been prepaid.

@@ -1,0 +1,3 @@
+# reg 46 Fixed time calls
+Subject to payment of the prescribed booking charge in addition to any other charges arising from the call, a subscriber may book a call, including a personal call, in advance for connection at a specified time, provided that the Permanent Secretary or any person authorised by him or her may, in his or her discretion, remit the whole or any part of such booking charge if the application is cancelled by the applicant at any time before the call is connected or if the call is connected more than 10 minutes after the specified time.
+[reg 46 subst LN 38 of 1966 reg 11, effective 1 April 1966]

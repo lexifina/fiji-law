@@ -1,0 +1,2 @@
+# reg 93 Non-responsibility for bodily injury or damage to property
+Neither the State, the Permanent Secretary nor any officer of the department of telecommunications shall be liable in respect of any action, claim, or demand that may be brought or made by any person in respect of any bodily injury or damage to property or any other circumstances arising from any act permitted by a licence issued under these Regulations.

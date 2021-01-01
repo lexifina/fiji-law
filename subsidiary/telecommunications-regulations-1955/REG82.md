@@ -1,0 +1,2 @@
+# reg 82 Certified copy of a telegram
+On payment of the prescribed fee a certified copy of a telegram shall be obtainable when the applicant is able to satisfy the Permanent Secretary that he or she is either the sender or the addressee of the telegram, provided that no application for a certified copy of a telegram will be entertained if a period of 6 months or more has elapsed since the alleged date of handing in of the telegram.

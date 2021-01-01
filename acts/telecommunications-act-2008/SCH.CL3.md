@@ -1,0 +1,5 @@
+# cl 3 Provisions applicable to all licences
+(1) Any licence issued under this Act shall not permit the licensee, during the period of 18 months following the date of signing the Settlement Deed, to obtain telecommunications services to and from Fiji other than from Fiji International Telecommunications Limited, so long as Fiji International Telecommunications Limited provides the specific service requested by the licensee and does so at prices approved by the Fijian Competition and Consumer Commission.
+(2) Any licence issued under this Act shall not permit any person operating a mobile network, other than Vodafone Fiji Limited, to offer commercial mobile services to the public before 1 October 2008.
+(3) No person shall be entitled, whether under a licence issued under this Act or under any other law, before 1 July 2012, to access any broadband infrastructure investment implemented by Telecom Fiji Limited, otherwise than on commercially negotiated terms.
+(4) For the avoidance of doubt, reference in this paragraph to a licence issued under this Act includes reference to a replacement licence issued under paragraph 2 of this Schedule.

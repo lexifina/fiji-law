@@ -1,0 +1,7 @@
+## SCHEDULE SAVINGS AND TRANSITIONAL
+# cl 1 Interpretation
+In this Schedule, unless the context otherwise requires—
+"repealed provisions of the Posts and Telecommunications Act 1989" means the provisions of that Act that are repealed by section 84(1) of this Act; and
+"Settlement Deed" means the settlement deed between Vodafone Fiji Limited, Telecom Fiji Limited, and Fiji International Telecommunications Limited (“the licensee parties”), being holders of licences issued under the repealed provisions of the Posts and Telecommunications Act 1989, and Amalgamated Telecom Holdings Limited and the Government of the Republic of Fiji, the terms of which were agreed in principal and initialled by the parties on 19 November 2007, and which the parties have agreed is to be executed immediately after the publication of this Act in the Gazette; being a deed giving effect to arrangements between the licensee parties and the Government whereby, among other things—
+(a)it is agreed that certain exclusive rights enjoyed by the licensee parties under their licences issued under the Posts and Telecommunications Act 1989 will be surrendered and will, after the expiry of a transitional period following the commencement of this Act, no longer be enjoyed by them and accordingly will not be reflected in any licences that may be issued to them under this Act; and
+(b)the general terms on which, having regard to the agreed surrender of exclusive rights mentioned in paragraph (a), the licensee parties will be entitled to receive licences issued under this Act are established.

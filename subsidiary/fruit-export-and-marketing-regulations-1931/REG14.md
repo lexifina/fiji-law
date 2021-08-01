@@ -1,0 +1,2 @@
+# reg 14 Rejection of fruit
+An inspector may reject the whole or any portion of fruit intended for shipment which in his or her opinion contains an undue proportion of fruit, unsuitable for shipment and the Permanent Secretary or the produce inspector may in their discretion refuse to the exporter of such fruit permission to repack the same and again present it for shipment. A licensed exporter shall not ship or attempt to ship any fruit which has been rejected by an inspector.

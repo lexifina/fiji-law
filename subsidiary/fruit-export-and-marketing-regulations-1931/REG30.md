@@ -1,0 +1,2 @@
+# reg 30 Licensee to deposit $200
+The licensee shall deposit with the Chief Accountant the sum of $200 or a bank guarantee therefor, which shall be held by the Chief Accountant until the expiration of one calendar month after the termination of the licence, provided that if the said sum or any part thereof is attached after judgment in which a Fijian banana grower has recovered any sum in respect of a sale or contract to sell bananas to the licensee the amount so attached shall be deemed to be immediately due and payable and shall be paid into court.

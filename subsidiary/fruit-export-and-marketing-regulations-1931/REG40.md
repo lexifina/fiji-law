@@ -1,0 +1,2 @@
+# reg 40 Declaration of packing stations
+The Permanent Secretary may, from time to time by notice in the Gazette, prescribe the stations in each area at which bananas grown by Fijians in areas notified under section 12 of the Act shall be packed. Such bananas shall not be packed elsewhere than at a prescribed station within the area in which they were grown, provided that the Permanent Secretary may permit by writing under his or her hand the packing of such bananas at a prescribed station or stations outside the area.

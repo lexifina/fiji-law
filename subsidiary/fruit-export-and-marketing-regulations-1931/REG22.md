@@ -1,0 +1,2 @@
+# reg 22 Storage of fruit in fly-proof sheds
+Oranges, mandarins and grapefruit shall be stored in fly-proof sheds, constructed to the satisfaction of an inspector, for such period as the Permanent Secretary shall direct. Such sheds shall, during the time oranges and mandarins and grapefruit are stored therein, be under the control of an inspector and shall not be opened without the consent of an inspector.

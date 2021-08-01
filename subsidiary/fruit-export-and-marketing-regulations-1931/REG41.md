@@ -1,0 +1,2 @@
+# reg 41 Buyer or agent to pack bananas at station in his or her area
+A licensed buyer or any person acting as an agent for any grower shall pack bananas only at a prescribed station in an area for which a buyer’s licence has been issued, provided that if in the opinion of the Permanent Secretary there are not sufficient suitable places for packing within such area the Permanent Secretary may permit by writing under his or her hand the packing of bananas at a prescribed station or stations outside the area.

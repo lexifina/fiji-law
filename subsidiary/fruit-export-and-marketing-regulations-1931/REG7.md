@@ -1,0 +1,2 @@
+# reg 7 Certificate to be given by inspector
+On the shipping receipt for any shipment of fruit being presented to an inspector, he or she shall, if the provisions of these Regulations have been complied with and he or she is satisfied that the fruit is free from disease and properly packed and marked, issue a certificate as set out in Schedule 2 stating that to the best of his or her knowledge and belief it is free from disease and properly packed and marked.

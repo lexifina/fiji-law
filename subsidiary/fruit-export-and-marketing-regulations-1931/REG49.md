@@ -1,0 +1,3 @@
+# reg 49 Agent’s permit
+No person shall act as an agent for the export of fruit unless he or she has first obtained a permit in the form set out in Schedule 6 from the Permanent Secretary to do so, provided that if the applicant holds a commission agent’s licence the Permanent Secretary may not withhold the issue of such permit without the consent of the Minister but may cancel any permit issued under this regulation upon the conviction of the holder thereof of any breach of the Act or of the provisions of these Regulations. An agent’s permit shall be valid only for the area in respect of which it is issued and until 31 December of the year of its issue.
+[reg 49 am Regulations of 14 July 1932 reg 8, effective 15 July 1932; LN 112 of 1970 O 261, effective 8 October 1970]

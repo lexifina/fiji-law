@@ -1,0 +1,3 @@
+# reg 10 Powers of inspector
+An inspector shall have power to control the berthing and unloading of all vessels carrying fruit to the port of shipment, the stowing of such fruit on any wharf in any shed, and to open or require to be opened for the purpose of examination any case, crate or bag of fruit intended for shipment, and any attempt to interfere with an inspector or his or her assistants in the exercise of this power or refusal to obey an order of an inspector shall be deemed to be an infringement of these Regulations.
+[reg 10 subst Regulations of 19 October 1932 reg 7, effective 21 October 1932]

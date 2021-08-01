@@ -1,0 +1,2 @@
+# reg 18 Notice of intention to export
+Intending exporters of seeds shall deliver to the Permanent Secretary or an inspector, not less than 14 days prior to the advertised date of departure of the vessel by which it is intended to export the seeds, written notice of his or her intention to export, whereupon the Permanent Secretary or an inspector shall take or cause to be taken such samples as are necessary for examination of the said seeds.

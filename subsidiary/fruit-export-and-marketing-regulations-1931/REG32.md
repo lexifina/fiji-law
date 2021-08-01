@@ -1,0 +1,2 @@
+# reg 32 Licensee not obliged to purchase from Fijians who export
+Notwithstanding anything in regulation 31 a licensee shall not be obliged to purchase bananas grown by any Fijian who has exported bananas during the preceding 12 months, provided that the export of bananas by a Fijian prior to the issue of a banana buyer’s licence in respect of the area in which they were grown shall not be deemed to be an export by a Fijian for the purposes of this regulation.

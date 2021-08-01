@@ -1,0 +1,3 @@
+# reg 50 Deposit to be made
+All persons acting as agents shall deposit with the Chief Accountant the sum of $200 in respect of each area for which they hold a permit, or a bank guarantee therefor, which shall be held by the Chief Accountant until the termination of one calendar month after the expiration of the permit, provided that if the said sum or any part thereof is attached after judgment in which a grower has recovered any sum in respect of non-fulfilment of the terms of any arrangement entered into for the shipment of fruit the said sum shall be deemed to be immediately due and payable and shall be paid into court.
+[reg 50 am Regulations of 14 July 1932 reg 9, effective 15 July 1932]

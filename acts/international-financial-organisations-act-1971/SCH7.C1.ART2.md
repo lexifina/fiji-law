@@ -1,0 +1,8 @@
+# ARTICLE 2 FUNCTIONS
+To fulfil its purpose, the Bank shall have the following functions:—
+(i)to promote investment in the region of public and private capital for development purposes;
+(ii)to utilize the resources at its disposal for financing development of the developing member countries in the region, giving priority to those regional, sub-regional as well as national projects and programmes which will contribute most effectively to the harmonious economic growth of the region as a whole, and having special regard to the needs of the smaller or less developed member countries in the region;
+(iii)to meet requests from members in the region to assist them in the coordination of their development policies and plans with a view to achieving better utilization of their resources, making their economies more complementary, and promoting the orderly expansion of their foreign trade, in particular, intra-regional trade;
+(iv)to provide technical assistance for the preparation, financing and execution of development projects and programmes, including the formulation of specific project proposals;
+(v)to co-operate, in such manner as the Bank may deem appropriate, within the terms of this Agreement, with the United Nations, its organs and subsidiary bodies including, in particular, the Economic Commission for Asia and the Far East, and with public international organizations and other international institutions, as well as national entities whether public or private, which are concerned with the investment of development funds in the region, and to interest such institutions and entities in new opportunities for investment and assistance; and
+(vi)to undertake such other activities and provide such other services as may advance its purpose.

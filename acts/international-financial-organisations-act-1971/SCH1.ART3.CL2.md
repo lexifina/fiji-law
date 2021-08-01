@@ -1,0 +1,5 @@
+# cl Section 2 — Adjustment of quotas
+(a)The Board of Governors shall at intervals of not more than five years conduct a general review, and if it deems it appropriate propose an adjustment, of the quotas of the members. It may also, if it thinks fit, consider at any other time the adjustment of any particular quota at the request of the member concerned.
+(b)The Fund may at any time propose an increase in the quotas of those members of the Fund that were members on August 31st, 1975 in proportion to their quotas on that date in a cumulative amount not in excess of amounts transferred under Article V, section 12 (f) (i) and (j) from the Special Disbursement Account to the General Resources Account.
+(c)An eighty-five per cent majority of the total voting power shall be required for any change in quotas.
+(d)The quota of a member shall not be changed until the member has consented and until payment has been made unless payment is deemed to have been made in accordance with section 3(b) of this Article.

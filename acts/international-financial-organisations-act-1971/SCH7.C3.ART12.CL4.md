@@ -1,0 +1,2 @@
+# cl 4.
+The amount of any equity investment shall not exceed such percentage of the equity capital of the entity or enterprise concerned as the Board of Directors shall in each specific case determine to be appropriate. The Bank shall not seek to obtain by such an investment a controlling interest in the entity or enterprise concerned, except where necessary to safeguard the investment of the Bank.

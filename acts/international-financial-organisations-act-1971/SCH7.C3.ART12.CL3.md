@@ -1,0 +1,2 @@
+# cl 3.
+In the case of funds invested in equity capital out of the ordinary capital resources of the Bank, the total amount invested shall not exceed ten (10) per cent of the aggregate amount of the unimpaired paid-in capital stock of the Bank actually paid up at any given time together with the reserves and surplus included in its ordinary capital resources, exclusive of the special reserve provided for in Article 17 of this Agreement.

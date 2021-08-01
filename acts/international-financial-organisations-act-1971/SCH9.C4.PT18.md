@@ -1,0 +1,3 @@
+# ARTICLE 18 ALLOCATION AND DISTRIBUTION OF NET INCOME
+1.The Board of Governors shall determine at least annually what part of the net income of the Bank shall be allocated, after making provision for reserves, to retained earnings or other purposes and what part, if any, shall be distributed to the members. Any such decision on the allocation of the Bank’s net income to other purposes shall be taken by a Super Majority vote as provided in Article 28.
+2.The distribution referred to in the preceding paragraph shall be made in proportion to the number of shares held by each member, and payments shall be made in such manner and in such currency as the Board of Governors shall determine.

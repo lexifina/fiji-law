@@ -1,0 +1,2 @@
+# ARTICLE XXII GENERAL OBLIGATIONS OF PARTICIPANTS
+In addition to the obligations assumed with respect to special drawing rights under other articles of this Agreement, each participant undertakes to collaborate with the Fund and with other participants in order to facilitate the effective functioning of the Special Drawing Rights Department and the proper use of special drawing rights in accordance with this Agreement and with the objective of making the special drawing right the principal reserve asset in the international monetary system.

@@ -1,0 +1,4 @@
+# cl Section 2 — Liquidation of the Fund
+(a)The Fund may not be liquidated except by decision of the Board of Governors. In an emergency, if the Executive Board decides that liquidation of the Fund may be necessary, it may temporarily suspend all operations and transactions, pending decision by the Board of Governors.
+(b)If the Board of Governors decides to liquidate the Fund, the Fund shall forthwith cease to engage in any activities except those incidental to the orderly collection and liquidation of its assets and the settlement of its liabilities, and all obligations of members under this Agreement shall cease except those set out in this Article, in Article XXIX(c) , in Schedule J, paragraph 7, and in Schedule K.
+(c)Liquidation shall be administered in accordance with the provisions of Schedule K.

@@ -1,0 +1,3 @@
+## CHAPTER I PURPOSE, FUNCTIONS AND MEMBERSHIP
+# ARTICLE 1 PURPOSE
+The purpose of the Bank shall be to foster economic growth and co-operation in the region of Asia and the Far East (hereinafter referred to as the “region”) and to contribute to the acceleration of the process of economic development of the developing member countries in the region, collectively and individually. Wherever used in this Agreement, the terms “region of Asia and the Far East” and “region” shall comprise the territories of Asia and the Far East included in the Terms of Reference of the United Nations Economic Commission for Asia and the Far East.

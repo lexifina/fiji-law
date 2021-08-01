@@ -1,0 +1,4 @@
+# cl Section 5 — Use of loans guaranteed, participated in or made by the Bank
+(a)The Bank shall impose no conditions that the proceeds of a loan shall be spent in the territories of any particular member or members.
+(b)The Bank shall make arrangements to ensure that the proceeds of any loan are used only for the purposes for which the loan was granted, with due attention to considerations of economy and efficiency and without regard to political or other non-economic influences or considerations.
+(c)In the case of loans made by the Bank, it shall open an account in the name of the borrower and the amount of the loan shall be credited to this account in the currency or currencies in which the loan is made. The borrower shall be permitted by the Bank to draw on this account only to meet expenses in connexion with the project as they are actually incurred.

@@ -1,0 +1,3 @@
+# cl Section 2 — Suspension of Membership
+(a)If a member fails to fulfill any of its obligations to the Association, the Association may suspend its membership by decision of a majority of the Governors, exercising a majority of the total voting power. The member so suspended shall automatically cease to be a member one year from the date of its suspension unless a decision is taken by the same majority to restore the member to good standing.
+(b)While under suspension, a member shall not be entitled to exercise any rights under this Agreement except the right of withdrawal, but shall remain subject to all obligations.

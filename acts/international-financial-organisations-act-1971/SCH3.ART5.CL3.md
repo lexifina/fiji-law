@@ -1,0 +1,2 @@
+# cl Section 3 — Modifications of Terms of Financing
+The Association may, when and to the extent it deems appropriate in the light of all relevant circumstances, including the financial and economic situation and prospects of the member concerned, and on such conditions as it may determine, agree to a relaxation or other modification of the terms on which any of its financing shall have been provided.

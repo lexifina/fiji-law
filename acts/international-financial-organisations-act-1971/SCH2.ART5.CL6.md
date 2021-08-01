@@ -1,0 +1,3 @@
+# cl Section 6 — Advisory Council
+(a)There shall be an Advisory Council of not less than seven persons selected by the Board of Governors including representatives of banking, commercial, industrial, labour, and agricultural interests, and with as wide a national representation as possible. In those fields where specialized international organizations exist, the members of the Council representative of those fields shall be selected in agreement with such organizations. The Council shall advise the Bank on matters of general policy. The Council shall meet annually and on such other occasions as the Bank may request.
+(b)Councillors shall serve for two years and may be reappointed. They shall be paid their reasonable expenses incurred on behalf of the Bank.

@@ -1,0 +1,4 @@
+# cl Section 6 — Other purchases and sales of special drawing rights by the Fund
+(a)The Fund may accept special drawing rights offered by a participant in exchange for an equivalent amount of the currencies of other members.
+(b)The Fund may provide a participant, at its request, with special drawing rights for an equivalent amount of the currencies of other members. The Fund’s holdings of a member’s currency shall not be increased as a result of these transactions above the level at which the holdings would be subject to charges under section 8 (b) (ii) of this Article.
+(c)The currencies provided or accepted by the Fund under this section shall be selected in accordance with policies that take into account the principles of section 3 (d) or 7 (i) of this Article. The Fund may enter into transactions under this section only if a member whose currency is provided or accepted by the Fund concurs in that use of its currency.

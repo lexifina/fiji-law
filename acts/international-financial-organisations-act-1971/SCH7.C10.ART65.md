@@ -1,0 +1,2 @@
+# ARTICLE 65 ENTRY INTO FORCE
+This Agreement shall enter into force when instruments of ratification or acceptance have been deposited by at least fifteen (15) Signatories (including not less than ten (10) regional countries) whose initial subscriptions, as set forth in Annex A to this Agreement, in the aggregate comprise not less than sixty-five (65) per cent, of the authorized capital stock of the Bank.

@@ -1,0 +1,2 @@
+# cl Section 12 — Form of holdings of currency
+The Bank shall accept from any member, in place of any part of the member’s currency, paid in to the Bank under Article II, section 7 (i) , or to meet amortization payments on loans made with such currency, and not needed by the Bank in its operations, notes or similar obligations issued by the Government of the member or the depository designated by such member, which shall be non-negotiable, non-interest-bearing and payable at their par value on demand by credit to the account of the Bank in the designated depository.

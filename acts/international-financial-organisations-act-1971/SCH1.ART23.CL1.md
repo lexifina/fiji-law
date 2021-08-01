@@ -1,0 +1,3 @@
+## ARTICLE XXIII SUSPENSION OF OPERATIONS AND TRANSACTIONS IN SPECIAL DRAWING RIGHTS
+# cl Section 1 — Emergency provisions
+In the event of an emergency or the development of unforeseen circumstances threatening the activities of the Fund with respect to the Special Drawing Rights Department, the Executive Board, by an eighty-five per cent majority of the total voting power, may suspend for a period of not more than one year the operation of any of the provisions relating to operations and transactions in special drawing rights, and the provisions of Article XXVII, section 1 (b) , (c) , and (d) shall then apply.

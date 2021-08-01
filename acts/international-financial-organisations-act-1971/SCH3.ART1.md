@@ -1,0 +1,3 @@
+# ARTICLE I PURPOSES
+The purposes of the Association are to promote economic development, increase productivity and thus raise standards of living in the less-developed areas of the world included within the Association’s membership, in particular by providing finance to meet their important developmental requirements on terms which are more flexible and bear less heavily on the balance of payments than those of conventional loans, thereby furthering the developmental objectives of the International Bank for Reconstruction and Development (hereinafter called “the Bank”) and supplementing its activities.
+The Association shall be guided in all its decisions by the provisions of this Article.

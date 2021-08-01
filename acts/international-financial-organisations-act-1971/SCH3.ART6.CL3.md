@@ -1,0 +1,3 @@
+# cl Section 3 — Voting
+(a)Each original member shall, in respect of its initial subscription, have 500 votes plus one additional vote for each $5,000 of its initial subscription. Subscriptions other than initial subscriptions of original members shall carry such voting rights as the Board of Governors shall determine pursuant to the provisions of Article II, Section 1 (b) or Article III, Section 1 (b) and (c) , as the case may be. Additions to resources other than subscriptions under Article II, section 1 (b) and additional subscriptions under Article III, section 1 , shall not carry voting rights.
+(b)Except as otherwise specifically provided, all matters before the Association shall be decided by a majority of the votes cast.

@@ -1,0 +1,14 @@
+# cl Section 4 — Executive Directors
+(a)The Executive Directors shall be responsible for the conduct of the general operations of the Bank, and for this purpose, shall exercise all the powers delegated to them by the Board of Governors.
+(b)There shall be twelve Executive Directors, who need not be governors and of whom:
+(i)five shall be appointed, one by each of the five members having the largest number of shares;
+(ii)seven shall be elected according to Schedule B by all the Governors other than those appointed by the five members referred to in (i) above.
+For the purpose of this paragraph, “members” means governments of countries whose names are set forth in Schedule A, whether they are original members or become members in accordance with Article II, section 1 (b) . When governments of other countries become members, the Board of Governors may, by a four-fifths majority of the total voting power, increase the total number of directors by increasing the number of directors to be elected.
+Executive directors shall be appointed or elected every two years.
+(c)Each executive director shall appoint an alternate with full power to act for him when he is not present. When the executive directors appointing them are present, alternates may participate in meetings but shall not vote.
+(d)Directors shall continue in office until their successors are appointed or elected. If the office of an elected director becomes vacant more than ninety days before the end of this term, another director shall be elected for the remainder of the term by the governors who elected the former director. A majority of the votes cast shall be required for election. While the office remains vacant, the alternate of the former director shall exercise his powers, except that of appointing an alternate.
+(e)The Executive Directors shall function in continuous session at the principal office of the Bank and shall meet as often as the business of the Bank may require.
+(f)A quorum for any meeting of the Executive Directors shall be a majority of the Directors, exercising not less than one-half of the total voting power.
+(g)Each appointed director shall be entitled to cast the number of votes allotted under Section 3 of this Article to the member appointing him. Each elected director shall be entitled to cast the number of votes which counted toward his election. All the votes which a director is entitled to cast shall be cast as a unit.
+(h)The Board of Governors shall adopt regulations under which a member not entitled to appoint a director under (b) above may send a representative to attend any meeting of the Executive Directors when a request made by, or a matter particularly affecting, that member is under consideration.
+(i)The Executive Directors may appoint such committees as they deem advisable. Membership of such committees need not be limited to governors or directors or their alternates.

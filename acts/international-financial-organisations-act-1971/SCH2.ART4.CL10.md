@@ -1,0 +1,2 @@
+# cl Section 10 — Political activity prohibited
+The Bank and its officers shall not interfere in the political affairs of any member; nor shall they be influenced in their decisions by the political character of the member or members concerned. Only economic considerations shall be relevant to their decisions, and these considerations shall be weighed impartially in order to achieve the purposes stated in Article I.

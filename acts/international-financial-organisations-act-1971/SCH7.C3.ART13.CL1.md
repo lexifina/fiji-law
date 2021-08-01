@@ -1,0 +1,5 @@
+## ARTICLE 13 PROVISION OF CURRENCIES FOR DIRECT LOANS
+# 
+In making direct loans or participating in them, the Bank may provide financing in any of the following ways:—
+(i)by furnishing the borrower with currencies other than the currency of the member in whose territory the project concerned is to be carried out (the latter currency hereinafter to be called “local currency”), which are necessary to meet the foreign exchange costs of such project; or
+(ii)by providing financing to meet local expenditures on the project concerned, where it can do so by supplying local currency without selling any of its holdings in gold or convertible currencies. In special cases when, in the opinion of the Bank, the project causes or is likely to cause undue loss or strain on the balance of payments of the member in whose territory the project is to be carried out, the financing granted by the Bank to meet local expenditures may be provided in currencies other than that of such member; in such cases, the amount of the financing granted by the Bank for this purpose shall not exceed a reasonable portion of the total local expenditure incurred by the borrower.

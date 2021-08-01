@@ -1,0 +1,2 @@
+# cl Section 3 — Controls of capital transfers
+Members may exercise such controls as are necessary to regulate international capital movements, but no member may exercise these controls in a manner which will restrict payments for current transactions or which will unduly delay transfers of funds in settlement of commitments, except as provided in Article VII, section 3 (b) and in Article XIV, section 2 .

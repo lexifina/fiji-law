@@ -1,0 +1,4 @@
+# INTRODUCTORY ARTICLE
+(i)The International Monetary Fund is established and shall operate in accordance with the provisions of this Agreement as originally adopted and subsequently amended.
+(ii)To enable the Fund to conduct its operations and transactions, the Fund shall maintain a General Department and a Special Drawing Rights Department. Membership in the Fund shall give the right to participation in the Special Drawing Rights Department.
+(iii)Operations and transactions authorized by this Agreement shall be conducted through the General Department, consisting in accordance with the provisions of this Agreement of the General Resources Account, the Special Disbursement Account, and the Investment Account; except that operations and transactions involving special drawing rights shall be conducted through the Special Drawing Rights Department.

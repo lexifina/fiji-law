@@ -1,0 +1,2 @@
+# cl Section 2 — Valuation of the special drawing right
+The method of valuation of the special drawing right shall be determined by the Fund by a seventy per cent majority of the total voting power, provided, however, that an eighty-five per cent majority of the total voting power shall be required for a change in the principle of valuation or a fundamental change in the application of the principle in effect.

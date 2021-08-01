@@ -1,0 +1,4 @@
+## ARTICLE XVIII ALLOCATION AND CANCELLATION OF SPECIAL DRAWING RIGHTS
+# cl Section 1 — Principles and considerations governing allocation and cancellation
+(a)In all its decisions with respect to the allocation and cancellation of special drawing rights the Fund shall seek to meet the long-term global need, as and when it arises, to supplement existing reserve assets in such manner as will promote the attainment of its purposes and will avoid economic stagnation and deflation as well as excess demand and inflation in the world.
+(b)The first decision to allocate special drawing rights shall take into account, as special considerations, a collective judgment that there is a global need to supplement reserves, and the attainment of a better balance of payments equilibrium, as well as the likelihood of a better working of the adjustment process in the future.

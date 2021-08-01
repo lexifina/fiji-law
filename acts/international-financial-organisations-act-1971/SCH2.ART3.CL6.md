@@ -1,0 +1,4 @@
+# cl Section 6 — Loans to the International Finance Corporation
+(a)The Bank may make, participate in, or guarantee loans to the International Finance Corporation, an affiliate of the Bank, for use in its lending operations. The total amount outstanding of such loans, participations and guarantees shall not be increased if, at the time or as a result thereof, the aggregate amount of debt (including the guarantee of any debt) incurred by the said Corporation from any source and then outstanding shall exceed an amount equal to four times its unimpaired subscribed capital and surplus.
+(b)The provisions of Article III, sections 4 and 5 (c) and of Article IV, section 3 shall not apply to loans, participations and guarantees authorized by this section.
+*Section added by amendment effective 17 December 1965.

@@ -1,0 +1,8 @@
+# ARTICLE 1 PURPOSES
+The purposes of the Bank are:
+(i)To assist in the reconstruction and development of territories of members by facilitating the investment of capital for productive purposes, including the restoration of economies destroyed or disrupted by war, the reconversion of productive facilities of peacetime needs and the encouragement of the development to productive facilities and resources in less developed countries.
+(ii)To promote private foreign investment by means of guarantees or participations in loans and other investments made by private investors; and when private capital is not available on reasonable terms, to supplement private investment by providing, on suitable conditions, finance for productive purposes out of its own capital, funds raised by it and its other resources.
+(iii)To promote the long-range balanced growth of international trade and the maintenance of equilibrium in balances of payments by encouraging international investment for the development of the productive resources of members, thereby assisting in raising productivity, the standard of living and conditions of labour in their territories.
+(iv)To arrange the loans made or guaranteed by it in relation to international loans through other channels so that the more useful and urgent projects, large and small alike, will be dealt with first.
+(v)To conduct its operations with due regard to the effect of international investment on business conditions in the territories of members and, in the immediate postwar years, to assist in bringing about a smooth transition from a wartime to a peacetime economy.
+The Bank shall be guided in all its decisions by the purposes set forth above.

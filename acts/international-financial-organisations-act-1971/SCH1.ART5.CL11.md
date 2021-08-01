@@ -1,0 +1,3 @@
+# cl Section 11 — Maintenance of value
+(a)The value of the currencies of members held in the General Resources Account shall be maintained in terms of the special drawing right in accordance with exchange rates under Article XIX, section 7 (a) .
+(b)An adjustment in the Fund’s holdings of a member’s currency pursuant to this section shall be made on the occasion of the use of that currency in an operation or transaction between the Fund and another member and at such other times as the Fund may decide or the member may request. Payments to or by the Fund in respect of an adjustment shall be made within a reasonable time, as determined by the Fund, after the date of adjustment, and at any other time requested by the member.

@@ -1,0 +1,2 @@
+# cl Section 3 — Recording and information
+All changes in holdings of special drawing rights shall take effect only when recorded by the Fund in the Special Drawing Rights Department. Participants shall notify the Fund of the provisions of this Agreement under which special drawing rights are used. The Fund may require participants to furnish it with such other information as it deems necessary for its functions.

@@ -1,0 +1,7 @@
+## ARTICLE 11 RECIPIENTS AND METHODS OF OPERATION
+# 
+Subject to the conditions stipulated in this Agreement, the Bank may provide or facilitate financing to any member, or any agency, instrumentality or political subdivision thereof, or any entity or enterprise operating in the territory of a member, as well as to international or regional agencies or entities concerned with economic development of the region. The Bank may carry out its operations in any of the following ways:—
+(i)by making or participating in direct loans with its unimpaired paid-in capital and, except as provided in Article 17 of this Agreement, with its reserves and undistributed surplus; or with the unimpaired Special Funds resources;
+(ii)by making or participating in direct loans with funds raised by the Bank in capital markets or borrowed or otherwise acquired by the Bank for inclusion in its ordinary capital resources;
+(iii)by investment of funds referred to in (i) and (ii) of this Article in the equity capital of an institution or enterprise, provided no such investment shall be made until after the Board of Governors, by a vote of a majority of the total number of Governors, representing a majority of the total voting power of the members, shall have determined that the Bank is in a position to commence such type of operations; or
+(iv)by guaranteeing, whether as primary or secondary obligor, in whole or in part, loans for economic development participated in by the Bank.

@@ -1,0 +1,3 @@
+# cl Section 5 — Separate currencies within a member’s territories
+(a)Action by a member with respect to its currency under this Article shall be deemed to apply to the separate currencies of all territories in respect of which the member has accepted this Agreement under Article XXXI, section 2 (g) unless the member declares that its action relates either to the metropolitan currency alone, or only to one or more specified separate currencies, or to the metropolitan currency and one or more specified separate currencies.
+(b)Action by the Fund under this Article shall be deemed to relate to all currencies of a member referred to in (a) above unless the Fund declares otherwise.

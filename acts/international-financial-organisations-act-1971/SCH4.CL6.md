@@ -1,0 +1,2 @@
+# 
+6. Exchange Transactions with the Fund: Fiji may not engage in exchange transactions with the Fund until both (a) the par value of its currency has been agreed in accordance with paragraph 5 above and put into operation and (b) its subscription has been paid in full; provided, however, that at any time before the requirements under (a) and (b) have been met, the Executive Directors are authorized to permit exchange transactions with Fiji under such conditions and in such amounts as may be prescribed by the Executive Directors.

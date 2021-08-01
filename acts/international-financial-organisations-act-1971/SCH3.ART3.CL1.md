@@ -1,0 +1,6 @@
+## ARTICLE III ADDITIONS TO RESOURCES
+# cl Section 1 — Additional Subscriptions
+(a)The Association shall at such time as it deems appropriate in the light of the schedule for completion of payments on initial subscriptions of original members, and at intervals of approximately five years thereafter, review the adequacy of its resources and, if it deems desirable, shall authorize a general increase in subscriptions. Notwithstanding the foregoing, general or individual increases in subscriptions may be authorized at any time, provided that an individual increase shall be considered only at the request of the member involved. Subscriptions pursuant to this Section are herein referred to as additional subscriptions.
+(b)Subject to the provisions of paragraph (c) below, when additional subscriptions are authorized, the amounts authorized for subscription and the terms and conditions relating thereto shall be as determined by the Association.
+(c)When any additional subscription is authorized, each member shall be given an opportunity to subscribe, under such conditions as shall be reasonably determined by the Association, an amount which will enable it to maintain its relative voting power, but no member shall be obligated to subscribe.
+(d)All decisions under this Section shall be made by a two-thirds majority of the total voting power.

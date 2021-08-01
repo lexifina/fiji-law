@@ -1,0 +1,5 @@
+# ARTICLE 50 IMMUNITIES AND PRIVILEGES OF OFFICERS AND EMPLOYEES
+All Governors, Directors, Alternates, the President, Vice-Presidents and other officers and employees of the Bank, including experts and consultants performing missions or services for the Bank:
+(i)shall be immune from legal process with respect to acts performed by them in their official capacity, except when the Bank waives the immunity and shall enjoy inviolability of all their official papers, documents and records;
+(ii)where they are not local citizens or nationals, shall be accorded the same immunities from immigration restrictions, alien registration requirements and national service obligations, and the same facilities as regards exchange regulations, as are accorded by members to the representatives, officials and employees of comparable rank of other members; and
+(iii)shall be granted the same treatment in respect of travelling facilities as is accorded by members to representatives, officials and employees of comparable rank of other members.

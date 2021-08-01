@@ -1,0 +1,6 @@
+# ARTICLE 29 THE PRESIDENT
+1.The Board of Governors, through an open, transparent and merit-based process, shall elect a president of the Bank by a Super Majority vote as provided in Article 28. He shall be a national of a regional member country. The President, while holding office, shall not be a Governor or a Director or an Alternate for either.
+2.The term of office of the President shall be five (5) years. He may be re-elected once. The President may be suspended or removed from office when the Board of Governors so decides by a Super Majority vote as provided in Article 28.
+(a)If the office of the President for any reason becomes vacant during his term, the Board of Governors shall appoint an Acting President for a temporary period or elect a new President, in accordance with paragraph 1 of this Article.
+3.The President shall be Chairman of the Board of Directors but shall have no vote, except a deciding vote in case of an equal division. He may participate in meetings of the Board of Governors but shall not vote.
+4.The President shall be the legal representative of the Bank. He shall be chief of the staff of the Bank and shall conduct, under the direction of the Board of Directors, the current business of the Bank.

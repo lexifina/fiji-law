@@ -1,0 +1,5 @@
+# SCHEDULE 3 ARTICLES OF AGREEMENT OF THE INTERNATIONAL DEVELOPMENT ASSOCIATION
+The Governments on whose behalf this Agreement is signed,Considering:That mutual co-operation for constructive economic purposes, healthy development of the world economy and balanced growth of international trade foster international relationships conducive to the maintenance of peace and world prosperity;That an acceleration of economic development which will promote higher standards of living and economic and social progress in the less-developed countries is desirable not only in the interests of those countries but also in the interests of the international community as a whole;That achievement of these objectives would be facilitated by an increase in the international flow of capital, public and private, to assist in the development of the resources of the less-developed countries,
+do hereby agree as follows:
+INTRODUCTORY ARTICLE
+The INTERNATIONAL DEVELOPMENT ASSOCIATION (hereinafter called “the Association”) is established and shall operate in accordance with the following provisions:

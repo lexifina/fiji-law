@@ -1,0 +1,5 @@
+# cl Section 7 — Method of payment of subscriptions for shares
+Payment of subscriptions for shares shall be made in gold or United States dollars and in the currencies of the members as follows:
+(i)under section 5 (i) of this Article, two per cent of the price of each share shall be payable in gold or United States dollars, and, when calls are made, the remaining eighteen per cent shall be paid in the currency of the member;
+(ii)when a call is made under section 5 (ii) of this Article, payment may be made at the option of the member either in gold, in United States dollars or in the currency required to discharge the obligations of the Bank for the purpose for which the call is made;
+(iii)when a member makes payments in any currency under (i) and (ii) above, such payments shall be made in amounts equal in value to the member’s liability under the call. This liability shall be a proportionate part of the subscribed capital stock of the Bank as authorized and defined in section 2 of this Article.

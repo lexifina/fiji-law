@@ -1,0 +1,2 @@
+# cl Section 7 — Obligation to collaborate regarding policies on reserve assets
+Each member undertakes to collaborate with the Fund and with other members in order to ensure that the policies of the member with respect to reserve assets shall be consistent with the objectives of promoting better international surveillance of international liquidity and making the special drawing right the principal reserve asset in the international monetary system.

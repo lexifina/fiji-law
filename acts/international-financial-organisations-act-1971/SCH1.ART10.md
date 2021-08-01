@@ -1,0 +1,2 @@
+# ARTICLE X RELATIONS WITH OTHER INTERNATIONAL ORGANIZATIONS
+The Fund shall co-operate within the terms of this Agreement with any general international organization and with public international organizations having specialized responsibilities in related fields. Any arrangements for such co-operation which would involve a modification of any provision of this Agreement may be effected only after amendment to this Agreement under Article XXVIII.

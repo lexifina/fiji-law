@@ -1,0 +1,9 @@
+# cl Section 4 — Conditions on which the Bank may guarantee or make loans
+The Bank may guarantee, participate in, or make loans to any member or any political sub-division thereof and any business, industrial, and agricultural enterprise in the territories of a member, subject to the following conditions;
+(i)When the member in whose territories the project is located is not itself the borrower, the member or the central bank or some comparable agency of the member which is acceptable to the Bank, fully guarantees the repayment of the principal and the payment of interest and other charges on the loan.
+(ii)The Bank is satisfied that in the prevailing market conditions the borrower would be unable otherwise to obtain the loan under conditions which in the opinion of the Bank are reasonable for the borrower.
+(iii)A competent committee, as provided for in Article V, section 7 , has submitted a written report recommending the project after a careful study of the merits of the proposal.
+(iv)In the opinion of the Bank the rate of interest and other charges are reasonable and such rate, charges and the schedule for repayment of principal are appropriate to the project.
+(v)In making or guaranteeing a loan, the Bank shall pay due regard to the prospects that the borrower, and, if the borrower is not a member, that the guarantor, will be in position to meet its obligations under the loan; and the Bank shall act prudently in the interests both of the particular member in whose territories the project is located and of the members as a whole.
+(vi)In guaranteeing a loan made by other investors, the Bank receives suitable compensation for its risk.
+(vii)Loans made or guaranteed by the Bank shall, except in special circumstances, be for the purpose of specific projects of reconstruction or development.

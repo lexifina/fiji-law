@@ -1,0 +1,5 @@
+## ARTICLE VII REPLENISHMENT AND SCARCE CURRENCIES
+# cl Section 1 — Measures to replenish the Fund’s holdings of currencies
+The Fund may, if it deems such action appropriate to replenish its holdings of any member’s currency in the General Resources Account needed in connexion with its transactions, take either or both of the following steps:
+(i)propose to the member that, on terms and conditions agreed between the Fund and the member, the latter lend its currency to the Fund or that, with the concurrence of the member, the Fund borrow such currency from some other source either within or outside the territories of the member, but no member shall be under any obligation to make such loans to the Fund or to concur in the borrowing of its currency by the Fund from any other source;
+(ii)require the member, if it is a participant, to sell its currency to the Fund for special drawing rights held in the General Resources Account, subject to Article XIX, section 4 . In replenishing with special drawing rights, the Fund shall pay due regard to the principles of designation under Article XIX, section 5 .

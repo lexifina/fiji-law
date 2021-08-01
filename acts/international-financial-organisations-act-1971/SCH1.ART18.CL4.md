@@ -1,0 +1,10 @@
+# cl Section 4 — Decisions on allocations and cancellations
+(a)Decisions under section 2 (a) , (b) , and (c) or section 3 of this Article shall be made by the Board of Governors on the basis of proposals of the Managing Director concurred in by the Executive Board.
+(b)Before making any proposal, the Managing Director, after having satisfied himself that it will be consistent with the provisions of section 1 (a) of this Article, shall conduct such consultations as will enable him to ascertain that there is broad support among participants for the proposal. In addition, before making a proposal for the first allocation, the Managing Director shall satisfy himself that the provisions of section 1 (b) of this Article have been met and that there is broad support among participants to begin allocations; he shall make a proposal for the first allocation as soon after the establishment of the Special Drawing Rights Department as he is so satisfied.
+(c)The Managing Director shall make proposals:
+(i)not later than six months before the end of each basic period;
+(ii)if no decision has been taken with respect to allocation or cancellation for a basic period, whenever he is satisfied that the provisions of (b) above have been met;
+(iii)when, in accordance with section 3 of this Article, he considers that it would be desirable to change the rate or intervals of allocation or cancellation or change the length of a basic period or start a new basic period; or
+(iv)within six months of a request by the Board of Governors or the Executive Board;
+provided that, if under (i) , (iii) , or (iv) above the Managing Director ascertains that there is no proposal which he considers to be consistent with the provisions of section 1 of this Article that has broad support among participants in accordance with (b) above, he shall report to the Board of Governors and to the Executive Board.
+(d)An eighty-five per cent majority of the total voting power shall be required for decisions under section 2 (a) , (b) , and (c) or section 3 of this Article except for decisions under section 3 with respect to a decrease in the rates of allocation.

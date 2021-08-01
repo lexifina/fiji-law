@@ -1,0 +1,2 @@
+# cl 2.
+In the case of loans made with funds borrowed by the Bank to which the commitment to calls provided for by paragraph 5 of Article 6 of this Agreement is applicable, the total amount of principal outstanding and payable to the Bank in a specific currency shall not at any time exceed the total amount of the principal of outstanding borrowings by the Bank that are payable in the same currency.

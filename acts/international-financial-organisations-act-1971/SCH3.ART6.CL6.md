@@ -1,0 +1,4 @@
+# cl Section 6 — Relationship to the Bank
+(a)The Association shall be an entity separate and distinct from the Bank and the funds of the Association shall be kept separate and apart from those of the Bank. The Association shall not borrow from or lend to the Bank, except that this shall not preclude the Association from investing funds not needed in its financing operations in obligations of the Bank.
+(b)The Association may make arrangements with the Bank regarding facilities, personnel and services and arrangements for reimbursement of administrative expenses paid in the first instance by either organization on behalf of the other.
+(c)Nothing in this Agreement shall make the Association liable for the acts or obligations of the Bank, or the Bank liable for the acts or obligations of the Association.

@@ -1,0 +1,2 @@
+# cl Section 9 — Depositories
+Each member shall designate its central bank as a depository in which the Association may keep holdings of such member’s currency or other assets of the Association, or, if it has no central bank, it shall designate for such purpose such other institution as may be acceptable to the Association. In the absence of any different designation, the depository designated for the Bank shall be the depository for the Association.

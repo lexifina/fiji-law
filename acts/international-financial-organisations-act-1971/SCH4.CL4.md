@@ -1,0 +1,2 @@
+# 
+4. Payment of Subscription: The portion of the subscription to be paid in gold shall be paid not later than the day the Articles are signed on behalf of Fiji. In case Fiji does not acquire membership in the Fund the gold so paid shall be returned to it by the Fund. The remaining part of the subscription which has not been paid in gold shall be paid before the thirtieth day after the initial par value of the currency of Fiji has been agreed in accordance with paragraph 5 below.

@@ -1,0 +1,2 @@
+# cl Section 3— Settlement of accounts with members withdrawing
+When a member withdraws from the Fund, normal operations and transactions of the Fund in its currency shall cease and settlement of all accounts between it and the Fund shall be made with reasonable despatch by agreement between it and the Fund. If agreement is not reached promptly, the provisions of Schedule J shall apply to the settlement of accounts.

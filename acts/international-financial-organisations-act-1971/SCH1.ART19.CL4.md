@@ -1,0 +1,3 @@
+# cl Section 4 — Obligation to provide currency
+(a)A participant designated by the Fund under section 5 of this Article shall provide on demand a freely usable currency to a participant using special drawing rights under section 2 (a) of this Article. A participant’s obligation to provide currency shall not extend beyond the point at which its holdings of special drawing rights in excess of its net cumulative allocation are equal to twice its net cumulative allocation or such higher limit as may be agreed between a participant and the Fund.
+(b)A participant may provide currency in excess of the obligatory limit or any agreed higher limit.

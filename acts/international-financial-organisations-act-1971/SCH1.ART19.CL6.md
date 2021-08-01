@@ -1,0 +1,3 @@
+# cl Section 6 — Reconstitution
+(a)Participants that use their special drawing rights shall reconstitute their holdings of them in accordance with the rules for reconstitution in Schedule G or such rules as may be adopted under (b) below.
+(b)The rules for reconstitution may be reviewed at any time and new rules shall be adopted if necessary. Unless new rules are adopted or a decision is made to abrogate rules for reconstitution, the rules in force at the time of review shall continue to apply. A seventy per cent majority of the total voting power shall be required for decisions to adopt, modify, or abrogate the rules for reconstitution.

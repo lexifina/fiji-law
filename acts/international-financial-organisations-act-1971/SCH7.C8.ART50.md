@@ -1,0 +1,7 @@
+# ARTICLE 50 IMMUNITY FROM JUDICIAL PROCEEDINGS
+1.
+The Bank shall enjoy immunity from every form of legal process, except in cases arising out of or in connexion with the exercise of its powers to borrow money, to guarantee obligations, or to buy and sell or underwrite the sale of securities, in which cases actions may be brought against the Bank in a Court of competent jurisdiction in the territory of a country in which the Bank has its principal or a branch office, or has appointed an agent for the purpose of accepting service or notice of process, or has issued or guaranteed securities.
+2.
+Notwithstanding the provisions of paragraph 1 of this Article, no action shall be brought against the Bank by any member, or by any agency or instrumentality of a member, or by any entity or person directly or indirectly acting for or deriving claims from a member or from any agency or instrumentality of a member. Members shall have recourse to such special procedures for the settlement of controversies between the Bank and its members as may be prescribed in this Agreement, in the by-laws and regulations of the Bank, or in contracts entered into with the Bank.
+3.
+Property and assets of the Bank shall, wheresoever located and by whomsoever held, be immune from all forms of seizure, attachment or execution before the delivery of final judgment against the Bank.

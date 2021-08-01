@@ -1,0 +1,3 @@
+# reg 17 Measures to be taken when infectious disease ends fatally
+(1) In the event of any case of quarantinable disease ending fatally on board a vessel after or before arrival, and the corpse being still on board, the master shall, at the discretion and according to the direction of the Authority either proceed to sea and bury the body properly weighted or deliver it to the Authority or any person authorised by him or her for interment.
+(2) In the event of any case of quarantinable disease ending fatally on board an aircraft after or before arrival, and the corpse being on board, the commander shall deliver it to the Authority or any person authorised by him or her for interment.

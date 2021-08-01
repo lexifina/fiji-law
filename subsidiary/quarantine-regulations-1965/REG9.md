@@ -1,0 +1,7 @@
+## PART 3 ARRIVAL OF VESSELS AND AIRCRAFT
+# reg 9 Health declaration
+(1) The master of every vessel arriving at any port in Fiji from any port outside Fiji, shall ascertain the state of health of all persons on board and shall fill in and sign a declaration of health in the form set out in Schedule 2 (hereinafter referred to as “a maritime declaration of health”), such form to be countersigned by the ship’s surgeon if one is carried thereon.
+(2) The master or the ship’s surgeon shall deliver the maritime declaration of health to the Authority, and shall supply any further information required by the Authority as to health conditions on board during the voyage.
+(3) Where it appears to the Authority from the answers to the questions set out in the maritime declaration of health, or from the answers to the inquiries, or otherwise, that there was no quarantinable disease or any case or suspected case of other infectious disease, which is likely to lead to infection or the spread of infectious disease on board during the voyage or on arrival of the vessel, and that the vessel has not called at any infected area or had direct intercourse during the voyage with any ship from an infected local area having on board any quarantinable disease or any other infectious disease, the Authority shall grant pratique to the vessel.
+(4) Providing a false declaration of the status of the vessel shall incur a fine of $2,000.
+[subreg (4) insrt LN 97 of 2010 reg 3, effective 15 September 2010]

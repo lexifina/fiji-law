@@ -1,0 +1,4 @@
+# reg 13 Duties of master on entering Fiji
+(1) The master of any ship or aircraft coming from a port or airport outside Fiji and fitted with a suitable wireless transmitting apparatus, on approaching a port or airport in Fiji shall send to the Authority, either directly or through an agent approved by him or her a radio message embodying such of the items of information set out in Schedule 4 as are applicable.
+(2) Any wireless message so required to be sent shall be sent so as to reach the Authority not more than 12 and not less than 4 hours before the time on which the vessel is expected to arrive at port and, in case of aircraft, not more than 2 hours and not less than half an hour before the time at which the aircraft is expected to arrive at the airport.
+(3) Any message in wireless code delivered to the Authority shall conform with the section relating to routine quarantine messages of the 1931 International Code of Signals.

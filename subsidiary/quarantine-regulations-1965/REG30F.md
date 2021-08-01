@@ -1,0 +1,2 @@
+# reg 30F Pratique for healthy vessel etc
+A healthy vessel or aircraft shall be given free pratique, but, if it has come from an infected local area, the crew and passengers may be placed in isolation for a period which shall not exceed 5 days from the date of their departure from the infected local area, unless they are in possession of a valid certificate of vaccination against cholera in the form set out in Schedule 7, in which case they may be placed under surveillance for the like period.

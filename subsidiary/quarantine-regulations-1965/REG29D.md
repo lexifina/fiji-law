@@ -1,0 +1,2 @@
+# reg 29D Measures to be applied in relation to suspected vessel
+On arrival of a plague-suspected vessel or aircraft, the measures specified in regulation 29C(a), (d), (e) and (f) shall be applied and, in addition thereto the crew and passengers may be subjected to surveillance which shall not exceed 6 days reckoned from the date of the arrival of the vessel or aircraft. The crew of a vessel may be prevented during the same period from leaving the vessel except on duty notified to the Authority.

@@ -1,0 +1,8 @@
+## PART 5 DEPARTURE OF VESSELS AND AIRCRAFT
+# reg 20 Measures which may be taken on departure
+Where a vessel or an aircraft is due to depart for a destination outside Fiji, the Authority may when it is considered necessary—
+(a)examine any person who proposes to embark thereon and, if after examination, the Authority is of opinion that he or she shows symptoms of any quarantinable or any other disease which, in his or her opinion, constitutes a menace to other countries shall prohibit his or her embarkation;
+(b)prohibit the embarkation thereon of any person suffering or suspected to be suffering from a quarantinable disease or any other disease which, in his or her opinion, constitutes a menace to other countries, provided that in the case of smallpox, no person shall be prohibited from embarkation if he or she satisfies the Authority that he or she is sufficiently protected by recent vaccination or by a previous attack of smallpox;
+(c)notify the master of the vessel or aircraft of any person who embarks or proposes to continue his or her voyage thereon who, in the opinion of the Authority, should be placed under surveillance, and shall certify by entry to that effect in the journey book of the vessel or aircraft;
+(d)inspect any clothing, bedding or other article which is on board, or is intended to be taken by any person on board a vessel or aircraft and which, in the opinion of the Authority may have been exposed to infection, and may require the disinfection or destruction of any such clothing, bedding or article;
+(e)require any parts of the vessel or the aircraft which in his or her opinion, may be infected to be cleansed and disinfected to his or her satisfaction.

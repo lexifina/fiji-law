@@ -1,0 +1,2 @@
+# reg 7 Prohibition of introduction of disease agents
+The introduction into Fiji of mosquitoes, their eggs and larvae, and all disease germs, microbes and disease agents capable of producing disease in man and all cultures, viruses and substances containing or likely to contain disease germs, microbes or disease agents is prohibited unless, in the case of any virus or culture, the Authority, on the production of satisfactory evidence of absence of danger to public health, permits their introduction, and then only subject to such conditions as the Authority may specify.

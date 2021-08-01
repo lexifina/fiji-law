@@ -1,0 +1,2 @@
+# reg 30E Measures to be applied in relation to suspected vessel etc
+Cholera suspected vessels or aircraft shall undergo the measures prescribed in regulations 30D(a), (d), (e), (f), (g), (i) and (j). The crew and passengers may be subjected to surveillance for a period which shall not exceed 5 days reckoned from the date of arrival of the vessel or aircraft. The crew may be prevented during the same period from leaving the vessel except on duty notified to the Authority.

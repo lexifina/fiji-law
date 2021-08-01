@@ -1,0 +1,2 @@
+# reg 31C Healthy aircraft
+An aircraft shall be regarded as healthy, notwithstanding it having come from an infected airport, if it has had no case of yellow fever on board, or if there is no reason to believe that it transports adult stegomyia (Aedes aegypti) or it is proved to the satisfaction of the Authority that it has been effectively disinsected in order to destroy mosquitoes and no live stegomyia (Aedes aegypti) are found on board.

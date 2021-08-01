@@ -1,0 +1,2 @@
+# reg 31F Pratique for healthy vessel etc
+A healthy vessel or aircraft, notwithstanding it having come from a yellow fever infected area shall be granted free pratique after medical inspection and disinsectisation. Passengers and crew may be isolated for a period not exceeding 6 days reckoned from the date of departure from the yellow fever infected area, unless they can produce a valid certificate of vaccination against yellow fever in the form set out in Schedule 8.

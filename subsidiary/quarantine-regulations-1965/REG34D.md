@@ -1,0 +1,2 @@
+# reg 34D Evidence of vaccination etc
+The Authority may require any person on an international voyage who does not show sufficient evidence of protection by a previous attack of smallpox to possess on arrival, a valid certificate of vaccination against smallpox in the form set out in Schedule 9. Any such person who cannot produce such a certificate may be vaccinated and if he or she refuses to be vaccinated he or she may be placed under surveillance for not more than 14 days reckoned from the date of his or her departure from the last territory visited before arrival.

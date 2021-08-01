@@ -1,0 +1,2 @@
+# reg 37 Person in contact with infected vessel may be detained in quarantine
+Any person who without the permission of the Authority boards any infected or suspected vessel or aircraft or any vessel or aircraft which has come from, or touched at, any infected local area where a quarantinable or other infectious disease exists, or enters or lands at any quarantine station, may be detained under observation or subjected to surveillance for such a period as the Authority may deem necessary.

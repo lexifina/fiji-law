@@ -1,0 +1,2 @@
+# reg 29H Duration of certificates
+A Deratisation Certificate or a Deratisation Exemption Certificate shall be valid for a period of 6 months but such period may be extended for a further period of one month in respect of a ship proceeding to a port approved under the provisions of the International Sanitary Regulations 1951, as a port at which such certificates may be issued, if the derating or inspection of the ship would be facilitated by the operations due to take place at such port.

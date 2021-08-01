@@ -1,0 +1,2 @@
+# reg 29G Deratisation etc certificates
+Deratisation Certificates or Deratisation Exemption Certificates shall be in the form set out in Schedule 6 hereto. If a valid certificate is not produced, the Authority, after inquiry and inspection, may derat the vessel or cause the derating to be done under his or her direction and control. For the purposes of article 17 of the International Sanitary Regulations 1951, Suva shall be the port at which Deratisation Certificates, and Suva or Lautoka shall be the ports at which Deratisation Exemption Certificates, may be issued.

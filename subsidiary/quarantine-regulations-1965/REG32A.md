@@ -1,0 +1,2 @@
+# reg 32A Suspected vessel or aircraft
+On the arrival of a vessel or aircraft which has had no case of typhus on board, but which has left a local area where typhus was epidemic within the previous 14 days, the Authority may cause passengers and crew to be disinsected, their wearing apparel and baggage and other articles likely to spread typhus to be disinsected and, if necessary, disinfected, and may place passengers and crew under surveillance for a period not exceeding 14 days.

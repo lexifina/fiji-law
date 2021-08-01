@@ -1,0 +1,2 @@
+# reg 14 Measures which may be taken on arrival
+The Authority may board any vessel or aircraft arriving in Fiji and inspect every person therein. The Authority may call for inspection any of the vessel’s or aircraft’s books and papers and may use every lawful means which may seem to him or her expedient for ascertaining the state of health of the persons on board and the sanitary conditions of the vessel or aircraft.

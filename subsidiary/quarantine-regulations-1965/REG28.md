@@ -1,0 +1,2 @@
+# reg 28 Duties of a commander of an aircraft on landing
+The master of an aircraft entering Fiji from an infected or malarious area shall upon landing bring his or her aircraft to rest at a place designated by the officer-in-charge of the aerodrome, shall place himself or herself at the disposal of the Authority, give such information relating to public health as the Authority may require and produce the aircraft’s papers for examination.

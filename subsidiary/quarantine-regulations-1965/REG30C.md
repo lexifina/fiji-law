@@ -1,0 +1,2 @@
+# reg 30C Medical examination of persons from infected local area
+Persons coming from an infected local area within the incubation period of the disease and who have symptoms indicative of cholera may be required to submit to stool examinations but not to rectal swabbing and if they are discovered on the arrival of a ship or aircraft to harbour cholera vibrios or vibrios not strictly conforming to the character of cholera vibrios, they shall be submitted after disembarkation to such examination, observation or surveillance as the Authority may think necessary.

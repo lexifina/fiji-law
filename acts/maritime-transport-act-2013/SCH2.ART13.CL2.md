@@ -1,0 +1,2 @@
+# cl 2.
+Payment of a reward fixed according to paragraph 1 shall be made by all of the ship and other property interests in proportion to their respective salved values. However, a State Party may in its national law provide that the payment of a reward has to be made by one of these interests, subject to a right of recourse of this interest against the other interests for their respective shares. Nothing in this article shall prevent any right of defence.

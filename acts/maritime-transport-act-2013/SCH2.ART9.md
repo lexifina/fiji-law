@@ -1,0 +1,2 @@
+# Article 9 Rights of coastal States
+Nothing in this Convention shall affect the right of the coastal State concerned to take measures in accordance with generally recognised principles of international law to protect its coastline or related interests from pollution or the threat of pollution following upon a maritime casualty or acts relating to such a casualty which may reasonably be expected to result in major harmful consequences, including the right of a coastal State to give directions in relation to salvage operations.

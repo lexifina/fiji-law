@@ -1,0 +1,2 @@
+# Article 11 Co-operation
+A State Party shall, whenever regulating or deciding upon matters relating to salvage operations such as admittance to ports of ships in distress or the provisions of facilities to salvors, take into account the need for co-operation between salvors, other interested parties and public authorities in order to ensure the efficient and successful performance of salvage operations for the purpose of saving life or property in danger as well as preventing damage to the environment in general.

@@ -1,0 +1,3 @@
+# SCHEDULE 1
+Common Understanding Concerning Articles 13 and 14 of the International Convention on Salvage, 1989
+It is the common understanding of the Conference that, in fixing a reward under article 13 and assessing special compensation under article 14 of the International Convention on Salvage, 1989 the tribunal is under no duty to fix a reward under article 13 up to the maximum salved value of the ship and other property before assessing the special compensation to be paid under article 14.

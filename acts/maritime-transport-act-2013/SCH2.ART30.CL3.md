@@ -1,0 +1,2 @@
+# cl 3.
+Any State which has made a reservation to this Convention may withdraw it at any time by means of a notification addressed to the Secretary-General. Such withdrawal shall take effect on the date the notification is received. If the notification states that the withdrawal of a reservation is to take effect on a date specified therein, and such date is later than the date the notification is received by the Secretary-General, the withdrawal shall take effect on such later date.

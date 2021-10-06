@@ -1,0 +1,2 @@
+# reg 2 Registration of birth more than 12 months after birth
+After the expiration of 12 months from the date of the birth of any person, the Registrar may, upon the production to him or her of satisfactory evidence on oath together with such other proof as he or she may deem necessary of the fact, time and place of birth, and of the particulars of the parents of such person and of the previous issue of each of such parents, duly register such birth.

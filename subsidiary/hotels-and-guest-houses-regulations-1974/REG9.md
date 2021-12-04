@@ -1,0 +1,2 @@
+# reg 9 Exemptions
+Unless specifically ordered or directed by the chairperson in any particular case, university, teachers and schools, hostels, YWCA hostels, Government hostels and messes, hostels and homes maintained by registered charitable trusts or religious bodies and other similar educational or vocational institutions, and vessels are exempted from the provisions of the Act, provided that, in any case where there is any doubt, a certificate given under the hand of the chairperson shall be evidence of such exemption.

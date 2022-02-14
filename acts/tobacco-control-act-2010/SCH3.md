@@ -1,0 +1,2 @@
+# SCHEDULE 3 ANNUAL LICENCE FEES
+(Repealed)

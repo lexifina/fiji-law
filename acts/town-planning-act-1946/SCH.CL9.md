@@ -1,0 +1,2 @@
+# cl 9
+The making, fixing and altering and ascertaining of building lines irrespective of the width or alignment of any street, road or right of way, to secure as far as practicable, having regard to the physical features of the site and the depth of the existing subdivisions, that the distance between the buildings to be erected or buildings likely to be reconstructed, on opposite sides of the street, road or right of way, shall not be less than that fixed by the scheme, according to the prospective traffic requirements of such street, road or right of way.

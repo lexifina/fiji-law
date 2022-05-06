@@ -1,0 +1,2 @@
+# cl 8
+Limiting the number of apartment, tenement, detached or other dwelling houses to the acre generally or in any particular locality and the extent to which each subdivision, allotment or parcel of land is to be built upon and providing for adequate light and air to the windows of each house and prescribing other requirements so far as is reasonable for the purpose of securing the convenience and amenity of the scheme area and proper sanitary and hygienic conditions in connection with any building therein.

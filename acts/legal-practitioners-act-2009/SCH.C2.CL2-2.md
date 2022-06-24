@@ -1,0 +1,2 @@
+# cl 2.2
+A practitioner shall not advertise on television or radio without the consent of the Registrar, which consent may be of specific or general application. Nothing in this rule shall prevent a practitioner from appearing on radio or television to answer questions of a legal nature or provide public information on legal issues, in circumstances where no payment or inducement has been provided by the practitioner to obtain this publicity.

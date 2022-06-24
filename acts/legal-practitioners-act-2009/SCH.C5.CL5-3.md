@@ -1,0 +1,2 @@
+# cl 5.3
+Where a clear confession of guilt has been made to a practitioner by his or her client, the practitioner may, if the confession is made before proceedings have commenced or shall, if the confession is made before proceedings continue to act notwithstanding that the client may wish to maintain a plea of “not guilty”, but shall not assert any case or make any allegation inconsistent with the confession.

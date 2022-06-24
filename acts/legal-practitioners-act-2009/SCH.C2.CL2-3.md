@@ -1,0 +1,2 @@
+# cl 2.3
+A practitioner shall, in seeking instructions for professional business from members of the public other than existing clients, ensure that approaches to such persons are made in a manner which does not bring the profession into disrepute. Such approaches shall be made in professional manner, and shall not be misleading, deceptive, intrusive, offensive, harassing, intimidatory, or otherwise inappropriate.

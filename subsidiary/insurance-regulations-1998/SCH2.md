@@ -1,0 +1,20 @@
+# SCHEDULE 2 FORMS
+Form No. | Form Description
+1. | Offshore placement notice — section 17(4)
+2. | Application for licensing as an insurer — section 24(3)
+3. | Application for licensing as a broker — section 42(2)
+4. | Application for licensing as an agent — section 42(2)
+5. | Application for approval of appointed auditor — section 52(2)
+6. | Annual returns for general insurers — section 60(1)
+7. | Quarterly returns for general insurers — section 60(2)
+8. | Annual returns for life insurers — section 60(1)
+9. | Quarterly returns for life insurers — section 60(2)
+10. | Preparation of actuarial abstracts — section 62(1)
+11. | Preparation of statement of life insurance business — section 62(4)
+12. | Annual returns for brokers — section 66(1)
+13. | Quarterly returns for brokers — section 66(2)
+14. | Statement of unclaimed moneys — section 144(1)
+15. | Statement of moneys paid — section 144(3)
+16. | Memorandum of transfer — section 147(3)(a)
+17. | Appointment where nominee is a minor — section 152(2)
+INSURANCE ACT 1998

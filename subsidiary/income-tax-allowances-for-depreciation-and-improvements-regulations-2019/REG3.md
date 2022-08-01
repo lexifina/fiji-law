@@ -1,0 +1,9 @@
+## PART 2 ALLOWANCE FOR CAPITAL EXPENDITURE RELATING TO FUEL ECONOMY AND ALTERNATIVE SOURCES OF ENERGY
+# reg 3 Minister may approve allowances
+(1) For the purposes of encouraging economies in the use of fuel oil and its derivatives, the Minister may, on application by a taxpayer and subject to such conditions as he or she thinks fit, approve the following allowances for depreciation in respect of capital expenditure—
+(a)an allowance of 100% of the expenditure incurred in the adaptation of buildings, plant and machinery presently used in a trade or business where such expenditure is considered to be expedient for the purpose of reducing the consumption of electricity and its derivatives or fuel oil and its derivatives, whereby such allowance is a substitute for any other allowance for depreciation;
+(b)an initial allowance of 50% of the expenditure incurred for plant and machinery purchased to replace plant and machinery presently used in any trade or business considered to be expedient for the purpose of economising the consumption of electricity; or
+(c)either—
+(i)a fuel economy investment allowance of up to 40% of the expenditure incurred for plant and machinery purchased to replace plant and machinery used in a trade or business, and using an alternative energy to electricity and its derivatives or fuel oil and its derivatives; or
+(ii)a fuel economy investment allowance of 40% of the expenditure incurred for an asset used in a trade or business which generates energy from a source of energy which is indigenous to and is produced in Fiji,
+provided that the fuel economy investment allowance, which is in addition to the initial and annual allowances provided for under these Regulations, must not be approved unless the expenditure is deemed to be expedient for the economic benefit of Fiji and is capable of achieving substantial savings in foreign exchange.

@@ -1,0 +1,6 @@
+# reg 2 Interpretation
+In these Regulations, unless the context otherwise requires—
+"agriculture" includes copra planting, silviculture, dairy farming, fruit growing, sugar cane growing, animal husbandry, poultry keeping, grazing and market gardening;
+"commercial" means generally concerned with commerce and includes wholesale and retail trading, hotels, offices and the means of distribution, transport and exchange, but does not include industrial undertakings or properties let for residential purposes;
+"industrial" means generally concerned with mills, factories or other similar premises in which the manufacture or processing of raw or partly manufactured materials is carried out and includes mining, land development and road development; and
+"Information Communications Technology business" means services provided by a person which are information communications technology enabled such as software development, call centres, customer contact centres, engineering and design, research and development, animation and content creation, distance learning, market research, travel services, finance and accounting services, human resource services, legal services, compliance and risk services or other administration services.

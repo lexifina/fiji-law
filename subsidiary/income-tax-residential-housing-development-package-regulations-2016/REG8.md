@@ -1,0 +1,3 @@
+# reg 8 Extension of time for completion
+(1) If a company to which provisional approval has been granted is unable to complete its residential housing development investment within the period specified in the definition of “residential housing development investment” in regulation 2 due to unforeseen circumstances or some other act beyond the control of the company, the company may apply in writing to the Minister to extend the time by which the residential housing development must be completed.
+(2) If the Minister extends the time under subregulation (1), the company shall continue to enjoy the duty free concession provided for by regulation 5 during the extended period.

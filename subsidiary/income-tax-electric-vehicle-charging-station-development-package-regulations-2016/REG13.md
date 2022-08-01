@@ -1,0 +1,3 @@
+# reg 13 Depreciation
+(1) During the period under regulation 11(1) to the end of the accounting period in which the last day of the tax-free period falls, such depreciation shall be written off the assets of that company in calculating its profits or gains as would have been available to it under these Regulations if the company were not in receipt of the concession provided by this part, and the written down values of such depreciable assets at the end of the accounting period in which the last day of the tax-free period falls shall be calculated accordingly.
+(2) For the purpose of subregulation (1), the person shall not be obliged to claim initial allowances but such election shall in that event continue for the whole of the tax free period.

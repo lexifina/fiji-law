@@ -1,0 +1,2 @@
+# reg 4 Requirement to deter and prevent money laundering and the financing of terrorism
+For purposes of section 42(a), Part 2 and Part 3 of the Act, a financial institution must develop and implement such policies, procedures and measures as are necessary and sufficient to deter and prevent such institution from being used for money laundering and terrorist financing and to achieve compliance with the applicable requirements of the Act.

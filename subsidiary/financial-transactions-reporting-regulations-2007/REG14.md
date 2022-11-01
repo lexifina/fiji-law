@@ -1,0 +1,3 @@
+# reg 14 Determination of persons on whose behalf the customer is acting
+(1) For the purposes of section 4(7) of the Act, a financial institution must take reasonable measures to determine if a customer is acting on behalf of any other person or persons including on behalf of a beneficial owner or a controller.
+(2) If a financial institution determines that the customer is acting on behalf of any other person, the financial institution must identify and verify the identity of the person on whose behalf the customer is acting using reliable, independently sourced documents as provided in regulation 9.

@@ -1,0 +1,4 @@
+# reg 35 Supervisory guidelines
+(1) The relevant supervisory authority may issue guidelines to the financial institutions they supervise for purposes of implementing the requirements relating to customer due diligence, record keeping and retention and reporting obligations and internal controls and programmes necessary to implement the obligations of the Act and to provide guidance to financial institutions on the implementation of the requirements of the Act and these Regulations.
+(2) The relevant supervisory authority may issue guidelines specifying what factors the financial institution must take into account when determining whether customers are of a higher risk.
+(3) The relevant supervisory authority may issue guidelines specifying what factors the financial institution must take into account when determining whether customers are of a lower risk.

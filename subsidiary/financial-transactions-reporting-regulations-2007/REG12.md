@@ -1,0 +1,2 @@
+# reg 12 Identification of customers who are non-profit organisations
+For customers that are a non-profit organisation, group or agency (such as a charitable and religious organisation), a financial institution must also satisfy itself as to the legitimate purpose of such organisation, group or agency, such as reviewing the charter, constitution or trust instrument of the organisation, group or agency.

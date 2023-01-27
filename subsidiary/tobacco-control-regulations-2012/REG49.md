@@ -1,0 +1,2 @@
+# reg 49 Trade communications
+For the purposes of the Act and the Regulations, information that is or includes a tobacco product advertisement communicated to a group of people, all of whom are involved in the manufacture, distribution or sale of tobacco products, is exempt from the operation of section 3(1) of the Act and its communication does not, of itself, amount to the display, distribution, exhibition, announcement or publication of a tobacco product advertisement.

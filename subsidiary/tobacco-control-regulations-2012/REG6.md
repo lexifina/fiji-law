@@ -1,0 +1,2 @@
+# reg 6 Issuance of Tobacco Registration Certificate
+The Permanent Secretary shall issue a Tobacco Registration Certificate to a tobacco wholesaler, distributor or retailer if satisfied that registration conforms to the provisions of the Act and these Regulations, and where the wholesaler, distributor or retailer has not been issued with a notice of suspension or revocation of registration on grounds of violation of the Act or these Regulations.

@@ -1,0 +1,3 @@
+# reg 10 Surrender of Tobacco Registration Certificate
+(1) Any wholesaler, distributor or retailer registered under this Part but does not commence or ceases to do business in the manner specified or designated in the Tobacco Registration Certificate or is notified that the registration has been suspended or revoked, shall immediately return the original Tobacco Registration Certificate to the Permanent Secretary or authorised officer.
+(2) A person who fails to comply with subregulation (1) commits an offence and is liable upon conviction to a fine not exceeding $1,000 and in the case of a body corporate, to a fine not exceeding $5,000.

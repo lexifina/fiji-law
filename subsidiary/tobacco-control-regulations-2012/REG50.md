@@ -1,0 +1,2 @@
+# reg 50 Advertisements in telephone directories
+The publication of the name of a manufacturer, distributor or retailer of tobacco products in a telephone directory or other trade directory is exempt from the operation of sections 3(1) and 5 of the Act and does not, of itself, amount to the display, distribution, exhibition, announcement or publication of a tobacco product advertisement for the purposes of the Act and the Regulations.

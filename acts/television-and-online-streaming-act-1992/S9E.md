@@ -1,0 +1,10 @@
+# s 9E Revocation or suspension of licence
+(1) Subject to subsection (2), the Minister may, by notice in writing to the licensee, suspend or revoke a licence granted under this Part where he or she is satisfied that one of the following grounds exists—
+(a)the licensee has failed to pay an amount as stipulated in the licence;
+(b)the licensee has failed to comply with the provisions of this Act;
+(c)the licensee is no longer a fit and proper person to hold the licence;
+(d)the licensee no longer has the financial, technical and management capabilities necessary to operate the online streaming service;
+(e)the licensee has failed to comply with any direction given by the Minister;
+(f)the licensee has failed to comply with the conditions specified in the licence; or
+(g)it is advisable in the public interest, for a special reason, to do so.
+(2) The Minister must before suspending or revoking any licence under the provisions of subsection (1), give the licensee notice in writing of his or her intention to do so and calling upon the person concerned to show cause to him or her why such licence should not be suspended or revoked, as the case may be.

@@ -1,0 +1,3 @@
+# reg 17 Election of members of the Council
+(1) Nominations must be called for a sufficient number of candidates to fill the vacancies in each category of membership of the Council and, if the number of persons nominated for election, including retiring Council members under regulation 15, is not more than the number of vacancies to be filled, then the persons nominated are deemed to have been duly elected as members of the Council in the category in which they have been nominated.
+(2) If the number of candidates nominated for election, including retiring Council members to whom regulation 15 applies exceeds the number of vacancies which exist in a category of membership, then an election must be held to fill the vacancies.

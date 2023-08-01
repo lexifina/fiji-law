@@ -1,0 +1,3 @@
+# reg 1. Introduction
+Each accredited POS should be able to connect to an E-SDC or V-SDC and issue a fiscal invoice. Accredited POSes are developed for different platforms, designed to use a variety of communication standards to connect to other software or hardware components. As wide acceptance and low cost of integration are crucial for successful fiscalisation, the Service is dedicated to providing detailed integration instructions for all manufacturers and software developers (suppliers).
+This Guideline is the technical guideline for activation of accredited POSes and integration with an E-SDC or V-SDC service. This Guideline sets standards that will enable seamless integration of accredited POSes with the V-SDC that is part of the Service’s system.

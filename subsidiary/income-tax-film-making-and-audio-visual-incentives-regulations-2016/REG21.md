@@ -1,0 +1,3 @@
+# reg 21 Application for another provisional certificate
+(1) An applicant who holds a current provisional certificate may not apply to Film Fiji for a provisional certificate for another or a new audio visual production until after a final certificate for the first or current audio-visual production has been issued by Film Fiji.
+(2) Notwithstanding anything in subregulation (1), Film Fiji may if it deems it expedient for the development of the audio-visual industry in Fiji, exercise its discretion to grant a provisional certificate for another or a new audio-visual production to an applicant who holds a current provisional certificate and has not yet been issued with a final certificate in respect thereof.

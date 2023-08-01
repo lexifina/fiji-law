@@ -1,0 +1,3 @@
+# reg 4 Limitation on applications for incentives
+(1) A company, production entity or any person engaged in the making of a film or audio-visual production in Fiji may apply for only one incentive under Parts 2, 3, 4 or 5 of these Regulations for each film or audio-visual production made in Fiji.
+(2) Notwithstanding anything contained in subregulation (1), the Minister may approve an application made under Part 2 by a company, production entity or any person engaged in the making of a film or audio-visual production who has applied for an incentive under either Part 3 or 5 of these Regulations.

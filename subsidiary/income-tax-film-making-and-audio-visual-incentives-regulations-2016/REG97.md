@@ -1,0 +1,3 @@
+# reg 97 Extension of time for completion
+(1) If a person to which provisional approval has been granted is unable to complete its post-production investment within the period specified in the definition of “post-production investment” in regulation 91 due to unforeseen circumstances or some other act beyond the control of the person, the person may apply in writing to the Minister to extend the time by which the post-production investment must be completed.
+(2) If the Minister extends the time under subregulation (1), the person continues to enjoy the duty free concession provided for by regulation 95 during the extended period.

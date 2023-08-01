@@ -1,0 +1,7 @@
+# reg 63 Requirements and conditions for tax exemption
+An individual, who is not a resident, approved by Film Fiji is not eligible to claim in a year of assessment the tax exemption under regulation 61(2) unless the individual—
+(a)is resident in the studio city zone for a period or periods in aggregate of at least 60 days in the year of assessment;
+(b)maintains a permanent place of residence in the studio city zone during the year of assessment; and
+(c)provides to the CEO confirmation and certification by a chartered accountant holding a certificate of public practice of—
+(i)net annual audio-visual earnings in excess of $100,000 in the year of assessment; and
+(ii)assets held during the year of assessment in the studio city zone in excess of $250,000 in either real estate, tangible business assets including stock, plant and equipment and tools of trade or other valuable and confirmable assets excluding cash and other liquid assets.

@@ -1,0 +1,3 @@
+# cl 7
+(1) The supply by a registered person of goods and services used wholly by the registered person for the purposes of making exempt supplies including goods and services which can only be used for making exempt supplies for which no deduction for input tax was claimed on the acquisition, production, maintenance and upgrading of those goods and services.
+(2) Notwithstanding subparagraph (1), the supply by a registered person of goods used wholly by the registered person including goods which can only be used for making supplies under paragraph 2 qualifies as an exempt supply regardless of whether deduction for input tax was claimed on the acquisition, production, maintenance and upgrading of the goods.

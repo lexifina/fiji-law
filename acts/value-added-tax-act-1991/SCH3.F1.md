@@ -1,0 +1,6 @@
+## SCHEDULE 3 FORMS
+# FORM 1 OATH OF SECRECY
+I ........................................ make oath and swear that I shall regard and deal with all documents, returns, assessments and information relating to the taxable activity of any person which may come into my possession or to my knowledge in the course of any official duty, as secret, and that I shall not reveal any such document or information to any person or permit any person to have access to any such document, return or assessment, save in the circumstances in which I am permitted to do so under this Act.
+Sworn before me this ....................... day of ....................... 20 ........
+........................................
+Magistrate

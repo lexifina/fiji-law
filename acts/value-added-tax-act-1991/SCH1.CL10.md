@@ -1,0 +1,7 @@
+# cl 10
+For the purposes of this Schedule the terms—
+"donated goods and services" means goods and services that are gifted to a non-profit body and are intended for use in carrying on or carrying out of the purposes of that non-profit body;
+"dwelling" means any building, premises, structure or other place or any part thereof, used predominantly as a place of residence or abode of any individual, together with any appurtenances belonging thereto and enjoyed with it; but does not include a commercial dwelling;
+"educational institution" means any pre-school registered by the Ministry of Education, primary school, secondary school, Fiji national university, Montfort Boys Town, Pacific Regional Seminary, Pacific Theological College and the University of the South Pacific or any other similar educational institute as approved by the Chief Executive Officer; but does not include any educational institution which is carried on for the purposes of commercial profit or gain to any proprietor, member or shareholder;
+"gambling" includes any game of chance for money or events of great risks for the chance of winning something or making a profit, lotteries, bets placed on a race or other events; and
+"life insurance contract" means a contract lawfully entered into to the extent that it places a sum or sums at risk upon the contingency of the termination or continuance of human life, marriage, civil union or de facto relationship or the birth of a child.

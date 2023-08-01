@@ -1,0 +1,2 @@
+# cl 4
+The supply of leasehold lands by the iTaukei Land Trust Board for and on behalf of the iTaukei owners under the iTaukei Land Trust Act 1940 but only in relation to the portion of rent monies, royalties etc that are to be distributed to iTaukei owners from time to time, provided that the exemption shall not apply to the statutory deductions (for example, 25% for rents received or collected) due to the iTaukei Land Trust Board under the iTaukei Land Trust Act 1940.

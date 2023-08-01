@@ -1,0 +1,2 @@
+# SCHEDULE 2A PRESCRIBED SERVICES AT 15% VAT (Repealed)
+(Repealed)

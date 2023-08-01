@@ -1,0 +1,2 @@
+# reg 10 Procedure on sale of hotel
+If the property of a hotel has been sold and the investment allowance in respect of such hotel has in accordance with regulation 7, been wholly or partly set off against income, the like consequences shall ensue as respects both the vendor and the purchaser with regard to section 34 of the Act, as would have ensued if the transaction were the sale and purchase of depreciable property in the normal course of events.

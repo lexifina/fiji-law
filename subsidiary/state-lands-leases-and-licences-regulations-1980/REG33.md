@@ -1,0 +1,2 @@
+# reg 33 Licensee not to deal with licence without consent
+A licensee shall not alienate or deal with the land comprised in his or her licence or any part thereof whether by sale, transfer, sub-licence or in any other manner whatsoever without the consent of the Director as licensor first had and obtained and any sale, transfer, sub-licence or other unlawful alienation or dealing effected without such consent shall be null and void.

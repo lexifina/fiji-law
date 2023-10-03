@@ -1,0 +1,2 @@
+# reg 19 Conditions of lease for quarrying purposes
+Land leased for quarrying purposes shall be used solely for the removal of sand, common stone, lime or other similar material and for the housing of the machinery and implements necessary therefor and the labourers employed thereon and the royalty to be paid for such material and the manner of payment and the nature of the improvements required to be effected shall be set out in every such lease in detail.

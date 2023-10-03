@@ -1,0 +1,5 @@
+# reg 12 Arbitration
+In any lease there shall be implied the following conditions, that is to say—
+(a)that, upon a reassessment of rent or upon the assessment by the Director of the value of the unexhausted improvements of any leasehold, the lessee, if dissatisfied with the calculation of the fee simple estate of the land upon which the rent is reassessed or with the assessment of the value of unexhausted improvements shall be entitled to submit the matter to arbitration;
+(b)that any dispute referred to arbitration under these Regulations shall be referred to a single arbitrator chosen by the parties or, if they are unable to agree, by the Chief Justice. Each party shall have power to appoint an assessor to sit with the arbitrator but the arbitrator alone shall have the power to decide and the award shall be his or her alone;
+(c)that the arbitration shall take place at Suva or Lautoka or such place in Fiji as the single arbitrator shall decide and the procedure thereat shall be governed by the provisions of the Arbitration Act 1965.

@@ -1,0 +1,3 @@
+# reg 6 Date of commencement of lease
+(1) The period of any lease and the date from which rent shall be calculated shall be from such date or dates as may be approved by the Director.
+(2) The rent shall be due and payable by equal half-yearly payments not later than 31 January and 31 July in each year and shall be paid to the Director or to any person authorised in writing by him or her. Any rent due from the date of commencement of the lease up to the following 1 January or the following 1 July, as the case may be, shall be added to and paid with such first half-yearly payment to be made by the lessee.

@@ -1,0 +1,2 @@
+# cl 7. Fiji National Provident Fund Act 2011
+The Fiji National Provident Fund Act 2011 is amended in section 4(1) in the definition of “public official” in paragraph (c) by deleting “commercial statutory authority or a Government company (both as defined in the Financial Management Act 2004 (except the Board)” and substituting “statutory authority that is a public enterprise as defined in section 2 of the Public Enterprises Act 2019 or a Government company as defined in section 2(1) of the Financial Management Act 2004”.

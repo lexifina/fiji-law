@@ -1,0 +1,6 @@
+# cl 4 Lighting of fires prohibited
+(1) Unless authorised by the Council, no person shall light or cause to be lit a fire on any mahogany plantation land, except in a place established for the purpose of lighting fires.
+(2) Fiji Hardwood Corporation Limited acting on the direction of the Council may issue fire licences for any area where the lighting of fires is prohibited under subparagraph (1).
+(3) Any person who lights a fire in contravention of subparagraph (1) shall be liable for any damage caused by the fire, notwithstanding any efforts he or she may have made to prevent such damage.
+(4) Where a fire escapes from an area owned or occupied by any person, that person shall be liable for any damage caused by that fire unless he or she proves that neither he or she nor anyone in his or her employ lit the fire and that he or she took all possible measures to prevent such damage.
+(5) Any person who is in the vicinity of and is aware of a fire on mahogany plantation land which is occasioning damage or is likely to spread shall assist to the best of his or her possibilities in extinguishing the fire, and for this purpose the person may enter upon any land where the fire is or to which there is reason to believe the fire may spread and may do such things as are reasonably necessary to control or extinguish the fire.

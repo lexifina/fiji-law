@@ -1,0 +1,2 @@
+# reg 16 Extension of prescribed time limits
+Where under these Regulations or under any lease, any notice is required to be served or other thing done within a certain period, the Board may, on application being made to it in that behalf before or after the expiration of that period, extend that period; and thereupon these Regulations or that lease, as the case may be, shall have effect as if the reference therein to that period were a reference to that period as so extended.

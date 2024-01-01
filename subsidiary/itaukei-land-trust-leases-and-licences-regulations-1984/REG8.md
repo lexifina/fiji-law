@@ -1,0 +1,7 @@
+# reg 8 Consent of the Board to dealings with demised land etc
+(1) An application for the consent of the Board under section 12 of the Act to deal with any iTaukei land shall be in such a form and shall be accompanied by such information and evidence as the Board shall determine.
+[subreg (1) am Decree 8 of 2011 s 3, effective 1 March 2011]
+(2) The Board may attach to the grant of such consent a condition requiring that the instrument giving effect to the dealing consented to by the Board shall be executed, or executed and registered in such register as the Board shall direct, within the 3 months commencing on the date on which the consent was granted or such longer period commencing on that date as the Board shall determine; and in the event of such a condition not being complied with, the consent of the Board shall be deemed to be null and void.
+(3) The Board may, on application being made to it for such consent, require the payment of such deposit as it deems proper, in addition to any fee payable under regulation 7 in respect of the application; and such deposit shall be refunded to the applicant by the Board—
+(a)where such consent is refused by the Board; or
+(b)where such consent is granted by the Board and the Board is satisfied, on information supplied to it by the applicant within such period as the Board shall determine, that the instrument giving effect to the dealing consented to has been executed, or executed and registered, in accordance with subregulation (2), or that the dealing consented to will not be completed.

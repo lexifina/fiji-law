@@ -1,0 +1,21 @@
+# reg 19 Compensation payable by the Board on refusing to renew a lease
+(1) Where a notice to renew has been served on the Board by any person in accordance with regulation 18(2) in relation to any iTaukei land and—
+(a)the Board has refused to grant a lease of that land for a further term or is deemed under subregulation (2) to have refused to grant such a lease; and
+(b)at the expiration of the term in relation to, and during the currency of which, the notice to renew was served, the applicant shall have—
+(i)paid the rent payable by him or her under the related lease or by virtue of the related agreement for a lease, as the case may be;
+(ii)reasonably performed and observed the terms, covenants and conditions contained in the said lease or agreement and on his or her part to be performed and observed; and
+(iii)yielded up possession of that land;
+the Board shall pay to the applicant by way of compensation such sum as shall have been agreed by the Board and the applicant or as shall have been determined by arbitration on a reference made under and in accordance with subregulation (3).
+[subreg (1) am Decree 8 of 2011 s 3, effective 1 March 2011]
+(2) Subject to subregulation (4), for the purposes of subregulation (1), where such notice to renew has been served on the Board in relation to any iTaukei land, the Board shall be deemed to have refused to grant a lease of that land for a further term if the Board does not serve on the applicant—
+(a)a notice under and in accordance with regulation 18(5); or
+(b)at least 6 months before the expiry of the term in relation to, and during the currency of which, such notice to renew was served, a notice in writing intimating the decision of the Board to refuse to grant such a lease.
+[subreg (2) am Decree 8 of 2011 s 3, effective 1 March 2011]
+(3) Where, upon such notice to renew being served on the Board in relation to any iTaukei land, the Board has refused to grant to the applicant a lease of that land for a further term or is deemed to have done so as mentioned in subregulation (2), and the Board and the applicant are unable to agree to the amount of the compensation, payable under subregulation (1), the Board or the applicant may, at any time within the 3 months next following the expiry of the term in relation to, and during the currency of which, the notice to renew was served, refer the question of the amount of compensation which should be so payable for determination by arbitration in pursuance of regulation 21; and for the purposes of such arbitration the compensation properly so payable shall be taken to be the amount which might reasonably be expected to be obtained in the open market by a willing seller from a willing purchaser in consideration for the transfer of a lease of that land at the commencement of the term thereof if the Board had granted a lease of that land to the applicant in pursuance of regulation 18(3) upon such terms, conditions and covenants as are fair and reasonable having regard to the provisions of the Act and of these Regulations, but disregarding any element of development value.
+[subreg (3) am Decree 8 of 2011 s 3, effective 1 March 2011]
+(4) In any case to which regulation 18(9) applies—
+(a)the foregoing provisions of this regulation shall have effect as if any reference therein to a notice to renew served under and in accordance with regulation 18(2) were a reference to a notice to renew served under and in accordance with that regulation as having effect by virtue of the said subregulation (9);
+(b)subregulation (2) shall have effect as if—
+(i)the reference in regulation 18(5)(a) were a reference to that regulation as having effect by virtue of subregulation (9) of that regulation; and
+(ii)the period referred to in paragraph (b) thereof were the period of 6 months commencing on the date on which the notice to renew was served on the Board; and
+(c)subregulation (3) shall have effect as if the period referred to therein were the period of 3 months next following the date on which the notice of the Board was served on the applicant under regulation 18(5), as having effect by virtue of subregulation (9) of that regulation or, as the case may require, the period of 3 months next following the expiry of the period of 6 months referred to in subregulation (2)(b), as having effect by virtue of paragraph (a).

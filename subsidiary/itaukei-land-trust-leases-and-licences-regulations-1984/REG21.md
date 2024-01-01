@@ -1,0 +1,7 @@
+# reg 21 Arbitration
+(1) Any matter referred for determination by arbitration under and in accordance with these Regulations, and any difference arising between the Board and any person touching anything contained in these Regulations, in the operation or construction of these Regulations, of any lease, agreement for a lease or licence, or the rights, duties and liabilities of the parties under or in connection with a lease, agreement for a lease or licence, shall be determined by a single arbitrator in accordance with the Arbitration Act 1965, provided that nothing in this regulation shall be taken to authorise the reference for determination by arbitration of any difference arising out of the refusal of the Board to grant a lease of iTaukei land to any person otherwise than by way of renewal.
+[subreg (1) am Decree 8 of 2011 s 3, effective 1 March 2011]
+(2) In determining any rent, compensation or other payment referred to him or her under these Regulations, the arbitrator—
+(a)shall disregard any proposal made by any party as to such rent, compensation or other payment; and
+(b)shall have regard solely to the provisions of these Regulations with respect to any such matter so referred to him or her.
+(3) The arbitrator may, if he or she so desires, sit with 2 assessors, one appointed by each party, but all decisions and any award shall be made by him or her and shall be his or her alone.

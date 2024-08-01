@@ -1,0 +1,3 @@
+# reg 19 Taxable activities
+Where the Chief Executive Officer of the Fiji Revenue and Customs Service is of the opinion that a non-profit body is carrying on one or more taxable activities, the Chief Executive Officer of the Fiji Revenue and Customs Service may, notwithstanding that section 22 of the Act provides for the registration of all the taxable activities carried on by a person, direct that the registration shall only apply in respect of any identifiable separate activity or activities.
+[reg 23 renum as reg 19 LN 68 of 1992 reg 9, effective 1 July 1992; LN 99 of 2016 reg 294, effective 1 December 2016; am Act 38 of 2017 s 7, effective 1 August 2017]

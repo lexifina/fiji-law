@@ -1,0 +1,2 @@
+# reg 4 Issuing tax invoice
+Where a registered person issues a tax invoice containing the particulars prescribed in regulation 3 and specifies thereon any goods and services which are subject of an exempt or zero rated supply, he or she shall distinguish on the tax invoice between the goods and services which are the subject of an exempt or zero-rated supply and state separately the gross total amount payable in respect of each.

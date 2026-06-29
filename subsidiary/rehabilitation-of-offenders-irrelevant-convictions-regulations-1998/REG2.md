@@ -1,0 +1,3 @@
+# reg 2 Application for a Certificate of Rehabilitation
+(1) A person who makes an application under section 27(1) of the Act shall provide all the particulars relevant to his or her conviction for which the rehabilitation period has expired to the Commissioner of Police.
+(2) Notwithstanding subregulation (1) above, the Commissioner of Police may, for the purpose of satisfying himself that the applicant is entitled to be issued with a Certificate, require the applicant to supply to the Commissioner, if not already provided by the applicant or if already provided, for the purpose of further verification, details as specified in the Schedule to these Regulations.

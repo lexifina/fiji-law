@@ -1,0 +1,5 @@
+# reg 27 Record of sittings
+(1) In accordance with regulation 4, the Registrar must keep and maintain a record of all sittings of the Tribunal.
+(2) The Registrar must keep careful and accurate records of the Tribunal’s meetings and decisions, which must be as far as possible verbatim records.
+(3) If any proceedings for which the Tribunal has made a decision is further subjected to a judicial the review, the party applying for judicial review must at their own cost engage a translator approved by the Tribunal to translate any part of the record or proceedings which has been written or given in evidence in the iTaukei language in the Tribunal to be translated into English and certified by the person making the translation as having been truly and faithfully translated.
+(4) The certified copy of the record must as soon as possible after it has been made, be forwarded to the Tribunal for its verification, amendments where necessary and confirmation before it is forwarded to the High Court.

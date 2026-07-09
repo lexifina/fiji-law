@@ -1,0 +1,6 @@
+## PART 4 SERVICE IN PROCESS
+# reg 21 Service to be personal
+(1) Unless the Tribunal deems it just and expedient otherwise to direct, service must be personal and the notice or any other document to be served must be served on the person to be served.
+(2) The personal service of a notice or any other document may be made by any person.
+(3) The service of a notice or any other document is completely effected by the delivery of a duplicate or attested copy of such document, without the exhibition of any original copies.
+(4) Any person serving a notice or any other document must, on the request of the party served, explain to such party the nature of such notice or document.

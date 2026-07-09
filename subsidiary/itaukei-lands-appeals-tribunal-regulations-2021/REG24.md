@@ -1,0 +1,2 @@
+# reg 24 When service is refused or threatened
+Where a person charged with the service of the notice or any other document on any person is prevented by the refusal of such person to receive such notice or document or by the violence or threats of such person, or any other person in concert with him or her, from personally serving the notice or any other document, it is sufficient to inform the person to be served of the nature of the notice or any other document and to leave the notice or any other document as near to such person as it is practicable.

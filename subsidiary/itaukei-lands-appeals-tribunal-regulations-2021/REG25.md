@@ -1,0 +1,2 @@
+# reg 25 Acknowledgement of service
+Any person who serves a notice or any other document must acknowledge the service of such notice or document by way of an affidavit or a statutory declaration, provided however that the affidavit or statutory declaration outlines the date, place and to whom the service of the notice or any other document was effected, and that the signature of such person is witnessed by a Commissioner for Oaths or Justice of the Peace.

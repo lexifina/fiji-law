@@ -1,0 +1,2 @@
+# reg 14 Cleanliness of employees
+Any employee who fails to observe due cleanliness of person or habits, or who neglects to wash his or her hands before resuming work after visiting the closet or urinal, or who neglects to use, or who misuses, any convenience provided by the occupier of a bake house for the protection of food from contamination, shall be guilty of an offence against this regulation.

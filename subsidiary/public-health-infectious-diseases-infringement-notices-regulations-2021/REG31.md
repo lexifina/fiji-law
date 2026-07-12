@@ -1,0 +1,4 @@
+# reg 31 Requirement to submit correct identification details
+(1) An authorised officer may direct a person who has committed a fixed penalty offence under these Regulations to provide valid photo identification to verify his or her identity, and where a person does not have valid photo identification, the authorised officer may direct the person to provide such other form of identification as necessary to identify the person including requiring the person to provide his or her full name and permanent place of residence.
+(2) A person must comply with the direction made by an authorised officer pursuant to subregulation (1).
+(3) Any person who contravenes subregulation (2) commits an offence and is liable on conviction to a fine not exceeding $500 or imprisonment for a term not exceeding 12 months or both.

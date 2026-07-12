@@ -1,0 +1,2 @@
+# reg 9 Responsibility for breach of regulations
+Any person to whom a permit under these Regulations has been granted shall be responsible for the due observance of these Regulations on the premises in respect of which the permit has been granted, and any breach thereof by any person in respect of any such premises shall be deemed to be a breach by the person authorised in respect of such premises.

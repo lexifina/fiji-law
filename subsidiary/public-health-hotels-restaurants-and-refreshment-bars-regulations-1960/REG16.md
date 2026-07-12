@@ -1,0 +1,2 @@
+# reg 16 Penalty
+Any person convicted of an offence under the provisions of these Regulations shall be liable on conviction in the case of a first offence to a fine not exceeding $20, and in the case of a second offence to a fine not exceeding $40, and in the case of a subsequent offence to a fine not exceeding $100 or to imprisonment for a term not exceeding 6 months or to both such fine and imprisonment, and in the case of a continuing offence, to a further fine not exceeding $4 for each day during which the offence continues.

@@ -1,0 +1,2 @@
+# reg 74 Protection of drains
+Every person who shall erect a building shall cause the trench of every drain which passes within closer proximity than 3 feet to any walls of a concrete or brick building to be filled up solid with concrete to the level of the foundation of such building. Where such drain passes under any wall of a concrete or brick building he or she shall cause a sufficient arch to be turned over such drain, or some other equally suitable support for the wall to be provided so as effectually to prevent any damage to such drain by settlement or otherwise.

@@ -1,0 +1,12 @@
+# reg 44 Interpretation
+In this Part—
+"basement" means a storey or part of a storey partly below the ground level, the ceiling of which is not less than 5 feet above the level of the adjoining ground irrespective of any excavations made for the purpose of complying with this Part;
+"cellar" means a storey or part of a storey, or a room below or partly below the ground level, the ceiling of which is less than 5 feet above the level of the adjoining ground;
+"commercial building" means a building used or constructed or adapted to be used wholly or in part for commercial purposes;
+"dwelling" or dwelling-house means a building used, constructed or adapted to be used wholly or in part for human habitation, including kitchens, bathrooms and similar buildings in connection with a dwelling-house, whether forming part of a main building or erected as outhouses, and includes tenement buildings, but does not include any portion of a commercial building not used, constructed or adapted to be used for human habitation;
+[def am Regulations of 8 September 1938 reg 2, 7 October 1938]
+"flat" means a room or suite of rooms occupied or designed, intended or adapted to be occupied as a separate domicile;
+"habitable room" means any living room and includes any room intended or adapted to be used for the purpose of sleeping or eating, or the preparation or cooking of food;
+"height of a building" means the measurement taken from the level of the ground at the centre of the front of the building to the ceiling of the highest storey of the building, provided that a parapet not exceeding 10 feet of additional height may be added, provided that bulkheads, lantern lights, pergolas or other open ornamental treatment of roof gardens or play areas, and space for water tanks or reservoirs, or lift or elevator machinery, and the like, upon the top of the building, shall not, if constructed to a design approved by the local authority, be taken into account in determining the height of the building;
+"residential flat building" means a building containing 2 or more flats, but does not include a row of 2 or more dwellings, attached to each other such as are commonly known as semi-detached or terrace buildings; and
+"tenement buildings" means a building erected for residential purposes the different parts of which building are to be used or intended or adapted to be used or occupied by separate families, or by members of more than one family, or by persons not of one family.

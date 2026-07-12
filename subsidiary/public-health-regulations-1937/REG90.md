@@ -1,0 +1,2 @@
+# reg 90 Saving
+If, in the opinion of the local authority, a full compliance with this Part would needlessly and injuriously affect the course and operation of business, or be attended with great loss and inconvenience to any person, without a corresponding benefit to the community, the local authority may on special application, and subject to the approval of the Board, relax the strict observance of any provision, or modify the same, provided that such other terms as they may impose be complied with by the applicant.

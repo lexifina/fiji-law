@@ -1,0 +1,2 @@
+# reg 59 Combined shops and dwellings
+The local authority may permit the erection of a combined shop and dwelling house, provided that the portion of such building used as a dwelling house shall either occupy the second storey or shall be at the rear of such building and be entirely separate from the business portion of the premises. Each such building shall however comply otherwise with the provisions of regulation 57 in that the whole building shall not occupy an area greater than two-thirds of the total allotment.

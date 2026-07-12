@@ -1,0 +1,3 @@
+# reg 91 Inspection — Cutting into building
+(1) The local authority may order the inspection, opening or cutting into, or pulling down of any work where the local authority has reason to believe or suspect that anything has been done in contravention of this Part, and in the event of work being found to have been done in contravention of this Part, the person doing the work shall be required to comply with this Part, and shall bear the full cost such pulling down, opening or cutting into and of compliance with this Part.
+(2) In the event of the work being found to have been done in accordance with the requirements of this Part the cost of such pulling down, opening or cutting into, as well as the cost of reinstatement, shall be borne by the local authority.

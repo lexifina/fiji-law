@@ -1,0 +1,2 @@
+# reg 21 Diseased persons not to be employed
+No person afflicted with a skin or other disease of an infectious nature shall work as a launderer or enter or remain on any property on which a laundry is situated, or be permitted by the proprietor so to act, and no person whosoever shall send or permit to be sent to a laundry anything from a house in which a person who is suffering from any such disease resides, provided that this regulation shall not apply if the medical officer of health has issued a certificate that the disease is harmless.

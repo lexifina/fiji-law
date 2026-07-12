@@ -1,0 +1,6 @@
+# reg 94 Damp-proof course
+(1) This regulation shall apply to walls constructed of brick, stone or concrete blocks or the like materials, and to walls of any materials readily permeable by water.
+(2) Every person who shall erect a building shall cause every wall of such building to have a damp-proof course laid the full width of the walls in such a manner as completely to insulate all floor timbers and the walls above the floor-levels from dampness arising from the ground. Such damp-proof course shall be constructed so as to comply with the other provisions of this regulation.
+(3) The damp-proof course shall be of sheet lead, or asphalt or slate laid in 2 courses in cement, or of such other durable material impervious to water as may be approved by the local authority.
+(4) The damp-proof course shall, except as provided in subregulation (5) , be laid at a height of not less than 6 inches above the level of the surface of the ground adjoining the wall.
+(5) The damp-proof course shall, subject to the other provisions of this regulation, be laid at or beneath the level of the underside of the plates supporting the lowest floor of the building not being the floor of a cellar adapted and intended to be used for the purpose of storage only.

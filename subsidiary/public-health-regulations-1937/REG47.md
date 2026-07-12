@@ -1,0 +1,3 @@
+# reg 47 Outside town areas
+Every person wishing to erect any building or to add to or alter the ground plan of any existing building or carry out repairs costing more than $60 to any building situated outside a town area shall make application in the form in the Schedule 1 to the chairperson of the local authority or any person duly authorised to act on his or her behalf and shall furnish such additional information as the chairperson of the local authority or such other person as aforesaid may require. Such additional information may include descriptive constructional plans, a block plan and a drainage plan as required under regulation 46 .
+[reg 47 am Regulations of 13 December 1943 reg 34, 28 January 1944]

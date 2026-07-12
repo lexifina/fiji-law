@@ -1,0 +1,9 @@
+# reg 46 In town areas
+Every person wishing to erect any building or to add to or alter the ground plan of an existing building or carry out repairs costing more than $60 to any building in a town area shall—
+(a) make application in the form in Schedule 1 to the chairperson of the local authority or any person duly appointed to act on his or her behalf;
+(b) furnish with such application a set of plans, sections and elevations in duplicate, clearly describing the nature and form of construction proposed to be used to a scale of not more than 8 feet to one inch;
+(c) furnish also a block plan to a scale of not more than 40 feet to an inch, showing the position of the proposed works in relation to the boundaries of the site or curtilage thereof together with the positions of existing buildings in the vicinity, and the means of access proposed. Such plan shall be drawn with a north point and with such information as will enable the site to be identified on the standard plans of the Department of Lands and Survey;
+(d) furnish also a drainage plan showing the intended mode of drainage of the site and the means proposed for disposing of waste water, if any, from the building. Such plan shall indicate any sewers, drains, ditches or watercourses to be utilised in the drainage proposals and shall also show clearly the levels and falls of all new sewers and drains to be made in relation to the lowest floor level of the building and the adjacent land. The vertical scale of sections describing any drain shall not exceed 10 feet to one inch;
+(e) furnish such other information regarding the works and the methods proposed to be used as may be required by the local authority or any person duly authorised to act on its behalf.
+One copy of any plans and drawings furnished under this regulation shall when approved by the local authority be returned to the applicant.
+[reg 46 am Regulations of 13 December 1943 reg 33, 28 January 1944]

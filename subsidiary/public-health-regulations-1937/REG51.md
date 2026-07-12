@@ -1,0 +1,2 @@
+# reg 51 Inspection
+Every person about to erect a building or otherwise execute any work to which this regulation may apply shall, before proceeding with any footings to walls, supports, columns or piers, deliver or send to the local authority notice for inspection of the trenches. Such person shall also, before proceeding to cover up any drain or any foundation of a building deliver or send to the local authority notice in writing in which shall be specified the date on which such person will proceed to cover up such drain or foundation.

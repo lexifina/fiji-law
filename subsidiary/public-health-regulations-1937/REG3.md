@@ -1,0 +1,2 @@
+# reg 3 Powers of chairperson
+All powers vested in the Board by the Act or any by-laws or regulations made thereunder may be carried out by the chairperson of the Board, subject nevertheless to such regulations or directions as may be made or given by the Board, but no regulation or direction made by the Board shall invalidate any prior act of the chairperson which would have been valid if such regulation or direction had not been made.

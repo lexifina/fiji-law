@@ -1,0 +1,4 @@
+# reg 93 Wall footings
+(1) Every person who shall erect a building of brick, stone or the like shall construct every wall of such building, unless built upon solid soapstone foundation, to rest upon proper footings, or upon a sufficient bressummer.
+(2) The projection of the bottom of the footing on each side of such wall shall be at least equal to one-half the thickness of the wall at its base, unless an adjoining wall interferes or unless the wall is upon the boundary of the land, in which case the projection may be omitted on the side of the boundary or where the wall adjoins.
+(3) The diminution of the footing shall be in regular offsets, and the height from the bottom of such footing to the base of the wall shall be at least equal to two-thirds of the thickness of the footing at its base.

@@ -1,0 +1,4 @@
+# reg 88 Workmanship
+(1) Every part of a building shall be erected in good and workmanlike manner to the satisfaction of the local authority.
+(2) Where the workmanship in connection with the construction, alteration, rebuilding, adding to or repairing of any building or of the drainage, fittings or outbuildings of any building is not to the satisfaction of the local authority, the local authority may require such work to be renewed by the owner of the building to the satisfaction of the local authority and may prohibit the occupation or use of the building until such work has been renewed to the satisfaction of the local authority.
+(3) Any person who fails to comply with a prohibition order issued by the local authority under this regulation shall be liable on conviction to a fine not exceeding $20 and a fine not exceeding $4 for each day or part of a day during which the offence continues after conviction.

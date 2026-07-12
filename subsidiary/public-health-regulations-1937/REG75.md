@@ -1,0 +1,2 @@
+# reg 75 Intercepting trap to drains
+Every person who shall erect a building connected to a sewage system shall, if so required by the local authority, provide within the curtilage thereof in every main drain or other drain of such building to be used for conveying sewage, a suitable trap at a point as distant as may be practicable from such building and as near as may be practicable to the point at which such drain may be connected with the sewer into which it shall empty.

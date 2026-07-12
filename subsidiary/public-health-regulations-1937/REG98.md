@@ -1,0 +1,7 @@
+# reg 98 External walls
+(1) No concrete wall shall be erected which has not adequate support at both ends by means of piers, crosswalls, abutments or other support approved by the local authority.
+(2) No concrete external wall shall be erected which shall be less than 4 inches in thickness, provided always that the local authority may require that the thickness of such walls be increased or may permit the thickness to be decreased on account of any special circumstances or conditions which, in its opinion, warrant such construction.
+[subreg (2) am LN 39 of 1953 reg 3, 2 April 1953]
+(3) In all concrete external walls of buildings with wooden ground floors adequate provision shall be made in the base of the wall for ventilation and cross ventilation of the space under the floors.
+(4) The bases of all wall piers shall be enlarged as may be necessary to distribute the total load carried by the pier, according to the bearing capacity of the subsoil or subfoundation.
+(5) The width of the foundation of wall panels shall be at least twice the thickness of the wall panel. The bases of all wall panels supported by piers shall be carried down into the ground a sufficient distance to prevent the entry of surface water or seepage into the area under the ground floor, and the local authority may if it deem it necessary direct that special drainage be provided to prevent such entry of surface water or seepage under wall panels between piers.

@@ -1,0 +1,3 @@
+# reg 87 Space outside windows on side-lines
+If there be any side-wall of a dwelling-house in which it is proposed to provide a window or door opening, that wall shall be set back (throughout its whole length) from the side-line of the allotment to a distance of 3 feet in the case of a dwelling of one storey or to a distance of 5 feet in the case of a dwelling of 2 storeys. This regulation shall not apply to windows fronting the street boundary or a registered easement of sufficient width to provide the necessary outside space, provided that in the city of Lautoka the side-wall of any dwelling-house shall be set back from the side-line of the allotment to a distance of 8 feet.
+[reg 87 am Regulations of 9 November 1946 ]

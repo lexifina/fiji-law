@@ -1,0 +1,6 @@
+# reg 73 Beams
+Beams when constructed of reinforced concrete, shall have steel reinforcements placed approximately at the centre of tensile resistance of area in cross section designed in accordance with Schedule 2 , provided always—
+(a) that the effective depth of the beam shall not be less than one-twenty-fourth of the span;
+(b) that in addition there be provided a cover of at least 2 inches of concrete over all bars, measured from the underside, and not the centre of the lowest bars;
+(c) that where beams are cast monolithically with, that is to say, at the same time as, the floor slab, the effective depth of the beam may be taken as from the top of the slab; but when the slab is cast later than the beam, the effective depth shall be taken as from the underside of the slab;
+(d) that all beams shall be provided with adequate shear members or stirrups spaced according to the distribution and intensity of the shearing stresses, and never further apart than the effective depth of the beam, and such shear members or stirrups shall be passed under the tensile reinforcement or otherwise secured thereto and have mechanical anchorage at both ends in the concrete not lower than the centre of compression in the beam.

@@ -1,0 +1,5 @@
+# reg 56 Party-walls
+(1) All party-walls to separate any 2 complete buildings whether such buildings are of timber or not shall be of brick, dressed or cut stone, or concrete, and except in the case of reinforced concrete, shall be not less than 9 inches in thickness.
+(2) Such party-walls if of reinforced concrete shall be not less than 6 inches in thickness.
+(3) All such party-walls shall extend up to the underside of the roof covering.
+(4) The ends of all timbers bearing upon a party-wall exceeding 9 inches in thickness shall not be laid nearer than 2 inches to the centre thereof, unless such timbers are separated longitudinally from the timbers of the adjoining house by at least 4 inches of brickwork, in which case they may bear upon the wall for two-thirds of its thickness. The ends of all timbers bearing upon a party-wall 9 inches thick shall not project through the wall, but shall have 4 inches of brickwork at the ends of the same, and all the timbers shall be separated from those of the adjoining house by at least 4 inches of brickwork.

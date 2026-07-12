@@ -1,0 +1,2 @@
+# reg 26 Proportion of area
+In no case shall the dwelling or dwellings, together with their appurtenances, to be erected on any allotment occupy more than two-thirds of the area of such allotment. A clear space of at least 15 feet shall be provided across the whole width at the rear of the allotment, and only out-buildings having an average height not exceeding 10 feet shall be allowed within the said space.

@@ -1,0 +1,2 @@
+# reg 31 Projections
+No person shall in erecting any building allow or make any projections therefrom, such as door or window dressings, strings, fascias, copings, parapets, blocking courses, or other architectural decorations forming part of an external wall to project beyond the street line more than 4 inches, except cornices, entablatures or pediments which may project any distance approved by the Council.

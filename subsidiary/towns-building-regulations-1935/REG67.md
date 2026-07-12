@@ -1,0 +1,6 @@
+# reg 67 Plans, specifications and schedules
+In the case of any proposed reinforced concrete building the following plans, specifications and schedules shall be submitted in duplicate to the Board in addition to the plans, specifications and application required by regulation 4 —
+(a) a frame diagram or detail of the skeleton frame-work of the building showing the disposition and arrangement of all foundation piers or piles, grillages, rafts or other foundation construction; all columns, piers, pillars or stanchions, wall beams, bean-girders, floor beams or trimmers, wind-bracing, and roof principals;
+(b) a schedule setting out the calculated loads on all floors and sections of floors and roof, properly cross-referenced to the frame diagram referred to above, and setting out all loads carried by piers, pillars, stanchions or columns; live and superimposed loads and dead-weight loads being separately scheduled with total load carried by each member;
+(c) a schedule of calculated loads and details of loading all beams, cross-referenced to the frame diagram;
+(d) detailed calculations of dimensions and reinforcement of all piers and beams and stanchions, rolled steel joists or girders as set out in the frame diagrams, and as designed to carry the several loads respectively set out in the schedules referred to above.

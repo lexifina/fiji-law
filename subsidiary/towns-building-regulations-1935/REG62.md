@@ -1,0 +1,5 @@
+# reg 62 Cement
+(1) The cement to be used shall conform in every respect to the requirements of the standards of Fiji Government for cement.
+(2) Notwithstanding the production of certificates of vendors’ tests and analyses the building surveyor may, at his or her discretion, require that, after the cement has been brought on to the site of the works, further tests shall be made as he or she considers necessary to ensure that the cement complies with the specification. If the building surveyor requires further tests to be made, the cement shall not be used without his or her permission. The cost of such tests shall be borne by the builder.
+(3) The cement to be used shall be fresh, free from lumps, and shall be stored and handled at all times so as to be protected against moisture from the air, ground or any other source whatsoever. Any cement which has become caked or has otherwise deteriorated shall be removed from the site of the works.
+[subreg (3) subst LN 133 of 1962 reg 2, 28 August 1962]

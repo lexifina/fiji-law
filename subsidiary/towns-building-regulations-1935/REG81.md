@@ -1,0 +1,5 @@
+# reg 81 Bathrooms
+(1) For every hotel, boarding-house or house let as lodgings there shall be provided separate bathrooms for each sex at the rate of one bathroom for every 12 males or part thereof and one bathroom for every 12 females or part thereof ordinarily residing on the premises except that in the case of a tenement building separate bathrooms shall be provided at the rate of one bathroom for every 16 males or part thereof and one bathroom for every 16 females or part thereof.
+(2) All bathroom walls shall to a height of 3 feet 6 inches above floor level be constructed of concrete with a smooth surface or be covered internally with an approved impervious material.
+(3) For every hotel or boarding-house there shall be included in the above required bathrooms slipper baths with hot running water for each sex at the rate of one for each 24 persons or part of 24 persons of each sex ordinarily lodging or residing in the premises.
+[subreg (3) subst Regulations of 11 August 1942 reg 22, 24 August 1942]

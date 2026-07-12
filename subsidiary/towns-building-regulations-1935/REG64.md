@@ -1,0 +1,2 @@
+# reg 64 Steel
+The steel used for the reinforcement of concrete construction or for structural steel construction shall be commercial mild steel bars and shall conform to the British Standard Specification for steels of these classes respectively; and when embedded in concrete shall be quite free from rust or scale, paint or other matter likely, in the opinion of the building surveyor, to lessen or destroy the adhesion of steel and concrete; and when unprotected by concrete it shall be well painted or galvanised.

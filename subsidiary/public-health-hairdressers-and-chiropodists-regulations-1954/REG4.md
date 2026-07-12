@@ -1,0 +1,2 @@
+# reg 4 Transfer of licence
+The local authority may on the application in writing of the holder of a licence transfer that licence to another person by endorsing thereon the name of the transferee and such other particulars as may be necessary consequent upon the transfer, provided that the local authority may refuse to transfer a licence to any person who during the period of 12 months immediately preceding the date of application of such transfer has been convicted on at least 2 occasions under these Regulations.

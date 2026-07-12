@@ -1,0 +1,6 @@
+# FORM 5 WARRANT OF MAGISTRATE FOR ENTRY TO PREMISES
+Whereas AB being a person authorised under the provisions of the Public Health Act to enter certain premises [describe the premises] has made application to me to authorise the said AB to enter the said premises, and whereas I, CD, am satisfied by information on oath that there is reasonable ground for such entry, and that there has been a refusal or failure to admit to such premises and [either that reasonable notice of the intention to apply to a Magistrate for a warrant has been given or, that the giving of notice of the intention to apply to a Magistrate for a warrant would defeat the object of the entry:]
+[Or, am satisfied by information on oath that there is a reasonable cause to believe that there is on the said premises a contravention of the provisions of the Public Health Act 1935 or of a regulation or by-law made under that Act and that an application for admission or notice of an application for a warrant would defeat the object of the entry:]
+Now therefore I, the said CD, do hereby authorise the said AB to enter the said premises, and if need be by force, with such assistants as he or she may require, and there execute his or her duties under the said Act.
+Dated this day of 20 .
+Magistrate.

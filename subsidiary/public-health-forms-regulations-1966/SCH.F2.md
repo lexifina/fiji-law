@@ -1,0 +1,5 @@
+# FORM 2 SUMMONS
+To AB of or to the owner or occupier of [describe premises] situated [insert such description of the situation as may be sufficient to identify the premises]. You are required to appear before Magistrate for at on the day of next at the hour of to answer the complaint this day made to me by that at the premises abovementioned [or, at certain premises situate at ] in the district of the [describe the local authority] the following nuisance exists [describe the nuisance and add, where the person causing the nuisance is summoned, and that the said nuisance is caused by the act, default or sufference of you AB].
+Where the nuisance is discontinued but is likely to be repeated, say, to answer the complaint etc that at etc there existed recently, to within or about the day of the following nuisance [describe the nuisance and add, where the person causing the nuisance is summoned, and that the said nuisance was caused etc and although the said nuisance has since the said last mentioned day been abated or discontinued, that the same or the like nuisance is likely to recur at the said premises].
+Dated this day of 20 .
+Magistrate.

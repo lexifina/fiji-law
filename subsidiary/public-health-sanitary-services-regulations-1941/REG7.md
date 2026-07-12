@@ -1,0 +1,10 @@
+# reg 7 Accounts
+(1) A local authority shall keep books of account in which shall be entered a record of all moneys received and expended by it in connection with its services for the removal of nightsoil or garbage.
+(2) All moneys received by a local authority under regulation 6 shall be paid into such bank or banks as defined in the Banking Act 1995 , as it may from time to time decide.
+(3) The books of account shall be open to inspection by the Auditor-General, and by the Secretary of the Board or any person authorised by it.
+(4) Before 1 April in each year the local authority shall deliver to the Auditor-General a statement of account, to be known as the Sanitary Services Account, showing all moneys received and expended in respect of its nightsoil or garbage removal services for the year ended on the immediately preceding 31 December, together with a balance sheet thereof as at that date.
+(5) The books of account and the Sanitary Services Account and balance sheet referred to in subregulation (4) shall be audited by the Auditor-General who shall, within 90 days of the completion of his or her audit, forward certified copies of the same, together with his or her report thereon, to the Secretary of the Board.
+(6) A local authority shall cause to be exhibited in a conspicuous place at its office the audited Sanitary Services Account, the audited balance sheet and the Auditor-General’s report on such documents, within 14 days of the receipt by it of the same.
+(7) A local authority shall before 21 September in each year submit to the Board a detailed estimate of its revenue and expenditure in connection with its services for the removal of nightsoil or garbage for the year commencing on 1 January then next following. No expenditure shall be incurred by a local authority in excess of such estimate except with the prior written approval of the Board.
+(8) A local authority may, with the approval of the Board, transfer to a council, as defined in the Local Government Act 1972, all or any of the moneys in its possession.
+[reg 8 subst LN 87 of 1975 reg 3, 8 August 1975]

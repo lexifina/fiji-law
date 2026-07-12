@@ -1,0 +1,2 @@
+# reg 11 Removal of pans
+The servant or contractor of the local authority, or the servant of such contractor, shall twice at least every week, and more often if considered necessary by the local authority, remove the pan of every closet with its contents, and shall at the same time replace such pan with a clean pan and shall convey the removed pan with its contents, properly covered, in a closed vehicle or other vehicle approved by the Board, to the approved disposal ground or depot.

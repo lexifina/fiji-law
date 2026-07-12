@@ -1,0 +1,2 @@
+# reg 13 Right of access to closets
+For the purpose of removing nightsoil from any pan closet, the servant or contractor of the local authority, or the servant of such contractor, may visit each pan closet and do such work as may be necessary at any time during the hours appointed or in accordance with any contract or at any time which may be specified by the local authority for the removal of nightsoil from pan closets.

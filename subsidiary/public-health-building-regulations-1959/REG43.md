@@ -1,0 +1,3 @@
+# reg 43 Paved yards to be provided for tenement buildings and common lodging houses
+(1) Every tenement building and common lodging house shall be provided with a graded and drained rear yard, paved with concrete and extending over the whole of the area between such building and the kitchens, outhouses or other buildings appurtenant thereto, except garages, and extending over such additional areas as the local authority may for health reasons direct.
+(2) Every such paved area shall be provided with drains for the disposal of surface water, and every such drain shall be properly connected to the surface water drainage system of the site.

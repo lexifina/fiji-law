@@ -1,0 +1,2 @@
+# reg 4 Other regulations administered by the local authority
+Where any building is constructed in any district or zone specified in any town planning scheme adopted by the local authority as applicable in respect of such district or zone, and the provisions of these Regulations in relation to such building are inconsistent with the provisions of such town planning scheme, the provisions of the town planning scheme shall prevail.

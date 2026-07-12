@@ -1,0 +1,2 @@
+# reg 73 Timber
+All timber used in the construction of any building shall be well seasoned, of approved kind and grade, and free from defects such as dry rot or decay, large shakes or loose knots, and infestation by borer or ant, provided that, with the prior approval of the building surveyor, softwood not otherwise considered suitable for construction work may, if chemically treated or impregnated, be used for approved purposes where no significant load is carried.

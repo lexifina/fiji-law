@@ -1,0 +1,7 @@
+# reg 81 Special materials, forms of construction and method of design
+(1) Materials, forms of construction and methods of design not provided for in these Regulations may be employed subject to the following conditions—
+(a) In every case application for permission to employ such materials, forms of construction or methods of design shall be made in writing to the local authority, which may refer the matter to its consultants for advice and guidance.
+(b) Such application shall be accompanied by all particulars necessary to enable the local authority to judge of the suitability of the materials, forms of construction, or methods of design for the employment of which application is made, and to be assured that they will, if adopted, be equivalent to the requirements of these Regulations.
+(c) The applicant shall, if required by the local authority, have such tests made as may be required or approved by the local authority, and such tests shall be made at the applicant’s expense.
+(d) The employment of such materials, forms of construction or methods of design shall not be proceeded with until the local authority’s written consent has been conveyed to the applicant.
+(2) In all cases where the employment of new materials, forms of construction or methods of design has been approved by the local authority, such employment shall thereafter, to the extent and in the manner so approved, be authorised as if these Regulations had so authorised it.

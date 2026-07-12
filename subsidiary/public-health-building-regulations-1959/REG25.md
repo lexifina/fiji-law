@@ -1,0 +1,5 @@
+# reg 25 Effect of permit
+(1) Every permit shall be deemed to operate as a permit to construct on the site shown in the application or documents connected therewith and sited as shown therein, a structure as therein described, subject to compliance in every respect with the approved plans, specifications and other documents and not otherwise.
+(2) A permit may be issued subject to conditions necessitated by these Regulations and having bearing on the application. If such conditions are accepted at the time of issue of the permit they shall be considered to be part of the plans and specifications and other documents.
+(3) The person to whom a permit is issued shall be fully and legally responsible for the carrying out of the work as set out in the approved plans, specifications and other documents.
+(4) No permit, permission, certificate or authority, expressed or implied, given by the local authority or by the building surveyor or any other officer of the local authority shall be deemed to authorise any building to be constructed otherwise than in accordance with law.

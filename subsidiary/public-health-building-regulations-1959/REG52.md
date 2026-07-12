@@ -1,0 +1,2 @@
+# reg 52 Minimum height of habitable rooms
+In every building of Class 1, 2, 3 or 4 occupancy, the height of every habitable room shall be not less than 8 feet, provided that, in the case of a habitable room which is built wholly or partly within the roof of a building or is constructed by enclosing a verandah or balcony, such room, verandah or balcony shall for at least two-thirds of its floor area be not less than 8 feet in height, and shall not in any part be less than 7 feet in height.

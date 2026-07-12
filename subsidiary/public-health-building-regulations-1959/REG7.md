@@ -1,0 +1,3 @@
+# reg 7 Powers of entry
+(1) The building surveyor shall have power with or without assistants to enter at all reasonable times on or in any land or building for the purpose of carrying out any duty or exercising any power imposed or conferred on him or her by these Regulations.
+(2) Any person interfering with or obstructing the entry of the building surveyor or his or her assistants or any other duly authorised officer of the local authority into any building site or premises which said entry is made or attempted to be made in pursuance of the enforcement of these Regulations shall be guilty of an offence.

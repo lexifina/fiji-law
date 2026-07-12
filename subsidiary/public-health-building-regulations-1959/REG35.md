@@ -1,0 +1,2 @@
+# reg 35 Distance from street alignment
+No person shall construct any building of Class 1 or 2 occupancy closer to the street alignment than the minimum distance from street alignment prescribed in regulations made under a town planning scheme adopted by the local authority as applicable in respect of that area in which such land is situated, and in no case shall any such building be constructed less than 20 feet from the street alignment.

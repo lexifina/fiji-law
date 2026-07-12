@@ -1,0 +1,2 @@
+# reg 39 Maximum area to be occupied by buildings
+No building of Class 1 or 2 occupancy together with any building or buildings accessory or appurtenant thereto shall be constructed so as to occupy altogether a larger percentage of the area of the site than 45% or such other percentage of the site area as may be prescribed by regulations made under a town planning scheme adopted by the local authority as applicable in respect of that area in which such site is situated.

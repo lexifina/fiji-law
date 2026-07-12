@@ -1,0 +1,2 @@
+# reg 36 Corner sites
+Where a site has frontage to 2 streets, the provisions of regulation 35 shall apply to one street frontage only, as approved by the building surveyor, but the distance of the building from the second street, not being a lane or right-of-way, shall be not less than 1.5 times the minimum distance from the side boundaries prescribed in the next succeeding regulation and shall not in any case be less than 9 feet.

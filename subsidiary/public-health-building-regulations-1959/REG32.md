@@ -1,0 +1,2 @@
+# reg 32 Surveyor’s certificate required
+In any case in which a building is about to be constructed so as to occupy a position on or immediately adjoining the street building line or other boundary of the site, the building surveyor may, before such building is commenced, require a plan by a licensed surveyor, setting forth the actual boundaries or street building line as determined by him or her.

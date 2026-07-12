@@ -1,0 +1,3 @@
+# reg 26 Lapsing of permits
+(1) Every permit issued pursuant to these Regulations shall unless extended by the building surveyor lapse at the expiration of 12 months from the date of issue if the work for which the permit was granted has not been commenced, provided that the building surveyor may from time to time by writing under his or her hand grant an extension of the aforesaid period of 12 months should he or she consider the cause of delay to warrant such extension.
+(2) When any permit has lapsed as provided in this regulation it shall be null and void; and if, at the discretion of the building surveyor, a re-issue thereof should be granted, the additional fee prescribed in regulation 19(1)(b) , shall be paid.

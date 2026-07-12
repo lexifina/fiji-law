@@ -1,0 +1,2 @@
+# reg 16 Entry and inspection
+The medical officer of health or any sanitary inspector may at all reasonable times enter upon and inspect any premises used or reasonably suspected of being used as a house let as lodgings. Any person who directly or indirectly wilfully hinders or obstructs any such officer or inspector in the course of such inspection shall be deemed to have contravened these Regulations.

@@ -1,0 +1,2 @@
+# reg 15 Copy of Regulations to be exhibited
+A copy of these Regulations, which may be obtained free on application to the authority by the person applying for a permit, shall be exhibited in some conspicuous place on all premises in respect of which a permit under these Regulations has been granted. The holder of a permit shall not wilfully conceal, deface, alter or obliterate any part of the contents of the copy of these Regulations so exhibited.

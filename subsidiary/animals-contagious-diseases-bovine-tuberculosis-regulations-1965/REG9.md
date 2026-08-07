@@ -1,0 +1,7 @@
+# reg 9 Movement of cattle in eradication areas
+(1) Without the express written authority of an inspector given in the form set out in Schedule 3, no untested animal may be brought into an eradication area.
+(2) Where permission has been granted in accordance with the provisions of subregulation (1) , any untested animal shall be taken to the destination specified on the form set out in Schedule 3 and shall not be moved from such destination without the prior permission of an inspector.
+(3) The provisions of subregulations (1) and (2) shall not apply—
+(a) to any animal or animals in the course of transit through an eradication area on defined roads or tracks with all possible despatch in which case all reasonable steps shall be taken to ensure that there is no contact between such animal or animals and tested animals within the eradication area;
+(b) to the animals of a cattle dealer or the owner of a registered slaughterhouse if the premises of such dealer or owner are adequately fenced and maintained to the satisfaction of the Biosecurity Authority of Fiji so as to isolate all animals therein from contact with tested animals, provided that where the Biosecurity Authority of Fiji is of the opinion that it is desirable to erect additional or double fencing around such premises, it may so direct and the dealer or owner shall carry out such directions.
+[subreg (3) am LN 99 of 2016 reg 14, 1 December 2016]

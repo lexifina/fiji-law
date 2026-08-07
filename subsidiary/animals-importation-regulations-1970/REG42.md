@@ -1,0 +1,3 @@
+# reg 42 Dogs etc not to be taken aboard foreign going vessel
+(1) The master of any vessel, carrying any animal not intended to be landed in Fiji shall not allow any dog or other animal to go or be taken on board or come into contact with any such animal not intended to be landed in Fiji while his vessel is in Fiji or Fiji waters.
+(2) The owner of a dog or other animal shall not take or allow his or her dog or other animal to be taken on board any vessel carrying an animal not intended to be landed in Fiji during such time as the said vessel is in any roadstead, port, harbour or aerodrome in Fiji.

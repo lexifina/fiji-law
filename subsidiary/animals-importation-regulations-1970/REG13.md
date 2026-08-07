@@ -1,0 +1,3 @@
+# reg 13 Clothing, harness etc
+Clothing, fittings, utensils, crates, boxes, kennels, harness, saddlery, implements or any appliance or thing used on the vessel in connection with any animals imported in accordance with these Regulations may be landed in Fiji provided that all such clothing, fittings, utensils, crates, boxes, kennels, harness, saddlery, implements or other appliances or things are subjected at the expense of the importer or consignee to such disinfection as the Biosecurity Authority of Fiji directs in accordance with fees prescribed.
+[reg 13 am LN 99 of 2016 reg 17, 1 December 2016]

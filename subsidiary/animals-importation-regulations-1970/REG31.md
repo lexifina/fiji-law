@@ -1,0 +1,2 @@
+# reg 31 Compensation
+If the post mortem or subsequent examination of any animal destroyed as being diseased discloses that such animal was free from disease, compensation shall be payable to the owner of the animal, but the amount of the compensation paid shall not exceed the original purchase price paid by the importer in the country whence it was imported together with all charges for forage and keep and any other expenses legitimately incurred up to the time of destruction.

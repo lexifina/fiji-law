@@ -1,0 +1,22 @@
+# reg 18 Sheep and goats
+Sheep and goats may be imported only from New Zealand and Australia, except the Northern Territory and areas of Western Australia and Queensland north of 22° South latitude, and in all cases each shipment shall be accompanied by—
+(a) a declaration by the shipper setting forth the kind, number, sex and marks of brand or ear-marks of all animals therein, certifying that all such animals have been free from disease during the 6 months immediately preceding shipment and giving the address or addresses at which they have been kept during that time;
+(b) a certificate from a Government Veterinary Officer of the country of origin stating that—
+(i) he or she has examined each of such animals within 7 days immediately preceding the date of shipment and found them to be free from clinical disease and ectoparasites;
+(ii) each animal has been vaccinated twice against blackleg (Clostridium chauvoei), malignant oedema (Clostridium septi-cum) tetanus (Clostridium tetani) and enterotoxaemia (Clostri-dium welchii type D) in accordance with the vaccine manufacturer’s specifications;
+(iii) each animal is free from evidence of foot-rot infection;
+(iv) each animal has been shorn and dipped or sprayed using an approved dipping fluid within 3 days of shipment the name of such dipping fluid being stated (short-haired goats need not be shorn);
+(v) each animal has been treated for internal parasites within 7 days immediately preceding shipment, using drugs effective against Nematodes (including lung-worm), Trematodes and Cestodes, and that each animal originates from an area which is free of or has a low incidence of Hydatidosis;
+(vi) each animal originates from a farm which is free of clinical evidence of Brucella Ovis infection; that females included in the shipment have never been mated or are mated for the first time only with males vaccinated against Brucella Ovis; and that males included in the shipment have not been vaccinated against Brucella Ovis and have been submitted to the Complement Fixation Test for Brucella Ovis within 14 days immediately preceding shipment with negative result, provided that where the requirement regarding the mating of females cannot be met, the Biosecurity Authority of Fiji may, in its discretion, authorise as an alternative the blood testing of females by the complement fixation method, to be conducted as a group test with failure of any member of the group having the effect of excluding the entire group;
+(vii) each animal has been tested by either the serum agglutination test or the Complement Fixation Test for Brucella Abortus within 14 days immediately preceding shipment with negative result that is to say less than 30 international units for the serum agglutination test and less than 50% fixation at a serum dilution of one in 2 for the Complement Fixation Test;
+(viii) in the case of animals imported from an Australian State where cattle tick (Boophilus microplus) is known to exist, that each animal comes from an area free of the parasite;
+(ix) in the case of an animal having to enter an area not free from cattle tick (Boophilus microplus) for the purpose of shipment, that such entry was immediately prior to shipment and that the animal did not leave the vehicle in which it was travelling through that area;
+(x) in the case of animals originating from Australia, each animal has been submitted to the Complement Fixation Test or the Agar Gel Precipitin Test for Bluetongue within 21 days immediately preceding shipment, with negative result;
+(xi) the diseases specified in Schedule 8 have not existed in the country of origin or, in the case of Australia, the State of origin, for the period of 12 months immediately preceding shipment;
+(xii) in the case of goats, each animal—
+(A) originates from premises where the disease Caprine Arthritis and Encephalitis has never been diagnosed; and
+(B) has been subjected to a serological test for that disease within 28 days of shipment, within negative result;
+(xiii) in the case of goats originating from New Zealand, each animal—
+(A) originates from premises where diseases due to infection with Caprine Herpesvirus have never been diagnosed; and
+(B) has been subjected to a serological test for Caprine Herpesvirus within 28 days of shipment, with negative result.
+[reg 18 subst LN 83 of 1982 reg 8, 6 August 1982am LN 58 of 1983 reg 2, 8 July 1983 LN 99 of 2016 reg 17, 1 December 2016]

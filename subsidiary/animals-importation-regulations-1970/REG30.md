@@ -1,0 +1,3 @@
+# reg 30 Notice of destruction
+Before any animal is destroyed or disposed of pursuant to the provisions of regulation 29 the Biosecurity Authority of Fiji shall, if practicable, give to the importer of such animal not less than 2 days’ notice in writing or otherwise of the intention to destroy or dispose of such animal and on the destruction of such animal if the Biosecurity Authority of Fiji so approves a post mortem examination shall be made by a Government veterinary officer in the presence of the importer or his or her agent should they so request. Any further examinations on specimens or organs may be made as deemed necessary to determine the presence or otherwise of disease.
+[reg 30 am LN 83 of 1982 reg 13, 6 August 1982 LN 99 of 2016 reg 17, 1 December 2016]

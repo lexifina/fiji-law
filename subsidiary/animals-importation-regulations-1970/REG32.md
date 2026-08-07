@@ -1,0 +1,3 @@
+# reg 32 Liability for charges and expenses
+Charges and expenses for quarantine of animals including charges for transport to and from quarantine, inspection fees, dipping or other treatment charges, shall be calculated on the total number of animals dealt with at one time, and where there is more than one owner or importer each owner or importer shall be liable for a proportional share of such charges and expenses, provided that the Minister may, with effect from 1 January 1975, waive or reduce such charges and expenses if he or she considers that the importation of any animal is in the national interest.
+[reg 32 am LN 23 of 1976 reg 5, 6 February 1976]

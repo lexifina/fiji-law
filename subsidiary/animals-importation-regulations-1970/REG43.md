@@ -1,0 +1,3 @@
+# reg 43 Seizure etc of dog or other animal landed in contravention of Regulations
+The master of any foreign-going vessel who allows a dog or other ship’s animal to leave his or her vessel or any owner who takes a dog or allows it to go or be taken on board any foreign-going vessel whilst in any roadstead, port, harbour or aerodrome in Fiji except in accordance with the provisions of these Regulations shall be liable to have the animal seized and destroyed, or detained in quarantine for such period as the Biosecurity Authority of Fiji may deem necessary and such master or owner (as the case may be) shall be liable for all expense incurred thereby.
+[reg 43 am LN 99 of 2016 reg 17, 1 December 2016]

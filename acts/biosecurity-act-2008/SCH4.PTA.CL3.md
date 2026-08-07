@@ -1,0 +1,2 @@
+# cl 3
+On and after the commencement of this Act, any agreement relating to any property, rights and liabilities transferred to and vested in the Authority under paragraph 1 to which the State was a party immediately before the commencement of this Act, whether in writing or not, and whether or not of such a nature that rights and liabilities could be assigned by the State, has effect as if the Authority had been a party to the agreement.

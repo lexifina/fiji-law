@@ -1,0 +1,3 @@
+# reg 14 Plants to be kept under proper cultivation
+Plants attacked or liable to be attacked by disease, growing in or on land within an infected area shall, if the Biosecurity Authority of Fiji so directs, be kept in a condition of cultivation to the satisfaction of the Biosecurity Authority of Fiji or an inspector, provided that, when it becomes necessary or desirable to cease cultivation on any such land, all such plants on the said land shall, unless the Biosecurity Authority of Fiji otherwise directs, be destroyed in a manner approved by it.
+[reg 14 am LN 99 of 2016 reg 186, 1 December 2016]

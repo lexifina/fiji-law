@@ -1,0 +1,5 @@
+# reg 36 Export of plants from an infected area or quarantine area
+(1) No person shall, without the permission in writing of the Biosecurity Authority of Fiji, export or cause to be exported from an infected area or quarantine area any plant other than any vegetable imported into Fiji for human consumption or any seed for the purpose of importing such plant or causing such plant to be imported into a clean area.
+[subreg (1) am LN 25 of 1967 reg 3, 31 March 1967 LN 99 of 2016 reg 186, 1 December 2016]
+(2) An inspector shall be entitled to board any vessel which he or she has reason to believe is about to depart from an infected area for a clean area or quarantine area and to search the vessel and any cargo or baggage therein, and may seize any plant other than any imported vegetable imported into Fiji for human consumption, or any seed, unless he or she is satisfied that it is not intended to export such plant in contravention of the provisions of this regulation.
+[subreg (2) am LN 25 of 1967 reg 6, 31 March 1967]

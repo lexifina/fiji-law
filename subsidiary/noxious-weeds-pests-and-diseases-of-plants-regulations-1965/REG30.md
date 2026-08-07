@@ -1,0 +1,7 @@
+# reg 30 Instructions by inspector
+(1) An inspector may give to the occupier of any land in an infected area, or any land or premises within 800 m of any jetty, wharf or landing place in any other area, such written instructions for the destruction of rhinoceros beetle and for the destruction or clearing of breeding places and potential breeding places of rhinoceros beetle on such land or premises as the inspector reasonably considers necessary.
+(2) The occupier shall carry out any instructions given under the provisions of this regulation.
+(3) An inspector may carry out on any land in an infected area or on any land or premises, not being a dwelling house, within 800 m of any jetty, wharf or landing place in any other area upon which rhinoceros beetle has been found, any measures which he or she reasonably considers necessary for the destruction of the beetle or for the destruction or cleaning of breeding places or potential breeding places of the beetle on such land or premises.
+[subreg (3) am LN 84 of 1979 O 2 and Sch, 4 May 1979]
+(4) For the purposes of carrying out measures under the powers conferred by this regulation, an inspector may bring or send on to such land or premises such persons as he or she may consider necessary for that purpose.
+(5) The cost of measures carried out under the powers conferred by this regulation, may be recoverable from the occupier as a debt due to the State.

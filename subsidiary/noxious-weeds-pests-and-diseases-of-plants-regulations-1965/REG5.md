@@ -1,0 +1,4 @@
+# reg 5 Prohibition on growing certain plants
+(1) The growing of any plant of the family Palmae is prohibited on the Wharf Reclamation, Suva, and an inspector may condemn and remove any such plant in the event of an occupier of any land on the said Reclamation failing to remove any such plants.
+(2) Bananas, breadfruit, cacao, citrus of all species, coffee, cotton, ground nut, Manilla hemp, palms, pineapple, rubber, sugarcane, tobacco, cereals, pulses, edible tubers and root crops (except European potatoes), tomato or other plants bearing succulent fruit and any other plants which may, from time to time be specified by the Biosecurity Authority of Fiji shall not be grown within a radius of 800 m from the terminal building at Nadi International Airport without prior written permission from the Biosecurity Authority of Fiji.
+[subreg (2) am LN 84 of 1979 O 2 and Sch, 4 May 1979 LN 99 of 2016 reg 186, 1 December 2016]

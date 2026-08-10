@@ -1,0 +1,3 @@
+# reg 6 Certain contributions deemed allocated to general entitlement
+(1) If a contribution has been received by the FNPF prior to a member’s date of death but has not been posted to the member’s FNPF account before the member’s date of death, then the contribution is deemed to have been allocated to the member’s general entitlement.
+(2) If the amount of premium that has been deducted from a member’s general entitlement for the financial year of the member’s death is less than the premium then any amounts deemed to have been allocated to the member’s general entitlement under regulation 6(1) are deemed to have been deducted from the member’s general entitlement in respect of any shortfall remaining in respect of the premium.

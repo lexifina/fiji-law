@@ -1,0 +1,6 @@
+# reg 5 Premium deduction
+(1) The Board must deduct from each eligible member’s general entitlement at the start of each financial year an amount equal to the premium for that financial year or the entire balance of the member’s general entitlement if that is less.
+(2) If the amount of premium deducted from an eligible member’s general entitlement at the start of a financial year is less than the premium and if any amounts are subsequently credited to the eligible member’s general entitlement during that financial year, then further deductions must be made immediately in respect of any shortfall remaining in respect of the premium.
+(3) If a person first becomes an eligible member of the FNPF during the course of a financial year, then premium must be deducted from the member’s general entitlement as soon as any amount is credited to it.
+(4) The amount of premium to be deducted in accordance with subregulation (3) is equal to the premium for that financial year or the entire balance of the member’s general entitlement if that is less.
+(5) If the amount of premium deducted under subregulation (4) is less than the premium, then if any amounts are subsequently credited to the member’s general entitlement during that financial year, then further deductions must be made immediately in respect of any shortfall remaining in respect of the premium.

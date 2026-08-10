@@ -1,0 +1,4 @@
+# reg 45 Party in Fiji may apply to vary etc overseas maintenance order or agreement
+(1) Where an overseas maintenance order is enforceable in Fiji, a person for whose benefit the order was made or the person against whom the order was made may apply to a court in which the order is registered for an order discharging, suspending, reviving or varying the overseas maintenance order.
+(2) Where an overseas maintenance agreement is enforceable in Fiji, a person for whose benefit the agreement was entered into or the person who is liable to make payments under the agreement may apply to a court in which the agreement is registered for an order discharging, suspending, reviving or varying the agreement or discharging or waiving arrears under the agreement.
+(3) In an application under subregulation (1) or (2) , the law to be applied is the law in force in Fiji under the Act.

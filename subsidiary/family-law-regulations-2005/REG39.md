@@ -1,0 +1,5 @@
+# reg 39 Proceedings for enforcement of overseas maintenance orders
+(1) Where an overseas maintenance order is enforceable in Fiji by virtue of these Regulations—
+(a) all proceedings may be taken for the enforcement of the order; and
+(b) the provisions of the Act, these Regulations and the Rules of Court shall, so far as they are applicable, and with such modifications as are necessary, apply to and in relation to proceedings for the enforcement of the order, as if the order were a maintenance order made under Part 7 of the Act by the court in which the overseas order is registered under regulation 34(2) or confirmed under regulation 36(6) , as the case may be.
+(2) Proceedings for the enforcement of an overseas maintenance order may be taken by any person who would, if the order had been made in Fiji, be entitled to take proceedings under the order or, on behalf of that person, by a person holding office as a family law enforcement officer under rule 7.13(1) of the Family Law Rules 2005.

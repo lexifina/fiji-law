@@ -1,0 +1,3 @@
+# reg 66 This Part does not affect other powers of, or rights of application to, a court
+(1) This Part is not intended to prevent a person, an institution or another body that has rights of custody in relation to a child for the purposes of the Convention from applying to a court if the child is removed to, or retained in, Fiji in breach of those rights.
+(2) This Part is not to be taken as preventing a court from making an order at any time under Part 6 of the Act or under any other law in force in Fiji for the return of a child to the country in which he or she habitually resided immediately before his or her removal or retention.

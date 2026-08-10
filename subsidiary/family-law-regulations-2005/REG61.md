@@ -1,0 +1,2 @@
+# reg 61 Orders of courts in convention countries
+In proceedings under this Part in a court, a document purporting to be an order, or a copy of an order, of a court in a convention country and to have been signed by a Judge or other officer of the court is admissible as evidence of that order without proof of the signature of the person purporting to have signed it or of the official position of that person.

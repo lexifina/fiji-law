@@ -1,0 +1,13 @@
+# SCHEDULE 2 DECLARATION OF RENUNCIATION OF CITIZENSHIP OF FIJI
+1. I,................................ of .................. .................. am of full age and capacity and was born on..................
+2. I am a citizen of the Republic of Fiji because .................. .................. .................. .................. ..................
+3. I am a national/citizen of.................. under the law of that country because.................. .................. .................. ..................
+4. I hereby renounce my citizenship of the Republic of Fiji.
+I,................................ solemnly and sincerely declare that the particulars stated in this declaration are true, and I make this solemn declaration conscientiously believing those particulars to be true and by virtue of the Statutory Declarations Act 1970 .
+Declared at … on | } |
+… |
+before me and I certify that the declaration was read | …
+over in the … language to the |
+declarant who appeared fully to understand its meaning: |
+____________
+(Office held or nature of appointment)

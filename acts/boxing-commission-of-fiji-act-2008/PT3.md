@@ -1,0 +1,2 @@
+# PART 3 REGULATION OF PROFESSIONAL BOXING [ss 12-21]
+[Pt 3 heading am Act 1 of 2015 s 7, 19 February 2015]

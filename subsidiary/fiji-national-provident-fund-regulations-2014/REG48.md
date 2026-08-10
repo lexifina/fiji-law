@@ -1,0 +1,3 @@
+# reg 48 Posting is equivalent to delivery
+(1) The posting by registered post of a document containing a cheque for payment of a benefit out of the Fund, or a funeral benefit, addressed to the person to be paid at the address of that person set out in the application for payment is, so far as liability to make the payment concerned, equivalent to delivering the cheque to the person personally.
+(2) If sufficient evidence is provided as proof that the person did not in fact receive the document containing a cheque for payment, the Board may make payment again upon receiving a guarantee from the person in favour of whom the payment is made.

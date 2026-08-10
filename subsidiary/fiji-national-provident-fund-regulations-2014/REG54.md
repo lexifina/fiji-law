@@ -1,0 +1,3 @@
+# reg 54 Receipts
+(1) Where a payment is made by cash under regulation 53 , a receipt must be issued by the Board as confirmation of the payment made to the person paid benefits out of the Fund and such receipt shall be a proper discharge to the Fund and Board for the sum specified therein.
+(2) Where a payment is made by a cheque issued under regulation 53 , a receipt for the amount specified in the cheque must be issued by the Board as confirmation of the payment made to the person paid benefits out of the Fund and such receipt shall be a proper discharge of the Fund and the Board for the sum specified therein.

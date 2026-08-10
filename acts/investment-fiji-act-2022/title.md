@@ -1,0 +1,6 @@
+# INVESTMENT FIJI ACT 2022
+AN ACT TO CONTINUE THE INVESTMENT FIJI BOARD AS INVESTMENT FIJI FOR THE PURPOSE OF PROMOTING AND FACILITATING INVESTMENT AND EXPORT IN FIJI AND FOR RELATED MATTERS
+Table of Amendments
+Investment Fiji Act 2022 (No 25 of 2022) commenced on 1 August 2022, as amended by:
+Amending Legislation | Date of Commencement
+Audit Act 2025 (No 1 of 2025) | s 3(3)(b): 1 August 2025; remainder: 1 May 2025

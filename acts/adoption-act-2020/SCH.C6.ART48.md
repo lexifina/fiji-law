@@ -1,0 +1,4 @@
+# Article 48
+The depositary shall notify the States Members of the Hague Conference on Private International Law, the other States which participated in the Seventeenth Session and the States which have acceded in accordance with Article 44, of the following—
+In witness whereof the undersigned, being duly authorised thereto, have signed this Convention.
+Done at The Hague, on the 29th day of May 1993, in the English and French languages, both texts being equally authentic, in a single copy which shall be deposited in the archives of the Government of the Kingdom of the Netherlands, and of which a certified copy shall be sent, through diplomatic channels, to each of the States Members of the Hague Conference on Private International Law at the date of its Seventeenth Session and to each of the other States which participated in that Session.

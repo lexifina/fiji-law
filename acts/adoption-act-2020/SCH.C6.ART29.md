@@ -1,0 +1,2 @@
+# Article 29
+There shall be no contact between the prospective adoptive parents and the child’s parents or any other person who has care of the child until the requirements of Article 4, sub-paragraphs a) to c), and Article 5, sub-paragraph a), have been met, unless the adoption takes place within a family or unless the contact is in compliance with the conditions established by the competent authority of the State of origin.

@@ -1,0 +1,2 @@
+# cl 61 Documentation of internal controls
+Accounting Heads must ensure that all officers of the agency who are responsible for particular controls are aware of their responsibilities, including the need for managers to regularly rotate duties between staff to a maximum of 3 years, where practical, to minimise and detect the possibility of fraud. These internal checks must be made in addition to any that are carried out by internal audit.

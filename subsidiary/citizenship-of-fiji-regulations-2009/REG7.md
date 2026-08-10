@@ -1,0 +1,2 @@
+# reg 7 Application on the basis of parentage by an applicant who is an adult
+Where an application to which section 8(2) , (3) or (4) of the Act relates is made by a person who has reached the age of 18, then in addition to the documents required to be submitted under whichever of regulations 4 , 5 or 6 is relevant to the applicant, the applicant must also submit evidence that the applicant has been lawfully present in Fiji for a total of at least 3 years within the 5 years immediately preceding the application.

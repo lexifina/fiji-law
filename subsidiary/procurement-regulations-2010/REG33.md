@@ -1,0 +1,4 @@
+# reg 33 Immediate relief assistance
+(1) Within 30 days after a state of natural disaster has been declared, the permanent secretaries for ministries given special responsibilities under the Natural Management Act 1998 can procure goods, services or works for immediate relief assistance such as food items and access to clean and safe water, medical supplies, temporary shelter materials and seeds for subsistence purposes, provided that the procurement has been endorsed by the National Disaster Controller.
+(2) When procuring these goods, services or civil works, relevant agencies must first utilise existing standing offer contracts before procuring goods, services or civil works from other suppliers.
+(3) At the end of the immediate relief period, these ministries must submit a report to the Minister stating the amounts of funds that have been used on the immediate relief assistance.

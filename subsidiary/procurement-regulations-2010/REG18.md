@@ -1,0 +1,5 @@
+# reg 18 Declaration of interest
+(l) If a member of the Board has either a direct or indirect interest in a tender or proposed tender, that member shall as soon as practicable after relevant facts have come to their knowledge, declare the nature of their interest to the chairperson of the Board and shall be excluded from the evaluation or the approval of that tender and their interest, recorded in the minutes of that meeting.
+(2) For the purpose of carrying out their functions, Board members whilst considering tenders for procurement by their own ministries or departments would not be deemed as acting with a conflict of interest.
+(3) A register of interests of each Board member shall be kept by the Secretary of the Board to record any shares or interests (direct or indirect) in any companies or institutions and this is to be kept updated. Board members are responsible for notifying any change in their interests within 14 days of the relevant change.
+(4) A failure to declare an interest by a member of the Board shall result in the member's vote being invalid and the matter being reported to the Minister in writing by the secretary of the Board.

@@ -1,0 +1,4 @@
+# reg 35 Common use goods and services
+(1) Where the Director identifies any goods or services that are required for the benefit of more than one department, the Director may, in respect of up to one year, call a tender for the supply of goods, services or works to meet the requirements of those departments for that year and enter into a standing offer contract.
+(2) If the Director is satisfied that it would be more advantageous to obtain tenders for the supply of such goods or services to meet those requirements over a longer period than one year, the Director may call for tenders for the supply of such goods and services to meet those requirements over such longer period.
+(3) Permanent secretaries must ensure that all standing offer contracts executed by the Fiji Procurement Office on behalf of Government pursuant to subregulations (1) and (2) are complied with at all times.

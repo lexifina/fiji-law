@@ -1,0 +1,8 @@
+# reg 36 Qualification of suppliers and contractors
+(1) In order to participate in procurement proceedings, all potential bidders in addition to the requirements contained in any solicitation documents, must satisfy the following conditions to the satisfaction of the Board—
+(a) that they have the legal capacity to enter into the contract;
+(b) that they possess the necessary professional and technical qualifications, professional and technical competence, financial resources, equipment and other physical facilities, managerial capability, reliability, experience and reputation and the personnel to perform the contract;
+(c) that they are not insolvent, in receivership, bankrupt or being wound up, their business activities have not been suspended, and they are not subject of legal proceeding for any of the foregoing or otherwise which in the event of an adverse finding might cause the bidder to cease business;
+(d) that they have evidence of a business relationship in the form of a partnership agreement, joint venture agreement, supply contracts or like documentation, if bidding in conjunction with another person, that would necessitate the demonstration to fulfil the contract.
+(2) The Board may disqualify a supplier or contractor if it finds at any time that the information submitted concerning the qualifications of the supplier or contractor was false, materially inaccurate or materially incomplete.
+(3) The Board may not disqualify a supplier or contractor on the ground that information submitted concerning the qualifications of the supplier or contractor was inaccurate and incomplete in a non-material respect. The supplier or contractor may be disqualified if it fails to remedy such deficiencies promptly upon request by the procuring agency.

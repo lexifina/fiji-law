@@ -1,0 +1,2 @@
+# r 3 Parties to the adoption order application
+The proposed adopter shall be the applicant, and the following persons shall be made respondents, namely, the infant in respect of whom the application is made, every person or body who is a parent or guardian of the infant or has the actual custody of the infant or is liable to contribute to the support of the infant, and the spouse, if any, of the applicant, except in the case of a joint application by 2 spouses.

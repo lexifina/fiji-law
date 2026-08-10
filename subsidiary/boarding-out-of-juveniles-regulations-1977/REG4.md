@@ -1,0 +1,4 @@
+# reg 4 Duty to terminate boarding out
+(1) The Director shall not allow a juvenile to remain boarded out if it appears to him or her that the boarding out is no longer in the juvenile's best interests.
+(2) Where a welfare officer, whose duty it is under these Regulations to supervise the welfare of a juvenile, considers that the conditions under which the juvenile is boarded out endanger his or her health, safety or morals the juvenile may be removed forthwith from the place at which he or she is boarded out.
+(3) Where a juvenile is boarded out in an area other than the one in which he or she usually resides the welfare officer responsible for the area in which the juvenile is to be boarded out shall be notified forthwith and he or she shall perform supervisory duties in respect of the juvenile.

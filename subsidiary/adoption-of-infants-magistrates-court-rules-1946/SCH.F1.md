@@ -1,0 +1,36 @@
+# FORM 1 APPLICATION FOR ADOPTION ORDER
+(Every paragraph must be completed or deleted as the case may be)
+To the Resident/Second Class Magistrates Court at.................. sitting as a Juvenile Court.
+I/We the undersigned ................................ / and ................................ being desirous of adopting................................ an infant under the provisions of the Adoption of Infants Act, hereby state—
+PART 1 — PARTICULARS OF APPLICANT(S)
+Name of (first) applicant in full.................. Address.................. Occupation.................. Date of birth.................. Relationship (if any) to infant.................. (Name of (second) applicant in full.................. Address.................. Occupation.................. Date of birth.................. Relationship (if any) to infant................................................ )
+I am/We are resident in Fiji.
+I am a widow/widower/unmarried/I am married to.................. of ........ /We are married to each other and our marriage certificate (or other evidence of marriage) is attached.
+*The consent of my husband/wife to the making of an adoption order authorising me to adopt the infant is attached. (or I request the court to dispense with the consent of my husband/ wife on the ground that he/she cannot be found/is incapable of giving his/her consent/we have separated and are living apart and the separation is likely to be permanent.) * Delete if a joint application or if applicant not married.
+PART 2 — PARTICULARS OF INFANT AND CONSENTS
+5Name in full..................
+6The infant is of the................ sex and is not and has not been married.
+* 7The infant is the person to whom the attached birth or adoption certificate relates/ the infant was born in................................................................ on or about................................
+8The infant is the child/adopted child of: Name of mother................................ Address................ (or deceased) and name of father.................. Address................ (or deceased).
+9The guardian (if any) of the infant is: Name .................. Address ..................
+10I/We attach a document/documents signifying the consent of the infant's mother/ father/guardian to the making of an adoption order authorising me/us to adopt the infant.
+11I/We request the court to dispense with the consent of the infant's mother/father/ guardian on the ground that..................................................................................
+12The following person is liable by virtue of an order of a court or an agreement to contribute to the maintenance of the infant:— Name.................. Address..................
+Particulars of Court order or agreement:—
+Name of Court................ Date of order................
+or Date of agreement................
+13If an adoption order is made in pursuance of this application the infant is to be known by the following names:— Surname ................................................ Other names ................................................
+PART 3 — GENERAL
+14The infant was received into my/our care and possession on the................................................ day of................ , 20................ , and has been continuously in my/our care and possession since that date.
+15I have not made/neither of us has made a previous application for an adoption order in respect of the infant. (or........ made an application to the................ Court on the................ day of........ 20................ , which was dealt with as follows:................................ ).
+16I/We have not received or given any reward or payment for, or in consideration of, the adoption of the infant or for giving any consent to the making of the adoption order except as follows—
+17As far as I/We know, no person or body has taken part in the arrangements for placing the infant in my/our care and possession except—
+I/We hereby apply for an adoption order in respect of the infant.
+Dated this................................ day of................................ , 20........
+Signature(s)................................
+AFFIDAVIT VERIFYING STATEMENTS IN APPLICATION
+( Rule 3(2) )
+I/We................................ of........ Fiji and ................ jointly and severally make oath and say that the statements contained in the above application and signed by me/us are true to the best of my/our knowledge information and belief.
+Sworn etc ................................
+A Commissioner for Oaths.
+* If no certificate enter date and place of birth so far as is known.

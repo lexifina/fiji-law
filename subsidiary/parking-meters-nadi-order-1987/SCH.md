@@ -1,0 +1,2 @@
+# SCHEDULE METERED ZONES
+[Sch am LN 60 of 1991 O 5, 8 November 1991 LN 47 of 1995 O 3, 28 April 1995 LN 96 of 1996 O 2, 13 September 1996 LN 41 of 1997 O 5, 18 April 1997 LN 71 of 2002 O 2, 18 October 2002 LN 25 of 2008 O 2, 7 March 2008 LN 100 of 2011 O 2, 7 October 2011]

@@ -1,0 +1,2 @@
+# SCHEDULE PROPOSED PARKING METERS (NAUSORI) ORDER
+[Sch am LN 6 of 2000 O 2, 28 January 2000 LN 91 of 2004 reg 2, 26 November 2004 LN 93 of 2004 reg 2, 26 November 2004]

@@ -1,0 +1,3 @@
+# cl 8 Fiji National Provident Fund Act 2011
+The Fiji National Provident Fund Act 2011 is amended in section 108 after subsection (1) by inserting the following new subsection—
+“(1A) If payment of any contribution, additional contribution or penalty has not been made on or before the due date, a lien shall arise over the property of the person liable to pay such amounts to secure the payment of the amount of the contribution, additional contribution or penalty, and the Board or any officer or agent authorised by the Board may file a notice of such lien in the registry established under the Personal Property Securities Act 2017 to establish the priority date and time of such lien.”.

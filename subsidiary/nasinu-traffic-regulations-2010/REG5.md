@@ -1,0 +1,2 @@
+# reg 5 Prohibition on stopping of other vehicles on taxi stands
+No person shall stop or park any vehicle, other than a taxi, on any taxi stand.

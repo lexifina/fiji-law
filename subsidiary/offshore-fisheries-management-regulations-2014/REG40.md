@@ -1,0 +1,3 @@
+# reg 40 High seas boarding and inspection
+(1) An authorised officer appointed in accordance with section 45 may conduct boarding and inspection on any vessel on the high seas provided that such boarding and inspection are conducted in accordance with any international, regional and sub-regional organisations or arrangements to which Fiji is a member.
+(2) A Fiji fishing vessel authorised to fish beyond Fiji fisheries waters shall comply with the requirements for high seas boarding and inspection established by any international, regional and sub-regional organisations or arrangements to which Fiji is a member including accepting such boarding and inspection subject to sea safety conditions and the safety of the vessel and crew.

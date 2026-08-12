@@ -1,0 +1,8 @@
+# reg 13.9 Standard on milkfats and ghee
+(1) This Standard applies to milkfats defined in subparagraph (2) and Ghee defined in subparagraph (3) and which are intended for further processing or catering purposes.
+(2) Anhydrous Milkfat, Milkfat, Anhydrous Butteroil and Butteroil are milkfat products derived exclusively from milk and/or products obtained from milk by means of processes which result in almost total removal of water and non-fat solids.
+(3) Ghee is a product exclusively obtained from milk, cream or butter, by means of processes which result in almost total removal of water and non-fat solids, with an especially developed flavour and physical structure.
+(4) Ingredients permitted for use in milkfats other than Ghee shall include milk and/ or products obtained from milk and starter cultures of harmless lactic acid and/or flavour producing bacteria in accordance with Codex Standard A-2-1973 and its amendments.
+(5) Anhydrous Milkfat, Milkfat, Anhydrous Butteroil and Butteroil, and Ghee shall comply with composition requirements in Codex Standard A-2-1973 and its amendments.
+(6) Food additives permitted for use in milkfats and Ghee shall comply with the Codex General Standard on Food Additives (192-1995 and its revisions) and Codex Standard A-2-1973 and its amendments.
+(7) In addition to the general requirements on labelling of pre-packaged foods, the name of the food shall be Anhydrous Milkfat, Milkfat, Anhydrous Butteroil, Butteroil or Ghee according to the description specified in subparagraphs (2) and (3) and as prescribed in Codex Standard A-2-1973 and its amendments.

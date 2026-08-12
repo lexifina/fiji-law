@@ -1,0 +1,6 @@
+# reg 7 Applying HACCP
+(1) For those regulations where Codex hygiene requirements are adopted for application in Fiji, their adoption shall not be taken to mean that Codex requirements for HACCP shall be mandatory until 2015 or other transitional period subsequently defined by the Board or these Regulations.
+(2) Notwithstanding subregulation (1) , all businesses involved in the handling of food for export to countries requiring HACCP to be in place for such food and in such food operations shall have a documented HACCP system and be applying HACCP as required—
+(a) prior to handling the food for subsequent export; or
+(b) as soon as required by the competent authority in the country to which the food will be exported, in cases where a transitional period is permitted.
+(3) Where food business operations apply procedures based on good hygienic practices and HACCP principles, sampling and analysis may be undertaken as required to validate or verify the correct functioning of their procedures unless otherwise required by these Regulations or required by the Board, and provided that the safety of the food is not endangered and provided, in the case of exports, that the sampling and analysis is undertaken in accordance with the importing country's requirements.

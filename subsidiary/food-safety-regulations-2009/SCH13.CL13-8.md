@@ -1,0 +1,15 @@
+# reg 13.8 Standard on processed cheese and spreadable processed cheese
+(1) This Standard applies to both process(ed) cheese and spreadable process(ed) cheese and named variety process(ed) cheese and spreadable process(ed) cheese made by grinding, mixing, melting and emulsifying with the aid of heat and emulsifying agents one or more varieties of cheese, with or without the addition of the following—
+(a) cream, butter and butteroil may be added in quantities to ensure compliance with the minimum fat requirements;
+(b) salt (sodium chloride);
+(c) vinegar;
+(d) spices and other vegetable seasonings in sufficient quantity to characterise the product;
+(e) for the purpose of flavouring the product, foods other than sugars, properly cooked or otherwise prepared, may be added in sufficient quantity to characterise the product provided these additions, calculated on the basis of dry matter, do not exceed one-sixth of the weight of the total solids of the final product;
+(f) cultures of harmless bacteria and enzymes; and
+(g) (for processed cheese and cheese spread only), other milk products to a maximum lactose concentration of 5% in the final product.
+(2) Food additives permitted for use in both process(ed) cheese and spreadable process(ed) cheese and named variety process(ed) cheese and spreadable process(ed) cheese shall comply with the Codex General Standard on Food Additives (192-1995 and its revisions).
+(3) During their manufacture, products conforming to the definition of the Standard shall be heated throughout to a temperature of 70°C for 30 seconds, or any other equivalent time or temperature combination.
+(4) When a variety name is used to describe named variety process(ed) cheese and spreadable process(ed) cheese, the cheese blend from which the product is made shall contain at least 75% of the cheese variety mentioned. The remaining cheese shall be of similar type.
+(5) In relation to named variety process(ed) cheese and spreadable process(ed) cheese, the name of a product in accordance with these Regulations shall be “Process(ed) Cheese” or “Process(ed) Cheese” or “Spreadable Process(ed) Cheese” or “ Spreadable Process(ed) Cheese” (the blank being filled with the name of the variety of cheese used). Where more than one variety is present all varieties shall be named in descending order of proportion and if optional ingredients are used the name of the optional ingredients shall be described by the term “with ”, the blank being filled in with the common or usual name or names of the spices or natural foodstuffs used, in order of predominance by weight.
+(6) In relation to process(ed) cheese and spreadable process(ed) cheese, the name of a product in accordance with this Standard shall be Process(ed) Cheese or Spreadable Process(ed) Cheese as applicable.
+(7) In case the Process(ed) Cheese or Spreadable Process(ed) Cheese above includes spices or natural foodstuffs, the name of the product shall be the one applicable followed by the term “with ”, the blank being filled in with the common or usual names of the spices or natural foodstuffs used, in order of predominance by weight.

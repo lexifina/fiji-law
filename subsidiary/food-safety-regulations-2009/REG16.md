@@ -1,0 +1,4 @@
+# reg 16 Specific hygienic practices for businesses producing, processing and/or distributing fish and fisheries products
+(1) Food business operators producing, processing and/or distributing fish and fisheries products shall ensure that in addition to the good hygienic practices prescribed in regulation 14 , the specific good hygienic practices prescribed in Schedule 6 shall be applied at all stages of production, processing, handling, storage and distribution of food under their control.
+(2) Notwithstanding subregulation (1) , the competent authorities may permit those selling small quantities of fish for domestic consumption to be exempt from some or all of the requirements specified in Schedule 6 .
+(3) No exemption under subregulation (2) shall be taken to mean an exemption from the general principles of hygiene prescribed in Schedule 4 .

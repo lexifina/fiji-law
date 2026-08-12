@@ -1,0 +1,4 @@
+# reg 6 Sampling
+(1) For those standards where Codex Standards are adopted for application in Fiji, their adoption shall not be taken to include Codex requirements for sampling.
+(2) Food business operators shall sample food as frequently as is required to validate or verify the correct functioning of their procedures based on good hygienic practice and based on HACCP principles, where these principles are being applied by the food business.
+(3) Given the limited resources available to the people of Fiji, its industry and its Government, it shall be satisfactory that a maximum of 10 samples be taken to determine compliance with the Act and its regulations for a transitional period lasting until 2020 unless otherwise specified in these Regulations or required by the Board or required by competent authorities of countries importing food from Fiji.

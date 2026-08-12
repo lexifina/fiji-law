@@ -1,0 +1,6 @@
+## SCHEDULE 15 STANDARDS ON POULTRY AND POULTRY PRODUCTS, EGGS AND EGG PRODUCTS
+# reg 15.1 Standard on turkey tails and other poultry tails
+(1) No turkey tail or other poultry tail products shall be permitted for importation into or sale in Fiji without having been produced and processed at least according to the requirements of Codex’ Recommended International Code of Hygienic Practice.
+(2) No turkey tail or other poultry tail products shall be permitted for importation into or sale in Fiji without having been certified by the competent authority of the exporting country as being compliant with subparagraph (1) of this Standard and as being compliant with microbiological requirements of these Regulations.
+(3) All turkey and other poultry tail products produced within Fiji for domestic consumption shall comply with the good hygienic practices requirements specified in Schedule 4 and the microbiological criteria specified in Schedule 12 .
+(4) Wherever turkey tails or other poultry tails are stored for display for sale to the consumer there shall be an associated shelf notice visible to consumers informing consumers that “Poultry [Turkey] tails are high in fat. For a healthy diet eat less”.

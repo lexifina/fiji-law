@@ -1,0 +1,6 @@
+# reg 20 Good hygienic practices in the storage and transport of edible fats and oils in bulk
+(1) Edible fats and oils shall be transported in bulk in tankers reserved for foodstuffs only, unless otherwise permitted.
+(2) Without limiting the generality of subregulation (1) , where it is not possible to transport edible fats and oils in bulk in tankers reserved for foodstuffs only—
+(a) edible fats and oils shall only be transported in bulk when the bulk tanker to be used has previously been used to transport approved substances, in accordance with Codex guidance, in an appropriately designed system and has subsequently undergone adequate cleaning routines, followed by effective inspection and recording procedures; and
+(b) residues of substances in bulk tankers to be used for cargo of edible fats or oils shall not result in adverse human health effects and the acceptable or tolerable daily intake of the substance shall be greater than or equal to 0.1 mg/Kg of body weight per day. Substances for which there is no numerical acceptable or tolerable daily intake need be evaluated by the competent authority on a case by case basis.
+(3) Fats and oils shall not be transported in bulk containers previously used to transport a known allergen.

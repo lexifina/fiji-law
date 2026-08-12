@@ -1,0 +1,8 @@
+# reg 16 Cleaning and disinfection
+(1) Food business operators shall implement cleaning and disinfection programs that shall be adequate to ensure that all parts of the establishment, its equipment and facilities are appropriately clean.
+(2) While not limiting the generality of subparagraph (1) , cleaning shall be adequate to remove food residues and dirt which may be a source of contamination to food.
+(3) While not limiting the generality of subparagraph (1) , no wall, floor, ceiling, fan, fixture, window, door, material, equipment, or utensil shall be permitted to be contaminated with dirt, dust, grease, or other material indicative of inadequate cleaning.
+(4) When an operator has completed cleaning, including disinfection where necessary, the results of any testing of cleaned surfaces required by or undertaken by authorised officer shall meet any microbiological criteria established by the competent authority's Chief Health Inspector, or representative, in documented guidance on cleaning and sanitation for food business operators.
+(5) Vehicles, vessels, conveyances and bulk containers for transporting food shall be kept in an appropriate state of cleanliness, repair and condition.
+(6) Where the same vehicle, vessel, conveyance or container is used for transporting different foods, or non-foods, effective cleaning and, where necessary, disinfection shall take place between loads.
+(7) Cleaning chemicals shall be handled and used carefully and in accordance with manufacturers’ instructions and stored, where necessary, separated from food, in clearly identified containers in such a manner as to avoid the risk of contaminating food, and as may be requested by an authorised officer for such purposes.

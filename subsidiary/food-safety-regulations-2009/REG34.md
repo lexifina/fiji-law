@@ -1,0 +1,6 @@
+# reg 34 Microbiological criteria
+(1) Food products for sale in Fiji shall comply, prior to import, at the point of import, and at the point of sale, with the microbiological criteria established in Schedule 12 .
+(2) Food importers shall be responsible for ensuring that food imported into Fiji complies with the microbiological criteria established in the Schedule to subregulation (1) prior to importation and, where required by an authorised officer, at the point of import.
+(3) Notwithstanding the criteria specified in Schedule 12 it remains the food business operator's responsibility and the importer's responsibility, in the case of imported food, to ensure the safety of the product prior to its being placed on the market for sale.
+(4) Notwithstanding the criteria specified in Schedule 12 , no food business shall store, distribute, display for sale or sell food in which micro-organisms can be detected at levels with the potential to cause harm.
+(5) Food products for export from Fiji shall comply, prior to export, with the microbiological criteria established by the importing country, and where no such criteria have been established, with the requirements outlined under subregulation (1) .

@@ -1,0 +1,2 @@
+# reg 15 Specific hygienic practices for businesses producing, processing and/or distributing low-acid and acidified low-acid canned food
+Food business operators producing, processing and/or distributing low-acid and acidified low-acid canned food shall ensure that in addition to the good hygienic practices prescribed in regulation 14 , the specific good hygienic practices prescribed in Schedule 5 shall be applied at all stages of production, processing, handling, storage and distribution of food under their control.

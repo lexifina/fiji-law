@@ -1,0 +1,2 @@
+# reg 17 Specific hygienic practices for milk and milk products
+Food business operators producing, processing and/or distributing milk and milk products shall ensure that in addition to the good hygienic practices prescribed in regulation 14 , the specific good hygienic practices prescribed in Schedule 7 shall be applied at all stages of production, processing, handling, storage and distribution of food under their control.

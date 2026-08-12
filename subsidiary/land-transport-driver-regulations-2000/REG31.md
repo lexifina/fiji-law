@@ -1,0 +1,3 @@
+# reg 31 Notice of cancellation etc
+(1) If a driver’s licence has been suspended or cancelled by the Authority, the holder must, within 7 days of the delivery of a notice of suspension or cancellation, or on a written demand made to him or her by a police officer or an authorised officer, deliver the driver’s licence to the place or person specified in the notice or demand.
+(2) A police officer or authorised officer may at a reasonable time enter any premises without warrant for the purpose of delivering a notice or written demand pursuant to subregulation (1) and, if the notice or demand requires the seizure of the driver’s licence, the officer must seize the licence.

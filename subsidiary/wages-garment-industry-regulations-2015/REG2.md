@@ -1,0 +1,3 @@
+# reg 2 Application
+This Regulations shall apply to all workers whose minimum rate of remuneration without taking into consideration any allowance, bonus, overtime payment or additional benefit whatsoever, whether in money or otherwise, does not exceed $250 per week and who are employed in any undertaking or any part of an undertaking engaged in the garment manufacturing process where the employer is registered under section 38(1) of the Tax Administration Act 2009 with a Taxpayer Identification Number or where a licence is in force or is required by law for such undertaking and their employers.
+[reg 2 am Act 28 of 2020 s 4 and Sch, 1 August 2020]

@@ -1,0 +1,3 @@
+# reg 12 Occupational Health and Safety compliance
+(1) The employer has a duty of care responsibility under section 9 of the Health and Safety at Work Act 1996 to ensure, as far as possible the workers’ health, safety and welfare while at work.
+(2) The Health and Safety at Work (General Workplace Conditions) Regulations 2003 specifies the conditions which must be followed by all employers in any workplace to ensure that the workers are protected according to the requirements of the Health and Safety at Work Act 1996 where some of these requirements in these Regulations include the provisions of personal protective equipment, which must be provided by the employer without any cost to the employees.

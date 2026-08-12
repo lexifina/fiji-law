@@ -1,0 +1,7 @@
+# reg 57 Other requirements for public service vehicles
+(1) Every public service vehicle must be equipped with a spare tyre mounted on a wheel and suitable for use on the vehicle and such wheel and tyre must comply with regulations 72 and 73 of the Land Transport (Vehicles Registration and Construction) Regulations 2000 and be available for use at all times.
+(2) Every public service vehicle must be equipped with a serviceable jack, wheelbrace, wheel chocks and other equipment suitable for use on such vehicle for the purpose of changing wheels with safety.
+(3) Notwithstanding subregulations (1) and (2) , omnibuses permitted to carry in excess of 25 passengers need not carry a spare wheel and jack when carrying passengers within 10 km from a service facility stocked with spare tyres and equipped with portable wheel changing equipment and operated by the licence holder.
+(4) A motorcycle operated as a rental vehicle is not required to carry a spare tyre, spare wheel jack or wheel brace.
+(5) Every public service vehicle, other than a rental motorcycle, must carry in the glove compartment, or in a clearly marked container adjacent to the driver's position, a first aid kit approved by the Authority.
+(6) The Authority may require a public service vehicle other than a rental motorcycle to provide sufficient luggage space and such luggage space is to be compartmentalised for the safety of passengers.

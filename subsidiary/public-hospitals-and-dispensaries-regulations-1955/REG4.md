@@ -1,0 +1,2 @@
+# reg 4 Control of hospitals etc
+The Permanent Secretary shall exercise general control and supervision over the organisation and management of all public hospitals and public dispensaries and over the expenses of their administration. In the absence from Fiji of the Permanent Secretary the powers and authority granted to him or her by virtue of these Regulations shall be exercised by the Director of Curative Medical Services.

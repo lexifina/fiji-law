@@ -1,0 +1,2 @@
+# reg 46 Entry of certain parts of buildings prohibited
+No person, other than an authorised member of the hospital staff, present at any public hospital whether as an out-patient or visitor or on any other business, shall enter the kitchen, dispensary, store-rooms or any other part of the hospital buildings not normally open to the general public without the prior permission of the officer in charge of the hospital.

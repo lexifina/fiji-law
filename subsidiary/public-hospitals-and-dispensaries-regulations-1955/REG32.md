@@ -1,0 +1,6 @@
+# reg 32 Charges at out-patient clinics
+(1) Charges for attendance at out-patient clinics at any public hospital or dispensary shall be at the rates set out in Schedule 1 .
+(2) Attendance charges at general out-patient clinics shall include all medicines, dressings and other supplies used in the treatment of the patient but when special medicines, dressings and other medical supplies are provided, the charge shall be the actual cost of such special medicines, dressings and other supplies, together with an amount of 10% of such actual cost unless the medical practitioner treating such patient issues a prescription whereby such special medicines, dressings or medical supplies may be obtained at the patient’s expense.
+(3) The Permanent Secretary may specify by writing under his or her hand the medicines, dressings or medical supplies which are special medicines, dressings or medical supplies for the purpose of this regulation.
+(4) Subject to the provisions of regulations 21 and 35 , charges for X-ray and laboratory examinations at the rates set out in Schedule 1 shall be paid where such examinations are requested by a private medical practitioner or by persons attending a special out-patient clinic.
+[reg 32 subst LN 175 of 1961 reg 8, 22 December 1961]

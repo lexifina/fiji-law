@@ -1,0 +1,3 @@
+## PART 7 GENERAL
+# reg 45 Religious services
+Religious services or addresses of any kind to the patients in any ward of any public hospital shall be permitted only at such times and subject to such conditions as may be approved by the officer in charge of the hospital having regard to the welfare and comfort of the patients and the efficient management of the hospital, provided that in the case of any patient who is seriously ill no reasonable request to conduct any form of religious service or ceremony or to offer prayers or other spiritual comfort or consolation quietly at the bedside of the patient shall at any time be refused if the patient himself or herself wishes it.

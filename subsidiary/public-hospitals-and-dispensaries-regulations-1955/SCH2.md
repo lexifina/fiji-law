@@ -1,0 +1,6 @@
+# SCHEDULE 2 FORM OF CERTIFICATE
+[Sch insrt LN 175 of 1961 reg 13, 22 December 1961]
+This is to certify that................................ (name) s/o................ is exempt from the payment of charges in respect of treatment at a general out-patient clinic or in a public ward of a public hospital for a period of 12 months from the ................ day of ................ 20 ................
+Dated this day of 20 .
+................................................................
+District Officer or his or her authorised representative

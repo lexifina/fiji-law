@@ -1,0 +1,2 @@
+# reg 9 Patient’s valuables
+A patient shall at the time of his or her admission to hospital hand for safe keeping to the officer in charge of the hospital or to the nursing sister in charge of the ward to which he or she is admitted, any money, jewellery or other valuable property in his or her possession and unless such property is so handed over for safe keeping no responsibility shall lie with the hospital authority for its loss during the patient’s stay in hospital.

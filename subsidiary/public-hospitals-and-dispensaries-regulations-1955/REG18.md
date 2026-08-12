@@ -1,0 +1,2 @@
+# reg 18 Disorderly behaviour etc
+Any patient who behaves in a disorderly manner or who refuses all treatment offered to him or her or who disobeys or fails to comply with the provisions of these Regulations or who disobeys or fails to comply with any instruction or order given to him or her under proper authority by a member of the medical or nursing staff may be summarily discharged from hospital by the medical officer in charge.

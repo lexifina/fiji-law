@@ -1,0 +1,2 @@
+# reg 24 Particular accommodation
+In any case where a patient is provided with any particular grade of accommodation in a public hospital, not at his or her own request but on the directions of the officer in charge of the hospital in view of special circumstances such as the nature of the patient’s illness or the availability of beds at the time, the patient shall be charged the rate for the grade of accommodation to which he or she was admitted or the rate for the grade of accommodation to which he or she was removed whichever shall be the lower.

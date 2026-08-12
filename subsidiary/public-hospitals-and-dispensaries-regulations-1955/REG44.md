@@ -1,0 +1,2 @@
+# reg 44 Taking tobacco etc into ward
+No visitor or other person shall take into any ward of any public hospital or give or send to any patient any tobacco or any food or drink of any kind without the express permission of the officer in charge of the hospital and the officer in charge of the hospital may order the removal from a ward of any article brought to a patient without his or her prior approval.

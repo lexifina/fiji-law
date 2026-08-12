@@ -1,0 +1,2 @@
+# reg 47 Trespass in hospital buildings etc
+Any person found within any part of the grounds or buildings of any public hospital or public dispensary, unless seeking medical attention or attending as a visitor during prescribed visiting hours or present on other lawful business, may be instructed by the officer in charge of the hospital or dispensary or the matron or any sister on duty to leave the grounds of the hospital or dispensary.

@@ -1,0 +1,2 @@
+# reg 5 Duties of staff
+The duties of officers and employees of all classes employed in public hospitals or public dispensaries shall be such as may from time to time be laid down in writing by the Permanent Secretary and such officers and employees shall at all times obey all orders and directions relating to their duties or to the administration and management of the hospital or dispensary issued by the Permanent Secretary.

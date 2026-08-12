@@ -1,0 +1,4 @@
+## PART 3 REINSTATED COMPANIES AND FOREIGN COMPANIES TO REREGISTER
+# reg 6 Reinstated companies and foreign companies required to reregister
+(1) If a company had been deregistered for failure to reregister under section 759 and the company is to be reinstated under section 609, the company must, within 60 days from the date of reinstatement, apply for reregistration of the company in accordance with section 754, and sections 755 to 760 apply mutatis mutandis to the company.
+(2) If a foreign company had been struck off the register for failure to reregister under section 767 and the foreign company is to be reinstated under section 609, the foreign company must, within 60 days from the date of reinstatement, apply for reregistration of the foreign company in accordance with section 762, and sections 763 to 768 apply mutatis mutandis to the foreign company.

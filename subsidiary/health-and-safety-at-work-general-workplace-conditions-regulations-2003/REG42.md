@@ -1,0 +1,5 @@
+# reg 42 Work with loads
+(1) No employer shall require any worker to lift, carry, or move any load so heavy that its lifting, carriage or movement would be likely to injure the worker.
+(2) Where the maximum permissible weight which may be transported manually by a worker is more than 25 kg, practicable measures shall be taken as quickly as possible to reduce it to that level except for work at an airport, where the maximum permissible weight which may be transported manually by a worker is set at 30 kg.
+(3) Where female workers are, with their consent, engaged in the manual transport of loads during pregnancy the maximum weight of such loads shall be less than 50% of that permitted to male workers.
+(4) Where any worker is engaged in any work under something that has been raised or lifted to enable the work to be done, the employer shall ensure that safety supports are provided for use in such work to ensure that the load cannot drop or be lowered while the worker is engaged in that work.

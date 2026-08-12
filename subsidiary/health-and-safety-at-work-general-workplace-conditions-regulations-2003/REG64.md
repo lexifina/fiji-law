@@ -1,0 +1,7 @@
+# reg 64 New buildings and alterations
+(1) Any person responsible for the design and planning of a new building, or alteration of an existing building, demolition, the removal of debris, the addition to an existing building or the alteration of an existing building, which is intended to be used as a workplace shall, before work on the building or alterations commences—
+(a) deliver to the Chief Health and Safety Inspector a copy of the design plans; and
+(b) provide any other information relating to the proposed building or alterations required by the Chief Health and Safety Inspector.
+(2) No building which is to be used as a workplace shall be built, occupied or altered until the design plans have been approved by the Chief Health and Safety Inspector.
+(3) Any local or rural authority shall not approve any design plan of a new building or an alteration to an existing building which is to be used as a workplace without the prior approval of the Chief Health and Safety Inspector in consultation with the relevant health authorities.
+(4) Before deciding on the “prior approval” referred to in subregulation (3) , the Chief Health and Safety Inspector shall consider both the requirements under these Regulations and those under the current National Building Code for Fiji, including the special provisions for the physically handicapped. Where there exists a conflict between these requirements, the requirement(s) with the highest level of occupational health and safety standard shall be adopted.

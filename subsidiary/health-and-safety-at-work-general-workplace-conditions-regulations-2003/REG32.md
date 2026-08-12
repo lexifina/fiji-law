@@ -1,0 +1,3 @@
+# reg 32 New installations
+(1) Before the installation of a supply of electricity to a workplace occurs, the employer shall ensure that the electricity installation is certified under the Electricity Act 1966 and an assessment of the risks associated with that supply is undertaken to control those risks.
+(2) Without limiting the steps to be taken to prevent any risks under subregulation (1), if a supply of electricity is provided through a power circuit, other than a lighting circuit, to a socket outlet at a workplace, any risk associated with the supply of the electricity shall be controlled by the installation of a non portable R.C.D.

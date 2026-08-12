@@ -1,0 +1,6 @@
+# reg 11 Washing facilities
+(1) An employer shall ensure that adequate and suitable facilities for washing are provided and maintained including the supply of running water and soap and clean disposable paper towels or other suitable means of cleaning or drying. The facilities shall be conveniently accessible and kept in a clean and orderly condition.
+(2) An owner of a workplace shall ensure that the workplace is provided with washbasin(s) in accordance with relevant provisions of the current National Building Code for Fiji.
+(3) The washing facilities shall be located adjacent to the sanitary conveniences and shall be adequately lit and ventilated.
+(4) An owner of a workplace shall ensure that if the nature of the work or the usual working conditions are such that a worker needs a shower at work, the worker shall have access to shower facilities. There shall be at least one shower per 10 workers or portion of 10 workers. For shower facilities relating to other classes of buildings, they shall be provided in accordance with relevant provisions of the current National Building Code for Fiji.
+(5) In cases where workers of both genders are employed the shower facilities for each gender shall be separate and so placed or screened that they are not visible from any place where workers have to work or pass.

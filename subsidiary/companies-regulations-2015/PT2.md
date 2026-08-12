@@ -1,0 +1,2 @@
+# PART 2 RENEWAL OF REGISTRATION OF BUSINESS NAME [regs 12-13]
+[Pt 2 insrt LN 6 of 2020 reg 5, 15 January 2020]

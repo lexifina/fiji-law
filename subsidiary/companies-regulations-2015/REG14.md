@@ -1,0 +1,3 @@
+# reg 14 Requirements for lodgement of application for reregistration of company
+(1) For the purpose of section 754(2)(a) of the Act, a company may only make an application for the reregistration of the company if, before doing so, the application for the reregistration of the company has been signed in accordance with section 53 of the Act.
+(2) For the purpose of section 754(2)(a) of the Act, an agent of a company may only make an application for the reregistration of the company on behalf of the company if a member or officeholder of the company has consented to the agent making the application.

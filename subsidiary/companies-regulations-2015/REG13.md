@@ -1,0 +1,2 @@
+# reg 13 Requirement for lodgement of application for renewal of registration of business name
+For the purpose of section 37B(3) of the Act, an agent of a firm or person to whom a business name is registered under the Act may only make an application for the renewal of registration of the business name on behalf of the firm or person if the firm or person has consented to the agent making the application.

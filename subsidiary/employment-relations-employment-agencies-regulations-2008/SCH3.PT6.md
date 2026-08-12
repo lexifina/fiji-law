@@ -1,0 +1,9 @@
+# PART 6
+I CERTIFY that I have read over and explained this contract to both parties named therein as the worker and employer and that they, with full understanding of the meaning of the contract, and have voluntarily assented.
+................................................
+Signature of Attesting Officer
+................................................
+Designation
+Date................ ,20................
+Notes—
+A worker is required to be medically examined before his or her departure from Fiji. Foreign contracts are required to be attested by the Permanent Secretary or a labour officer before the worker leaves Fiji.

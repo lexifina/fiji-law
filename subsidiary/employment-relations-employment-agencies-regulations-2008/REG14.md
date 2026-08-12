@@ -1,0 +1,3 @@
+# reg 14 Confidentiality
+(1) Subject to the provisions of this regulation, an employment agency or business that receives information furnished to it by an applicant for employment or by a user shall be confidential and is not to be divulged for any purpose other than for which it had been furnished.
+(2) An employment agency or business may release any information in its custody with the consent in writing of the person furnishing the information, or in compliance with the requirements of regulation 12(e), or by order of a tribunal or court, or if requested by the Permanent Secretary in pursuance of an investigation into a complaint.

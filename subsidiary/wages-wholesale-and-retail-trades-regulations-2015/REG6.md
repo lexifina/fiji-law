@@ -1,0 +1,6 @@
+# reg 6 Hours of work
+(1) Subject to subregulations (2) and (3) , an employment contract must fix at not more than 45 or 48 the maximum number of hours (exclusive of overtime) to be worked in a week by a worker bound by that contract.
+(2) If the number of hours (exclusive of overtime) fixed by an employment contract to be worked by a worker in a week is 45 hours as prescribed by subsection (1) , the parties must fix the daily working hours so that those hours are worked on not more than 5 days.
+(3) If the maximum number of hours (exclusive of overtime) fixed by an employment contract to be worked by a worker in a week is 48 as prescribed by subsection (1) , the parties must fix the daily working hours so that those hours are worked on not more than 6 days.
+(4) The normal hours of work for a watchman shall be 8 hours a day for 6 days a week, and may be worked during any 6 days or any week beginning from midnight on Saturday to midnight on the succeeding Saturday.
+(5) In each week a watchman is entitled to one rest day hereinafter referred to as the rostered day-off which shall be determined by the employer and notified to the watchman no less than one week in advance of the week within which it falls.

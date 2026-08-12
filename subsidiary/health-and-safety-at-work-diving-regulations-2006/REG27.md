@@ -1,0 +1,7 @@
+# reg 27 Dive accidents
+(1) In case of serious injury in a dive accident, the employer, dive operator or owner of a dive ship must give immediate notice by the most expedient means to the Chief Health and Safety Inspector.
+(2) All dive accidents causing serious injury or requiring recompression must be reported by the employer, dive operator or owner of the dive ship within 48 hours to the Chief Health and Safety Inspector using the form prescribed in Schedule 5 and forward a copy of the form to the Ministry of Health, and, in a case requiring recompression, also forward a copy to a recompression chamber facility.
+(3) Notification in accordance with this regulation is deemed notification in accordance with regulation 6 of the Health and Safety at Work (Administration) Regulations 1997.
+(4) All dive equipment or plant used by a seriously injured dive accident victim or involved in a dive accident requiring recompression must be immediately impounded by the employer, dive operator or owner of the dive ship for inspection as follows—
+(a) in the case of scuba, the equipment must accompany the victim unless he or she is being evacuated by air in which case the scuba tank must be immediately forwarded by surface freight to the same recompression chamber facility as the victim;
+(b) in the case of hookah diving units, the hookah diving unit and all ancillary equipment must be delivered immediately to the nearest police station to be impounded until the Inspectorate can send an Inspector to evaluate the hookah diving unit and all ancillary equipment.

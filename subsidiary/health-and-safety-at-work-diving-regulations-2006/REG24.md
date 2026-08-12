@@ -1,0 +1,4 @@
+# reg 24 Dive manual and dive plan
+(1) Every commercial diving employer and every dive operator must ensure that a diving operations manual is provided at a location as near as practical to each dive site and made accessible to all personnel involved in diving. The manual must document procedures for planning and conduct of diving operations, including responsibilities, duties and competency of personnel, plant, decompression procedures, accident investigation procedures and emergency response plans.
+(2) Every commercial diving employer and every dive operator must provide a dive plan for each dive site or workplace.
+(3) A recreational dive operator must use the standards of an internationally recognised diver training agency in conjunction with these Regulations as the basis for preparing a dive manual and dive plan.

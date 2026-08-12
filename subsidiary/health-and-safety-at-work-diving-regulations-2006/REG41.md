@@ -1,0 +1,2 @@
+# reg 41 Refusal to make a decision on an application for a licence or renewal
+The Chief Health and Safety Inspector may refuse to make a decision on an application for the grant or renewal of a licence if the applicant does not comply with any requirement of the Chief Health and Safety Inspector under these Regulations in relation to the application within a reasonable time of the requirement being made.

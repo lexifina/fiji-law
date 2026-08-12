@@ -1,0 +1,4 @@
+# reg 25 Record keeping
+(1) Subject to subregulation (3) , every dive operator, owner of dive equipment and employer must ensure that all necessary records are correctly maintained and retained for a period of 7 years.
+(2) The records under subregulation (1) and (3) include the employer’s records of workers’ medical examinations, copies of medical statement forms, workers’ professional or training qualifications, the records of each dive taken from the dive roster, incidents records, records of maintenance and repairs of dive plant, records of registration, records of surveys, records of inspections and any other records required by these Regulations.
+(3) A dive operator, owner of dive equipment and employer, on ceasing to conduct diving operations in Fiji, must lodge the original or certified copies of all necessary records with the Chief Health and Safety Inspector.

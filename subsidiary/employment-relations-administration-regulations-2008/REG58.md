@@ -1,0 +1,4 @@
+# reg 58 Transfer of cases from the Permanent Secretary
+(1) This regulation applies to trade dispute cases accepted by the Permanent Secretary for resolution under the Trade Dispute Act (Cap 97), but in respect of which no referral has been made to the Arbitration Tribunal before the commencement date.
+(2) On and after the commencement date, all trade dispute cases that have not been referred to the Arbitration Tribunal by the Permanent Secretary and other outstanding cases are to be transferred to either the Mediation Services or the Employment Relations Tribunal in accordance with the criteria required under section 170(4) of the Act.
+(3) If trade disputes or other outstanding cases are transferred under subregulation (2) , all documents filed with the Permanent Secretary in respect of the disputes or other outstanding cases may be transmitted to the Mediation Services or the Employment Relations Tribunal.

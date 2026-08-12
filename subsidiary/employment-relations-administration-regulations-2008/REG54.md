@@ -1,0 +1,2 @@
+# reg 54 Notices
+A notice that is required to be served may be served on the parties personally, or by facsimile, internet, e-mail service or by post. If posted, may be posted to an address advised in writing by a party, or to the last known address of the party, and will be deemed received 5 working days after posting. If served by facsimile or electronic transmission, it will be deemed received on the date sent by facsimile or other electronic transmission. If personally served, it will be deemed received at the date and time of actual receipt.

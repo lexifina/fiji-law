@@ -1,0 +1,2 @@
+# reg 5 Security may be required
+If, upon arrival and examination of the goods, the officer of customs is satisfied that there is no ground for their detention, they shall be delivered. If he or she is not so satisfied, he or she shall decide either to detain the goods, as in a case of detention upon ordinary examination, or to require security from the informant for reimbursing the Comptroller or his or her officers in respect of all expenses and damages incurred in respect of the detention made on his or her information and of any proceedings consequent thereon.

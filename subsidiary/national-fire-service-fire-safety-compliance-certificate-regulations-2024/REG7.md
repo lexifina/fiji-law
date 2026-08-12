@@ -1,0 +1,8 @@
+# reg 7 Public notice for closure of premises
+(1) The Chief Executive Officer of the Authority may approve for a public notice of closure of premises to be issued against a premises if he or she is satisfied that the owner or occupier has failed to comply with a notice of non-compliance and requirement to make good any non-compliance within the rectification period.
+(2) The owner or occupier of a premises must be informed in writing before 14 days from the date of publishing of the notice of the authority’s decision to publish a public notice for closure of premises.
+(3) A copy of the notice must be pasted on all entry points of the premises including the main entrance and on the Authority’s website and social media platforms.
+(4) The public notice of closure of premises must be in effect until it is determined that compliance has been met or if a Court order has been granted for the closure of premises to be uplifted.
+(5) In the event a public notice of closure of premises is uplifted, a public notice must be published on the uplifting of the closure of premises and the cost to be borne by the owner or occupier of the building.
+(6) No business must be conducted and no person other than the owner or occupier, or the fire safety inspectors in the course of their duties, and the people contracted to rectify the non-compliance issues may enter the premises during the time a public notice of closure of premises has been issued against the premises.
+(7) In this regulation, “public notice” means a notice published in the daily newspaper and social media platform for information to the general public.

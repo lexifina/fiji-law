@@ -1,0 +1,5 @@
+# reg 26 Correspondence
+(1) The Service and FRCS must send all correspondences regarding a scholarship to the e-mail address or other contact details entered in the awardees’ application form.
+(2) If the awardee changes any contact details, including the e-mail address post the application, during the period of studies or post-completion until such time the bond has been fully served, the Service and FRCS must be notified of the change in writing.
+(3) By accepting the offer and entering into a bond agreement, the awardee also authorises the Service or FRCS to obtain any relevant information about the awardee from the eligible institution, employer, business and financial partners and any other relevant person or entity until the bond requirements are fully satisfied for the performance of the functions of the Service and FRCS under the Act.
+(4) Where the awardee fails to respond to requests for information by the Service or FRCS by the due date, the scholarship may be suspended or terminated.

@@ -1,0 +1,3 @@
+# reg 4 Number of passengers
+(1) The owner of a vessel or canoe in respect of which a valid certificate has been issued under the provisions of regulation 2 shall ensure that the maximum number of passengers permitted under such certificate to be carried in such vessel or canoe when travelling beyond the protection of the reefs is carved or painted in a legible fashion in a prominent position of such vessel or canoe.
+(2) The owner and master of a vessel or canoe of under 2 tons measurement shall ensure that, at any time such vessel or canoe travels beyond the protection of the reefs, the number of persons on board does not exceed the maximum number permitted under a valid certificate issued under the provisions of regulation 2 .

@@ -1,0 +1,6 @@
+# reg 2 Certificate of seaworthiness
+(1) No iTaukei shall undertake a voyage in a vessel or canoe of under 2 tons measurement when travelling beyond the protection of the reefs, unless the owner of such vessel or canoe is in possession of a valid certificate of seaworthiness in respect of such vessel or canoe, issued in accordance with the provisions of subregulation (2) .
+[subreg (1) am Decree 31 of 2010 s 3, 2 July 2010]
+(2) Any person authorised by the Minister to act as a certifying officer under the provisions of these Regulations, shall, on application by the owner of a vessel or canoe of under 2 tons measurement, inspect such vessel or canoe, and, if he or she is satisfied that such vessel or canoe is sufficiently seaworthy to travel beyond the protection of the reefs, shall issue a certificate as in the form set out in the Schedule. Such a certificate shall be valid for a period of one year from the date of issue.
+[subreg (2) am LN 112 of 1970 O 243, 8 October 1970]
+(3) The owner and the master of a vessel or canoe of under 2 tons measurement shall not undertake or permit to be undertaken a voyage in such vessel or canoe beyond the protection of the reefs, unless a valid certificate has been issued in respect of such vessel or canoe under the provisions of subregulation (2) .

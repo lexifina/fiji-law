@@ -1,0 +1,4 @@
+# reg 3 Equipment of vessels
+(1) The owner and the master of a vessel or canoe of under 2 tons measurement, other than an outrigger canoe, shall ensure that, when such vessel or canoe travels at any time beyond the protection of the reefs, it shall be equipped with a bailer, a rudder or steering oar, at least 2 oars, in addition to the steering oar, if any, and at least 2 rowlocks.
+(2) The owner and the master of an outrigger canoe of under 2 tons measurement shall ensure that, when such a canoe is travelling at any time beyond the protection of the reefs, it shall be equipped with a bailer and at least 2 vertical sculling oars (a i sau).
+(3) If any vessel or canoe travelling under the provision of subregulation (1) or (2) is being used for hire or reward, the owner and master shall further ensure that such vessel or canoe is equipped with sufficient lifebelts, lifejackets or other similar buoyancy aids for the number of persons on board.

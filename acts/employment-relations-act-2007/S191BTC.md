@@ -1,0 +1,2 @@
+# s 191BTC Registration of trade unions affected by the Decree
+Any trade union which was deregistered as a result of the Decree shall be entitled to apply to be registered as a trade union in accordance with this Decree, and shall not be required to pay any registration fee which may be applicable, provided however that any such trade union must apply for registration within 7 days from the date of the commencement of this section.

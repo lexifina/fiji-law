@@ -1,0 +1,2 @@
+# cl 8
+Arising from closer labour management and cooperation and consultation in improving labour management relations and hence higher productivity, the gains of these benefits should also be shared with the workers. This could be achieved through profit sharing or sharing of productivity gains and better benefits for workers. Such sharing of profits would add greater credibility to labour management consultation and cooperation programmes and generate greater participation and commitment from workers.

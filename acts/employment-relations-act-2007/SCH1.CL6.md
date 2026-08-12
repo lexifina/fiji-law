@@ -1,0 +1,2 @@
+# cl 6
+At the workers’ level, employers could develop induction and orientation programmes to help them understand the corporate philosophy and help to establish communication between the management and the new workers. This will help inculcate in the new workers the employer’s philosophy, culture, objectives etc so that such workers would have a greater sense of belonging and identity with the company.

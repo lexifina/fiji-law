@@ -1,0 +1,2 @@
+# cl 5
+Training and education is important not only to impart skills and techniques for labour management cooperation, but also to change attitudes to facilitate labour management programmes. Managers, union leaders and workers would be committed to better labour management cooperation and greater consultation only if they are convinced of its benefits. Education and training would help to convince the benefits.

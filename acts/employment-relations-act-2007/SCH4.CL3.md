@@ -1,0 +1,5 @@
+# cl 3 Time within which employment grievance must be submitted
+(1) The grievance must be submitted within a period of 6 months beginning with the date on which the action alleged to amount to an employment grievance has occurred or has come to the notice of the worker, whichever is later, so as to enable the employer to remedy the grievance rapidly and as near as possible to the point of origin.
+(2) If the grievance is not submitted within the period prescribed by subparagraph (1) , the employer is not obliged to consider the worker’s grievance, unless the tribunal grants the worker leave to submit the employment grievance after the expiration of that period.
+(3) If the tribunal grants leave or if the employer consents to the employment grievance being submitted after the expiration of that period, the employer and worker must comply with the provisions below.
+(4) Where the grievance is submitted to the employer, the employer is required to accord the worker a fair hearing by allowing the worker an opportunity to be heard, and in the presence of a third party if requested by the worker.

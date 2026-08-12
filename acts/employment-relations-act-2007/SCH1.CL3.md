@@ -1,0 +1,2 @@
+# cl 3
+Effective communications should be a 2-way process, and should take place at all levels in the organisation. There is a need to keep workers at the lower level informed about the organisation’s performance, plans and matters relating to their work. Employers should not confine themselves to adopting just one form of labour management consultation mechanism. Different structures would help to meet the needs of different levels of workers.

@@ -1,0 +1,2 @@
+# SCHEDULE METERED ZONES
+[Sch am LN 33 of 1987 O 2, 1 May 1987 LN 19 of 1996 O 3, 23 February 1996 LN 117 of 1996 O 4, 1 November 1996 LN 57 of 2009 O 2, 14 August 2009]

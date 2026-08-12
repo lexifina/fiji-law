@@ -1,0 +1,23 @@
+# SCHEDULE 4 FISHING LICENCE
+[Sch 4 am Decree 7 of 2011 s 4, 1 March 2011]
+| Licence No … |
+| RR No … |
+| Date … |
+Licence to fish by way of business is hereby granted to ................................ of ................................ in the Tikina of ................................ Province of ................................................ and who is captain of Fishing Vessel No ................................ which is authorised to carry a crew of ................................ persons in addition to the captain.
+Particulars of Holder— | |
+Race … | Nationality … |
+Date … | |
+| Photograph | | …
+| | Signature of Licensing Officer
+| | …
+| | Date of Issue
+The validity of this licence expires on 31 December 20................
+Important Note—
+Unless endorsed below this licence does not authorise the holder to fish over areas of registered iTaukei Customary Fishing Rights.
+The holder of this licence is also the holder of Permit No ................ issued by a Commissioner on (date)................................ under section 13 of the Fisheries Act 1941 which authorises him or her to fish over the following areas of registered iTaukei Customary Fishing Rights in addition to other waters in Fiji,
+| 1 … | | 4 …
+| 2 … | | 5 …
+| 3 … | | 6 …
+subject to the following exclusions (see section 13(1)(b) of the Act).
+(Signed) ................................
+Licensing Officer

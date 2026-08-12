@@ -1,0 +1,3 @@
+# reg 17 Fish fences
+In every fish fence constructed with cane or reed screens there shall be at the inmost point in each terminal trap or pan a section not less than 1 m in length, and of the full height of the fence wherein the cane or reeds shall be placed not less than 50 mm apart, or wherein the cane or reed screen shall be replaced by netting or cord, galvanised wire or expanded metal, the mesh of which shall measure not less than 50 mm across the smallest diameter. In fences constructed entirely of wire netting or of expanded metal, the mesh of the netting in the traps or pans shall measure not less than 50 mm along the shortest diameter.
+[reg 17 am LN 87 of 1979 O 2, 4 May 1979]

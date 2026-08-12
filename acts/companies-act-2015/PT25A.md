@@ -1,0 +1,2 @@
+# PART 25A INVESTOR COMPENSATION FUND [s 280B]
+[Pt 25A insrt Act 3 of 2016 s 7, 1 January 2016]

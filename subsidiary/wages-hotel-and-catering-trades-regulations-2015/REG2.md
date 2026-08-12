@@ -1,0 +1,2 @@
+# reg 2 Application
+These Regulations shall apply to all workers whose minimum rate of remuneration without taking into consideration any allowance, bonus, overtime payment or additional benefit whatsoever, whether in money or otherwise, does not exceed $250 per week and who are employed in any undertaking or any part of the business of which includes the supply of food or drink for sale for immediate consumption or consumption on the premises or the provision of living accommodation for five or more adult guests or lodgers, and their employers.

@@ -1,0 +1,5 @@
+# O 3 Determination of “total value of property”
+For the purpose of order 2, in determining the “total value of property”, the following criteria shall be used—
+(a) where the basis of settlement in respect of any property insured by the policy is the property’s replacement value the levy shall be applied to such actual total replacement value plus the amount of professional fees and escalation provision also insured;
+(b) where the basis of settlement in respect of any property insured by the policy is the property’s indemnity value the levy shall be applied to such actual total indemnity value plus the amount of professional fees and escalation provision also insured;
+(c) for the purpose only of removing any doubt as to the meaning and intention of (a) and (b) above, where any policy has a sum insured which is less than the actual total value of property insured by such policy (commonly referred to as a first loss policy), the levy shall be applied to the actual total value in accordance with (a) and (b) above and not the policy sum insured.

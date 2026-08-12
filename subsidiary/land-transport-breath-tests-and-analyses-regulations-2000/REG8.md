@@ -1,0 +1,5 @@
+# reg 8 Defences available
+(1) Subject to subregulation (2) , it is a defence for a person charged with an offence under section 103(1)(b) or 105(2) to prove that at the time the person is alleged to have committed the offence the person was unable, on medical grounds, to undergo a breath test or to submit to a breath analysis.
+(2) The defence referred to in subregulation (1) is not available to a person unless—
+(a) upon refusing or being unable to undergo a breath test or breath analysis in accordance with the directions of a police officer the person consented to a sample of his or her blood being taken for analysis in accordance with regulation 6(1) and co-operated in allowing the blood sample to be taken without any delay on his or her part;
+(b) if the medical grounds relied on in a defence under subregulation (6) are that the person was not then capable of supplying sufficient breath for test or for analysis, the person made a genuine attempt to supply a specimen of breath for test or analysis by complying to the best of his or her ability with the directions of the police officer.

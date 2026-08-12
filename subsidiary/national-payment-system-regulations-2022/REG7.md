@@ -1,0 +1,5 @@
+# reg 7 Authority to approve or remove responsible persons
+(1) The Reserve Bank has the authority to approve or remove responsible persons of an operator or a payment service provider licensed to operate in Fiji.
+(2) The Reserve Bank has the authority to reject a proposal for responsible persons for a system operator or a payment service provider based on but not limited to a determination of insufficient or inappropriate experience, personal bankruptcy, or conviction of an offence involving fraud, dishonesty or imprisonment.
+(3) The Reserve Bank may request the removal of a responsible person, if without reasonable justification the responsible person has failed to uphold regulations issued by the Reserve Bank, experienced a personal bankruptcy, or has been convicted of an offence involving dishonesty, fraud or imprisonment.
+(4) The request under subregulation (3) must be submitted in writing to the operator or the payment service provider and the responsibe person must be given the opportunity to be heard.

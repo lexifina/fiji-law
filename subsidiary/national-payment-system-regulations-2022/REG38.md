@@ -1,0 +1,5 @@
+## PART 9 MISCELLANEOUS
+# reg 38 Reserve Bank to determine actual existence of a system or service
+(1) The Reserve Bank may, where it has reasonable grounds to believe that a system or arrangement exists for the clearing and settlement of payment obligations or settlement of securities, request a person who is a party to the system or arrangement to provide it with further information, records and documents relating to the system or arrangement as the Reserve Bank may require, in order to make a determination on the existence of a system covered by these Regulations.
+(2) The Reserve Bank may, if it has reasonable grounds to believe that a payment service is provided, request a person that is allegedly providing such service to provide it with further information, records and documents relating to the performed activities as the Reserve Bank may require, in order to make a determination on the existence of a service covered by these Regulations.
+(3) Every person who is required under subregulations (1) and (2) to provide information, records and documents must comply with such requests.

@@ -1,0 +1,6 @@
+## PART 6 NETTING, INSOLVENCY PROCEEDINGS AND PARTICIPANTS’ LIABILITIES
+# reg 27 Transfer orders
+(1) Transfer orders and netting are legally enforceable and, even in the event of insolvency proceedings against a participant, are binding on third parties, provided that the transfer orders were entered into a system before the moment of opening of such insolvency proceedings as defined in regulation 29(1).
+(2) Where, exceptionally, transfer orders are entered into a system after the moment of opening of insolvency proceedings and are carried out on the day of opening of such proceedings, they are legally enforceable and binding on third parties only if, after the time of settlement, the settlement agent, the central counterparty or the clearing house can prove that they were not aware, nor should have been aware, of the opening of such proceedings.
+(3) A written law, rule or practice on the setting aside of contracts and transactions concluded before the moment of opening of insolvency proceedings, as defined in regulation 29(1), must not lead to the unwinding of a netting.
+(4) Subject to any condition provided in the Act or any subsidiary legislation made under the Act, the moment of entry of a transfer order into a system is defined by the rules of that system.

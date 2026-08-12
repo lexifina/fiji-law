@@ -1,0 +1,3 @@
+# reg 6 Good hygiene practices
+(1) All owners, managers or staff must ensure that food establishments and the practices of good hygiene practices prescribed in Part 4 of the Food Safety Regulations 2009 are fully observed at all times.
+(2) Every owner, manager and responsible staff member of a food establishment who fails to comply with good hygiene practices referred to in subregulation (1) , commits an offence and is liable upon conviction to a fine not exceeding $2,000 or imprisonment for a term not exceeding 12 months or both and the food establishment is liable to a suspension of its public health permit for a period of up to 21 days from the date of conviction of a person under this subregulation.

@@ -1,0 +1,3 @@
+# reg 17 Advice when vehicle ceases to exist
+(1) A person who scraps, dismantles or destroys a vehicle or purchases a vehicle as scrap or to be dismantled or destroyed must immediately cause the certificate of title to be posted or personally delivered within 7 days to the Authority for cancellation.
+(2) A certificate of registration of the vehicle must not again be issued except upon application containing the information the Authority requires, accompanied by a certificate of registration issued by a certifying officer that the registration number of the vehicle has been inspected and found to conform to the description given in the application, or any other proof of the identity of the vehicle the authority reasonably requires.

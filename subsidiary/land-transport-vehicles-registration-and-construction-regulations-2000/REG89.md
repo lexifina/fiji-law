@@ -1,0 +1,3 @@
+# reg 89 Issue of weighing certificates
+(1) If the wheel load, axle load, tandem axle load, tri-axle load or aggregate axle load of a motor vehicle or trailer is determined by a police officer or authorised officer under regulation 88 , the officer must issue to the driver or person in charge of the vehicle a certificate showing the particulars of the wheel load, axle load, tandem axle load, tri-axle load or aggregate axle load of the vehicle.
+(2) A certificate issued under subregulation (1) or a certified copy of it signed by a police officer or authorised officer is admissible as prima facie evidence of the matters stated in the certificate.

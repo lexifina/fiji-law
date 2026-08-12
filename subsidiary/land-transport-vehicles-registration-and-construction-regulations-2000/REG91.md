@@ -1,0 +1,5 @@
+# reg 91 Weighing other than on a public street
+(1) The driver of a vehicle who is in the premises in which police officers or authorised officers are undertaking weighing of vehicles under section 75(3) of the Act must comply with regulation 88(5)(b) .
+(2) If a weighing device in the premises is not being used concurrently for commercial purposes, an operator may recover his or her usual commercial fee or any other fee agreed to by the operator and the Authority for weighing carried out under section 75(3) .
+(3) If a person commits an offence under regulation 87 with regard to a vehicle weighed under section 75(3) , the Commissioner of Police or the Authority may recover any fee charged under subregulation (2) from the person.
+(4) If a load is determined other than on a public street a certificate issued by a police or authorised officer under regulation 88 is prima facie evidence for the purpose of regulation 87 that the driver has driven the load on a public street prior to the weighing of the vehicle.

@@ -1,0 +1,4 @@
+# reg 32 Cancellation when the holder is unfit
+(1) If it appears to the Authority that a person operating a vehicle dealing business is or has become, either by reason of impropriety or incompetence or for any other reason, unfit to operate a vehicle dealing business, the Authority may, by notice in writing served personally upon the person, or sent to him or her by registered post at his or her last known or usual place of residence or at his or her place of business, call upon him or her to appear before the Authority at a time and place stated in the notice, and to produce his or her certificate of registration and show cause why it should not be cancelled.
+(2) A notice served under subregulation (1) must state the grounds of the proposed cancellation.
+(3) The Authority must, when proceeding under subregulation (1) , take into consideration the matter stated in the notice and any evidence given, and may cancel the certificate of registration.

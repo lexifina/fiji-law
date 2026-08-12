@@ -1,0 +1,11 @@
+# reg 50 Recovery of rates
+(1) The Council of every Province in which a provincial rate is levied shall, at least one month before the date on which such rate becomes due and payable, publish in the “Na Mata” a list of all persons liable to pay such rate and each such Council shall every year thereafter while such rate remains leviable prepare and publish in the like manner, at least one month before such rate becomes due and payable in each succeeding year, a list of all persons on the former list whose liability to pay the provincial rate ceases during that year and of all persons not on the former list who become liable during that year to pay that rate.
+(2)
+(a) Any person whose name appears on a list of persons liable to pay the provincial rate published as aforesaid may, at any time before the date on which such rate becomes due and payable, object to the Council and the Council may either uphold or overrule such objection.
+(b) Where the Council upholds an objection made under the provisions of paragraph (a) of this subregulation, the person objecting shall not be required to pay the provincial rate.
+(c) Any person whose objection has been overruled under the provisions of this subregulation may within 60 days after the date of the Council's decision overruling the objection, appeal against such decision in writing to the permanent secretary responsible for iTaukei affairs.
+(d) An appeal under the provisions of paragraph (c) shall be lodged with the Roko Tui of the Province within the specified period for transmission to the permanent secretary responsible for iTaukei affairs.
+[subreg (2) am Decree 31 of 2010 s 3, 2 July 2010]
+(3) Where any person liable to pay a provincial rate makes default in payment the Council may—
+(a) after the expiry of 30 days from the date on which such rate became due and payable; or
+(b) where an appeal lodged under the provisions of subregulation (2) is disallowed, after the expiry of 30 days from the date of the decision disallowing the appeal, recover any moneys due in respect of such rate in the like manner in which a Council may recover moneys owing to it in respect of a land rate under the provisions of subregulations (4), (6), (7) and (8) of that regulation shall likewise apply to any moneys due and payable in respect of such provincial rate.

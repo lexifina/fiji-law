@@ -1,0 +1,4 @@
+# reg 21 Non-attendance
+(1) A member who fails to attend 3 consecutive meetings of a Council without reasonable excuse shall be deemed to have ceased being a member and shall vacate his or her office.
+(2) Attendance as a member at a meeting of any committees or subcommittees of the Council or other body by whom for the time being any of the functions of the Council are being discharged, shall be deemed for the purposes of subregulation (1) to be attendance at a meeting of the Council.
+(3) A member who is unable to attend any meetings of the Council by reason of the member’s absence from Fiji for the purpose of further training or for education for any government or national assignment abroad shall not be disqualified from membership but such member may be asked to relinquish his or her membership if the period of absence is for more than half of the term of his or her membership.

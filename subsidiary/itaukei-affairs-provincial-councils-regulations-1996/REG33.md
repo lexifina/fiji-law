@@ -1,0 +1,8 @@
+# reg 33 Annual accounts
+(1) Every Council shall keep books of accounts in which shall be correctly entered all moneys received and expended and the permanent secretary responsible for iTaukei affairs or any officer authorised by him or her in writing, shall have the right at all times to inspect such books of account.
+[subreg (1) am Decree 31 of 2010 s 3, 2 July 2010]
+(2) The accounts of every Council shall be audited by the Auditor-General.
+(3) By the first day of April in each year a Council shall prepare and transmit to the Auditor-General a statement of account of the revenue and expenditure of the Provincial Fund in respect of the year ended 31 December immediately preceding together with a statement of the assets and liabilities of the Fund as at that date together with such other statements as the Board may direct.
+(4) The Auditor-General shall examine the statements and within 14 days of the completion of the audit, shall return them duly certified together with any report he or she may make thereon to the chairperson of the Council who shall lay such statements and report before the Council at its next meeting. The Auditor-General shall also send a copy of such statements and his or her report thereon to the Board and to the Roko Tui of such Council.
+(5) Every Council shall make available to an officer or officers appointed by the Board to conduct internal audits on books of accounts and records pertaining to funds collected in accordance with regulations 35 and 36 of these Regulations together with funds raised communally and special operations.
+(6) As soon as practicable after the receipt of the audited statements, the Council shall exhibit them at the offices of the Council and the Tikina Councils in such province.

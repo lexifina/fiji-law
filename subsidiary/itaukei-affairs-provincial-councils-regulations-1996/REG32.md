@@ -1,0 +1,3 @@
+# reg 32 Annual estimates
+Every Council shall, not later than 21 March in each year, prepare and submit to the Minister a detailed estimate of the revenue and expenditure of the Council for the next year and no expenditure may be incurred by the Council except in accordance with estimates as approved by the Board, provided that requests for provision for additional expenditure and other requests including request for release of funds placed under requisition and virement shall be approved by the permanent secretary responsible for iTaukei affairs after consultation with the Minister.
+[reg 32 am Decree 31 of 2010 s 3, 2 July 2010]

@@ -1,0 +1,2 @@
+# reg 2 Application
+This Regulations shall apply to all workers whose minimum rate of remuneration without taking into consideration any allowance, bonus, overtime payment or additional benefit whatsoever, whether in money or otherwise does not exceed $250 per week and who are employed in Fiji by the operator of any sawmill registered under the Forest Regulations in or about such sawmill or on work ancillary thereto and their employers.

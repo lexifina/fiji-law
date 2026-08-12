@@ -1,0 +1,11 @@
+# reg 23 Qualifications for grant of broker or dealer licence and investment adviser licence
+(1) An individual must not be granted a broker or dealer licence or an investment adviser licence (including a renewal of a broker or dealer licence or an investment adviser licence) unless the individual—
+(a) has a net worth of at least $30,000 or such higher amount as the Reserve Bank may in its absolute discretion determine;
+(b) has premises suitably located and equipped to provide satisfactory service to clients in the field of activity to which the licence relates or evidence acceptable to the Reserve Bank that such premises will be available; and
+(c) holds a diploma or certificate or higher qualification in economics, accounting or business related subjects from a tertiary institution approved by the Reserve Bank or has successfully completed a programme of study in securities approved by the Reserve Bank and has worked for at least 2 years in the securities industry.
+(2) A body corporate must not be granted a broker or dealer licence or an investment adviser licence (including a renewal of a broker or dealer licence or an investment adviser licence) unless the body corporate—
+(a) has a paid-up capital of at least $30,000 or such higher amount as the Reserve Bank may in its absolute discretion determine;
+(b) has staff (inclusive of a qualified chief executive) and a director who are capable of providing professional services to clients in the field of activity to which the licence relates or the applicant provides evidence acceptable to the Reserve Bank that such staff will be available;
+(c) has premises suitably located and equipped to provide satisfactory service to clients in the field of activity to which the licence relates or evidence acceptable to the Reserve Bank that such premises will be available;
+(d) has as shareholders and members of its board of directors such persons as the Reserve Bank considers fit and proper; and
+(e) has at least one director and at least one employee who will be the chief employee of the applicant that holds a diploma or certificate or higher qualification in economics, accounting or business related subjects from a tertiary institution approved by the Reserve Bank or has successfully completed a programme of study in securities approved by the Reserve Bank.

@@ -1,0 +1,13 @@
+# reg 32 Records to be maintained
+(1) Every broker and dealer must maintain and preserve for each person who becomes a client after the commencement of these Regulations, a record for a period of 7 years which must state—
+(a) the client’s name, date of birth or registration address, nationality or citizenship, signature of the client, the representative regularly handling the account and a designated supervisor;
+(b) if the broker or dealer, or any of its representatives has made any recommendations to the client to purchase, sell or exchange any security, the record of such client must also state the client’s occupation, marital status where applicable, investment objectives, other information concerning the client’s financial situation and needs which the broker, dealer or the representative considered in making the recommendation, and the signature of the broker, dealer or representative who made the recommendation to the client.
+(2) If, after the commencement of these Regulations, a broker or dealer or any representative of such broker or dealer, has made any recommendation, to a person who became a client prior to the commencement of these Regulations, the broker or dealer must make and keep current a record for such client which must contain the information required by subregulation (1) .
+(3) Any item of information required by subregulation (1) must not be entered in the client’s records if, after reasonable inquiry, the client declines to furnish such items of information and a statement to that effect is placed in the record, provided, however, that the client’s records must state the client’s name and address.
+(4) Every broker or dealer must maintain and preserve for a period of 7 years—
+(a) a record or records with respect to each discretionary account which must include—
+(i) the client’s written authorisation to exercise discretionary power or authority in the client’s account;
+(ii) the reason given by the client for granting discretionary power or authority in the client’s account; and
+(iii) the written approval of a designated supervisor of each transaction in such account indicating the exact time and date of such approval;
+(b) a separate file for all complaints by customers and persons acting on behalf of customers; and the complaints must be filed alphabetically by client’s name and must include copies of all material relating to the complaint, and record of what action, if any, has been taken by the broker or dealer and copies of such material and record of action taken must be kept in the office through which the client’s account is handled; and
+(c) such other records as the Reserve Bank may direct.

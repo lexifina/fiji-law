@@ -1,0 +1,2 @@
+# reg 56 Qualifications of professionals and experts
+The Reserve Bank has the right to disqualify from giving professional opinion on matters related to listed companies or otherwise penalise any professional who in the opinion of the Reserve Bank has given a professional opinion that is false or misleading or has omitted to give an opinion where such omission is likely to be misleading in the circumstances in which the professional opinion is given or omitted as the case may be.

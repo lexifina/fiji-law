@@ -1,0 +1,7 @@
+# reg 8 Statutory Declaration
+(1) For the purposes of regulation 5(5)(c) , the owner of a motor vehicle may, by means of a Statutory Declaration, provide the name and address of the driver of the motor vehicle at the time the offence was committed, and may include the following information—
+(a) a statement setting out by or under what or whose authority, whether oral or written, the driver had control, use or management of the motor vehicle at the time the offence was committed;
+(b) the address of any premises, other than the address of the driver, from which the driver, or a person acting on behalf of the driver, had control, use or management of the motor vehicle at the time the offence was committed;
+(c) where the motor vehicle was part of a group of motor vehicles that were physically connected at the time the offence was committed, the name and address of the driver of any or all of the motor vehicles forming part of the group of motor vehicles at the time the offence was committed; or
+(d) any other relevant information or document attached to the Statutory Declaration.
+(2) Where a motor vehicle has been stolen or sold to another person at the time an offence, under the Act or the subsidiary laws made under the Act, was committed, it is sufficient proof of his or her claim if the owner of the motor vehicle, in addition to his or her Statutory Declaration, provides a Police Report or a transfer document giving effect thereof to his or her claim.

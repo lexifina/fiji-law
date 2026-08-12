@@ -1,0 +1,2 @@
+# reg 2 Purpose
+The purpose of these Regulations is to ensure safe and adequate nutrition for infants and young children by promoting and protecting breastfeeding and by regulating the marketing of designated products intended for use by infants and young children. These Regulations apply to designated products imported into, packed in, or produced and processed in Fiji for domestic distribution and consumption or export or re-export.

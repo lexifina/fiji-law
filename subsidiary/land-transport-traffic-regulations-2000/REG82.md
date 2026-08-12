@@ -1,0 +1,6 @@
+# reg 82 Highway authority to advertise proposals
+(1) If a highway authority proposes to designate part of a public street as a parking place in which charges will be payable for its use, the highway authority must cause to be published in a newspaper published in Fiji and circulated in the city or town in which the public street is located an advertisement—
+(a) stating the general effect of the proposal, the location of the proposed parking place, the classes or descriptions of vehicles to be designated, the charges payable and the times when the parking places are to be used;
+(b) specifying a place or places where a copy of the proposal and a plan showing the precise location of the proposed parking places to be designated, may be inspected at reasonable times specified in the advertisement during a specified period of not less than 28 days from the publication or first publication of the advertisement and;
+(c) stating that any person wishing to object to the making of the order may make written representation to the highway authority, stating the grounds of his or her objection, within the time specified.
+(2) On consideration of all objections the highway authority may proceed with the proposals and may install parking meters.

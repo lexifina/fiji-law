@@ -1,0 +1,2 @@
+# SCHEDULE PRESCRIBED AREAS
+[Sch insrt LN 60 of 1982 O 9, 18 June 1982]

@@ -1,0 +1,3 @@
+# reg 41 Boat or tally note
+(1) If goods are discharged from an importing aircraft or ship into another aircraft or ship to be landed, the master or agent of such importing aircraft or ship shall sign and transmit with each shipment an account of the goods, and before any such goods are discharged from such importing ship or aircraft, the account shall be delivered to the proper officer at the place at which the goods are to be landed, provided that the Comptroller may dispense with the furnishing of such an account either generally or in any particular case if he or she shall see fit so to do.
+(2) In the case of trans-shipment cargo the account referred to in subregulation (1) shall be headed “Trans-shipment cargo only”.

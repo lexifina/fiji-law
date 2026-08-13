@@ -1,0 +1,4 @@
+# reg 35 Security of stores
+(1) The master of every aircraft or ship shall provide on board a suitable store for the security of any goods which the proper officer may require to be placed under seal.
+(2) The proper officer may secure and seal any quantities of dutiable goods in excess of the scale set out in regulation 34 , and any stores which, subsequent to the arrival of the aircraft or ship, are loaded on board from a bonded warehouse or are under drawback or on which a remission, rebate or refund of excise duty has been or will be claimed, provided that the proper officer may permit any stores to remain unsealed if he or she is satisfied that due precaution has been taken against the smuggling of stores so left unsealed.
+(3) Subregulation (2) shall, mutatis mutandis, apply to the securing and sealing of dutiable goods and stores on board an aircraft.

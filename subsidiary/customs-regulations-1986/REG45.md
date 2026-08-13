@@ -1,0 +1,2 @@
+# reg 45 Landing and stacking
+The master of an aircraft or ship, or his or her agent or other person discharging cargo, shall land and store the same at the place specified by the Comptroller, and the goods shall be stacked according to their marks and in such manner as will readily enable a complete check of all packages to be made. The goods shall be rearranged or restacked whenever required by the proper officer and trans-shipment cargo or cargo marked for another port shall be kept entirely separate from any cargo for Fiji.

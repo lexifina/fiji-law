@@ -1,0 +1,2 @@
+# reg 58 Seizure or detention of goods delivered in special circumstances
+Where a proper officer has a reasonable ground to believe that any goods to which the provisions of regulation 56 or 57 apply are liable to forfeiture, he or she may seize or detain such goods and cause such goods to be removed to a customs warehouse or to such other place as he or she may approve, at the expense of the owner of such goods.

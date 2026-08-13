@@ -1,0 +1,3 @@
+# reg 60 Unsuitable premises
+(1) Premises situated in a private yard except under special circumstances shall not be accepted as suitable for a bonded warehouse.
+(2) Subject to subregulation (1) , the doors of all bonded warehouses must open into a street or public thoroughfare and be at all times accessible for the examination of the locks and fastenings without passing through other doors or gates.

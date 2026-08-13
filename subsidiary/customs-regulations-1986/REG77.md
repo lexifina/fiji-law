@@ -1,0 +1,2 @@
+# reg 77 Comptroller may waive rent in certain cases
+If the Comptroller is of the opinion that the strict enforcement of the regulations regarding the payment of rent on any goods would cause hardship owing to the nature of the goods or to any emergency or to the fact that the goods have been seized or detained or to any other exceptional cause, he or she may waive the whole or any part of the rent.

@@ -1,0 +1,2 @@
+# reg 67 Warehouse keeper to keep packages in repair
+A warehouse keeper shall maintain in a proper state of repair the packages in which warehoused goods are contained.

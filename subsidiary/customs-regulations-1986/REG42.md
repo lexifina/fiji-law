@@ -1,0 +1,2 @@
+# reg 42 Permission to leave place of unloading
+An aircraft or ship to which the provisions of regulation 41 apply which has arrived at any place of unloading, shall not depart therefrom except with the permission of the proper officer and where any goods remain on board any such aircraft or ship so permitted to depart, the person in charge of such aircraft or ship shall observe such directions as the proper officer may give.

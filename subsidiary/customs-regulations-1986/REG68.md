@@ -1,0 +1,4 @@
+# reg 68 Goods refused for warehousing
+(1) If goods to be warehoused are found by the officer examining them to be insecurely packed, he or she may refuse to permit them to be warehoused.
+(2) If, in accordance with the provisions of the Act, an officer refuses to permit goods to be warehoused, the warehousing entry shall be deemed to be void and the goods shall be deemed to be unentered. If the goods have been removed from a transit shed or a customs area, they shall be returned thereto without delay by, or at the expense of, the owner, unless the proper officer allows them to be entered for home consumption forthwith.
+(3) The owner shall be responsible for any loss or damage which may take place between the time the goods are removed from, to the time they are returned to, a transit shed or a customs area and examined by the proper officer.

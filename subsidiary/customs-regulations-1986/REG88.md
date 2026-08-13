@@ -1,0 +1,3 @@
+# reg 88 Production of stores before loading
+(1) All stores shall be produced to the proper officer before being put on board an aircraft or ship and upon being put on board (except in the case of commissioned ships) shall not be taken into use while the aircraft or ship is within Fiji without the express permission of the proper officer, provided that stores on which duty has been paid and on which a drawback of duty or a remission, refund or rebate of duty is not claimed and stores which are not liable to duty may be taken into immediate use.
+(2) A person who contravenes any of the provisions of this regulation commits an offence.

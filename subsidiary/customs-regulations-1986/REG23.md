@@ -1,0 +1,4 @@
+# reg 23 List of passengers, report of stores and crews’ declaration
+(1) The master of an aircraft arriving from a place outside Fiji shall, immediately on demand, present to the proper officer a list in the approved Form (C.7) of those passengers disembarking and those remaining on board, a statement of the stores of the aircraft in the approved Form (C.8) and a declaration in the approved Form (C.9) by each member of the crew of all dutiable goods in their possession.
+(2) The master of a ship arriving from a place outside Fiji shall, immediately on demand, present to the proper officer a list in the approved Form (C.10) of those passengers disembarking and those remaining on board.
+(3) If the proper officer so requires, a stores list in the approved Form (C.11) and a declaration in the approved Form (C.12) by each member of the crew, of all dutiable goods in his or her possession, shall be delivered by the master of every ship arriving from a place outside Fiji.

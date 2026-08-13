@@ -1,0 +1,4 @@
+# reg 55 Passengers’ baggage shipped separately
+(1) Passengers’ personal unmanifested baggage shall be unshipped from an aircraft or ship only when authorised by the proper officer, and shall be landed only at a place approved by a proper officer and shall not be removed from the place of examination except by the authority of a proper officer.
+(2) The personal unmanifested baggage of each passenger shall be landed immediately on the arrival of the aircraft or ship at the port of destination of that passenger and shall not be permitted to remain on board pending the convenience of the passenger.
+(3) Each passenger arriving from a place outside Fiji shall when required to do so make an oral declaration to an officer of any personal unmanifested baggage, provided that should the proper officer consider it necessary he or she may require the passenger to make a written declaration in the approved Form (C.22) to this effect.

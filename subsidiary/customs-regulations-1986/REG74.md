@@ -1,0 +1,2 @@
+# reg 74 Acceptance by warehouse keeper
+Entries for goods for warehousing or for removal from warehouse to warehouse or for re-warehousing, other than entries in respect of goods to be warehoused or to be removed to another warehouse or to be re-warehoused in a bonded warehouse of which the owner of such goods is the licensed warehouse keeper, shall not be accepted by the proper officer unless the warehouse keeper signifies thereon in writing that he or she agrees to accept such goods into the warehouse for which they are entered.

@@ -1,0 +1,16 @@
+# FORM B DANCE HALL LICENCE
+This is to certify that…
+of… has been granted a licence for the
+… | situate at … in the city
+of Lautoka to be kept or used for public dancing, singing, music or………until the … 20…
+Special Conditions
+1. The licensed premises may be opened for the above purposes on …
+… | but not before the hour of … nor after the hour
+of… | of any such days and not at any time on Sundays, Good Friday
+and Christmas Day. | | |
+2.…
+Dated this … | day of…, | 20…
+| | for the LAUTOKA CITY COUNCIL,
+| Town Clerk.
+Fee paid $… |
+Receipt No… |

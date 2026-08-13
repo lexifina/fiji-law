@@ -1,0 +1,2 @@
+# reg 12. Warranty
+Each party warrants to the other that it has legal capacity to enter into this lease and to grant and perform the rights and obligations contained in the lease. The lessee warrants that, to the best of the lessee’s knowledge, any information provided with respect to this lease under regulation 9(1) is true and correct as at the Commencement Date and the lessee indemnifies the lessor from any loss, damage, liability or claims caused by the breach of this warranty.

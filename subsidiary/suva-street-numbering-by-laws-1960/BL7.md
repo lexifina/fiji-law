@@ -1,0 +1,2 @@
+# by-law 7 Offence
+If any such owner or occupier neglects for 30 days after written notice to him or her from the Council to mark any such building, or fence or road frontage with such number and form as the Council may direct or approve, or to renew the marking thereof as aforesaid or who shall place, maintain or allow to maintain thereon any number or numbers other than that assigned by the city engineer or his or her designated assistant, shall be guilty of an offence under these By-laws.

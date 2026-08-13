@@ -1,0 +1,2 @@
+# by-law 4 Buildings to have distinguishing numbers
+The owners or occupiers of land on which buildings are erected and which have entrances or frontages to a street shall for the purpose of distinguishing them, mark the buildings or fences or street frontages with such numbers as the Council may from time to time direct or approve, so that such markings may be readily seen from the road, and shall renew such markings as often as they are destroyed, obliterated or defaced.

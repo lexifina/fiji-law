@@ -1,0 +1,16 @@
+# cl 7 Computed value as customs value
+(1) Subject to subparagraphs (3) and (4) where the Customs value of imported goods cannot, in the opinion of the Comptroller be determined under paragraph 6 of this Schedule, the Customs value of the goods shall be the computed value in respect of the goods.
+(2) The computed value of the goods being valued is the aggregate of amounts equal to—
+(a) the cost, charges and expenses in respect of, or the value of—
+(i) materials employed in producing the goods being valued; and
+(ii) the production or other processing of the goods being valued, determined on the basis of—
+(A) the commercial accounts of the producer of the goods being valued; or
+(B) any other sufficient information relating to the production of the goods being valued, are supplied by or on behalf of the producer of the goods and prepared in a manner consistent with the generally accepted accounting principles of the country of production of the goods being valued, including, without limiting the generality of the foregoing;
+(iii) the costs, charges and expenses referred to in paragraph 3(1)(a)(ii) to this Schedule;
+(iv) the value of any goods and services referred to in paragraph 3(1)(a)(ii) and (vi) of this Schedule, determined and apportioned to the goods being valued as referred to in that paragraph, whether or not such goods and services have been supplied free of charge or at a reduced cost;
+(v) the costs, charges and expenses incurred by the producer in respect of engineering, development work, artwork, design work, plans or sketches undertaken in Fiji that were supplied, directly or indirectly by the buyer of the goods being valued in connection with the production and sale for export of those goods to the extent that such elements are charged to the producer of the goods, apportioned to the goods being valued as referred to in paragraph 3(1)(a)(iii) of this Schedule; and
+(b) the amount, determined in accordance with subparagraph (4) , for profit and general expenses considered together as a whole, that is generally reflective in sales for export to Fiji of goods of the same class or kind as the goods being valued, made by producers of the goods to buyers in Fiji who are not related to the producers from whom they buy the goods at the time the goods are sold to them.
+(3) For the purpose of this paragraph, “general expenses” means the direct and indirect costs, charges and expenses of producing goods for export other than the cost charges and expenses referred to in subparagraph (2)(a) .
+(4) The amount of profit and general expenses referred to in subparagraph (2)(b) shall be calculated on a percentage basis and determined on the basis of information prepared in a manner consistent with generally acceptable accounting principles of the country of production of the goods being valued and that is supplied—
+(a) by or on behalf of the producer of the goods being valued; or
+(b) where the information supplied by or on behalf of the producer of the goods being valued is not sufficient information, by an examination of sales for export to Fiji of the narrowest group or range of goods of the same class or kind from which sufficient information can, in the opinion of the Comptroller be obtained.

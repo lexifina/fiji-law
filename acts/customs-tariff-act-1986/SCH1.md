@@ -1,0 +1,2 @@
+# SCHEDULE 1 VALUATION OF GOODS
+[Sch 1 subst Act 22 of 1997 s 5, 24 December 1997]

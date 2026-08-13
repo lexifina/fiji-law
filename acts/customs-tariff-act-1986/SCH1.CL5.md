@@ -1,0 +1,5 @@
+# cl 5 Transaction value of similar goods as customs value
+(1) Subject to subparagraph (2) and paragraph 4(2)-(4) of this Schedule where the Customs value of imported goods cannot, in the opinion of the Comptroller be determined under paragraph 4 of this Schedule, the Customs value of the goods shall be the transaction value of similar goods in a sale of those goods for export to Fiji if that transaction value is the Customs value of the similar goods and the similar goods were exported at the same or at substantially the same time as the goods being valued and were sold under the following conditions—
+(a) to a buyer at the same or substantially the same trade level as the buyer of the goods being valued; and
+(b) in the same or substantially the same quantities as the goods being valued.
+(2) Paragraph 4(2)-(4) of this Schedule shall apply to this paragraph in respect of similar goods and wherever in those subparagraphs the expression “identical goods” is referred to, there shall be substituted therefore the expression “similar goods”.

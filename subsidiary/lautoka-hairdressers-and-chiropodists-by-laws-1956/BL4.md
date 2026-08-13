@@ -1,0 +1,2 @@
+# by-law 4 Transfer of licence
+The Council may on the application in writing and payment of a fee of $1 of the holder of a licence transfer that licence to another person by endorsing thereon the name of the transferee and such other particulars as may be necessary consequent upon the transfer, provided that the Council may refuse to transfer a licence to any person who during the period of 12 months immediately preceding the date of application of such transfer has been convicted on at least 2 occasions under these By-laws.

@@ -1,0 +1,28 @@
+# SCHEDULE 7 GOODS WHICH MAY BE EXPORTED ONLY ON CONDITIONS
+[Sch 7 am LN 116 of 1986 reg 4, 4 November 1986 LN 114 of 1988 , 1 January 1989 LN 49 of 1989 reg 5 LN 138 of 1997 LN 89 of 2015 reg 3, 6 November 2015 LN 99 of 2016 reg 56, 1 December 2016 LN 43 of 2017 reg 6, 30 June 2017 LN 133 of 2021 reg 4, 4 December 2021 LN 32 of 2024 reg 4, 28 June 2024]
+Goods the exportation of which is prohibited unless specified conditions, restrictions or requirements are complied with.
+Item No | Description of goods | Conditions, Restrictions or Requirements
+1. | All birds (other than domestic fowls, ducks, turkeys, geese and pigeons) alive or dead and the plumage or any part of the plumage of such birds, | The exporter shall produce to the Comptroller the written permission of the permanent secretary responsible for agriculture.
+2. | All live cattle | The exporter shall produce to the Comptroller a licence to export issued by the permanent secretary responsible for agriculture.
+3. | All reptiles with the exception of the marine turtle; | The exporter shall produce to the Comptroller export permits issued by the Department of Environment as required under the Endangered and Protected Species Act 2002 .
+| All amphibians, with the exception of the toad (Bufo Marinus); |
+| All bats; |
+| The Fiji Goshawk (Accipiter Rufitorgues). |
+4. | Whale’s teeth (commonly known as “Tabua”), breast plates of pearl and ivory (“civa vono-vono”) and ivory necklaces (“Wasekaseka”). | The exporter shall produce to the Comptroller the written permission of the permanent secretary responsible for iTaukei affairs. The exporter shall produce to the Comptroller an export permit issued by the Department of Environment as required under the Endangered and Protected Species Act 2002 .
+5. | Unprocessed turtle shell. | The exporter shall produce to the Comptroller export permits issued by the Department of Environment as required under the Endangered and Protected Species Act 2002 .
+6. | [Repealed] |
+7. | Copra | Except under a permit granted by the Coconut Board.
+8. | Wheat bran classified in item 2302.30.00 of Schedule 2 to the Customs Tariff Act 1986. | The exporter shall produce to the Comptroller the licence issued by the permanent secretary responsible for trade, business development and investment.
+9. | Oil cake and meal of copra classified in item 2306.50.00 of Schedule 2 to the Customs Tariff Act 1986. | The exporter shall produce to the Comptroller the licence issued by the permanent secretary responsible for trade, business development and investment.
+10. | The following articles— | The exporter shall produce to the Comptroller the licence issued by the permanent secretary responsible for housing and urban affairs. The exporter shall produce to the Comptroller an export permit issued by the Department of Environment as required under the Endangered and Protected Species Act 2002 .
+| (a) | all iTaukei weapons made for war, as distinct from those made for the souvenir trade, and including clubs, throwing clubs, spears, bows and arrows and slings;
+| (b) | forks of bone, ivory or wood made for the eating of human flesh, as distinct from modern replicas thereof made for the souvenir trade;
+| (c) | all artefacts made from whale tooth including breast-plates, pendants, necklaces, food hangers and human and animal figures;
+| (d) | all stone adzes and pounders;
+| (e) | all wooden or stone carvings of human or animal figures, as distinct from modern replicas thereof made for the souvenir trade.
+11. | Wood and wood products classified in Schedule 2 to the Customs Tariff Act 1986 as tariff items— | The exporter shall produce to the Comptroller a licence to export issued by the Conservator of Forests. The exporter shall produce to the Comptroller an export permit issued by the Department of Environment as required under the Endangered and Protected Species Act 2002 .
+| 4401.11.00; 4401.12.00; 4401.31.00; 4403.11.00; 4403.12.00; 4403.21.00; 4403.22.00; 4403.23.00; 4403.24.00; 4403.25.00; 4403.26.00; 4403.41.00; 4403.49.00; 4403.91.00; 4403.93.00; 4403.94.00; 4403.95.00; 4403.96.00; 4403.97.00; 4403.98.00; 4403.99.11; 4403.99.12; 4403.99.13; 4403.99.19; 4403.99.90; 4404.10.00; 4404.20.00; 4407.11.00; 4407.12.00; 4407.19.00; 4407.19.10; 4407.19.20; 4407.19.30; 4407.21.00; 4407.22.00; 4407.25.00; 4407.27.00; 4407.28.00; 4407.29.00; 4407.91.00; 4407.92.00; 4407.93.00; 4407.94.00; 4407.95.00, 4407.96.00, 4407.97.00; 4407.99.11; 4407.99.12; 4407.99.19; 4407.99.21; 4407.99.22;
+| 4407.99.29; 4407.99.90; 4408.10.10; 4408.10.90; 4408.31.10; 4408.31.90; 4408.39.10; 4408.39.90; 4408.90.10; 4408.90.90; 4409.10.10; 4409.10.20; 4409.10.91; 4409.10.99; 4409.22.91; 4409.22.92; 4409.22.99; 4410.11.00; 4410.12.00; 4410.19.00; 4410.90.00; 4411.12.00; 4411.13.00; 4411.14.00; 4411.92.00; 4411.93.00; 4411.94.00; 4412.31.00; 4412.33.00; 4412.34.00; 4412.39.00; 4412.94.00; 4412.99.10; 4412.99.90; 4413.00.00. |
+12. | Coffee in any form classified in Schedule 2 to the Customs Tariff Act 1986 as tariff items— | The exporter shall produce to the Comptroller a valid certificate issued by the permanent secretary responsible for trade, business and investments in accordance with the rules of International Coffee Organisation.
+| 0901.11.00; 0901.12.00; 0901.21.00; 0901.22.00; 0901.90.00; 2101.11.00; 2101.12.00; 2101.30.00.
+13. | All products regulated under the Medicinal Products Act 2011 such as medicines, drugs, poisons, substances, devices, instruments and appliances. | The products shall comply with the provisions of the Medicinal Products Act 2011 and all subsidiary legislation made thereunder.

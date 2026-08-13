@@ -1,0 +1,3 @@
+# reg 2 These Regulations to be in addition to other lawful requirements
+(1) The provisions of these Regulations are, unless the context otherwise requires, in addition to, and not in substitution for, the provisions of any written law relating to the importation of goods into and the exportation of goods from Fiji.
+(2) The grant of any licence under these Regulations to import goods into Fiji or export goods from Fiji and the exemption of goods from application of these Regulations, shall not absolve any person from the obligation to comply with the provisions of any other written law relating to the importation or exportation of those goods.

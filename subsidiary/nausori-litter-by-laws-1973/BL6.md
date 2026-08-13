@@ -1,0 +1,2 @@
+# by-law 6 Penalties
+Any person who contravenes or fails to comply with the provisions of these By-laws, shall be guilty of an offence under these By-laws and shall be liable on conviction to a fine not exceeding $10 and to a further fine of $2 for every day during which such contravention or non-compliance continues.

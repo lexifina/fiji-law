@@ -1,0 +1,3 @@
+# by-law 5 Crossing of gutters etc
+(1) Without the prior written permission of the Council, no planks or other material shall be placed by any person in or across any gutter or ditch or against any kerb for the purpose of enabling a vehicle to make a crossing of such gutter, ditch or kerb. In granting any such permission, the Council may, in its discretion, require that the applicant therefor furnish security to an amount considered by the Council to be reasonable.
+(2) No person shall drive any vehicle across any gutter or ditch or on any footpath unless a suitable crossing has been constructed for the purpose and has been approved by the Council under the provisions of paragraph (1) .

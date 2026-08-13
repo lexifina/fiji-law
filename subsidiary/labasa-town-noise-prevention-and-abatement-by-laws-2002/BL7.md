@@ -1,0 +1,11 @@
+# by-law 7 Noise abatement notice
+(1) Any person committing an offence under by-law 3 or 4 may be issued with a noise abatement notice in Form 3 set out in Schedule 1 by the town ranger or the authorised officer of the Council requiring the person to cease from making such offensive noise or may require the person to do such other things as considered as necessary to reduce the noise level.
+[para (1) am LN 99 of 2016 reg 130, 1 December 2016]
+(2) Without affecting the generality of paragraph (1) , the town ranger or the authorised officer of the Council may require the person to reduce the noise level in one or more of the following ways—
+(a) by cessation of the noise or by control implemented at the source of the noise;
+(b) by the acoustic treatment of buildings or other structures;
+(c) by the process of shielding or barriers to restrict the emission of noise from premises;
+(d) by the restriction of the time or place or manner of operation giving rise to the noise; or
+(e) by the progressive phasing out of noise or the progressive phasing out or control of activities that produce the noise.
+(3) Where any person issued with a noise abatement notice fails to comply with the notice, the town ranger may confiscate the instrument making such offensive noise.
+(4) For the purposes of investigating any complaints, the town ranger shall have the powers to enter any premises to measure the noise level and no person shall unreasonably obstruct the town ranger attending to his or her duties.

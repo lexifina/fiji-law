@@ -1,0 +1,2 @@
+# reg 3 Notification of stopping up of street
+Where a Council has stopped up a street and declared it no longer to be a street, in exercise of its powers as aforesaid, the Council shall cause a notice thereof in the form set out in Part 2 of the Schedule to be published, displayed and served as mentioned in regulation 2 and to be furnished, together with a copy of the plan referred to in the notice, as mentioned in that regulation.

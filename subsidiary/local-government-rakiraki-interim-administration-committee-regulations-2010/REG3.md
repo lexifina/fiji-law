@@ -1,0 +1,2 @@
+# reg 3 Interim Administration/Committee
+The Interim Administration/Committee is deemed to be the duly constituted Council of the town of Rakiraki and may perform and discharge all the rights, privileges, powers, duties and functions vested in or conferred or imposed on the Council by the Act except Parts 2, 3, 5A, 7, 9, 11 and 12 (Divisions 2 and 3) and is deemed to be the Council for the purpose of any other written law.

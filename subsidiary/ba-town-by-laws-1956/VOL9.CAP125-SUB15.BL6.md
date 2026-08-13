@@ -1,0 +1,2 @@
+# by-law 6 Council may undertake work
+If any owner, occupier, or lessee of any building, premises or land shall fail to comply with a notice given under the provisions of by-law 3 or 5 within such time as the Council may in such notice prescribe, the Council may undertake the work, and the cost thereof shall be a debt due to the Council and may be sued for before a court of competent jurisdiction.

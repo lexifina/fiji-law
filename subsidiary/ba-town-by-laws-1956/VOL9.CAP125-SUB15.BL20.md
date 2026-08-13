@@ -1,0 +1,7 @@
+## PART 4 BUS STATION
+# by-law 20 Management of bus station
+(1) The bus station shall be under the immediate management and control of the town clerk.
+(2) The Council may appoint an attendant or attendants to assist the town clerk in the discharge of his or her functions.
+(3) Subject to the overall direction of the Council, the town clerk shall have responsibility for the allocation to bus operators of stands in the bus station and for the erection of traffic signs therein.
+(4) Any person who stops or parks a motor omnibus at a stand other than that allocated to the bus operator by the town clerk or who fails to comply with any direction on a traffic sign erected at the bus station shall be guilty of an offence.
+[para (4) subst LN 151 of 1978 by-law 3, 3 November 1978]

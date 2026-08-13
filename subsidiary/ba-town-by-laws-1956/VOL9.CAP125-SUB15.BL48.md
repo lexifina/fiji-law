@@ -1,0 +1,2 @@
+# by-law 48 Exchange, subletting and sharing of stalls
+No stallholder shall exchange, sublet, surrender or part with the possession of his or her stall or share his or her stall with another vendor or person except with the permission of the market master.

@@ -1,0 +1,2 @@
+# by-law 3 Market
+In these By-laws, “market” means the Suva market established, maintained and controlled by the Council situated at the corner of Usher Street, Harris Road and Rodwell Road in the city of Suva and being the land comprised in State Lease No 2737 delineated on plan S 1057 containing an area of 2 ac 3 rd 26.84 perches (1.18 ha) and Eastern portion of Harris Road, commencing at the junction of Usher Street (enclosed between the fence) to a length of 33.7 meters and depth of 6.7 meters and includes “mini market” established by the Council.

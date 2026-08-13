@@ -1,0 +1,2 @@
+# by-law 9 Sale of fish
+During the hours in which the market is open for business no person shall sell by retail fresh fish at any place outside the market other than at the sale points established by Council resolution, provided that this by-law shall not apply to the sale of fish wholesale or by a butcher, fishmonger, or a retail or wholesale store holder, licensed under the provisions of any Act for the time being in force relating to the licensing of business.

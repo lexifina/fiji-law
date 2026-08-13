@@ -1,0 +1,3 @@
+# by-law 4 Duty to obey directions
+(1) The driver of a vehicle in a municipal car park or within the precincts of a municipal car park, shall at all times observe and comply with any reasonable direction of the attendant regarding parking or movement of the vehicle within such area, and shall comply with any directions, signs, or paint marking at the car park relating to the movement, parking, entry and exit of vehicles or any particular class of vehicles.
+(2) All persons using or being within the precincts of a car park shall obey all reasonable directions given by the attendant for the purpose of observing good order and cleanliness in the car park.

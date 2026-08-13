@@ -1,0 +1,5 @@
+# by-law 5 Cancellation of licence
+(1) If it appears that any premises licensed as a hairdresser's shop or as a chiropodist's shop are not constructed, maintained, kept or conducted in accordance with the provisions of these By-laws, the Council after giving due notice of its intention so to do, and of the grounds of such intention, to the person named in the licence as the holder thereof, and after affording such person a reasonable opportunity of remedying any breach of the By-laws stated in such notice, may, on being satisfied that any such breach has not been remedied, cancel the licence.
+(2) No such cancellation shall prevent the making of a fresh application by the same or any other person for a licence in respect of the same premises.
+(3) The Council shall give notice in writing of such cancellation to the person to whom the licence has been issued or transferred and any manager or other person named therein as responsible for the management of the premises.
+(4) Any person whose licence is cancelled under these By-laws shall forthwith surrender the licence to the Council.

@@ -1,0 +1,6 @@
+## PART 3 PUBLIC PARKS
+# by-law 11 Exclusive use of public parks may be granted
+(1) Subject to the provisions of these By-laws, the Council may grant permission to any sporting, social or other organisation or body to have exclusive use of the whole or any part of any public park on any particular day or days for purposes approved by the Council and may give such organisation or body power to levy charges for admission, provided that—
+(a) notwithstanding the grant of any such permission, the Council may, in its absolute discretion, revoke such permission to enable the public park to be used for other purposes in connection with a special occasion;
+(b) the Council may, in its absolute discretion at any time, declare any public park to be unusable, in which case the flying of a red flag and the posting of a notice declaring such park to be unusable, at the entrance to the park shall be deemed to be sufficient notice to all persons that the park is unusable.
+(2) Any person using any public park for sporting, recreational or social purposes when such park has been declared to be unusable shall be guilty of an offence.

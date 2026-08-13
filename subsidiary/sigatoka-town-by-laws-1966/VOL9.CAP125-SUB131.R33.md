@@ -1,0 +1,4 @@
+# by-law 33 Refusal, revocation etc of licence
+(1) The Council may refuse to grant a licence to any person or in respect of any premises or may revoke or suspend or amend any licence on any grounds which it considers sufficient.
+(2) Where it is proposed that a licence be refused, revoked, suspended or amended under the provisions of paragraph (1) , the Council shall give to the applicant or the licensee, as the case may be, 14 days’ notice in writing of the meeting of the Council at which the refusal, revocation or suspension is to be considered and in such notice the Council shall set out the grounds upon which consideration is being given to such refusal, revocation or suspension.
+(3) No licence shall be refused, revoked, suspended or amended by the Council unless the applicant or the licensee has been given an opportunity of being heard by the Council.

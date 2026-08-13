@@ -1,0 +1,2 @@
+# by-law 7 Offence
+Any owner or occupier who fails, within 30 days of receiving written notice from the Council, to mark any building, entrance or frontage with such number and in such manner and form as the Council may direct or approve, or to renew such marking as aforesaid or who places, maintains, or allows to be placed or maintained thereon any number other than that assigned by the Council shall be guilty of an offence.

@@ -1,0 +1,2 @@
+# by-law 3 Dance halls to be licensed
+No person shall, within the city, keep or use, or allow to be kept or used any hall, house, room, garden or other place for public dancing, singing, music, or other public entertainment of the like kind (except where the premises are used for any such purpose only on isolated occasions or during the course of religious festivals) without first obtaining from the Council a licence for the purpose or purposes for which the same respectively is to be used; and for such licence a fee of $6 shall be paid by the person applying therefor.

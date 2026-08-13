@@ -1,0 +1,2 @@
+# by-law 7 Short term licence
+Notwithstanding the provisions of by-laws 3 and 5 , the Council may, if and as it thinks fit, grant to any person applying for the same a licence to keep or use any hall, house, room, garden or other place for any of the purposes aforesaid for any period not exceeding 30 days, which shall be specified in the licence, and for such licence a fee of $2 shall be paid by the person applying for the same.

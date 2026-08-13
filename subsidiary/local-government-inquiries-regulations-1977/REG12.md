@@ -1,0 +1,3 @@
+# reg 12 Divulging official information
+(1) No member of a committee, nor the secretary nor any other person shall, without the written permission of the Minister, publish or disclose to any person otherwise than in exercise of his or her official functions the contents of any document, communication or information whatsoever relating to or connected with the functions of a committee which has come to his or her knowledge in the course of his or her duties.
+(2) Any person who knowingly acts in contravention of the provisions of this regulation shall be guilty of an offence and on conviction shall be liable to a fine not exceeding $200, or to imprisonment for a period not exceeding 6 months or to both such fine and imprisonment.

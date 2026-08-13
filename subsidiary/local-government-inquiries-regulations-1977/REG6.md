@@ -1,0 +1,2 @@
+# reg 6 Proceedings of committee privileged
+Any report, statement or other communication or record of any meeting, inquiry or proceedings which a committee may make in exercise of its functions or any member may make in performance of his or her duties, shall be privileged in that its production may not be compelled in any legal proceedings unless the chairperson of the committee certifies that such production is not against the public interest.

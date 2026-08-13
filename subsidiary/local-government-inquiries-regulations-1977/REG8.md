@@ -1,0 +1,2 @@
+# reg 8 Power to require attendance of witnesses etc
+For the purposes of carrying out its powers, duties and functions under these Regulations a committee shall have the same powers and authority to summon witnesses and to admit and receive evidence as are conferred on the commissioners of a Commission of Inquiry by section 9 of the Commissions of Inquiry Act 1946 and the provisions of sections 14 and 17 of that Act shall apply mutatis mutandis in relation to the powers and authority vested in a committee under this regulation.

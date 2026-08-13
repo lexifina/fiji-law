@@ -1,0 +1,2 @@
+# reg 10 Giving false information to committee
+Any person who in connection with the exercise by a committee of its functions or duties wilfully gives to a committee any information which he or she knows to be false or does not believe to be true, or which he or she knows to be false by reason of the omission of any material particular, shall be guilty of an offence and on conviction shall be liable to a fine not exceeding $200 or to imprisonment for a period not exceeding 6 months or to both such fine and imprisonment.

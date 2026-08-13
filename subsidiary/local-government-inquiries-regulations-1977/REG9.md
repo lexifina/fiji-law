@@ -1,0 +1,2 @@
+# reg 9 Attempting to influence committee
+Any person who directly or indirectly, other than in the course of his or her duty, by himself or herself or by any other person in any manner whatsoever attempts to influence a committee in the proper exercise of its functions or duties shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100, or to imprisonment for a period not exceeding 3 months or to both such fine and imprisonment.

@@ -1,0 +1,9 @@
+# SCHEDULE 1 APPLICATION FOR PERMIT BY COMMERCIAL VEHICLE OPERATOR TO USE THE SIGATOKA COMMERCIAL VEHICLE STAND
+I/We… of …
+hereby apply for a permit for my/our undermentioned vehicle(s) to use the Sigatoka Commercial Vehicle Stand.
+Class of Vehicle: |
+Registered No … Make … No of passengers…
+Wheelbase… |
+I/We agree to pay the parking fees as prescribed and to comply with the provisions of the Sigatoka (Commercial Vehicle Stand) By-laws 1983.
+Dated this................... day of................... 20........
+| Operator

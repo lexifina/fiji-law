@@ -1,0 +1,2 @@
+# by-law 6 Prohibitions
+No person shall make any alterations to the alignment of a taxi stand or introduce any unauthorised fitting, fixtures or obstruction into a taxi stand and anything so introduced shall be removed forthwith upon notice in writing from the Council and if a taxi operator fails forthwith to comply with such a notice the Council may proceed at the risk of the operator and at his or her expense to take down and remove the same from the area of a taxi stand and may recover the expenses incurred from the taxi operator.

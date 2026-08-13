@@ -1,0 +1,13 @@
+# FORM B DANCE HALL LICENCE
+Licence is hereby granted .................. to use
+.................. as a dance hall for the purpose of
+(premises)
+..................
+(nature of entertainment)
+This licence is valid for a period of one year ................ days from the date of issue and is granted subject to the following conditions;
+1. The licensed premises may be used for the above purpose on ................ but not before the hour of ................ nor after the hour of................ on any such days and not at any time on Sundays, Good Friday or Christmas Day.
+2................................................................
+Dated this ................ day of................ 20........
+For the Rakiraki Town Council
+................................................................
+Town Clerk

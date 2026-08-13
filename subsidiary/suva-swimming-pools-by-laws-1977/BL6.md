@@ -1,0 +1,4 @@
+# by-law 6 Power of supervisor
+(1) No person shall be entitled to be admitted to a pool, or to be given cubicles, or to remain therein, unless by the authority and with the consent of the supervisor, who shall have power to refuse admission to, or require that person to leave, the pool and any person who, in the supervisor's opinion, commits a breach of any of these By-laws or does not otherwise comply with the standards or requirements of these By-laws may be required to leave.
+(2) The supervisor may demand the name and address of any person guilty of a breach of any of the provisions of these By-laws, and such person shall comply with such demand; and the supervisor shall report such breach to the Council for such action as it may deem appropriate.
+(3) No person shall obstruct or hinder a supervisor in the performance of his or her duties or in the exercise of his or her powers which shall include the power of ejection.

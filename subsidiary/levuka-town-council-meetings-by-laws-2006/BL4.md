@@ -1,0 +1,3 @@
+## PART 2 NOTICES OF MEETING
+# by-law 4 Form of notices
+All notices to attend meetings of the Council shall be in writing and shall state the place, date and hour of meeting. To such notices for ordinary meetings shall be attached a copy of every motion of which notice has been duly given to be moved thereat. Notices to attend a special meeting shall also contain a brief statement of the business for which the meeting is called.

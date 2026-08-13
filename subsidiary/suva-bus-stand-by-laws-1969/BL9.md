@@ -1,0 +1,2 @@
+# by-law 9 Revocation of licence
+The Council may revoke the licence of any bus operator who fails to pay by the due date thereof any licence fees payable by him or her or is convicted of any offence under these By-laws.

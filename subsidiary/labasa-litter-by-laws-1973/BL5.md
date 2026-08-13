@@ -1,0 +1,2 @@
+# by-law 5 Provision for an identity card
+Every authorised person, other than a member of the Fiji Police Force, shall be issued with an identity card by the Council wherein shall be specified the name of the authorised person to whom it is issued and the fact that he or she is an authorised person for the purpose of these By-laws, and in the exercise of his or her powers and functions under these By-laws an authorised person shall carry an identity card and, should the circumstances require it, exhibit it for the purpose of identification.

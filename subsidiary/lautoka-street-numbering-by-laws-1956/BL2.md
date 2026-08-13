@@ -1,0 +1,2 @@
+# by-law 2 Buildings to have distinguishing numbers
+The owners or occupiers of lands on which buildings are erected or which are subdivided into building allotments and which have frontages to or entrances from roads shall for the purpose of distinguishing them mark the buildings or fences or road frontages with such numbers and in such manner and form as the Lautoka City Council may from time to time direct or approve, so that such markings may be readily seen from the road, and shall renew such markings as often as they are destroyed, obliterated or defaced.

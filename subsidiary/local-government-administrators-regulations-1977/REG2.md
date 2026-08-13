@@ -1,0 +1,3 @@
+# reg 2 Rights, functions and duties of administrator
+(1) Subject to regulation 3 , an administrator shall be deemed to be the duly constituted council of the municipality and shall have, perform and discharge all the rights, privileges, powers, duties and functions vested in or conferred or imposed on the council, the mayor and any officer of the council by the Act or by any other written law.
+(2) Where 2 or more persons are appointed to be administrators the Minister shall in the order making the appointment designate one of such administrators to be the chief administrator and the administrator so designated shall be deemed for the purposes of the Act and any other written law to be the mayor of the municipality.

@@ -1,0 +1,2 @@
+# cl 4 Transitional provision relating to medical or dental students
+A person who was, immediately before this Schedule comes into force, enrolled in an undergraduate course or approved postgraduate course, of medical or dental study at a tertiary educational institution in Fiji accredited by the Fiji Medical Association or Fiji Dental Association, as the case may be is, on due application to the relevant Council, entitled to full registration on the register of medical or dental students, as the case may be.

@@ -1,0 +1,2 @@
+# SCHEDULE 3 TRANSITIONAL PROVISIONS
+[Sch 3 am Decree 13 of 2014 s 3, 8 April 2014 Act 31 of 2016 s 132, 1 December 2016]

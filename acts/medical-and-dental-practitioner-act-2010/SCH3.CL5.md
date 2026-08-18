@@ -1,0 +1,3 @@
+# cl 5 Transitional provision relating to applications for registration, prosecutions, disciplinary hearings etc
+(1) A prosecution for an offence committed against a repealed law must be brought and continued under that law.
+(2) Subject to paragraph (1) , any action, arbitration, proceeding or cause of action that relates to the function of the Fiji Medical Council and Fiji Dental Council and that immediately before the commencement of this Act is pending or existing by, against or in favour of the Fiji Medical Council or Fiji Dental Council, or to which the Fiji Medical Council or Fiji Dental Council is a party, may be continued and enforced by and against the Fiji Medical Council or Fiji Dental Council under the provisions of the Act.

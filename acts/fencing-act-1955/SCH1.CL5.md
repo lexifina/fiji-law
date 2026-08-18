@@ -1,0 +1,2 @@
+# cl 5
+A substantial wire fence having not less than 3 wires tightly stretched or 2 wires with a top rail or barbed-wire with battens not more than 1.8 m apart, the wires being stapled to or let through such battens which shall be of durable wood, concrete or iron well and substantially erected. The posts or standards to be not less than one every 10 m the top wire not to be less than 1,150 mm from the surface of the ground, the wires to be not lighter than No 8 in steel or black or galvanised iron.

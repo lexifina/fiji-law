@@ -1,0 +1,2 @@
+# SCHEDULE 2 PROHIBITED SUBSTANCES
+[Sch 2 insrt Act 40 of 2020 s 10, 1 January 2021]

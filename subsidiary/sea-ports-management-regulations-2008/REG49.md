@@ -1,0 +1,3 @@
+# reg 49 Cargo manifests — arrivals
+(1) If a vessel is to arrive at a port to discharge or trans-ship cargo, the owner of the vessel shall, unless prior alternative arrangements have been made with the port management company, at least 24 hours before the expected arrival time of the vessel, give to the port management company a true, complete and legible copy of the manifest of the vessel in respect of all cargo intended to be discharged or trans-shipped in the port.
+(2) The owner of a vessel who contravenes subregulation (1) commits an offence and is liable upon conviction to the penalty set out in the Schedule .

@@ -1,0 +1,4 @@
+# reg 9 Commission to await judgment of tribunal
+(1) If there is a referral to the tribunal under regulation 8, the judgment of the tribunal shall be relevant information for the purposes of making a decision under sections 21 and 22 of the Act.
+(2) Pursuant to subregulation (1) , the Commission must await the final determination, including the determination of any appeal in any appellate court, of the court or the tribunal before making a decision to approve or refuse an application for compensation.
+(3) Where the court or tribunal issues or delivers a judgment to the effect that there is no duty of the employer to pay the weekly payment on the grounds that the accident did not arise out of and in the course of employment, the Commission must refuse the application for compensation by the worker.

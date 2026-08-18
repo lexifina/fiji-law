@@ -1,0 +1,3 @@
+# reg 54 Criteria for grant of coextensive residence permit
+(1) Subject to subregulation (2) , the Permanent Secretary may grant a non-citizen a coextensive residence permit if the Permanent Secretary is satisfied that the non-citizen is a member of the family unit of a person who has been granted a permit, other than a special purpose permit or a coextensive residence permit, under these Regulations.
+(2) Notwithstanding subregulation (1) the Permanent Secretary shall not, except with the prior written approval of the Minister, grant a coextensive residence permit to a dependent child referred to in regulation 23(2) .

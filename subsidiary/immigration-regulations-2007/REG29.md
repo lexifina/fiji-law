@@ -1,0 +1,2 @@
+# reg 29 Duration of provisional protection permit
+A provisional protection permit is valid for a period of 4 months beginning on the date that the non-citizen signifies his or her intention under regulation 27 , and may, from time to time and upon payment of the fee specified in Part 1 of the Schedule to these Regulations be extended for such further period as the Permanent Secretary considers appropriate.

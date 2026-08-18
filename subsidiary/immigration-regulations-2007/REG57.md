@@ -1,0 +1,4 @@
+## PART 5 MISCELLANEOUS
+# reg 57 Notification of decisions
+(1) For the purpose of section 10(1) (notification of refusal of permit etc by the Permanent Secretary) and section 58(6) (notification of Minister's decision on appeal) of the Act, the Permanent Secretary shall cause the notice to be sent to the last known address of the person affected by the decision, as supplied by that person to the Permanent Secretary and service at that address shall be deemed to be notification of the decision of the Permanent Secretary or of the Minister, as the case may be.
+(2) If a person (the first person) gives the Permanent Secretary written notice of the name and address of another person (the authorised recipient) authorised by the first person to receive documents on behalf of the first person, service of any documents at the address of the authorised recipient shall be deemed to be service on the first person.

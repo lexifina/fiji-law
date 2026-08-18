@@ -1,0 +1,2 @@
+# SCHEDULE NATIONAL FLAG
+[Sch am Act 15 of 2014 s 8, 1 January 2015]

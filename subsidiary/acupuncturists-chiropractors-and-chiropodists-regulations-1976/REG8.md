@@ -1,0 +1,2 @@
+# reg 8 Appeals
+Any person whose application for registration is refused by the Registrar under the provisions of regulation 3 or whose registration is cancelled by the Registrar under the provisions regulation 7(2) may, within 21 days of the date of notification to him or her of such refusal or cancellation, appeal to the High Court and on any such appeal the Court may make such order as it may think proper having regard to the merits of the case and the public welfare.

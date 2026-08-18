@@ -1,0 +1,3 @@
+# reg 3 Registration
+(1) Before commencing the occupation, trade or business of an acupuncturist, chiropractor or chiropodist, a person who has the qualifications prescribed by the Acupuncturists, Chiropractors and Chiropodists Qualification Regulations 1976 , shall apply to the Registrar for registration as an acupuncturist, chiropractor or chiropodist, as may be appropriate, and, if the Registrar is satisfied as to such qualifications, he or she shall, on receipt of the prescribed fee, register that person in the register of acupuncturists, chiropractors or chiropodists, as may be appropriate.
+(2) Any such registration shall be for a period of one year and may be renewed, on payment of the prescribed fee, annually.

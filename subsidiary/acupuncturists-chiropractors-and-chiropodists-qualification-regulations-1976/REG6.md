@@ -1,0 +1,2 @@
+# reg 6 Offence
+Any person who, without having satisfied the Permanent Secretary as to his or her qualifications to undertake the occupation, trade or business of an acupuncturist, a chiropractor or a chiropodist, performs, for reward, any act of acupuncture, chiropractic or chiropody, as the case may be, shall be guilty of an offence and shall be liable on conviction to a fine of $400 or to imprisonment for a term of 6 months or to both such fine and imprisonment.

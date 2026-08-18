@@ -1,0 +1,2 @@
+# reg 7 Misconduct
+In the event of any acupuncturist, chiropractor or chiropodist who, under these Regulations has satisfied the Permanent Secretary as to his or her qualifications, misconducting himself or herself in his or her occupation, trade or business as such, the Permanent Secretary may, in his or her discretion, withdraw his or her recognition of that person’s qualifications in which case that person shall cease to undertake that occupation, trade or business.

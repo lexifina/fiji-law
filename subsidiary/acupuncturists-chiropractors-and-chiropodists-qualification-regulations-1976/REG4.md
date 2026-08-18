@@ -1,0 +1,2 @@
+# reg 4 Chiropractors
+Any person proposing to undertake the occupation, trade or business of a chiropractor shall before so doing produce to the Permanent Secretary written evidence satisfactory to the Permanent Secretary that he or she is entitled to carry on business as a chiropractor and is qualified as such in any of the states of Australia or of the United States of America or in Canada, New Zealand or the United Kingdom.

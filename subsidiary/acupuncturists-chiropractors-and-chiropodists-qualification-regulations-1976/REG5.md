@@ -1,0 +1,2 @@
+# reg 5 Chiropodists
+Any person proposing to undertake the occupation, trade or business of a chiropodist shall before so doing produce to the Permanent Secretary written evidence satisfactory to the Permanent Secretary that he or she is entitled to carry on business as a chiropodist and is qualified as such in the United Kingdom, Canada or New Zealand or in any of the states of Australia or of the United States of America.

@@ -1,0 +1,2 @@
+# reg 63 Drawback on excisable goods returned for reprocessing
+Subject to such conditions and restrictions as he or she sees fit to impose, the Comptroller may grant drawback of excise duty paid on goods delivered for home consumption from an excise factory which are returned within 6 months of the date on which they were delivered from the excise factory to such excise factory for re-processing on account of having become unsaleable solely and inadvertently as a result of natural causes.

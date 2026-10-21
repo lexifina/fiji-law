@@ -1,0 +1,6 @@
+# SCHEDULE 3 FORM OF WARRANT OF DISTRESS
+TO:
+I, Comptroller of Customs and Excise, by virtue of the powers vested in me by section 39 of the Excise Act 1986 do by this Warrant authorise you to collect and recover the sum of due for excise duty from , manufacturer, having his or her excise factory at , and for the recovery of that sum I further authorise that you, with the aid (if necessary) of your assistant and calling to your assistance any police officer, which assistance they are by this Warrant required to give, do forthwith levy by distress the said sum together with the costs and charges of and incident to the taking and keeping of such distress, on the goods, chattels and other distrainable things of the said manufacturer wherever the same may be found and on all machinery, plant, tools, ships, aircraft, vehicles, animals, goods and effects used within Fiji in the manufacture, sale or distribution of excisable goods which you may find in any premises or on any lands in the use or possession of the said manufacturer or of any person on his or her behalf or in trust for him or her.
+And for the purpose of levying such distress you are by this warrant authorised, if necessary, with such assistance as aforesaid to break open any building or place in the daytime.
+Given under my hand at this day of 20.
+Comptroller of Customs and Excise.

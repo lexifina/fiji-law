@@ -1,0 +1,9 @@
+# Part 2
+GOODS EXEMPTED FROM EXCISE DUTIES
+( Section 23(2) )
+(1) Beer, spirits and tobacco goods purchased from an excise factory or an excise warehouse by or on behalf of the President of the Republic of Fiji and Commander-in-Chief of the Republic of Fiji Military Forces for his or her personal use or for the use of his or her family forming part of his or her household.
+(2) Beer, spirits and tobacco goods purchased from an excise factory or an excise warehouse, by or on behalf of:
+(a) the diplomatic missions of a State, international organisations, consular posts headed by career consular officers to which the Minister has for the time being accorded privileges and immunities under the Diplomatic Privileges and Immunities Act 1971 or the Consular Privileges and Immunities Act 1972 ;
+(b) the diplomatic agents of the Mission, representatives and holders of high offices, persons employed on missions on behalf of international organisations, career consular officers and members of their family forming part of their households to whom the Minister has for the time being accorded privileges and immunities under the Diplomatic Privileges and Immunities Act 1971 or the Consular Privileges and Immunities Act 1972 .
+(3) Subject to such conditions as the Comptroller may from time to time impose, beer, spirits and tobacco goods purchased by an approved concessionaire solely for the purpose of selling the same by retail within the customs area of an airport approved by the Comptroller to bona fide passengers about to depart by air from Fiji or to bona fide passengers immediately after final disembarkation in Fiji at an approved airport.
+(4) Goods (except spirits) made by an individual in his or her home for his or her own or his or her family’s use or consumption and which are not for sale or exchange for money or money’s worth.

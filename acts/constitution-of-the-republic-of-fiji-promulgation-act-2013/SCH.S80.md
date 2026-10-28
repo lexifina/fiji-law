@@ -1,0 +1,2 @@
+# s 80 Remunerations
+The remuneration, including salaries and allowances and benefits, payable to, the President, the Prime Minister, other Ministers, the Leader of the Opposition, the Speaker and the Deputy Speaker of Parliament and a member of Parliament shall be prescribed by a written law, and must not be varied to their disadvantage, except as part of an overall austerity reduction similarly applicable to all officers of the State.

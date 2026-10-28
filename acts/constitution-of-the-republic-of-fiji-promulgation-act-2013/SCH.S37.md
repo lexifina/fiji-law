@@ -1,0 +1,3 @@
+# s 37 Right to social security schemes
+(1) The State must take reasonable measures within its available resources to achieve the progressive realisation of the right of every person to social security schemes, whether private or public, for their support in times of need, including the right to such support from public resources if they are unable to support themselves and their dependents.
+(2) In applying any right under this section, if the State claims that it does not have the resources to implement the right, it is the responsibility of the State to show that the resources are not available.

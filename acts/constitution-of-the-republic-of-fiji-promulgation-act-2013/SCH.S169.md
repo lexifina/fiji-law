@@ -1,0 +1,4 @@
+# s 169 Functions of Parliament and Speaker
+(1) Notwithstanding the repeal of the laws mentioned in Part C of this Chapter, any function that has to be performed by the Speaker in this Constitution shall, until the first sitting of the first Parliament under this Constitution, be performed by the Prime Minister.
+(2) Notwithstanding the repeal of the laws mentioned in Part C of this Chapter, any function that has to be performed by Parliament in this Constitution shall, until the first sitting of the first Parliament under this Constitution, be performed by Cabinet.
+(3) Notwithstanding anything contained in this Constitution, until the first sitting of the first Parliament elected under this Constitution, any function, power or duty that is conferred under this Constitution on the Leader of the Opposition shall be performed by the Prime Minister.

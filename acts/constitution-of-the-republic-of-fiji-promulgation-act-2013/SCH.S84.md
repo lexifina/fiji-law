@@ -1,0 +1,6 @@
+# s 84 Appointment of President
+(1) The President shall be appointed by Parliament in accordance with this section.
+(2) Whenever a vacancy arises in the office of the President, the Prime Minister and the Leader of the Opposition shall nominate one name each to the Speaker who shall put both the names to the floor of Parliament for voting by the members of Parliament.
+(3) The person who receives the support of the majority of the members of Parliament present shall be appointed as the President, and the Speaker shall publicly announce the name of the President.
+(4) In the event that both persons nominated receive the same number of votes, the Speaker shall conduct the voting again after 24 hours, and voting shall continue until such time a person nominated as the President receives the support of the majority of the members of Parliament, provided however that if after 3 rounds of voting, no person receives the support of the majority of the members of Parliament, then the person nominated by the Prime Minister shall be announced by the Speaker as being appointed as the President by Parliament.
+(5) If the Prime Minister and the Leader of the Opposition nominate the same person, then no voting shall take place and the Speaker shall publicly announce that person as being appointed as the President by Parliament.

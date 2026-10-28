@@ -1,0 +1,3 @@
+# s 142 Authorisation of expenditure in advance of appropriation
+(1) Subject to any written law, if the Appropriation Act for a year has not come into operation by the beginning of the year, the Minister responsible for finance may, to the extent and subject to the conditions prescribed by any written law, authorise the withdrawal of moneys from the Consolidated Fund for the ordinary services of Government.
+(2) The total amount authorised for withdrawal under subsection (1) must not exceed one-third of the appropriations made for the ordinary services of Government in respect of the immediately preceding year.

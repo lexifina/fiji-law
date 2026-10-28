@@ -1,0 +1,6 @@
+# s 170 Elections
+(1) Notwithstanding anything contained in Chapter 4 of this Constitution, the first general election for members of Parliament under this Constitution shall be held on a date to be determined by the President, on the advice of the Prime Minister, provided however that the first general election must be held no later than 30 September 2014.
+(2) For the first general election of members of Parliament under this Constitution, the date on which such general election shall be held shall be publicly announced by the President at least 60 days before the date of the general election.
+(3) The writ for the first general election of members of Parliament under this Constitution shall be issued by the President on the advice of the Prime Minister, at least 44 days before the date of the general election.
+(4) For the first general election of members of Parliament under this Constitution, the last day for the receipt of a nomination of a candidate for election to Parliament shall be 30 days before the date of the general election.
+(5) Until such time the Electoral Commission or a Supervisor of Elections is appointed under this Constitution, the functions of the Electoral Commission or the Supervisor of Elections shall be performed by the Permanent Secretary responsible for elections.

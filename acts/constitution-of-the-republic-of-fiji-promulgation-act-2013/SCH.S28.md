@@ -1,0 +1,7 @@
+# s 28 Rights of ownership and protection of iTaukei, Rotuman and Banaban lands
+(1) The ownership of all iTaukei land shall remain with the customary owners of that land and iTaukei land shall not be permanently alienated, whether by sale, grant, transfer or exchange, except to the State in accordance with section 27.
+(2) Any iTaukei land acquired by the State for a public purpose after the commencement of this Constitution under section 27 or under any written law shall revert to the customary owners if the land is no longer required by the State.
+(3) The ownership of all Rotuman land shall remain with the customary owners of that land and Rotuman land shall not be permanently alienated, whether by sale, grant, transfer or exchange, except to the State in accordance with section 27.
+(4) Any Rotuman land acquired by the State for a public purpose after the commencement of this Constitution under section 27 or under any written law shall revert to the customary owners if the land is no longer required by the State.
+(5) The ownership of all Banaban land shall remain with the customary owners of that land and Banaban land shall not be permanently alienated, whether by sale, grant, transfer or exchange, except to the State in accordance with section 27.
+(6) Any Banaban land acquired by the State for a public purpose after the commencement of this Constitution under section 27 or under any written law shall revert to the customary owners if the land is no longer required by the State.

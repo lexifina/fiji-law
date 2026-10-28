@@ -1,0 +1,9 @@
+# s 29 Protection of ownership and interests in land
+(1) All ownership of land, and all rights and interests in land leases and land tenancies that existed immediately before the commencement of this Constitution shall continue to exist under this Constitution.
+(2) No law shall be made to diminish or adversely affect the rights and interests in land leases and land tenancies, whether existing immediately before the commencement of this Constitution or made or issued after the commencement of this Constitution.
+(3) All land lessees and land tenants have the right not to have their land leases or land tenancies terminated other than in accordance with their land leases or land tenancies.
+(4) Parliament and Cabinet, through legislative and other measures, must ensure that all land leases and land tenancies provide a fair and equitable return to the landowners whilst protecting the rights of land lessees and land tenants, including security and protection of tenure of land leases and land tenancies and terms and conditions of land leases and land tenancies which must be just, fair and reasonable.
+(5) All land that existed as freehold land immediately before the commencement of this Constitution shall remain as freehold land even if it is sold or purchased, unless it is sold to the State or is acquired by the State for a public purpose under section 27.
+(6) For the purposes of this section—
+"land leases" or land tenancies includes sub-leases, sub-tenancies and tenancies-at-will, but shall not include leases, agreements or tenancies for any building, structure or dwelling, whether used for residential, commercial, industrial or for tourism purposes, and shall not include any leases, agreements or tenancies for any fixture, equipment, plant or fittings on any land; and
+"land lessees" or land tenants includes sub-lessees, sub-tenants or tenants-at-will of land leases or land tenancies.

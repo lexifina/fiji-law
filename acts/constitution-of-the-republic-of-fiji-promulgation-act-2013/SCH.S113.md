@@ -1,0 +1,6 @@
+# s 113 Remuneration of judicial officers
+(1) The salaries and benefits payable to, or in respect of, a judicial officer must not be varied to the disadvantage of that judicial officer, except as part of an overall austerity reduction similarly applicable to all officers of the State.
+(2) The salaries and benefits payable to the Chief Justice and the President of the Court of Appeal shall be determined by the President on the advice of the Prime Minister following consultation by the Prime Minister with the Attorney-General.
+(3) The salaries and benefits payable to any person appointed as a Judge (other than the Chief Justice and the President of the Court of Appeal), Magistrate, Master of the High Court, the Chief Registrar or other judicial officers appointed by the Judicial Services Commission shall be determined by the Judicial Services Commission, following consultation with the Prime Minister and the Attorney-General.
+(4) The remuneration and benefits payable to or in respect of a judicial officer are a charge on the Consolidated Fund.
+(5) A judicial officer is protected from civil or criminal action for anything said or done, or omitted to be done, in the performance of a judicial function.

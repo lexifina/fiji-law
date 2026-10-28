@@ -1,0 +1,6 @@
+# reg 9.0
+Portable Radio Equipment
+State type and identity marks and Certificate expiry:
+................
+................
+Does it comply with SOLAS requirements? | Yes | No

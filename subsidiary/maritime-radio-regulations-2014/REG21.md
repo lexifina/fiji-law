@@ -1,0 +1,2 @@
+# reg 21 1.6 GHz EPIRB
+Float-free satellite emergency position-indicating radio beacons operating through the geostationary INMARSAT satellite system on 1.6 GHz shall comply with the Performance Standards for Float-Free Satellite Emergency Position-Indicating Radio Beacons Operating through the Geostationary INMARSAT Satellite System on 1.6 GHz prescribed in the latest edition of the IMO Publication (Performance Standards for Ship-borne Radio Communications and Navigational Equipment) amended by IMO from time to time.

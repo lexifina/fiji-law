@@ -1,0 +1,2 @@
+# reg 19 INMARSAT — ship earth station capable of two-way voice and data communication.
+INMARSAT ship earth stations capable of telephone and direct printing shall comply with the Performance Standards for Ship Earth Stations Capable of Two-Way Communication prescribed in the latest edition of the IMO Publication (Performance Standards for Ship-borne Radio Communications and Navigational Equipment).

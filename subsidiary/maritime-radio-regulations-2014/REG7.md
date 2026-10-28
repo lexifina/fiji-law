@@ -1,0 +1,2 @@
+# reg 7 Radio operators for foreign ships
+The person operating any of the radio equipment on any foreign passenger ship or any foreign non-passenger ship of 300 gross tonnage or more while the ship is at a Fiji port or offshore terminal shall hold, as a minimum qualification, a valid GMDSS General Operator’s Certificate issued in accordance with Chapter IV of STCW Convention subject to sections 26 and 27 of the Act.

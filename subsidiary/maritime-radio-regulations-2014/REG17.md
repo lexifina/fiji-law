@@ -1,0 +1,2 @@
+# reg 17 MF/ HF radio (voice communication, narrow-band direct printing and DSC)
+An MF/ HF radio installation used for radiotelephony, narrow-band direct printing and DSC and capable of transmitting and receiving for distress and safety purposes on all distress and safety frequencies in the bands between 1605 kHz and 4000 kHz and between 4000 kHz and 27500 kHz, shall comply with the standards prescribed in the latest edition of the IMO Publication (Performance Standards for Ship-borne Radio Communications and Navigational Equipment).

@@ -1,0 +1,2 @@
+# reg 29 General requirements for equipment forming part of the GMDSS system
+Equipment which forms part of the GMDSS system in addition to complying with its specific performance standard shall also comply with the standards prescribed in the latest edition of the IMO Publication (Performance Standards for Ship borne Radio Communications and Navigational Equipment) amended by IMO from time to time.

@@ -1,0 +1,2 @@
+# reg 7 Space between coffins
+In cases where it is permissible to bury more than one body in one grave, such grave shall be of sufficient depth so as to allow any part of the coffin containing the body to be placed at a depth of not less than 4 feet below the level of the surface of the ground adjoining the grave. In every case a layer of earth not less than one foot thick shall be left between any 2 coffins.

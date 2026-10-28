@@ -1,0 +1,2 @@
+# reg 5 Powers of attorney etc
+When any business is to be transacted with the Bank under a power of attorney, probate of a will or letters of administration to an estate, the Bank may require the original power of attorney, probate or letters of administration to an estate, the Bank may require the original power of attorney, probate or letters of administration to be produced to the Bank and may require a copy of the power of attorney, probate or letters of administration to be lodged with the Bank.

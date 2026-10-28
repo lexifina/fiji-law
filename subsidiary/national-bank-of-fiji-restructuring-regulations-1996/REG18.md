@@ -1,0 +1,3 @@
+# reg 18 Withdrawals
+(1) Before any money standing to the credit of an account is withdrawn, the Bank may require a withdrawal form, signed by the depositor or other person to whom the money is lawfully payable, to be presented to the Bank.
+(2) Any money to be withdrawn from the Bank may be paid to the person presenting the withdrawal form, and if that person is not the depositor or other person to whom the money is lawfully payable, the receipt of the money by the person presenting the withdrawal form shall, for all purposes, have the same effect as the receipt of the money by the depositor or other person to whom the money is lawfully payable.

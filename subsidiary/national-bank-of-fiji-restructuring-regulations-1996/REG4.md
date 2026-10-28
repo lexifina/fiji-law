@@ -1,0 +1,2 @@
+# reg 4 Bank not bound to inquire as to manner of operating accounts etc
+The Bank shall not be under any liability by reason of its failure to ascertain that the method in which a firm, company, society, local authority, club or other body of persons operates an account, deals with any security or transacts any other business with the Bank is in accordance with any deed, articles, rules or other instrument of any such body.

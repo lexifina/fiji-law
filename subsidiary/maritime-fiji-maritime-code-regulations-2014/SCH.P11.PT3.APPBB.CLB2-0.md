@@ -1,0 +1,2 @@
+# reg B2.0
+In a passenger ship to which this paragraph applies which is required by this paragraph to be provided with fire pumps operated by power, such fire pumps (other than any emergency fire pump) shall together be capable of delivering for firefighting purposes a quantity of water, under the conditions and at the pressure specified in Appendix D of this paragraph of not less than two-thirds of the quantity required to be dealt with by the bilge pumps.

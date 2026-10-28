@@ -1,0 +1,2 @@
+# reg 11.1
+Fire appliances shall be maintained in good order, kept fully charged and available for immediate use at all times. All portable fire appliances, other than firemen’s outfits, carried in compliance with this paragraph shall be stowed where they are readily accessible for a space in which they are intended to be used. The portable fire extinguishers intended for use in a space shall be suitable for dealing with the possible fire hazard and may be stowed near the entrance to and outside of the space.

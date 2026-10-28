@@ -1,0 +1,2 @@
+# reg 11.4
+This cause shall apply to all ships. There shall be provided means for stopping ventilating fans serving machinery, accommodation, service and cargo spaces. For machinery and cargo spaces there shall be provided means for closing all skylights, doorways, ventilators, annular spaces around funnels and other openings to such spaces. Such means shall be capable of being operated from positions outside the said spaces which would not be made inaccessible by a fire within such spaces.

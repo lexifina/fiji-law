@@ -1,0 +1,2 @@
+# reg 14.14
+Where a survey or inspection of a ship’s hull is to be carried out, the owner shall cause the ship to be withdrawn from the water and placed in a satisfactory manner to enable the Surveyor to make an external examination of the hull, underwater fittings, shafting, propeller(s), rudder(s) and any other appurtenances. Prior to such examination, the hull shall have been blasted, washed and cleaned, but shall not have been painted.

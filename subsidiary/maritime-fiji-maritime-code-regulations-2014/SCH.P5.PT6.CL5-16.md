@@ -1,0 +1,4 @@
+## PART 6 CONSTRUCTION — USE OF ASBESTOS ONBOARD SHIPS
+# reg 5.16
+Ships built before 1 July 2002 and have in their structure and fittings Asbestos Containing Material (ACMs) are only permitted to maintain these ACMs, as long as they do not pose a risk to the crew’s health. The crew will be made aware of the dangers of asbestos and trained to deal with asbestos in case disturbance of the ACMs cannot be avoided. Such ships shall strictly comply with IMO Resolution MSC/Circ. 1045 Guidelines for Maintenance and Monitoring of Onboard Materials Containing Asbestos. Ship owners or operators shall ensure that their ships comply with this provision.
+Any person who fails to comply with this subparagraph commits an offence and is liable upon conviction to a fine not exceeding $5,000 or 3 months imprisonment or both.

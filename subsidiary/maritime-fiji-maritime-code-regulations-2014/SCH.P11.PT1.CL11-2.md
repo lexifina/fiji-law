@@ -1,0 +1,2 @@
+# reg 11.2
+Where any non-passenger ship to which this paragraph applies carries prescribed explosives in a compartment, that compartment and the adjoining cargo compartments shall be provided with a fire detection system complying with the requirements of Appendix A of this paragraph or a smoke detection system. Steam shall not be used for fire smothering purposes in any compartment containing explosives.

@@ -1,0 +1,4 @@
+# reg 15.18
+Emergency steering gear drill
+15.18.1 In addition to the routine checks and tests required by subparagraph 15.17.1 and 15.18.2 emergency steering drills shall take place at least once every 3 months in order to operate the emergency steering gear and practice its procedures. These drills shall include direct control from within that steering gear compartment, the communications procedure with the navigating bridge and, where applicable, the operation of alternative power supplies.
+15.18.2 The date upon which the checks and tests prescribed in subparagraphs 15.17.1 and 15.17.2 are carried out and the date and details of emergency steering drills carried out under subparagraph 15.18.1 shall be recorded in the log book or ship record book or in such manner as may be required by the Chief Executive Officer.

@@ -1,0 +1,3 @@
+# reg 5.17
+New installations of Asbestos Containing Material (ACMs) are prohibited from being used onboard ships and only under exceptional circumstances the Chief Executive Officer may approve the use of ACMs onboard ships for vanes, joints and insulations. Under these circumstances, strict compliance with IMO Resolution MSC/Circ 1045 Guidelines for Maintenance and Monitoring of Onboard Materials Containing Asbestos shall be adhered to. Ship owners or operators shall ensure that their ships comply with this provision.
+Any person who fails to comply with this subparagraph commits an offence and is liable upon conviction to a fine not exceeding $5,000 or 3 months imprisonment or both.

@@ -1,0 +1,5 @@
+# reg B1.0
+Combustible — Gas Detector
+1.1 Combustible-gas detectors are suitable for testing for leaks after fuel gas has been introduced to the system, and are particularly useful for checking assembly joints after installation. Care in interpretation is necessary, as the detectors can respond to the presence of any of several vapours that are combustible, some of which may not be LPG (eg oil smears, jointing compound etc). They may also detect residual LPG vapour that is present for reasons other than leakage, and which shall be cleared before a valid test for leakage can be made. If a leak is present, a detector will signal its existence, but not its size, and will indicate a general location, but may not be able to locate it exactly, so a follow-up or proving check with foam is recommended.
+1.2 The combustion-gas detector is capable of detecting 25 parts per million (ppm) of LPG in air. Exhaust gas analysers are not suitable for leak detectors.
+1.3 It is important to keep the sensing element in contact with the surface of the part being tested, and that the test be carried out under still air conditions.

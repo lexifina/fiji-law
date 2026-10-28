@@ -1,0 +1,5 @@
+# reg 2.8
+Chief Executive Officer may decline to issue certificates of competency to certain people—
+2.8.1 Where an application for a Certificate of Competency is made by a person who is neither a citizen of Fiji nor of any other country which is a member of the South Pacific Forum it may decline to issue the certificate applied for.
+2.8.2 Where the Chief Executive Officer, acting in accordance with subparagraph 2.8.1, declines to issue a Certificate of Competency to a person who would otherwise be entitled to the issue of that certificate the Chief Executive Officer shall instead issue that person with a document, certifying the examination results of the applicant in respect of any examination which the applicant sat and which would otherwise have led to a qualification for a Certificate of Competency.
+2.8.3 A document issued under subparagraph 2.8.2 shall, as far as practicable, be in such form as to satisfy the reasonable requirements of the appropriate authorities in the applicant’s home country.

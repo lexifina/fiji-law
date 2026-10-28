@@ -1,0 +1,6 @@
+# reg J3.2
+Design and Construction
+J3.2.1 The design of the winch should include a brake or other equally effective arrangement such as a properly constructed worm drive, which is capable of supporting the working load in the event of power failure. If the brake is exposed to the weather, it shall be capable of withstanding a test with the braking surface wetted.
+J3.2.2 Efficient hand gear should be provided to lower or recover the pilot at a speed of not less than 10 metres per minute in the event of power failure. The brake or other arrangement required in subparagraph J3.2 above should be capable of supporting the working load when the hand gear is in use.
+J3.2.3 Crank handle(s) provided for manual operation should, when engaged, be interlocked so that the power supply is automatically cut off.
+J3.2.4 Hoists should be fitted with safety devices to automatically cut off the power supply before the ladder comes against any stop to avoid overstressing the falls or other parts of the hoist. However, in the case of hoists operated by pneumatic power, if the maximum torque available from the air motor cannot result in overstressing of the falls or other parts of the hoist, the safety cutout device may be omitted.

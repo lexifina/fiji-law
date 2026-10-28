@@ -1,0 +1,2 @@
+# reg J1.2
+A mechanical pilot hoist shall be of a type approved by the Chief Executive Officer and shall be required to comply with the provisions contained in this Appendix. Design and construction shall be such as to ensure that the pilot can be embarked and disembarked in a safe manner including a safe access from the hoist to the deck and vice versa. The hoist shall be used solely for the embarkation and disembarkation of pilots and persons on official business.

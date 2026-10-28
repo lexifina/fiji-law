@@ -1,0 +1,2 @@
+# reg 14.36
+Where the Chief Executive Officer is satisfied, by reason of a report that a ship under its survey fails to comply, for any reason, with the appropriate survey requirements of this regulation , the Chief Executive Officer may suspend the Survey Certificate and the owner shall be advised accordingly. The owner when so advised, shall not operate the ship without the approval of the chief Executive Officer.

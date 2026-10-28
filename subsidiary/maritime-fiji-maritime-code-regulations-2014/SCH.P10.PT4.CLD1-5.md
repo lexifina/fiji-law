@@ -1,0 +1,2 @@
+# reg D1.5
+Buoyant grab lines shall be fitted all round the appliance. The grab lines shall be secured to the appliance at not more than 460mm centres nor less than 300mm centres and interlaced to prevent movement. The depth of the loop when wet shall not be less than 150mm and not more than 200mm. The grab lines shall be of rope not less than 7mm diameter. The fastenings securing the grab lines to the appliance shall be strong enough to permit the appliance being lifted by the grab lines.

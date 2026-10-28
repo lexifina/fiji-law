@@ -1,0 +1,3 @@
+# reg 8 Dangerous conditions
+(1) Any forest officer who is aware of any condition on any land, building, structure or equipment which in his or her opinion may cause danger from fire to life or property may order the owner or person in control of or the person who has caused such condition to take forthwith such action as the forest officer may deem necessary to remove or reduce such danger and in default the forest officer may himself or herself take such action.
+(2) The cost of any action taken by a forest officer under subregulation (1) shall be recoverable from the owner or person in control of the relevant land, building, structure or equipment as a civil debt.

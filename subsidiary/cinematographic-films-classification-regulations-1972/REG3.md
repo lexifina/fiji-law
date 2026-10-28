@@ -1,0 +1,2 @@
+# reg 3 Films in a programme
+When more than one film is exhibited in a programme of films, every film shown during such programme shall be deemed to be classified in the category of the most restricted film in the programme, and no person shall be admitted to the programme or any part of the programme unless he or she may lawfully attend the exhibition of the most restricted film in the programme.

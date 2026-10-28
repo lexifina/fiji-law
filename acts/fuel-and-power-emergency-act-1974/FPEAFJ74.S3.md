@@ -1,0 +1,2 @@
+# s 3 Regulations
+Notwithstanding the provisions of any other written law and of any grant, licence, permit, concession or authority granted thereby or made thereunder, whenever the Minister is satisfied that an emergency has arisen or is threatened relating to the supply, distribution or use of fuel and power he or she may make regulations with respect to such supply, distribution or use or the movement or means of transport including the power to require any person to furnish, keep and produce any information or records in connection therewith.

@@ -1,0 +1,6 @@
+# reg 22 AFS initial survey
+(1) During initial surveys when a ship is under construction, issues relating to anti-fouling systems on that ship shall be examined in detail in order to ascertain whether it meets the relevant requirements in these Regulations.
+(2) Samplings of coatings may be required to verify compliance in cases where—
+(a)anti-fouling systems complying with the requirements provided in regulation 28 have been applied to a ship and its application works;
+(b)in cases where any anti-fouling systems not complying with those requirements given in regulation 28 have been applied to a ship and compliant anti-fouling systems are applied to that ship after the removal of the non-compliant anti-fouling systems, the removal works of the existing non-compliant anti-fouling system and the compliant system and its application works shall be newly applied; or
+(c)in cases where any anti-fouling systems not complying with the requirements provided in regulation 28 have been applied to a ship and compliant anti-fouling systems are applied on barriers which cover any existing non-compliant anti-fouling systems and are applied in accordance with the provisions of regulation 29, the barrier and the system and their application works shall be newly applied.

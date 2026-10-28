@@ -1,0 +1,3 @@
+# reg 29 Barriers
+(1) In cases where any anti-fouling systems not complying with the requirements provided under regulation 28 have been applied to ships and cannot be removed, existing non-compliant systems shall be covered by sealer coats deemed appropriate by the Chief Executive Officer to form a barrier against organotin compounds leaching out from underlying non-compliant anti-fouling systems.
+(2) For the purpose of this regulation, the colours of barriers selected shall be such, that the barriers can be distinguished from any underlying anti-fouling systems and any newly applied anti-fouling systems on such barriers.

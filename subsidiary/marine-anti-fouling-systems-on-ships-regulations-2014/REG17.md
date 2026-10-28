@@ -1,0 +1,4 @@
+# reg 17 Requirement to carry Declaration
+(1) The owner or master of a Fiji ship engaged in domestic trade and a Fiji ship of 24 metres or more in length, but less than 400 gross tonnage engaged in an international voyage shall ensure that a Declaration is carried onboard at all times.
+(2) The master of a Fiji ship engaged in domestic trade shall produce the Declaration to an appointed surveyor or inspector, enforcement and compliance officer or police officer when required at all reasonable times.
+(3) The owner or master of a Fiji ship of 24 metres or more in length, but less than 400 gross tonnage engaged in international voyages, shall produce the Declaration to an appointed surveyor, port state control inspector, enforcement and compliance officer, or port state control inspectors of another state party to the AFS Convention, when required.

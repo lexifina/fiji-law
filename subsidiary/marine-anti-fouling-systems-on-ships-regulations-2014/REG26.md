@@ -1,0 +1,3 @@
+# reg 26 Occasional surveys
+(1) In cases where anti-fouling systems are changed or replaced, a survey shall be carried out and such anti-fouling systems on ships shall be confirmed as complying with those requirements of this regulation in line with those requirements given in regulation 21.
+(2) Notwithstanding subregulation (1), in cases where anti-fouling systems are not changed and all the plans and documents listed in regulation 23 are submitted to the Chief Executive Officer and compliance with these Regulations can be confirmed from such plans and documents, the Chief Executive Officer may omit onsite inspections.

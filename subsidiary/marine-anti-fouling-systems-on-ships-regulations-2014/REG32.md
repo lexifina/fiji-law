@@ -1,0 +1,5 @@
+# reg 32 Obligation to carry Certificate
+(1) The owner or master of a Fiji ship of 400 gross tonnage or more engaged on international voyage or foreign ship shall ensure that the ship is not taken to or from a shipping facility in Fiji, or permit a ship to be taken to or from a shipping facility in Fiji one year after the commencement of these Regulations, if the ship does not carry onboard a Certificate.
+(2) Any person who contravenes this regulation commits an offence and shall be liable upon conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 2 years, or to both.
+(3) The owner or master of a Fiji ship of 400 gross tonnage or more engaged on international voyage shall ensure that one year after the commencement of these Regulations, a Certificate is always carried onboard the ship.
+(4) Any person who contravenes this regulation commits an offence and shall be liable upon conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 3 months, or to both.

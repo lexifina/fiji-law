@@ -1,0 +1,3 @@
+# reg 6 Publication
+(1) Any modification or alteration of an approved scheme submitted to the Permanent Secretary by the Director or a local authority under these Regulations, may be declared by the Permanent Secretary subject to the conditions under these Regulations.
+(2) As soon as the modification or alteration of an approved scheme has been declared by the Permanent Secretary, the Director must inform the local authority and publicly notify the modification or alternation of the approved scheme with a copy of all maps and other particulars comprised in the scheme, in the Gazette and a daily newspaper, or any other form of media, including electronic publication, as the local authority deems necessary.

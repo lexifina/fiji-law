@@ -1,0 +1,2 @@
+# cl 3.
+The provisions of paragraphs 1 and 2, shall not apply to income from activities performed in a Contracting State by entertainers or sportspersons if the activities are substantially supported by public funds of one or both of the Contracting States or of political subdivisions or local authorities thereof. In such a case, the income shall be taxable only in the Contracting State of which the entertainer or sportsperson is a resident.

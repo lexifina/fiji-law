@@ -1,0 +1,3 @@
+# cl 3.
+(a)A building site or construction, installation or assembly project or supervisory activities in connection therewith constitutes a permanent establishment only if such site, project or activities last more than 6 months within any 12-month period.
+(b)The furnishing of services, including consultancy services, by an enterprise through employees or other personnel engaged by the enterprise for such purpose, but only where activities of that nature continue (for the same or connected project) within the country for a period or periods aggregating more than 182 days within any 12-month period.

@@ -1,0 +1,2 @@
+# cl 3.
+Profits derived by a transportation enterprise which is a resident of a Contracting State from the use, maintenance, or rental of containers (including trailers and other equipment for the transport of containers) used for the transport of goods or merchandise in international traffic shall be taxable only in that Contracting State unless the containers are used solely within the other contracting State.

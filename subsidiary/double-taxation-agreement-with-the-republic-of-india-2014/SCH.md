@@ -1,0 +1,2 @@
+# SCHEDULE AGREEMENT BETWEEN THE GOVERNMENT OF THE REPUBLIC OF FIJI AND THE GOVERNMENT OF THE REPUBLIC OF INDIA FOR THE AVOIDANCE OF DOUBLE TAXATION AND THE PREVENTION OF FISCAL EVASION WITH RESPECT TO TAXES ON INCOME
+The Government of the Republic of Fiji and the Government of the Republic of India, desiring to conclude an Agreement for the avoidance of double taxation and the prevention of fiscal evasion with respect to taxes on income and with a view to promoting economic cooperation between the two countries, have agreed as follows:

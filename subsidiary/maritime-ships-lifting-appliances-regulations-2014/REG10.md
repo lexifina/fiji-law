@@ -1,0 +1,5 @@
+# reg 10 Register of equipment
+(1) The master of a ship shall be required to ensure that a register of equipment listing all the lifting appliances and items of loose cargo gear carried by the ship and, stating their safe working loads, is kept and maintained on board the ship in accordance with the requirements of this regulation.
+(2) The master of a ship shall be required to ensure that particulars of all tests undertaken or certificates of test issued under regulation 6, examinations under regulation 7 and inspections under regulation 8(1), that prove unsatisfactory, and any heat treatment, maintenance, repair or replacement of lifting appliances or loose cargo gear, are recorded in the register of equipment.
+(3) Particulars of a certificate of test may be recorded or the certificate of test shall be kept as part of the register of equipment.
+(4) A register of equipment may be kept in any convenient form, provided each entry is legible and is authenticated by the responsible person.

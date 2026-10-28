@@ -1,0 +1,7 @@
+## The Pro-Chancellor
+# cl 4
+(1) The first Pro-Chancellor shall hold office from the appointed day until the thirtieth day of June 1973 or until earlier resignation, and shall be eligible for re-appointment. The Pro-Chancellor shall be the Chairman of the Council.
+(2) The successors to the first Pro-Chancellor shall be appointed by the Council and shall hold office for a term of three years or until earlier resignation, and shall be eligible for re-appointment: provided that the Council may, on the appointment or re-appointment of any Pro-Chancellor, specify that his term of office shall be shorter than the said period of three years: provided also that, upon any person, including the first Pro-Chancellor, completing two consecutive terms as Pro-Chancellor (not including a term for which he has been appointed under paragraph (4) of this Statute) he shall not be eligible for re-appointment until after lapse of a period of three years from the date on which he ceased to hold office as Pro-Chancellor.
+(3) If a person who is not a member of the Council is appointed to be the Pro-Chancellor, he shall on appointment become a member of the Council ex-officio.
+(4) If the office of Pro-Chancellor becomes vacant, by death or resignation or from any other cause, before the expiration of his term of office, the vacancy shall be filled at the next meeting of the Council or at any subsequent meeting for the remainder of that term.
+(5) The Pro-Chancellor may resign by writing addressed to the Council.

@@ -1,0 +1,3 @@
+# cl 2
+(1) The persons appointed before the appointed day by the Interim Council of the University of the South Pacific to be members of the academic and administrative staff of the University (including the first Vice-Chancellor and the first Registrar) shall after the appointed day hold the same office or such office as corresponds thereto on the staff of the University as if they had been appointed thereto in accordance with the Charter and the Statutes.
+(2) The said persons shall hold office as nearly as practicable upon the same terms and conditions as governed their appointments before the appointed day but so that after the appointed day they shall hold office subject to the Charter and the Statutes.

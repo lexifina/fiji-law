@@ -1,0 +1,4 @@
+# reg 7 Marine protected areas
+(1) The installation of mooring buoys in declared marine protected areas under the Offshore Fisheries Management Act 2012 is prohibited unless the consent of the Permanent Secretary responsible for Fisheries is obtained.
+(2) Installation of a mooring buoy in a customary fishing right area under the Fisheries Act 1941 is prohibited unless consent of the customary fishing rights owners is obtained, and the owners’ details are verified and confirmed with the iTaukei Lands and Fisheries Commission.
+(3) An applicant for a mooring buoy proposed to be installed in a customary fishing rights area shall submit to the Chief Executive Officer evidence of consent of the owners and verification of the owners’ entitlement to that area from the iTaukei Lands and Fisheries Commission, with the application form.

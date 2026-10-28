@@ -1,0 +1,5 @@
+# reg 4 Application to inspect records
+(1) Subject to the provisions of paragraph (4), any person wishing to inspect public records in the Archives office shall apply in writing to the Archivist stating the purpose for which he or she requires access and the general nature of the records which he or she wishes to inspect.
+(2) Each application made under the provisions of paragraph (1) shall be accompanied by a reference from the institution to which the applicant is attached, or, where the applicant is not so attached to any institution, from a prominent and responsible person resident in Fiji.
+(3) Every application accompanied by the reference referred to in paragraph (2) shall be submitted by the Archivist to the Minister for his or her consideration and the decision of the Minister thereon shall be final.
+(4) Notwithstanding the provisions of the preceding paragraphs, the Archivist may, in his or her discretion and in accordance with general instructions given to him or her by the Minister, permit access to the public records without requiring the written application or the reference referred to in paragraphs (1) and (2).

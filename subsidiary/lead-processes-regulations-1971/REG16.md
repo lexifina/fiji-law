@@ -1,0 +1,4 @@
+# reg 16 Medical examinations
+(1) Every person employed in a lead process shall be examined by a medical practitioner within the 7 days preceding or following the date of his or her first employment in such process and thereafter shall be examined by a medical practitioner once in every calendar month, or at such other intervals as may be specified in writing by the chief inspector, on a day of which due notice shall be given to all concerned.
+(2) For the purpose of this regulation, employment means first employment in a lead process in the factory and also re-employment therein in a lead process following any cessation of employment in such process for a period exceeding 3 calendar months.
+(3) No person after suspension shall be employed in a lead process without written sanction from the medical practitioner entered in or attached to the general register.

@@ -1,0 +1,6 @@
+# reg 5 Gangways
+If a ship other than a barge is lying at a wharf or quay for the purpose of loading or unloading or fuelling there shall be safe means of access for the use of employees at such times as they have to pass from the ship to the shore or from the shore to the ship as follows—
+(a)where reasonably practicable, the ship’s accommodation ladder or a gangway or a similar construction not less than 550 mm wide, properly secured and fenced throughout on each side to a clear height of 1m by means of upper and lower rails, taut ropes or chains or by other equally safe means, except that in the case of the ship’s accommodation ladder such fencing shall be necessary on one side only if the other side is properly protected by the ship’s side;
+(b)in other cases, a ladder of sound material and adequate length which shall be properly secured to prevent slipping, provided that—
+(i)nothing in this regulation shall apply to cargo stages or cargo gangways if other proper means of access is provided; and
+(ii)as regards any sailing vessel not exceeding 250 tonnes nett registered tonnage and any steam vessel not exceeding 150 tonnes gross registered tonnage, this regulation shall not apply if and while the conditions are such that it is possible without undue risk to pass to and from the ship without the aid of any special appliances.

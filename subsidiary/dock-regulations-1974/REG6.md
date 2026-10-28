@@ -1,0 +1,2 @@
+# reg 6 Gear certification
+The employer shall not permit the use of any ship’s cargo handling gear until he or she has ascertained that the ship has a current and valid cargo gear register and certificates indicating that the cargo gear has been tested, examined and annealed in accordance with the requirements of International Labour Organisation, Convention No 32, Protection against Accidents (Dockers) Convention (Revised), 1932.

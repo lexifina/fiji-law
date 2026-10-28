@@ -1,0 +1,5 @@
+# reg 5 Place and conduct of cremation and disposal of ashes
+(1) Cremation of a dead body shall only be allowed in such places as a burial authority may from time to time direct or appoint.
+(2) In all cases cremation shall be conducted under general directions given by, and in accordance with any general or special rules of conduct and any general or special arrangements made by, the burial authority in charge of the place at which the cremation takes place.
+(3) Incineration of a dead body must be complete and the ashes shall be disposed of by handing them to the next of kin or other person who, immediately prior to the cremation, had charge of the dead body or in the event of there being no such next of kin or other person or of such next of kin or other person refusing to accept such ashes, in such manner as the burial authority may direct.
+(4) A burial authority may delegate any of his or her functions or duties under subsections (2) and (3) to the manager or other person directly in charge of and responsible for any burial-ground or place in which a cremation takes place.

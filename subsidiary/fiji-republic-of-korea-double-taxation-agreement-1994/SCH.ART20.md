@@ -1,0 +1,2 @@
+# ARTICLE 20 STUDENTS AND TRAINEES
+Payments which a student or trainee who is or was immediately before visiting a Contracting State a resident of the other Contracting State and who is present in the first mentioned State solely for the purpose of his or her education or training receives for the purpose of his or her maintenance, education or training shall not be taxed in that State, provided that such payments arise from sources outside that State.

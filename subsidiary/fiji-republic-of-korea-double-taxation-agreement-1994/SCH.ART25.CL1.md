@@ -1,0 +1,3 @@
+## ARTICLE 25 MUTUAL AGREEMENT PROCEDURE
+# cl (1)
+Where a person considers that the action of one or both of the Contracting States result or will result for him in taxation not in accordance with the provisions of this Convention, he may, irrespective of the remedies provided by the domestic law of those States, present his case to the competent authority of the Contracting State of which he or she is a resident or, if his or her case comes under paragraph (1) of Article 24, to that of the Contracting State of which he or she is a national. The case must be presented within three years from the first notification of the action resulting in taxation not in accordance with the provisions of the Convention.

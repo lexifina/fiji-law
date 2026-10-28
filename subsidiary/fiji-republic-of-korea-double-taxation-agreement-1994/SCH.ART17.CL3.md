@@ -1,0 +1,2 @@
+# cl (3)
+The provisions of paragraphs (1) and (2) shall not apply to remuneration or profits, salaries, wages and similar income derived from activities performed in a Contracting State by entertainers or athletes if their visit to that State is substantially supported from the public funds of the other Contracting State, including those of any political subdivision, a local authority or statutory body thereof.

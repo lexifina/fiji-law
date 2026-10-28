@@ -1,0 +1,2 @@
+# SCHEDULE CONVENTION BETWEEN THE REPUBLIC OF KOREA AND THE REPUBLIC OF FIJI FOR THE AVOIDANCE OF DOUBLE TAXATION AND THE PREVENTION OF FISCAL EVASION WITH RESPECT TO TAXES ON INCOME
+THE Government of the Republic of Korea and the Government of the Republic of Fiji, desiring to conclude a Convention for the avoidance of double taxation and the prevention of fiscal evasion with respect to taxes on income and for the encouragement of mutual trade and investment, have agreed as follows:

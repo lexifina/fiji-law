@@ -1,0 +1,2 @@
+# cl (3)
+Except where the provisions of Article 9, paragraph (8) of Article 11 or paragraph (6) of Article 12 apply, interest, royalties and other disbursements paid by an enterprise of Contracting State to a resident of the other Contracting State shall, for the purpose of determining the taxable profits of such enterprise, be deductible under the same conditions as if they had been paid to a resident of the first mentioned State.

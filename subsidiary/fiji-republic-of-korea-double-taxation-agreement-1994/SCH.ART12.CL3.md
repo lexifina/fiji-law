@@ -1,0 +1,2 @@
+# cl (3)
+The term “royalties” as used in this Article means payments of any kind received as a consideration for the use of, or the right to use, any copyright of literary, artistic or scientific work including cinematograph films, and films or tapes for radio or television broadcasting any patent, trade mark, design or model, plan, secret formula or process, or for the use of or the right to use industrial, commercial, or scientific equipment, or for information concerning industrial, commercial or scientific experience.

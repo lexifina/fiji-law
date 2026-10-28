@@ -1,0 +1,2 @@
+# cl (5)
+The term “interest” as used in this Article means income from debt-claim of every kind, whether or not secured by mortgage and whether or not carrying a right to participate in the debtor's profits, and in particular, income from Government securities and income from bonds or debentures, including premium and prizes attaching to such securities, bonds or debentures, other income assimilated to income from money lent by the taxation law of the Contracting State in which the income arises.

@@ -1,0 +1,3 @@
+# reg 35 Controls on discharge of washing agents or additives
+(1) The discharge of any cleaning agent containing a noxious liquid substance or a mineral oil used as a medium to wash a cargo tank shall be made in accordance with the regulations applicable to that substance as if that medium was carried as a cargo.
+(2) Small amounts of cleaning additives added to water to wash a cargo tank may be discharged under the requirements applicable to that tank and the previous cargo carried provided that in the case of additives containing category X substance components, those components are readily biodegradable and present in a total concentration of less than 10 percent of the cleaning additive.

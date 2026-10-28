@@ -1,0 +1,3 @@
+# reg 67 Reporting of spills
+(1) Immediately after any marine spill involving oil, noxious liquid substance or other harmful substance, the owner of an offshore installation or device shall report the spill by the fastest means of communication available and with the highest possible priority in accordance with regulations 6 and 9.
+(2) If the person responsible for implementing the emergency spill response procedures considers that any marine spill cannot be contained or cleaned up using the resources available to that person, he or she shall report that fact by the fastest means of communication available and with the highest possible priority in accordance with regulations 6 and 9.

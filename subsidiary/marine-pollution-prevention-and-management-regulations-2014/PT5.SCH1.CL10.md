@@ -1,0 +1,3 @@
+# reg 10 Coastal state authorisation and requirement
+(1) The Noxious Liquid Substances Plan shall identify the circumstances in which the master shall seek authorisation from the coastal state before undertaking specific actions to mitigate marine pollution from noxious liquid substances.
+(2) If the ship trades to, or in the vicinity of, any coastal state that requires the owner to initiate the response to marine pollution from noxious liquid substances, the owner shall provide the master with guidance of sufficient detail and appropriate equipment to allow the master to initiate that response.

@@ -1,0 +1,4 @@
+## DIVISION 10 FACILITIES FOR THE RECEPTION OF NOXIOUS LIQUID SUBSTANCES, SEWAGE AND GARBAGE
+# reg 76 Requirement for ports
+(1) A person, operator or port management company shall ensure that if ships carrying noxious liquid substances in bulk load and unload cargo at the port, there are reception facilities available at the port with sufficient capacity to receive, all residues and mixtures of noxious liquid substances that remain for disposal from such ships.
+(2) A person, operator or port management company shall ensure that if repairs to chemical carrier are undertaken at the port there are reception facilities available at the port or wharf with sufficient capacity to receive residues and mixtures containing noxious liquid substances from those chemical carriers being repaired at the port or wharf.

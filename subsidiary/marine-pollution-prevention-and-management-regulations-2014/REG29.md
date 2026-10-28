@@ -1,0 +1,4 @@
+# reg 29 Operations and Equipment Manual for foreign ships — crude oil washing
+The owner and the master of any foreign ship that is an oil tanker that has a crude oil washing system and that is within Fiji waters shall ensure that if the ship is registered in a—
+(a)State party to MARPOL, there shall be carried on board the ship an Operations and Equipment Manual for the ship approved by the Administration of the State the ship is registered in; or
+(b)State which is not party to MARPOL, there is carried on board the ship, a manual for the ship containing all the information set out in the revised Specification for the Design, operation and control of crude oil washing systems and meeting all the requirements for the form and content of an Operations and Equipment Manual adopted by IMO resolution A.446(XI), amended by resolution A.497(XII), and further amended by resolution A.897(21).

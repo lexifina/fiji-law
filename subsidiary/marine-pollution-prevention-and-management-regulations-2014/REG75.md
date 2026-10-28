@@ -1,0 +1,2 @@
+# reg 75 Requirements for dry bulk cargo terminals used by combination carriers
+A person, operator or port management company shall ensure that if dry bulk cargoes are loaded at the port there are reception facilities available at the port with sufficient capacity to receive oil residues from combination carriers which cannot be discharged in accordance with this part and that those facilities take account, as appropriate, of the fact that combination carriers may carry either oil or dry bulk cargoes.

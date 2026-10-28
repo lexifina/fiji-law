@@ -1,0 +1,4 @@
+# reg 28 Operation Manual for foreign ships — dedicated clean ballast tanks
+The owner and the master of any foreign ship that is an oil tanker operating with dedicated clean ballast tanks and that is within Fiji waters shall ensure that—
+(a)if the ship is registered in a State party to MARPOL Convention, there shall be carried on board the ship a Dedicated Clean Ballast Tank Operation Manual for the ship approved by the Administration of the State the ship is registered in; or
+(b)if the ship is registered in a State which is not a party to MARPOL Convention, there shall be carried on board the ship, a manual for the ship containing all the information set out in the revised Specification for Oil Tankers with Dedicated Clean Ballast Tanks and meets all the requirements for the form and content of an Operations and Equipment Manual adopted by IMO resolution A.495(XII), as amended by IMO from time to time.

@@ -1,0 +1,2 @@
+# reg 74 Requirements for ports with ship repair yards and tank cleaning facilities
+A person, operator or port management company shall ensure that if the port has ship repair yards or tank cleaning facilities there are reception facilities available at the port with sufficient capacity to receive, oily residues and oily mixtures which remain on board for disposal from ships prior to entering such yards or facilities.

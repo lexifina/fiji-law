@@ -1,0 +1,4 @@
+## DIVISION 9 FACILITIES FOR THE RECEPTION OF OIL
+# reg 71 Requirements for ports, wharfs and marinas
+(1) A person, operator or port management company shall ensure that, if the port, wharf, or marina handling ships with oily mixtures and oily wastes cannot be discharged in accordance with this Part, that there are reception facilities available at the port, wharf, and marina with sufficient capacity to receive, oily bilge water and other residues from such ships.
+(2) A person, operator or port, management company shall ensure that if the port, wharf, or marina handles ships of 400 gross tonnage or more there are reception facilities available at the port with sufficient capacity to receive, all oil residue (sludge) from oil residue (sludge) tanks from all such ships that may reasonably be expected to call at that port, wharf, or marina.

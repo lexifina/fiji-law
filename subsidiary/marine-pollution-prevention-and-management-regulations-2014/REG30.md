@@ -1,0 +1,6 @@
+# reg 30 Operations Manual for foreign ships — oil discharge and monitoring
+The owner and the master of any foreign ship to which regulation 24(g) applies shall ensure that—
+(a)if the ship is registered in a State party to MARPOL Convention, there is carried on board the ship a manual, for the operation of the oil discharge monitoring and control system of the ship, approved by the administration of the State the ship is registered in; or
+(b)if the ship is registered in a State which is not party to MARPOL Convention, there is carried on board the ship a manual for the ship—
+(i)containing all the information set out in the Guidelines and Specifications for Oil Discharge Monitoring and Control Systems for Oil Tankers adopted by the International Maritime Organization in resolution A.586(14), or the Revised Guidelines and Specifications for Oil Discharge and Monitoring and Control Systems for Oil Tankers adopted by the IMO by resolution MEPC.108(49) as applicable; and
+(ii)containing instructions covering both manual and automatic operations and all other matters required to ensure that at no time oil or oily mixtures are discharged into the sea except in compliance with the conditions specified in Annex I of MARPOL Convention.

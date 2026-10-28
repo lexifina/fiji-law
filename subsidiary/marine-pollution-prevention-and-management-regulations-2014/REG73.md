@@ -1,0 +1,2 @@
+# reg 73 Requirements for ports unloading high density oils
+A person, operator or port management company shall ensure that if oil tankers unload asphalt or other oil products which through their physical properties inhibit effective oil/water separation and monitoring, there are reception facilities available at the port with sufficient capacity to receive, cargo residues and solvents arising from any cleaning of tanks carrying such products undertaken at that port.

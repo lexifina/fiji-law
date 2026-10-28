@@ -1,0 +1,2 @@
+# reg 70 Discharges made as part of normal operations of ship and offshore installation or device
+Any person may discharge, in the Fiji waters, a contaminant that is incidental to, or derived from, or generated during, the operations listed in Schedule 4 of Part 2 of these Regulations as the normal operations of a ship or offshore installation as long as the discharge complies with the requirement of this part.

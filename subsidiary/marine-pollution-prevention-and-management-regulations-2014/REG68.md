@@ -1,0 +1,4 @@
+# reg 68 Event reporting
+(1) The owner of an offshore installation shall report any event that occurs to the offshore installation or any defect that is discovered, which substantially affects the integrity of the installation or the efficiency or completeness of the equipment covered by these Regulations.
+(2) The owner shall ensure that every report required under subregulation (1) is made as soon as possible to the Chief Executive Officer and the authorised organisation that issued the installation’s International Oil Pollution Prevention Certificate.
+(3) After a report has been made by the owner, the Chief Executive Officer or the authorised organisation that issued the installation’s International Oil Pollution Prevention Certificate may require that the installation be surveyed to ensure compliance with the requirements of these Regulations and the installation’s International Oil Pollution Prevention Certificate.

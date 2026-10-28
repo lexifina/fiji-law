@@ -1,0 +1,3 @@
+## ARTICLE 27 EXCHANGE OF INFORMATION
+# cl 1.
+The competent authorities of the Contracting State shall exchange such information as is necessary for carrying out the provisions of this Agreement or for the prevention or detection of evasion or avoidance of taxes covered by this Agreement. Any information so exchanged shall be treated as secret and shall be disclosed only to persons or authorities (including a court or reviewing authority) concerned with the assessment, collection, enforcement or prosecution in respect of, or the determination of appeals in relation to, the taxes which are the subject of the Agreement. Such persons or authorities shall use the information only for such purposes.

@@ -1,0 +1,2 @@
+# cl 4.
+If the information available to the competent authority is inadequate to determine the profits to be attributed to the permanent establishment of an enterprise, nothing in this Article shall affect the application of any law of that State relating to the determination of the tax liability of a person by the exercise of a discretion or the making of an estimate by the competent authority, provided that the law shall be applied, so far as the information available to the competent authority permits, in accordance with the principle of this Article.

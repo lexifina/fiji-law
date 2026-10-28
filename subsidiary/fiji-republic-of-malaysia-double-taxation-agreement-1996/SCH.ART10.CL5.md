@@ -1,0 +1,2 @@
+# cl 5.
+Where a company which is a resident of a Contracting State derives income or profits from the other Contracting State, that other State may not impose any tax on the dividends paid by the company to persons who are not residents of that other State, or subject the company’s undistributed profits to a tax on undistributed profits, even if the dividends paid or the undistributed profits consist wholly or partly of income or profits arising in such other State.

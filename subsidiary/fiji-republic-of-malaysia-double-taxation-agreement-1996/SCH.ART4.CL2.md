@@ -1,0 +1,6 @@
+# cl 2.
+Where by reason of the provisions of paragraph (1) an individual is a resident of both Contracting States, then his or her status shall be determined in accordance with the following rules—
+(a)he or she shall be deemed to be a resident of the Contracting State in which he or she has a permanent home available to him or her. If he or she has a permanent home available to him or her in both Contracting States, he or she shall be deemed to be a resident of the State with which his or her personal and economic relations are closer (centre of vital interests);
+(b)if the Contracting State in which he or she has his or her centre of vital interests cannot be determined, or if he or she has not a permanent home available to him or her in either State, he or she shall be deemed to be a resident of the State in which he or she has an habitual abode;
+(c)if he or she has an habitual abode in both Contracting States or in neither of them, he or she shall be deemed to be a resident of the State of which he or she is a national;
+(d)if he or she is a national of both Contracting States or of neither of them, the competent authorities of the Contracting States shall settle the question by mutual agreement.

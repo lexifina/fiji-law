@@ -1,0 +1,4 @@
+# cl 4.
+For the purposes of paragraph (3), the term “Malaysian tax payable” shall be deemed to include Malaysian tax which would, under the laws of Malaysia and in accordance with this Agreement, have been payable on any income derived from sources in Malaysia had the income not been taxed at a reduced rate or exempted from Malaysian tax in accordance with the provisions of this Agreement and—
+(a)the special incentives under the Malaysian laws for the promotion of economic development of Malaysia which were in force on the date of signature of this Agreement or any other provisions which may subsequently be introduced in Malaysia in modification of, or in addition to, those laws so far as they are agreed by the competent authorities of the Contracting States to be of a substantially similar character; and
+(b)interest to which paragraph (3) of Article 11 applies had that interest not been exempted from Malaysian tax in accordance with that paragraph.

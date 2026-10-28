@@ -1,0 +1,2 @@
+# cl 4.
+The provisions of paragraphs (1) and (2) shall not apply if the beneficial owner of the royalties, being a resident of a Contracting State, carries on business in the other Contracting State in which the royalties arise through a permanent establishment situated therein, and the right or property in respect of which the royalties are paid is effectively connected with such permanent establishment. In such a case, the provisions of Article 7 shall apply.

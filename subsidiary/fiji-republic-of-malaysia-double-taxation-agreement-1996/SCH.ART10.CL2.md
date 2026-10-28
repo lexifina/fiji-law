@@ -1,0 +1,2 @@
+# cl 2.
+However, such dividends may also be taxed in the Contracting State of which the company paying the dividends is a resident and according to the laws of that State, but if the recipient is the beneficial owner of the dividends the tax so charged shall not exceed 15% of the gross amount of the dividends. This paragraph shall not affect the taxation of the company in respect of the profits out of which the dividends are paid.

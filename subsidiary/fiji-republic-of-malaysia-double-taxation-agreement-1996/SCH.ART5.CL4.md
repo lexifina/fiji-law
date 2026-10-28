@@ -1,0 +1,2 @@
+# cl 4.
+An enterprise of a Contracting State shall be deemed to have a permanent establishment in the other Contracting State and to carry on business in or through that permanent establishment if it carries on supervisory activities in that other Contracting State for more than 6 (six) months in connection with a building site, or a construction, installation or assembly project which is being undertaken, in that other Contracting State.

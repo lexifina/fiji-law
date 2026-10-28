@@ -1,0 +1,3 @@
+## ARTICLE 22 TEACHERS AND RESEARCHERS
+# cl 1.
+An individual who is a resident of a Contracting State immediately before making a visit to the other Contracting State, and who, at the invitation of any public university, college, institution primarily for research purposes or other similar public educational institution, visits that other State for a period not exceeding two years solely for the purposes of teaching or research or both at such public educational institution shall be exempt from tax in that other State on any remuneration for such teaching or research which is subject to tax in the first-mentioned Contracting State.

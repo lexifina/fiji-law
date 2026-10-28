@@ -40,7 +40,7 @@ There are {{CONSOLIDATED}} consolidated commits, {{AMENDMENT}} amendment commits
 - Repealed and omitted laws. The site publishes these only as scanned PDF volumes ("Omitted and repealed laws"), and they are not included.
 - Acts as made. The site's "Laws as published" PDFs, from 2014, are not included.
 - Pictures in the text (marked `[image]`) and the site's page and paragraph numbering (`[ARB 1]`).
-- Table-of-contents entries whose text the site would not serve, laws listed with an empty table of contents, and laws with no last-update date ({{UNREADABLE}} rows in all). They are listed in [`data/unreadable.csv`](data/unreadable.csv).
+- Table-of-contents entries with no text, laws listed with an empty table of contents, and laws with no last-update date ({{UNREADABLE}} rows in all). They are listed in [`data/unreadable.csv`](data/unreadable.csv).
 
 This is a research aid. The Laws of Fiji website says that it is not authoritative and gives no assurance of accuracy, and the same is true of this repository.
 
@@ -50,11 +50,11 @@ This is a research aid. The Laws of Fiji website says that it is not authoritati
 - the text `tools/in_force_on.py` prints for sample sections matches the live site;
 - every commit's trailers parse;
 - there are no merges, no dates that go backwards and no dates after the build date;
-- two builds from the same cache give the same HEAD.
+- two builds from the same retrieved files give the same HEAD.
 
 ## How it is built
 
-`fetch.py` reads the site's own JSON API: the list of Acts by initial letter, each Act's table of contents (`get_act_by_id`), which also lists its subsidiary legislation, and the HTML of every entry in it (`retrieve_html`). `build.py` turns each entry into lines, puts Part headings on the first file below them, and writes one commit per law with `git fast-import`. No AI model takes part in building or checking it.
+The record uses the site's own JSON API: the list of Acts by initial letter, each Act's table of contents (`get_act_by_id`), which also lists its subsidiary legislation, and the HTML of every entry in it (`retrieve_html`). `build.py` turns each entry into lines, puts Part headings on the first file below them, and writes one commit per law with `git fast-import`. No AI model takes part in building or checking it.
 
 ## Licence
 

@@ -1,0 +1,2 @@
+# reg 2 Prescribed time for deletion of “bank” from name
+For the purposes of section 5(2) of the Banking Act 1995, the prescribed time for a person to delete the word “bank” or any derivative thereof from the name, description or title under which it carries on business, following a direction by notice in writing to that person by the Reserve Bank, shall be within 7 days of the service of that notice either by post or personal delivery.

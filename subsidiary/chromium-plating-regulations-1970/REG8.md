@@ -1,0 +1,2 @@
+# reg 8 Official cautionary placard
+The occupier shall see that an official cautionary placard as to the effects of chrome on the skin is affixed in the factory in such a position as to be easily read by all persons employed, and shall arrange for inspection of the hands and forearms of all persons employed to be made twice a week by a responsible person and for a record of such inspections to be kept in the general register.

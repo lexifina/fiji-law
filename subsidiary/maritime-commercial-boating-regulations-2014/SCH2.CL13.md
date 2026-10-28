@@ -1,0 +1,2 @@
+# reg 13. Enabling passengers to book a suitable boat trip
+(1) A description of how the commercial boating operator will provide all passengers with enough information to enable them to book a boating excursion that is suitable to their needs and abilities. The same responsibility applies to the tour desk and other points of sale operations where booking is handled by someone other than the commercial boating operator.

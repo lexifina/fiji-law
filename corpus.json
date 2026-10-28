@@ -1,0 +1,41 @@
+{
+  "corpus": "fj/national/acts",
+  "name": "Laws of Fiji (consolidated Acts and subsidiary legislation)",
+  "label": "Fiji",
+  "language": "en",
+  "laws": {
+    "acts": 381,
+    "subsidiary": 913
+  },
+  "history_from": "1928-02-28",
+  "record_to": "2026-10-28",
+  "record_note": "laws.gov.fj publishes only the current consolidation, so each law has one version here: the text as of its last-update date. Earlier text is not available; history notes and Tables of Amendments are kept as text and in data/amendments.csv.",
+  "built": "2026-10-28",
+  "baseline_trailer": "Consolidated",
+  "in_force_trailer": "In-force",
+  "dates": {
+    "commit": "consolidation date (laws.gov.fj last-update date of each law)",
+    "baseline_trailer": "Consolidated",
+    "other_trailers": [],
+    "time": "12:00 UTC+12 (Fiji standard time)",
+    "before_1970": "clamped to 1970-01-01"
+  },
+  "author": {
+    "consolidated": "Laws of Fiji (Office of the Attorney-General)",
+    "amendment": "none yet",
+    "unexplained": "Laws of Fiji (Office of the Attorney-General)"
+  },
+  "scope": {
+    "trailer": "Applies",
+    "groups": "any one line",
+    "conditions": "all of a line",
+    "when_absent": "not extracted for Fiji; savings and transitional rules are in the amending laws",
+    "default_reach": {
+      "rule": "presumption against retroactivity",
+      "meaning": "a written law is presumed not to affect rights acquired, or proceedings pending, before it took effect unless it says so; on repeal, see the savings rules of the Interpretation Act",
+      "authority": "common-law presumption; Interpretation Act 1967 (Fiji), section 11 (effect of amendments) and section 18 (effect of repealing written law)",
+      "decided_here": false
+    }
+  },
+  "tool": "tools/in_force_on.py"
+}

@@ -1,0 +1,2 @@
+# cl (2)
+As regards the application of the Agreement at any time by a Contracting State, any term not defined therein shall, unless the context otherwise requires, have the meaning that it has at that time under the law of that State for the purposes of the taxes to which the Agreement applies, any meaning under the applicable tax laws of that State prevailing over a meaning given to the term under other laws of that State.

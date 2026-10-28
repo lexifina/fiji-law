@@ -1,0 +1,2 @@
+# cl (3)
+Notwithstanding the provisions of paragraphs (1) and (2) of this Article, income mentioned in this Article shall be exempt from tax in the Contracting State in which the activity of the entertainer or sportsperson is exercised provided that the activity is supported, wholly or substantially, by the public funds of the Government of either Contracting State or political subdivision or a local authority or a statutory body thereof, or the activity is exercised under a cultural exchange agreement or arrangement between the Contracting States.

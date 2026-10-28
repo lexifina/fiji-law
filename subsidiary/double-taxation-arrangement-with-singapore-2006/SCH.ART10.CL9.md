@@ -1,0 +1,3 @@
+# cl (9)
+(a)Under the current Singapore laws, where dividends are paid by a company which is a resident of Singapore to a resident of Fiji who is the beneficial owner of such dividends, there is no tax in Singapore which is chargeable on dividends in addition to the tax chargeable in respect of the profits or income of the company.
+(b)If, subsequent to the signing of the Agreement, Singapore imposes a tax on dividends in addition to the tax chargeable in respect of the profits or income of a company which is a resident of Singapore, such tax may be charged but the tax so charged on the dividends derived by a resident of Fiji who is the beneficial owner of such dividends shall be in accordance with the provisions of paragraph (2).

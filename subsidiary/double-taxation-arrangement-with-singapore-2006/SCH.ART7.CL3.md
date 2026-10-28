@@ -1,0 +1,2 @@
+# cl (3)
+Subject to the provisions of paragraph (4), where an enterprise of a Contracting State carries on business in the other Contracting State through a permanent establishment situated in that State, there shall in each Contracting State be attributed to that permanent establishment the profits which it might be expected to make if it were a distinct and separate enterprise engaged in the same or similar activities under the same or similar conditions and dealing wholly independently with the enterprise of which it is a permanent establishment.

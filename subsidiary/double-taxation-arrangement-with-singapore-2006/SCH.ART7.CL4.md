@@ -1,0 +1,2 @@
+# cl (4)
+In determining the profits attributable to a permanent establishment in a Contracting State, there shall be allowed as deductions all expenses of the enterprise, including executive and administrative expenses, which would be deductible if the permanent establishment were an independent enterprise and which are reasonably allocable to the permanent establishment, whether incurred in the Contracting State in which the permanent establishment is situated or elsewhere.

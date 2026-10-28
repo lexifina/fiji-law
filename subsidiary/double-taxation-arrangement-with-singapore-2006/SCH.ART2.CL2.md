@@ -1,0 +1,2 @@
+# cl (2)
+This Agreement shall also apply to any identical or substantially similar taxes which are imposed by either Contracting State after the date of signature of the present Agreement in addition to, or in place of, the taxes referred to in paragraph (1). The competent authorities of the Contracting States shall notify each other of any substantial changes which are made in their respective taxation laws.

@@ -1,0 +1,2 @@
+# cl (2)
+For the purpose of paragraph (1), profits of the enterprise that is attributable to the permanent establishment includes profits arising from transactions in which the permanent establishment has been involved but only to the extent appropriate to the part played by the permanent establishment in those transactions, even if those transactions are entered into directly with the enterprise rather than the permanent establishment.

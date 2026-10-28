@@ -1,0 +1,2 @@
+# cl 3.
+If the carrier carries out the instructions of the consignor for the disposition of the cargo without requiring the production of the part of the air waybill or the cargo receipt delivered to the latter, the carrier will be liable, without prejudice to its right of recovery from the consignor, for any damage which may be caused thereby to any person who is lawfully in possession of that part of the air waybill or the cargo receipt.

@@ -1,0 +1,2 @@
+# cl 5.
+The foregoing provisions of paragraphs 1 and 2 of this Article shall not apply if it is proved that the damage resulted from an act or omission of the carrier, its servants or agents, done with intent to cause damage or recklessly and with knowledge that damage would probably result; provided that, in the case of such act or omission of a servant or agent, it is also proved that such servant or agent was acting within the scope of its employment.

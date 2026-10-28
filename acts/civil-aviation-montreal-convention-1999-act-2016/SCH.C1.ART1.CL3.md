@@ -1,0 +1,2 @@
+# cl 3.
+Carriage to be performed by several successive carriers is deemed, for the purposes of this Convention, to be one undivided carriage if it has been regarded by the parties as a single operation, whether it had been agreed upon under the form of a single contract or of a series of contracts, and it does not lose its international character merely because one contract or a series of contracts is to be performed entirely within the territory of the same State.

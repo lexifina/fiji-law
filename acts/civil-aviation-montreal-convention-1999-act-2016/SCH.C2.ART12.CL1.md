@@ -1,0 +1,3 @@
+## Article 12 Right of Disposition of Cargo
+# cl 1.
+Subject to its liability to carry out all its obligations under the contract of carriage, the consignor has the right to dispose of the cargo by withdrawing it at the airport of departure or destination, or by stopping it in the course of the journey on any landing, or by calling for it to be delivered at the place of destination or in the course of the journey to a person other than the consignee originally designated, or by requiring it to be returned to the airport of departure. The consignor must not exercise this right of disposition in such a way as to prejudice the carrier or other consignors and must reimburse any expenses occasioned by the exercise of this right.

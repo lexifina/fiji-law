@@ -1,0 +1,2 @@
+# cl 3.
+Subject to the provisions of paragraphs 1 and 2 of this Article, the carrier shall indemnify the consignor against all damage suffered by it, or by any other person to whom the consignor is liable, by reason of the irregularity, incorrectness or incompleteness of the particulars and statements inserted by the carrier or on its behalf in the cargo receipt or in the record preserved by the other means referred to in paragraph 2 of Article 4.

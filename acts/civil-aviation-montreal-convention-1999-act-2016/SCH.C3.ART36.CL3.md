@@ -1,0 +1,2 @@
+# cl 3.
+As regards baggage or cargo, the passenger or consignor will have a right of action against the first carrier, and the passenger or consignee who is entitled to delivery will have a right of action against the last carrier, and further, each may take action against the carrier which performed the carriage during which the destruction, loss, damage or delay took place. These carriers will be jointly and severally liable to the passenger or to the consignor or consignee.

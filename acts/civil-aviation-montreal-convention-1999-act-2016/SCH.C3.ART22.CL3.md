@@ -1,0 +1,2 @@
+# cl 3.
+In the carriage of cargo, the liability of the carrier in the case of destruction, loss, damage or delay is limited to a sum of 17 Special Drawing Rights per kilogramme, unless the consignor has made, at the time when the package was handed over to the carrier, a special declaration of interest in delivery at destination and has paid a supplementary sum if the case so requires. In that case the carrier will be liable to pay a sum not exceeding the declared sum, unless it proves that the sum is greater than the consignor’s actual interest in delivery at destination.

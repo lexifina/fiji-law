@@ -1,0 +1,6 @@
+# FALSE INFORMATION ACT 2016
+AN ACT TO ESTABLISH LIABILITY FOR THE PROVISION OF FALSE INFORMATION TO ANY OFFICER, AGENT OR REPRESENTATIVE OF THE GOVERNMENT OR AN ENTITY
+Table of Amendments
+False Information Act 2016 (No 9 of 2016) commenced on 29 April 2016, as amended by:
+Amending Legislation | Date of Commencement
+|

@@ -1,0 +1,2 @@
+# reg 5 Licences may be cancelled
+A licence issued under the provisions of these Regulations may be for such time as the Council may decide and may permit the exhibition of any advertisement, sky sign or occulting sign either unconditionally or subject to conditions to be endorsed thereon, and such licence may be cancelled by the Town Clerk in writing upon the breach of any such condition. A licence issued as aforesaid may be renewed from time to time by the Council.

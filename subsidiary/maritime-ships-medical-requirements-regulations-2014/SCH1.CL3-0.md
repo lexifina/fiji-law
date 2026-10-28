@@ -1,0 +1,2 @@
+# reg 3.0 Carriage of Dangerous Goods
+All ships carrying as cargo, or in shipboard use, any quantity of a hazardous or dangerous chemical or goods, as defined under the International Maritime Dangerous Goods (IMDG) Code, shall have available on board the appropriate additional first aid, medicinal antidotes and other additional treatments as specified by the manufacturer, supplier or other authorised body or publication, including the material safety data sheets relating to the hazardous chemical or goods.

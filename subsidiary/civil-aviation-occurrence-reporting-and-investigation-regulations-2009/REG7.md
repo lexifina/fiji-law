@@ -1,0 +1,4 @@
+# reg 7 Details of accident
+(1) Notwithstanding regulation 6, the pilot in command of an aircraft that is involved in an accident, or the operator if the pilot in command is killed or seriously injured or if the aircraft is missing, shall provide the full information required under regulation 6(2)(c) to the Authority within 7 working days of the accident.
+(2) Where flight crew members additional to the pilot in command are carried, each such surviving flight crew member shall provide a statement on his or her knowledge of the conditions and circumstances leading to the accident within 96 hours of the event to the Investigator-in-charge.
+(3) Where a flight crew member is unable to provide the required statement due to incapacity, he or she is required to make and submit the statement to the Investigator-in-charge as soon as the flight crew member has sufficiently recovered to be able to do so.

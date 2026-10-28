@@ -1,0 +1,2 @@
+# O 5
+Exposures which have been covered by a legally binding and enforceable guarantee or risk lay-off agreement from the Government of the Republic of Fiji, the Reserve Bank or a bank (or from any overseas central bank, central government or multilateral organisation which the Reserve Bank may specify in writing for this purpose). The nature of the guarantee or risk lay-off agreement will require prior written approval of the Reserve Bank before being acceptable for the purpose of these regulations.

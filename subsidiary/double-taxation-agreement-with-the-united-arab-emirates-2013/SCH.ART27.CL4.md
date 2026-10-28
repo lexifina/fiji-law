@@ -1,0 +1,2 @@
+# cl 4.
+Enterprises of a Contracting State, the capital of which is wholly or partly owned or controlled, directly or indirectly, by one or more residents of the other Contracting State, shall not be subjected in the first mentioned State to any taxation or any requirement connected therewith which is other or more burdensome than the taxation and connected requirements to which other similar enterprises of the first mentioned State are or may be subjected.

@@ -1,0 +1,5 @@
+## ARTICLE 15 INDEPENDENT PERSONAL SERVICES
+# cl 1.
+Income derived by an individual who is a resident of a Contracting State in respect of professional services or other activities of an independent character shall be taxable only in that Contracting State except in any of the following circumstances, when such income may also be taxed in the other Contracting State:
+(a)if he has a fixed base regularly available to him in the other Contracting State for the purpose of performing his activities; in that case only so much of the income as is attributable to that fixed base may be taxed in that other Contracting State; and
+(b)if his stay in the other Contracting State is for a period or periods amounting to or exceeding in the aggregate 183 days in 12 month period commencing or ending in the fiscal year concerned; in that case only so much of the income as is derived in that other Contracting State during the aforesaid period or periods may be taxed in that other Contracting State.

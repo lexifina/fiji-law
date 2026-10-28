@@ -1,0 +1,2 @@
+# cl 4.
+An individual who is both a national of a Contracting State and an employee of an enterprise of that Contracting State the principal business of which consists of the operation of aircraft in international traffic and who derives remuneration in respect of duties performed in the other Contracting State shall be taxable only in that Contracting State on remuneration derived from his employment with that enterprise.

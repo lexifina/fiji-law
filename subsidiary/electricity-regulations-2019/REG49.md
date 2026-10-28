@@ -1,0 +1,2 @@
+# reg 49 Substation for large installation
+Where, in the opinion of the Company or licensed supplier, it is necessary, in the case of any installation in which the demand for electricity is likely to exceed 100 amperes per phase, for the Company or licensed supplier to install a transformer substation within the consumer’s premises, the necessary space for the substation and any enclosure required to protect the substation must be provided by the consumer at his or her expense.

@@ -1,0 +1,4 @@
+# reg 14 Precautions against excess electricity
+(1) A licensee must provide in his or her installation sufficient fusible cut-outs or automatic circuit breakers to give protection as far as practicable against the effect of excess electricity and such cut-outs or circuit breakers must not be inserted in any conductor permanently connected with earth.
+(2) During the construction of, or the carrying out of any repair, maintenance or other work on, his or her installation or any part thereof a licensee is under a continuing obligation to always use reasonable endeavours to avoid danger.
+(3) Any damage or loss of life caused which is established by the Regulator to be directly or indirectly attributable to a breach of subregulation (2), must require the licensee to pay reasonable compensation and damages as determined by the Regulator.

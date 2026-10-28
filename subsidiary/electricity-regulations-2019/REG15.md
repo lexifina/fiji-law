@@ -1,0 +1,7 @@
+# reg 15 Installations — conductors and protective devices
+(1) All conductors must be adequately protected, where necessary, against damage and to prevent danger.
+(2) Where necessary to prevent danger, adequate precautions must be taken by earthing to prevent any metal other than conductors from becoming electrically charged.
+(3) Where necessary to prevent danger, insulating stands or screens must be provided and kept permanently in position and must be maintained in sound condition.
+(4) Portable insulating stands or screens, boots, gloves, and other protective devices must be provided and used where necessary to prevent danger and must be periodically examined by an authorised person.
+(5) No person, except an authorised person or a competent person acting under the immediate supervision of an authorised person must undertake any repair, alteration, extension, cleaning or other work where technical knowledge or experience is required in order to avoid danger.
+(6) Notices containing directions in the English, iTaukei and Hindi languages for the treatment of persons suffering from the effects of electric shock must be displayed in conspicuous positions in all premises wherein people are normally employed and where electricity is generated, transformed, converted or used at high voltage and in such other premises as the Company or licensed supplier may require and subject to any regulations made by the Regulator.

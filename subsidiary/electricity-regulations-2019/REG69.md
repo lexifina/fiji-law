@@ -1,0 +1,8 @@
+# reg 69 Meter test at consumer’s request
+(1) If any consumer considers that a meter connected to his or her circuits is inaccurate, the Company or licensed supplier must, on receipt from the consumer of notice to that effect, together with the meter test fee set out in Schedule 1, arrange for the meter to be tested and for the testing station’s certificate showing the result of the test to be given to the consumer.
+(2) If the test shows the meter to be accurate, the Company or licensed supplier is entitled to retain the test fee deposited by the consumer.
+(3) If the test shows the meter to be inaccurate—
+(a)the meter must be replaced by the Company or licensed supplier with a meter which has been tested and found to be accurate;
+(b)the consumer’s account with the Company or licensed supplier must be adjusted by crediting or charging it, as the case must require, with the amount of any overcharge or undercharge resulting from the inaccuracy of the meter in respect of the period to the date of the test from the beginning of the last period for which an account for electricity supplied was rendered to the consumer preceding the receipt by the Company or licensed supplier of the notice given by the consumer under this regulation; and
+(c)the test fee deposited by the consumer must be refunded to him or her by the Company or licensed supplier.
+(4) No question of the accuracy of a meter must relieve a consumer from payment to the Company or licensed supplier by the due date thereof of the amount charged for electricity supplied in the last account rendered to him or her preceding the giving of his or her notice under this regulation.

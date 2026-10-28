@@ -1,0 +1,3 @@
+# reg 60 Advertisement of tariffs and alterations
+(1) The tariffs from time to time prescribed under section 18 of the Act for the prices to be charged by the Company or licensed supplier for the supply of electricity and the hire of apparatus, and every alteration in such tariffs, must be advertised at least once in a newspaper circulating in Fiji.
+(2) Every alteration in such tariffs must come into force on a date to be stated in the advertisement which must be not less than 7 days after the date of the first publication of the advertisement and must thereupon be binding on every consumer affected thereby.

@@ -1,0 +1,3 @@
+# reg 4 Duties of inspectors and their identification
+(1) Inspectors must carry out the duties prescribed in the Act and must in addition, with a view to ensuring that the provisions of the Act and these Regulations are complied with, inspect and test licensees’ and consumers’ installations and apparatus during and upon completion of construction of such installations and thereafter, as may from time to time be required, during their operation or use.
+(2) The official identification card or badge to be carried by an inspector seeking to enter any premises under any of the powers conferred by the Act must be in the appropriate form.

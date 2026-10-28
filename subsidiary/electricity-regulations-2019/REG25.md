@@ -1,0 +1,3 @@
+# reg 25 Test for resistance of insulation of underground lines
+(1) Every underground supply line, after it has been placed in position and before it is used for the purpose of the supply, must be subjected to a voltage test in a manner approved by the Company or licensed supplier.
+(2) Where any underground supply line has been disconnected from a system for alteration or repair it must not be reconnected to the system until an inspector or an authorised person has applied a test similar to that required under subregulation (1) and is satisfied that the insulation of the line is in sound condition.

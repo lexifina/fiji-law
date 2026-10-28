@@ -1,0 +1,3 @@
+# reg 10 Extension of time for completion
+(1) If a company to which provisional approval has been granted is unable to complete its manufacture or pharmaceutical products investment within the period specified in the definition of “manufacture of pharmaceutical products investment” in regulation 3 due to unforeseen circumstances or some other act beyond the control of the company, the company may apply in writing to the Minister to extend the time by which the manufacture of pharmaceutical products investment must be completed.
+(2) If the Minister extends the time under subregulation (1), the company continues to enjoy the duty free concession provided for by regulation 8 during the extended period.

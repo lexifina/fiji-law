@@ -1,0 +1,5 @@
+# reg 17 Uprights used for hoisting block
+(1) If any upright forming part of staging is used as a fixing for a pulley block for hoisting material—
+(a)it shall be properly housed in the ground or shall otherwise be adequately secured so as to prevent it from rising; and
+(b)it shall be suitably protected against damage by the action of the chain or wire or other means of securing the pulley block to the upright.
+(2) No upright forming part of staging shall be used as an anchorage for a lead pulley block, unless the upright is not likely to be displaced by such use.

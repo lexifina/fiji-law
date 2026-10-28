@@ -1,0 +1,2 @@
+# reg 26 Fall of articles from stages
+Where persons employed are at work outside a vessel on a stage adjacent to or part of the structure of the vessel and other persons employed are at work directly beneath that stage, the planks of the stage shall be in such a position that no article liable to cause injury to the persons employed can fall between the planks, and the inside plank of the stage shall be placed as near as practicable to the structure of the vessel having regard to the nature of the work being carried on.

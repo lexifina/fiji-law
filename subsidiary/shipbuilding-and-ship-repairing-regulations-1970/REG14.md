@@ -1,0 +1,3 @@
+# reg 14 Lashing of ladders
+(1) A fibre rope, or a rope made with strands consisting of wire cores covered with fibre, shall not be used to secure a ladder used for the purpose of any operations.
+(2) A wire rope shall not be used to secure any such ladder unless its ends are ferruled, but this provision shall not apply in the case of an end which is so situated or protected that a person using the ladder is not liable to come into contact with it so as to suffer injury.

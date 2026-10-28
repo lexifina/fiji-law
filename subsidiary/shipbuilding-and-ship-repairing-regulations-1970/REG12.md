@@ -1,0 +1,4 @@
+# reg 12 Further provisions as to access
+(1) Where outside staging is erected in a shipyard, there shall be provided sufficient ladders giving direct access to the stages having regard to the extent of the staging and to the work to be done.
+(2) Where a vessel is under construction or reconstruction and persons employed are liable to go forward or aft or athwartship across or along uncovered deck-beams, or across or along floors, sufficient planks shall be provided on those deck-beams or on those floors for the purpose of access to or from places of work, and sufficient and suitable portable ladders shall be provided so as to give access either from the ground or outer bottom plating to the top of the floor.
+(3) Without prejudice to any other provision in these Regulations requiring a greater width, no footway or passageway constructed of planks shall be less than 430 mm wide.

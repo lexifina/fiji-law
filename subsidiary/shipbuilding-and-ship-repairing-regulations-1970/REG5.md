@@ -1,0 +1,2 @@
+# reg 5 Safe access in general
+Without prejudice to the other provisions of these Regulations, there shall, so far as is reasonably practicable, be provided and maintained safe means of access to every place at which any person has at any time to work in connection with the operations, which means of access shall be sufficient having regard to the number of persons employed and shall, so far as is reasonably practicable, be kept clear of substances likely to make foothold or handhold insecure and of any obstruction.

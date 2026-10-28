@@ -1,0 +1,3 @@
+# reg 24 Fencing of dry docks
+(1) Fencing shall be provided at or near the edges of a dry dock at ground level, including edges above flights of steps and chutes for materials. The height of such fencing shall at no point be less than lm or, in the case of fencing which was placed in such position before the commencement of these Regulations, 760 mm.
+(2) Such fencing as aforesaid shall be kept in position save when and to the extent to which its absence is necessary (whether or not for the purposes of any operations) for the access of persons, or for traffic or working, or for repair, but fencing removed for any of these purposes shall be kept readily available and shall be replaced as soon as practicable.

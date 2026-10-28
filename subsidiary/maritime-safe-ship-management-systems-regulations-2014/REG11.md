@@ -1,0 +1,6 @@
+# reg 11 Compliance
+(1) Every ship of 500 gross tonnage or more to which this Part applies shall have an approved safe ship management system, within 6 months from the date of commencement of these Regulations.
+(2) Every ship of less than 500 gross tonnage to which this Part applies shall ensure that the ship has an approved standard operating procedure in place within one year from the date of commencement of these Regulations and thereinafter comply with this Part.
+(3) The owner and master of a ship that is 15 metres or less in length shall ensure that the ship has an approved standard operating procedure in place and that it is carried on board at all times and is readily available for inspection by the Chief Executive Officer.
+(4) The standard operating procedures shall cover safe working practices of all the operations on a ship of less than 15 metres in length including the protection of the marine environment.
+(5) Any safety management system or standard operating procedure shall be audited by the Chief Executive Officer annually or whenever there is an accident or incident on board a ship that warrants the verification of the effectiveness of the safety management system or standard operating procedures.

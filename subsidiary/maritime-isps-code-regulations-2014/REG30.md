@@ -1,0 +1,23 @@
+# reg 30 Duration and validity of certificate
+(1) The International Ship Security Certificate shall be issued for a period determined by the Authority or a recognised security organisation and shall not exceed 5 years.
+(2) When the renewal verification is completed within 3 months before the expiry date of the existing certificate, the new certificate shall be valid from the date of completion of the verification to a date not exceeding 5 years from the date of expiry of the existing certificate—
+(a)when the renewal verification is completed after the expiry date of the existing certificate, the new certificate shall be valid from the date of completion of the verification to a date not exceeding 5 years from the date of expiry of the existing certificate;
+(b)when the renewal verification is completed more than 3 months before the expiry date of the existing certificate, the new certificate shall be valid from the date of completion of the verification to a date not exceeding 5 years.
+(3) If the Authority or the RSO issues a certificate for a period of less than 5 years, the Authority or RSO may extend the validity of the certificate beyond the expiry date to the maximum 5 year period specified in subregulation (1).
+(4) If a renewal verification has been completed and a new certificate cannot be issued or placed on board the ship before the expiry date of the existing certificate, the Authority or RSO acting on behalf of the Authority may endorse the existing certificate and such a certificate shall be accepted as valid for a further period which shall not exceed 5 months from the expiry date.
+(5) If a ship at the time when a certificate expires is not in a port in which it is to be verified, the Authority or RSO may extend the period of validity of the certificate but this extension shall be granted only for the purpose of allowing the ship to complete its voyage to the port in which it is to be verified, and then only in cases where it appears proper and reasonable to do so.
+(6) No certificate shall be extended for a period longer than 3 months, and the ship to which an extension is granted shall not, on its arrival in the port in which it is to be verified, be entitled by virtue of such extension to leave that port without having a new certificate.
+(7) When the renewal verification is completed, the new certificate shall be valid to a date not exceeding 5 years from the expiry date of the existing certificate before the extension was granted.
+(8) A certificate issued to a ship engaged on short voyages which has not been extended under the foregoing provisions of this regulation may be extended by the Authority or the RSO in consultation with the Authority for a maximum grace period of one month from the date of expiry stated on it.
+(9) When the renewal verification is completed, the new certificate shall be valid to a date not exceeding 5 years from the date of expiry of the existing certificate before the extension was granted.
+(10) If an intermediate verification is completed before the period specified in regulation 28(1)(c), then—
+(a)the expiry date shown on the certificate shall be amended by endorsement to a date which shall not be more than 3 years later than the date on which the intermediate verification was completed;
+(b)the expiry date may remain unchanged provided one or more additional verifications are carried out so that the maximum intervals between the verifications prescribed by regulation 28(1) are not exceeded.
+(11) A certificate issued under regulation 28 shall cease to be valid in any of the following cases—
+(a)if the relevant verifications are not completed within the periods specified under regulation 28(1);
+(b)if the certificate is not endorsed in accordance with regulation 28(1)(c) and subregulation (10)(a), if applicable;
+(c)when a Company assumes the responsibility for the operation of a ship not previously operated by that Company; and
+(d)upon transfer of the ship to the flag of another State.
+(12) In the case of—
+(a)a transfer of a Fiji ship to the flag of another Contracting Government, the Authority shall, as soon as possible, transmit to the receiving Administration copies of, or all information relating to, the International Ship Security Certificate carried by the ship before the transfer and copies of available verification reports; or
+(b)a Company that assumes responsibility for the operation of a ship not previously operated by that Company, the previous Company shall as soon as possible, transmit to the receiving Company copies of any information related to the International Ship Security Certificate or to facilitate the verifications described in regulation 28.

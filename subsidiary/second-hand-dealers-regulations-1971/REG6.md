@@ -1,0 +1,2 @@
+# reg 6 Register
+The register to be kept in accordance with the provisions of section 8 of the Act shall be completed by the licensed dealer and shall, in the case of the register of second-hand goods purchased, be signed by the vendor, and in the event of any particular not being inserted in such register the licensed dealer shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100.

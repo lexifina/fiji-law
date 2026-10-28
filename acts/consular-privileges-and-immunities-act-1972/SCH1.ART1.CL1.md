@@ -1,0 +1,14 @@
+## ARTICLE 1Definitions
+# cl 1.
+For the purposes of the present Convention, the following expressions shall have the meanings hereunder assigned to them:—
+(a)“consular post” means any consulate-general, consulate, vice-consulate or consular agency;
+(b)“consular district” means the area assigned to a consular post for the exercise of consular functions;
+(c)“head of consular post” means the person charged with the duty of acting in that capacity;
+(d)“consular officer” means any person, including the head of a consular post, entrusted in that capacity with the exercise of consular functions;
+(e)“consular employee” means any person employed in the administrative or technical service of a consular post;
+(f)“member of the service staff” means any person employed in the domestic service of a consular post;
+(g)“members of the consular post” means consular officers, consular employees and members of the service staff;
+(h)“members of the consular staff” means consular officers, other than the head of a consular post, consular employees and members of the service staff;
+(i)“member of the private staff” means a person who is employed exclusively in the private service of a member of the consular post;
+(j)“consular premises” means the buildings or parts of buildings and the land ancillary thereto, irrespective of ownership, used exclusively for the purposes of the consular post;
+(k)“consular archives” includes all the papers, documents, correspondence, books, films, tapes and registers of the consular post, together with the ciphers and codes, the card-indexes and any article of furniture intended for their protection or safekeeping.

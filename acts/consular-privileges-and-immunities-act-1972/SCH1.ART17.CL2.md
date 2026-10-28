@@ -1,0 +1,2 @@
+# cl 2.
+A consular officer may, after notification addressed to the receiving State, act as representative of the sending State to any inter-governmental organization. When so acting, he shall be entitled to enjoy any privileges and immunities accorded to such a representative by customary international law or by international agreements; however, in respect of the performance by him of any consular function, he shall not be entitled to any greater immunity from jurisdiction than that to which a consular officer is entitled under the present Convention.

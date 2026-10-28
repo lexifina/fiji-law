@@ -1,0 +1,2 @@
+# cl 2.
+The authorities of the receiving State shall not enter that part of the consular premises which is used exclusively for the purpose of the work of the consular post except with the consent of the head of the consular post or of his designee or of the head of the diplomatic mission of the sending State. The consent of the head of the consular post may, however, be assumed in case of fire or other disaster requiring prompt protective action.

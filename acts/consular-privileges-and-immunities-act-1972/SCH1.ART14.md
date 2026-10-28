@@ -1,0 +1,2 @@
+# ARTICLE 14Notification to the Authorities of the Consular District
+As soon as the head of a consular post is admitted even provisionally to the exercise of his functions, the receiving State shall immediately notify the competent authorities of the consular district. It shall also ensure that the necessary measures are taken to enable the head of a consular post to carry out the duties of his office and to have the benefit of the provisions of the present Convention.

@@ -1,0 +1,2 @@
+# ARTICLE 74Signature
+The present Convention shall be open for signature by all States Members of the United Nations or of any of the specialized agencies or Parties to the Statute of the International Court of Justice, and by any other State invited by the General Assembly of the United Nations to become a Party to the Convention, as follows until 31st October, 1963 at the Federal Ministry for Foreign Affairs of the Republic of Austria and subsequently until 31st March, 1964, at the United Nations Headquarters in New York.

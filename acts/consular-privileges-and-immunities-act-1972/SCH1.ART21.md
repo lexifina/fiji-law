@@ -1,0 +1,2 @@
+# ARTICLE 21Precedence as Between Consular Officers of a Consular Post
+The order of precedence as between the consular officers of a consular post and any change thereof shall be notified by the diplomatic mission of the sending State or, if that State has no such mission in the receiving State, by the head of the consular post, to the Ministry for Foreign Affairs of the receiving State or to the authority designated by that Ministry.

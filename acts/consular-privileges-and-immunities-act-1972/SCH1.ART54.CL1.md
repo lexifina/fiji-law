@@ -1,0 +1,3 @@
+## ARTICLE 54Obligations of Third States
+# cl 1.
+If a consular officer passes through or is in the territory of a third State, which has granted him a visa if a visa was necessary, while proceeding to take up or return to his post or when returning to the sending State, the third State shall accord to him all immunities provided for by the other Articles of the present Convention as may be required to ensure his transit or return. The same shall apply in the case of any member of his family forming part of his household enjoying such privileges and immunities who are accompanying the consular officer or travelling separately to join him or to return to the sending State.

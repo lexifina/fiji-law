@@ -1,0 +1,2 @@
+# cl 7.
+A consular bag may be entrusted to the captain of a ship or of a commercial aircraft scheduled to land at an authorized port of entry. He shall be provided with an official document indicating the number of packages constituting the bag, but he shall not be considered to be a consular courier. By arrangement with the appropriate local authorities, the consular post may send one of its members to take possession of the bag directly and freely from the captain of the ship or of the aircraft.

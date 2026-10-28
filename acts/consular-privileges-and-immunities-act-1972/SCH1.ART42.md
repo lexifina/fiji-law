@@ -1,0 +1,2 @@
+# ARTICLE 42Notification of Arrest, Detention or Prosecution
+In the event of the arrest or detention, pending trial, of a member of the consular staff, or of criminal proceedings being instituted against him, the receiving State shall promptly notify the head of the consular post. Should the latter be himself the object of any such measure, the receiving State shall notify the sending State through the diplomatic channel.

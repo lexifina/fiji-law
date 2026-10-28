@@ -1,0 +1,2 @@
+# cl 5.
+The consular courier shall be provided with an official document indicating his status and the number of packages constituting the consular bag. Except with the consent of the receiving State he shall be neither a national of the receiving State, nor, unless he is a national of the sending State, a permanent resident of the receiving State. In the performance of his functions he shall be protected by the receiving State. He shall enjoy personal inviolability and shall not be liable to any form of arrest or detention.

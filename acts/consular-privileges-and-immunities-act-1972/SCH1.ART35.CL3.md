@@ -1,0 +1,2 @@
+# cl 3.
+The consular bag shall be neither opened nor detained. Nevertheless, if the competent authorities of the receiving State have serious reason to believe that the bag contains something other than the correspondence, documents or articles referred to in paragraph 4 of this Article, they may request that the bag be opened in their presence by an authorized representative of the sending State. If this request is refused by the authorities of the sending State, the bag shall be returned to its place of origin.

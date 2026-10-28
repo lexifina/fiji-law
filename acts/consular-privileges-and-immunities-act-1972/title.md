@@ -1,0 +1,6 @@
+# CONSULAR PRIVILEGES AND IMMUNITIES ACT 1972
+AN ACT TO AMEND THE LAW RELATING TO CONSULAR PRIVILEGES AND IMMUNITIES AND TO GIVE EFFECT TO THE VIENNA CONVENTION ON CONSULAR RELATIONS
+Table of Amendments
+Consular Privileges and Immunities Act 1972 (No 31 of 1972), commenced on 22 December 1972, as amended by:
+Amending Legislation | Date of Commencement
+|

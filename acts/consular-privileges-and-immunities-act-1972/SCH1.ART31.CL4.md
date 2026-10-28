@@ -1,0 +1,2 @@
+# cl 4.
+The consular premises, their furnishings, the property of the consular post and its means of transport shall be immune from any form of requisition for purposes of national defence or public utility. If expropriation is necessary for such purposes, all possible steps shall be taken to avoid impeding the performance of consular functions, and prompt, adequate and effective compensation shall be paid to the sending State.

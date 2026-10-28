@@ -1,0 +1,4 @@
+# cl 2.
+In the event of the temporary or permanent closure of a consular post, the provisions of sub-paragraph (a) in paragraph 1 of this Article shall apply. In addition—
+(a)if the sending State, although not represented in the receiving State by a diplomatic mission, has another consular post in the territory of that State, that consular post may be entrusted with the custody of the premises of the consular post which has been closed, together with the property contained therein and the consular archives, and, with the consent of the receiving State, with the exercise of consular functions in the district of that consular post; or
+(b)if the sending State has no diplomatic mission and no other consular post in the receiving State, the provisions of sub-paragraphs (b) and (c) of this Article shall apply.

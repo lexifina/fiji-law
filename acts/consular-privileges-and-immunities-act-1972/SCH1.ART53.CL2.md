@@ -1,0 +1,2 @@
+# cl 2.
+Members of the family of a member of the consular post forming part of his household and members of his private staff shall receive the privileges and immunities provided in the present Convention from the date from which he enjoys privileges and immunities in accordance with paragraph 1 of this Article or from the date of their entry into the territory of the receiving State or from the date of their becoming a member of such family or private staff, whichever is the latest.

@@ -1,0 +1,2 @@
+# cl 3.
+The provisions of paragraph 2 of this Article shall not exclude the possibility of offices of other institutions or agencies being installed in part of the building in which the consular premises are situated, provided that the premises assigned to them are separate from those used by the consular post. In that event, the said offices shall not, for the purposes of the present Convention, be considered to form part of the consular premises.

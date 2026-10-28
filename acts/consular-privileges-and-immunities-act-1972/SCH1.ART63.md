@@ -1,0 +1,2 @@
+# ARTICLE 63Criminal Proceedings
+If criminal proceedings are instituted against an honorary consular officer, he must appear before the competent authorities. Nevertheless, the proceedings shall be conducted with the respect due to him by reason of his official position and, except when he is under arrest or detention, in a manner which will hamper the exercise of consular functions as little as possible. When it has become necessary to detain an honorary consular officer, the proceedings against him shall be instituted with the minimum of delay.

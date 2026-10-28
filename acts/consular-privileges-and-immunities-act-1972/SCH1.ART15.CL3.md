@@ -1,0 +1,2 @@
+# cl 3.
+The competent authorities of the receiving State shall afford assistance and protection to the acting head of post. While he is in charge of the post, the provisions of the present Convention shall apply to him on the same basis as to the head of the consular post concerned. The receiving State shall not, however, be obliged to grant to an acting head of post any facility, privilege or immunity which the head of the consular post enjoys only subject to conditions not fulfilled by the acting head of post.

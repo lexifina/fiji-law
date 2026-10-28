@@ -1,0 +1,2 @@
+# cl 3.
+Third States shall accord to official correspondence and to other official communications in transit, including messages in code or cipher, the same freedom and protection as the receiving State is bound to accord under the present Convention. They shall accord to consular couriers who have been granted a visa, if a visa was necessary, and to consular bags in transit, the same inviolability and protection as the receiving State is bound to accord under the present Convention.

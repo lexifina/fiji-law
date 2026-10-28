@@ -1,0 +1,2 @@
+# ARTICLE 61Inviolability of Consular Archives and Documents
+The consular archives and documents of a consular post headed by an honorary consular officer shall be inviolable at all times and wherever they may be, provided that they are kept separate from other papers and documents and, in particular, from the private correspondence of the head of a consular post and of any person working with him, and from the materials, books or documents relating to their profession or trade.

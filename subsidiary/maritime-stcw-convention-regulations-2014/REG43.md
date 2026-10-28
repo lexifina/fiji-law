@@ -1,0 +1,2 @@
+# reg 43 Fees
+The fees payable for receiving and processing applications, assessing competence and issuing certificates of competency, dispensations or endorsements, minimum safe manning certificate for vessels, conduct of boat masters licence and Class Master/Engineer restricted course, moderation and assessment of exam papers and audit of maritime training institutions and providers under this Part are prescribed in Schedule 7.

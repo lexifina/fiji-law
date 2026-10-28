@@ -1,0 +1,5 @@
+# reg 54 Offences and penalties
+(1) A person who makes a false declaration for the purpose of obtaining a Certificate of Proficiency or endorsement issued under this Part commits an offence and is liable upon conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding $2,000 or both.
+(2) A person who obtains or uses forged documents or obtains documents by fraud for the purpose of obtaining a Certificate of Proficiency commits an offence and is liable upon conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding $2,000 or both.
+(3) A person who issues a false document or forges a document for the purpose of facilitating the issue of a Certificate of Proficiency commits an offence and is liable upon conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding $2,000 or both.
+(4) A master and owner who fails to provide documentary evidence of persons engaged on a ship who are required to be trained under this part commits an offence and is liable upon conviction to imprisonment for a term not exceeding 12 months or a fine not exceeding $5,000 or both.

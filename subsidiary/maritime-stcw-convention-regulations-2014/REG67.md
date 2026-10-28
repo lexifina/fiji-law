@@ -1,0 +1,3 @@
+# reg 67 Equivalent certificates
+(1) Subject to subregulation (2), a Certificate of Medical Fitness issued to a seafarer by or on behalf of a state that is a party to STCW Convention and that has an agreement with Fiji for recognition of certificates of competencies, may be, recognised by the Chief Executive Officer as equivalent to the Certificate of Medical Fitness issued in Fiji.
+(2) A Certificate of Medical Fitness will only be accepted under subregulation (1) as equivalent to a Certificate of Medical Fitness issued under this Part during any period for which the certificate is expressed to remain in force, up to the maximum validity period permitted under regulation 61(1), if such a medical certificate meets the medical standards prescribed in these Regulations.

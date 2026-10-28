@@ -1,0 +1,13 @@
+# FORM 5 CERTIFICATE OF APPROVAL TO CONDUCT TRAINING
+CERTIFICATE OF APPROVAL TO CONDUCT TRAINING Ministry of Works, Transport and Public Utilities Maritime Safety Authority of Fiji
+Certificate Number:
+CERTIFICATE OF APPROVAL TO CONDUCT TRAINING
+I hereby certify that ................
+................
+(insert name and address of certificate holder)
+is approved to conduct training programmes leading to the issue of Fiji maritime qualifications in accordance with the Maritime (STCW) Regulations 2014 Part 6.
+Dated this .... day of .... Year....
+[image]
+............
+(signed) Chief Executive Officer
+(This certificate is subject to the conditions and limitations attached).

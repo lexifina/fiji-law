@@ -1,0 +1,4 @@
+# reg 40 Refresher courses
+(1) The holder of a certificate issued in accordance with the provisions of the Convention before 1 January 2012 must, for service after 1 July 2013, undergo appropriate refresher and updating training or assessment to meet the standard of competence for the Certificate of Competency or Certificate of Proficiency specified in Part A of the STCW Code.
+(2) The holder of a certificate issued in accordance with the provisions of the Convention as amended shall undergo appropriate refresher or updating courses when new or amendments to current training requirements is issued by IMO.
+(3) The Chief Executive Officer shall for the purpose of updating the knowledge of masters, officers and radio operators, ensure that the text of the changes to national and international regulations concerning the safety of life at sea, security, and the protection of the marine environment are made available to ships registered in Fiji.

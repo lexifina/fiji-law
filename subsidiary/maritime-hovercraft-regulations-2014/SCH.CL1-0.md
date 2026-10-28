@@ -1,0 +1,3 @@
+## SCHEDULE LIGHT CRAFT REQUIREMENTS
+# reg 1.0
+General

@@ -1,0 +1,6 @@
+# reg 13.2
+Craft trials
+13.2.1 The first craft of a new type of light craft must be subjected to operational trials during which such data is to be gathered as may be necessary to establish that all installed equipment and machinery is maintained within recommended limitations during normal operation of the craft in all design conditions.
+13.2.2 Handling and manoeuvring trials must establish any limitations, when operating in any design condition, beyond which operation is unsafe in respect of weight, vertical and longitudinal centre of gravity position, speed, wind speed, wave height and yaw angle.
+13.2.3 The trials must examine the craft’s behaviour and handling qualities during and subsequent to the failure of each engine separately when the craft is operating in all conditions for which it is designed. The results of such trials must be used if appropriate to modify any limitations established as a result of the trials conducted in accordance with paragraph (b).
+13.2.4 For craft intended to be operated in periods of darkness, an assessment must be made of the adequacy of all lighting while operating in darkness, paying due regard to glare and reflection which may distract the operator.

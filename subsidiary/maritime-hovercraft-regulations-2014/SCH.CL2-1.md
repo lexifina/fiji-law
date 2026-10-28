@@ -1,0 +1,8 @@
+# reg 2.1
+Structural strength
+2.1.1 The rigid hull shall be designed with sufficient longitudinal and torsional strength to withstand, without permanent deformation or progressive failure—
+(a)hogging and sagging when floating at the maximum designed weight in waves with amplitude to length ratio of 1:10, the wave height being the maximum for which certification is sought; and
+(b)standing on a solid surface at maximum designed weight, with any bottom area bounded by the outer boundary and the longitudinal and lateral centrelines of the hull bottom unsupported, with no lift power.
+2.1.2 Engines, lift fans, propulsive devices, fuel tanks and seats shall be securely fastened to structure of sufficient strength, such that they will not break loose under a crash deceleration of 6g. For the purpose of determining the sufficiency of the fastenings and associated structure under this loading the seats are to be assumed to contain an occupant of 75 kg with a centre of gravity 300 mm above the seat pan and fuel tanks are to be assumed to be full.
+2.1.3 Strong points, with adequate load diffusion must be provided to enable the craft to be lifted or jacked, or towed while floating and for the securing of any cargo. The designer must specify any loading or angular limitations.
+2.1.4 Designers must submit the design envelope of craft operation in terms of maximum weight, speed and wave or obstacle height when seeking design approval from the authorised surveyor. Structural design data must also be submitted to substantiate compliance with subclauses 2.1.1, 2.1.2 and 2.1.3. Such data may be by calculation or the results of relevant full scale testing. All design assumptions must be stated.

@@ -1,0 +1,3 @@
+# reg 3 Operation of other laws
+(1) Subject to subregulation (2), nothing in these Regulations shall be taken to affect the operation of a provision of any subsidiary legislation relating to the design, sitting or manner of construction of buildings or to fire safety.
+(2) Where a provision referred to in subregulation (1), whether made before or after 25 March 1983, is inconsistent with a provision of these Regulations, then, unless the contrary intention appears is an Act or express provision to the contrary is made in subsidiary legislation made after that date, the provision of these Regulations shall, to the extent of the inconsistency, prevail over the first mentioned provision.

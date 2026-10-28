@@ -1,0 +1,4 @@
+# reg 23 Air conditioning
+(1) A private hospital shall, to the extent specified in the licence, be provided with an air-conditioning system or other approved equipment and facilities for the modification of atmospheric conditions in the hospital for the greater comfort of patients and staff.
+(2) The Board may, upon the renewal or transfer of a licence or upon the granting of an approval under section 17 of the Act, by writing endorsed on the licence or the notification of the approval, vary the specification referred to in subregulation (1).
+(3) The requirements of this regulation shall not be taken to derogate from any other provision of these Regulations relating to the provision in a hospital of air conditioning or other equipment and facilities for the modification of atmospheric conditions.

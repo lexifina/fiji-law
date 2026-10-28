@@ -1,0 +1,9 @@
+# reg 32 Keeping of records
+(1) Entries in the register of patients in pursuance of section 16 of the Act and in the records referred to in regulations 30 and 31 shall be made by the licensee of the private hospital or by a member of the medical or nursing staff of the hospital and each entry or group of entries so made shall be signed and dated by the person who made the entry or group entries.
+(2) The licensee of a private hospital shall cause—
+(a)each book comprising part of the register of patients referred to in section 16 of the Act or of the Maternity Case Book referred to in regulation 30 to be kept at the hospital until the expiration of the period of 7 years immediately succeeding the date of the last entry recorded in that book; and
+(b)each book comprising part of the Report Book referred to in regulation 31 to be kept at the hospital until the expiration of the period of 12 months immediately succeeding the date of the last entry recorded in that book.
+(3) The licensee of a private hospital shall, in respect of each month of operation of the hospital, furnish the Permanent Secretary with a report in accordance with Form 7 in respect of each patient whose stay in the hospital has been terminated by reason of death, discharge or transfer, during that month.
+(4) A report under subregulation (3) shall be forwarded to the Permanent Secretary so as to reach him or her not later than the last day of the month immediately succeeding the month to which the report relates.
+(5) Where the stay of a patient is terminated more than once during any month, a separate report shall be forwarded to the Permanent Secretary in respect of each such termination.
+(6) A reference in subregulation (2) or (3) to the licensee of a private hospital shall be read, in relation to a former private hospital, as including a reference to the person who was the last licensee of that hospital and to the legal personal representative of that person.

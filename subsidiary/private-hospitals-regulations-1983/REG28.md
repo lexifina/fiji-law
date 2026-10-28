@@ -1,0 +1,3 @@
+# reg 28 Infectious diseases
+(1) The licensee of a private hospital shall not receive into the hospital any person who is suffering from any infectious disease or from any sickness the symptoms of which raise a reasonable suspicion that it may be an infectious disease, unless adequate provision has been made for the isolation of that person.
+(2) The licensee of a private hospital shall, forthwith after a patient suffering from an infectious disease has ceased to occupy a room, cause that room and all bedding, clothing, and other articles that have been exposed to infection to be thoroughly cleaned and disinfected.

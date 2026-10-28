@@ -1,0 +1,4 @@
+# reg 22 Guard-rails and toe-boards
+(1) Every side of a working platform, gangway, run and stair being a side thereof from which a person is liable to fall a distance of more than 2 m, shall be provided with a guard-rail or guard-rails of adequate strength, to a height of at least 1 m above the platform or place and above any raised standing place on the platform, and with toe-boards (except in the case of stairs) up to a sufficient height being in no case less than 200 mm and so placed as to prevent so far as possible the fall of persons, materials and tools from such platform or place.
+(2) All guard-rails and toe-boards shall be placed on the inside of the uprights, and the space between any toe-board and the lowest guard-rail above it shall not exceed 680 mm.
+(3) Guard-rails and toe-boards required by subregulation (2) may be removed or remain unerected for the time and to the extent necessary for the access of persons or the movement of materials.

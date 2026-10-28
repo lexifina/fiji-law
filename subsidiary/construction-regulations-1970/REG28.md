@@ -1,0 +1,2 @@
+# reg 28 High winds
+When a warning has been issued that the advent of winds exceeding 50 knots is expected, the contractor or person responsible for scaffolding, tools, plant, loose materials or other things used in building operations shall forthwith take all reasonable precautions to prevent such scaffolding, tools, plant, loose materials or things from becoming flying debris and thus endangering the safety of any person.

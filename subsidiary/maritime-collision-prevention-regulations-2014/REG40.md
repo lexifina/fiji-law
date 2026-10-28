@@ -1,0 +1,3 @@
+# reg 40 Responsibility
+(1) Nothing in these Regulations shall exonerate any ship, its owner, master or crew, from the consequences of any neglect to comply with these Regulations, or of the neglect of any precaution which may be required by the ordinary practice of seafarers, or the special circumstances of the case.
+(2) In interpreting and complying with these Regulations, due regard must be given to all dangers of navigation, collision and any special circumstances, including the limitations of the ships involved, that may make a departure from the requirements of these Regulations necessary to avoid immediate danger.

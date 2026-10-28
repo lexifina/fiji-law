@@ -1,0 +1,4 @@
+# reg 15 Distress at sea
+(1) The owner or operator of a pleasure craft at sea who is in a position to provide assistance on receiving information from any source, of persons in distress at sea, shall proceed with maximum speed to assist and if possible, shall inform the persons in distress, the MRCC and the Authority of such assistance or action taken.
+(2) The owner or operator of a pleasure craft shall be released from the obligation imposed by subregulation (1), on being informed by the persons in distress, the MRCC or the Authority, or by the master of another ship which has reached the persons in distress, that assistance is no longer necessary.
+(3) With exception to circumstances under subregulation (2), an owner or operator who contravenes subregulation (1) commits an infringement offence and shall be liable to a fine not exceeding $300.

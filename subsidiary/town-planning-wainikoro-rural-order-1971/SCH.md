@@ -1,0 +1,3 @@
+# SCHEDULE WAINIKORO RURAL TOWN PLANNING AREA
+All that portion of land in the Tikina of Labasa in the Province of Macuata situated on the right bank of the Wainikoro River and extending for a maximum distance of approximately 25 chains eastwards along part Wainikoro-Lagalaga Road and part Daku-Labasa Tramline and extending approximately 5 chains westward along the said tramline.
+The above area is shown verged red and more particularly delineated on plan TPO 233 deposited in the office of the Director of Town and Country Planning, Suva and copies of such plan are available for inspection at the offices of the Commissioner Northern and the Labasa Rural Local Authority, Labasa.

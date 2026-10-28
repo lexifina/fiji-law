@@ -1,0 +1,2 @@
+# reg 27 Curved boundaries
+Boundaries defined by curves must be marked on the ground by pegs or other accepted marks on the curve in such manner that the offset from the middle of the chord between adjacent ground marks must not exceed 0.4 metres nor must those ground marks be at greater intervals than 20 metres apart, but in every case a curve must be marked by at least one peg or mark in addition to the pegs or marks at the tangent points.

@@ -1,0 +1,6 @@
+# reg 5 Lodgement of survey plans
+(1) Upon completion of a survey, the responsible surveyor must lodge a survey plan made by him or her or under his or her direction with the Registrar of Titles or Surveyor-General within 6 months from the date of completion of the survey for the purpose of assessment and approval.
+(2) Notwithstanding subregulation (1), a surveyor may lodge a survey plan with the Registrar of Titles or the Surveyor-General, as the case may be, after 6 months from the date of completion of a survey in exceptional circumstances provided prior notification is given to the Surveyor-General and the Surveyor-General has given approval upon consideration of the particular circumstance.
+(3) If a survey plan is not intended to be registered, it must be lodged with the Surveyor-General within 6 months from the date of completion of the survey for survey information only.
+(4) When lodging a survey plan with the Surveyor-General, the responsible surveyor must submit the survey plan together with a proforma, signed and declared by the surveyor attesting that all necessary checks required under the proforma have been completed.
+(5) The Surveyor-General may reject a survey plan if it is not lodged with the declaration signed by the responsible surveyor concerning proforma checks or if the requirements in the proforma are not complied with.

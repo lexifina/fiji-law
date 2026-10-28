@@ -1,0 +1,8 @@
+# reg 23 Boundaries to be marked
+(1) Boundaries must be marked at every angle and where necessary at points on the boundary line in accordance with regulation 26.
+(2) Straight boundary lines must be cleared where necessary and distinctly marked at intervals not exceeding 500 metres, which interval may be varied to suit the conformation of the country, and advantage must be taken of all prominent and favourable positions on the line for the markings so that the direction may be seen from mark to mark.
+(3) Where a boundary of a portion crosses a tract of inaccessible country, the boundary must be surveyed and marked on either side of, and up to the inaccessible part.
+(4) Marks must be established at the terminal points which must, when practicable, be connected by a traverse survey detouring the obstacle or by triangulation.
+(5) If, owing to the nature of the ground or other causes, it is not possible to place the boundary mark upon the actual boundary, the mark must be placed as near as possible to the boundary, and references from the mark to the unmarked point to be shown.
+(6) Where any of the boundaries of a land under survey coincide with previously surveyed lines or boundaries, such common boundaries must be redefined and sufficient evidence must be given on the plan that such boundaries are coincident with the originals.
+(7) Where no marks of the original survey can be found, the surveyor must indicate that the boundaries and corners have been reinstated and correctly measured in relation to adjacent boundaries, fences, and ditches or to such other evidence of original occupation as may be found.

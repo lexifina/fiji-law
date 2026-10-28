@@ -1,0 +1,2 @@
+# reg 11 Transferability of package
+If the person in respect of which a commercial agricultural farming and agro-processing business investment incentive has been granted is a company and that company is sold or is to be sold, the purchaser or prospective purchaser may apply in writing to the Minister for the transfer to it of any remaining benefits of the commercial agricultural farming and agro-processing business investment incentive.

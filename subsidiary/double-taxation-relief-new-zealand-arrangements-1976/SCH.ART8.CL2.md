@@ -1,0 +1,2 @@
+# cl 2.
+The exemption provided in paragraph (1) of this Article shall apply in relation to the share of the profits from the operation of ships or aircraft derived by a resident of a Contracting State through participation in a pool service, in a joint transport operating organisation or in an international operating agency but only to the extent to which the share of the profits is not attributable to profits from voyages, flights or operations confined solely to places in the other Contracting State.

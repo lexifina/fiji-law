@@ -1,0 +1,6 @@
+# cl 2.
+Where by reason of the provisions of paragraph (1) an individual is both a New Zealand resident and a Fijian resident then his status shall, for the purposes of this Agreement, be determined in accordance with the following rules —
+(a)he shall be deemed to be solely a resident of the Contracting State in which he has a permanent home available to him. If he has a permanent home available to him in both Contracting States, he shall be deemed to be solely a resident of the Contracting State with which his personal and economic relations are closest (hereinafter referred to as his centre of vital interests);
+(b)if the Contracting State in which hehas his centre of vital interests cannot be determined, or if he has not a permanent home available to him in either Contracting State, he shall be deemed to be solely a resident of the Contracting State in which he has a habitual abode;
+(c)if he has a habitual abode in both Contracting States or in neither of them, he shall be deemed to be solely a resident of the Contracting State of which he is a national;
+(d)if he is a national of both Contracting States or of neither of them, the competent authorities of the Contracting States shall settle the question by mutual agreement.

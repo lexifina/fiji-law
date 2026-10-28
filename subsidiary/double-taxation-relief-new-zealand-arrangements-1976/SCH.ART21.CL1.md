@@ -1,0 +1,3 @@
+## ARTICLE 21 MUTUAL AGREEMENT PROCEDURE
+# cl (1)
+Where a taxpayer considers that the action of the competent authority in a Contracting State has resulted, or is likely to result, in double taxation contrary to the provisions of this Agreement, he shall be entitled to present the facts to the competent authority in the Contracting State of which he is a resident and, should the taxpayer's claim be deemed worthy of consideration, the competent authority in that Contracting State shall endeavour to come to an agreement with the competent authority in the other Contracting State with a view to the avoidance of the double taxation in question.

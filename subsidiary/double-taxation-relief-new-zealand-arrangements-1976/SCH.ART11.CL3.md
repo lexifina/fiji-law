@@ -1,0 +1,2 @@
+# cl 3.
+The limitation on the amount of tax for which paragraph (1) of this Article provides shall not apply if the person who is the beneficial owner of the royalties, being a resident of a Contracting State, has in the other Contracting State a permanent establishment and the knowledge, information, assistance, right or property giving rise to the royalties is effectively connected with that permanent establishment. In such a case, the royalties may be taxed in that other Contracting State in accordance with the law of that other Contracting State.

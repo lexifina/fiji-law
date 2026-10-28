@@ -1,0 +1,2 @@
+# cl 4.
+If the mode of operation of ships or aircraft by residents of either of the Contracting States at the date of signature of this Agreement is subsequently so changed that either of the Contracting Governments considers that the wording of the Article should be reviewed, the Contracting Governments shall consult with each other with a view to deciding whether any modification of this Article is desirable.

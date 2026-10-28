@@ -1,0 +1,3 @@
+## ARTICLE 20 ELIMINATION OF DOUBLE TAXATION
+# cl (1)
+Subject to any provisions of the law of Fiji which may from time to time be in force and which relate to the allowance of a credit against Fiji tax of tax paid in a country outside Fiji (which shall not affect the general principle hereof), New Zealand tax paid under the law of New Zealand and consistently with this Agreement, whether directly or by deduction, in respect of income derived by a Fijian resident from sources in New Zealand (excluding, in the case of a dividend, tax paid in respect of the profits out of which the dividend is paid) shall be allowed as a credit against Fiji tax payable in respect of that income.

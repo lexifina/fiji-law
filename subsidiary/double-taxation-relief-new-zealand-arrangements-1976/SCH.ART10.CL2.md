@@ -1,0 +1,2 @@
+# cl 2.
+The limitation on the amount of tax for which paragraph (1) provides shall not apply if the person who is the beneficial owner of the interest, being a resident of a Contracting State, has in the other Contracting State a permanent establishment and the indebtedness giving rise to the interest is effectively connected with that permanent establishment. In such a case, the interest may be taxed in that other Contracting State in accordance with the law of that other Contracting State.

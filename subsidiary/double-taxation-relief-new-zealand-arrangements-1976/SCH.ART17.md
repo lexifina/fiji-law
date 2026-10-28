@@ -1,0 +1,2 @@
+# ARTICLE 17 PROFESSORS AND TEACHERS
+A professor or teacher who visits a Contracting State for a period not exceeding two years for the purpose of teaching at a university, college, school or other educational institution in that Contracting State and who immediately before that visit was a resident of the other Contracting State shall be exempt from tax in the first mentioned Contracting State on any remuneration for such teaching in respect of which he is or upon the application of this Article will be, subject to tax in the other Contracting State.

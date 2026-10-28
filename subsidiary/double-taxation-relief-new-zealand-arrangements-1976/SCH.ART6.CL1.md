@@ -1,0 +1,3 @@
+## ARTICLE 6 INDUSTRIAL OR COMMERCIAL PROFITS
+# cl 1.
+Industrial or commercial profits of an enterprise of a Contracting State shall be subject to tax only in that Contracting State unless the enterprise carries on trade or business in the other Contracting State through a permanent establishment situated therein. If the enterprise carries on trade or business as aforesaid, tax may be imposed by that other Contracting State on the whole of the industrial or commercial profits of the enterprise from sources within that other Contracting State whether or not those profits are attributable to that permanent establishment.

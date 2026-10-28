@@ -1,0 +1,4 @@
+# cl 3.
+Where, by reason of the provisions of paragraph (1), a person other than an individual is both a New Zealand resident and a Fijian resident then its status shall, for the purposes of this Agreement, be determined in accordance with the following rules —
+(a)it shall be treated solely as a New Zealand resident if the centre of its practical management is situated in New Zealand and solely as a Fijian resident if the centre of its practical management is situated in Fiji, whether or not any person outside New Zealand or Fiji, as the case may be, exercises or is capable of exercising any overriding control of it or of its policy or affairs in any way whatsoever; and
+(b)failing a resolution of the matter under subparagraph (a) of this paragraph, it shall be treated solely as a New Zealand resident if it is established by or under the laws of New Zealand and solely as a Fijian resident if it is established by or under the laws of Fiji.

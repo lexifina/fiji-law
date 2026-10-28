@@ -1,0 +1,2 @@
+# cl 3.
+Notwithstanding paragraphs (1) and (2), remuneration in respect of services performed aboard a ship or aircraft operated in international traffic by a resident of a Contracting State may be subjected to tax in that Contracting State. For the purposes of this paragraph, the term “international traffic” includes traffic between places in one country in the course of a voyage which extends over more than one country.

@@ -1,0 +1,6 @@
+# NATIONAL RESEARCH COUNCIL ACT 2017
+AN ACT TO ESTABLISH THE NATIONAL RESEARCH COUNCIL AND TO REGULATE THE OPERATIONS OF THE NATIONAL RESEARCH FUND AND RELATED MATTERS
+Table of Amendments
+National Research Council Act 2017 (No 20 of 2017) commenced on 3 May 2017, as amended by:
+Amending Legislation | Date of Commencement
+|

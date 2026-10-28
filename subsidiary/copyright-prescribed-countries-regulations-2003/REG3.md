@@ -1,0 +1,3 @@
+# reg 3 Qualification by reference to place of first publication
+(1) A country which is a party to the Conventions listed in Schedule 1 is prescribed for the purpose of section 19(1)(b) of the Act, in respect of a work (being a literary, dramatic, musical, artistic, sound recording, an audio visual or a typographical arrangement of a published edition) which qualifies for copyright if it is first published in a place outside Fiji.
+(2) Pursuant to Article 5(3) of the Rome Convention, the criterion of fixation in respect of a phonogram under paragraph 1(b) of Article 5 of the Convention does not apply.

@@ -1,0 +1,3 @@
+# reg 4 Qualification by reference to place of transmission
+(1) A country which is a party to the Conventions listed in Schedule 2 is prescribed for the purposes of a broadcast which qualifies for copyright under section 20(1)(b) of the Act if it is transmitted from a transmitter situated in any of the countries which are parties to the Conventions listed in Schedule 2.
+(2) Pursuant to Article 6(2) of the Rome Convention, a broadcast qualifies for copyright if the headquarters of the broadcasting organisation is situated in a country which is a party to the Conventions listed in Schedule 2 and the broadcast was transmitted from a transmitter situated in such country.

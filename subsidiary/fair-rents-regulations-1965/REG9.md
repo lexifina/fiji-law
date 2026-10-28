@@ -1,0 +1,2 @@
+# reg 9 Service of notice of appeal
+The Fair Rents Officer shall, forthwith after receipt of a notice of appeal, cause a copy thereof to be served on the respondent and the original to be sent to the chairperson of the tribunal who shall appoint a date and place for the hearing of the appeal and shall notify the Fair Rents Officer of the date and place so appointed, provided that the date so appointed shall be not later than 30 days after the date of receipt by the Fair Rents Officer of such notice of appeal.

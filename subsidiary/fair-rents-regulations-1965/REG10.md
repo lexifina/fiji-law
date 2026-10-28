@@ -1,0 +1,2 @@
+# reg 10 Notice of date of hearing
+Upon being notified by the chairperson of the tribunal of the date and place appointed for the hearing of an appeal, the Fair Rents Officer shall forthwith cause a notice in the form prescribed in Schedule 2 of the date and place appointed to be sent to the lessor and the lessee of the dwelling house in respect of which the determination appealed against was made.

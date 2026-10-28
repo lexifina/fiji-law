@@ -1,0 +1,2 @@
+# reg 12 Service of decision of tribunal
+The chairperson of the tribunal shall communicate the decision of the tribunal to the Fair Rents Officer by sending a copy thereof to the Fair Rents Officer by registered post, and upon receipt of such decision the Fair Rents Officer shall forthwith cause copies thereof to be served either personally or by registered post on the lessor and lessee of the dwelling house in respect of which the determination appealed against was made.

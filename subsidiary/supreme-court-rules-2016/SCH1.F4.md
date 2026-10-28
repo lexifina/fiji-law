@@ -1,0 +1,19 @@
+# FORM 4 SUMMONS TO PARTIES TO SETTLE RECORD
+IN THE SUPREME COURT
+APPELLATE JURISDICTION
+Petition No ....
+[Court of Appeal Action
+No .... of 2..]
+SUMMONS TO PARTIES TO SETTLE RECORD
+(Rule 9(a))
+BETWEEN: ................
+PETITIONER
+AND: ................
+RESPONDENT
+Take notice that all parties concerned are required to attend before me at my office at
+................
+on ........ day the .... day of ........ 20....
+at the hour of .. o‘clock in the .... noon to proceed with settling of the record of appeal herein.
+Dated this .... day of .... 20 ..
+........
+Registrar, Supreme Court

@@ -1,0 +1,2 @@
+# cl 4.
+Nothing contained in this Article shall be construed as obliging either Contracting State to grant to individuals not resident in that State any of the personal allowances, reliefs and reductions for tax purposes which are granted to individuals so resident, nor as conferring any exemption from tax in a Contracting State in respect of dividends paid to a company which is a resident of the other Contracting State.

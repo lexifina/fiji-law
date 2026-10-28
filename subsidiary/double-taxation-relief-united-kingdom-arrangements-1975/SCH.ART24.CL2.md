@@ -1,0 +1,3 @@
+# cl 2.
+The taxation on a permanent establishment which an enterprise of a Contracting State has in the other Contracting State shall not be less favourably levied in that other State than the taxation levied on enterprises of that other State carrying on the same activities.
+Provided that this paragraph shall not prevent the Government of a Contracting State from imposing on the profits attributable to a permanent establishment in that Contracting State of a company which is a resident of the other Contracting State an additional tax not exceeding 15 per cent of two-thirds of the profits of the permanent establishment after payment of the company or corporation tax on those profits.

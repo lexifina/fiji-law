@@ -1,0 +1,2 @@
+# cl 3.
+Capital gains from the alienation of movable property forming part of the business property of a permanent establishment which an enterprise of a Contracting State has in the other Contracting State or of movable property pertaining to a fixed base available to a resident of a Contracting State in the other Contracting State for the purpose of performing professional services, including such gains from the alienation of such permanent establishment (alone or together with the whole enterprise) or of such a fixed base, may be taxed in the other State.

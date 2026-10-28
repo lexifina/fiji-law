@@ -1,0 +1,2 @@
+# cl 5.
+Interest shall be deemed to arise in a Contracting State when the payer is the Government of that State, a local authority or a resident of that State. Where, however, the person paying the interest, whether he or she is a resident of a Contracting State not, has in a Contracting State a permanent establishment in connection with the indebtedness on which the interest is paid was incurred and such interest borne by that permanent establishment, then such interest shall be deemed arise to in the Contracting State in which the permanent establishment is situated.

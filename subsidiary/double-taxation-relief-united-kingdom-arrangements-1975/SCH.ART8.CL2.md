@@ -1,0 +1,2 @@
+# cl 2.
+Where an enterprise of a Contracting State carries on business in the other Contracting State through a permanent establishment situated therein, there shall in each Contracting State be attributed to that permanent establishment the profits which it might be expected to make if it were a distinct and separate enterprise engaged in the same or similar activities under the same or similar conditions and dealing at arm's length with the enterprise of which it is a permanent establishment.

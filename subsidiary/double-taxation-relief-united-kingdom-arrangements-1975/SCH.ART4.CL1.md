@@ -1,0 +1,3 @@
+## ARTICLE 4 FISCAL DOMICILE
+# cl 1.
+For the purposes of this Convention, the term “resident of a Contracting State” means, subject to paragraphs (2) and (3) of this Article, any person who, under the law of that Contracting State, is liable to taxation therein by reason of his or her domicile, residence, place of management or any other criterion of a similar nature; the term does not include any individual who is liable to tax in that Contracting State only if he or she derives income from sources therein. The terms “resident of the United Kingdom” and “resident of Fiji” shall be construed accordingly.

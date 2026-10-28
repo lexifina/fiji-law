@@ -1,0 +1,2 @@
+# cl 5.
+The provisions of paragraph (1), or as the case may be paragraphs (2) and (3), of this Article shall not apply if the beneficial owner of the dividends, being a resident of a Contracting State, has in the other Contracting State, of which the company paying the dividends is a resident, a permanent establishment and the holding by virtue of which the dividends are paid is effectively connected with a business carried on through that permanent establishment. In such a case the provisions of Article 8 shall apply.

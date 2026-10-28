@@ -1,0 +1,2 @@
+# cl 3.
+Management fees derived and beneficially owned by a resident of a Contracting State may also be taxed in the Contracting State in which they arise and according to the law of that State, but the tax so charged shall not exceed 15 per cent of the net amount of the management fees after deduction of any amount allowed as expenses against those management fees in computing the tax payable thereon in the first-mentioned Contracting State.

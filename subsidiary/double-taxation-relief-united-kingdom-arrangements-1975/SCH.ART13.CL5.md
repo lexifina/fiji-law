@@ -1,0 +1,2 @@
+# cl 5.
+Notwithstanding paragraph (2) of this Article, copyright royalties and other like payments in respect of the production or reproduction of any literary, artistic or scientific work (excluding royalties and like payments in respect of cinematograph films and films or tapes for radio or television broadcasting) arising in a Contracting. State and which are derived and beneficially owned by a resident of the other Contracting State shall be exempt from tax in the first-mentioned Contracting State.

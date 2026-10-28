@@ -1,0 +1,3 @@
+# cl 2.
+(a)The term “immovable property” shall, subject to sub-paragraph (b) below, be defined in accordance with the law of the Contracting State in which the property in question is situated.
+(b)The term “immovable property” shall in any case include property accessory to immovable property, livestock and equipment used in agriculture and and forestry, rights to which the provisions of general law respecting landed property apply, usufruct of immovable property and rights to variable or fixed payments as consideration for the working of, or the right to work, mineral deposits, sources and other natural resources; ships, boats and aircraft shall not be regarded as immovable property.

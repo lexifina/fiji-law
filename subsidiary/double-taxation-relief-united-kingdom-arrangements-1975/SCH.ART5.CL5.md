@@ -1,0 +1,2 @@
+# cl 5.
+A person acting in a Contracting State on behalf of an enterprise of the other Contracting State — other than an agent of an independent status to whom the provisions of paragraph (6) of this Article apply — shall be deemed to be a permanent establishment, in the first-mentioned Contracting State if he or she has, and habitually exercises in that Contracting State an authority to conclude contracts in the name of the enterprise, unless his or her activities are limited to the purchase of goods or merchandise for the enterprise.

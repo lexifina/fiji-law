@@ -1,0 +1,2 @@
+# cl 4.
+The provisions of paragraphs (1) and (2) of this Article shall not apply if the beneficial owner of the interest, being a resident of a Contracting State, has in the Contracting State in which the interest arises a permanent establishment and debt-claim from which the interest arises is effectively connected with a business carried on through that permanent establishment. In such a case, the provisions of Article 8 shall apply.

@@ -1,0 +1,2 @@
+# cl 4.
+In so far as it has been customary in a Contracting State according to its law, to determine the profits to be attributed to a permanent establishment on the basis of an apportionment of the total income of the enterprise to its various parts, nothing in paragraph (2) of this Article shall preclude that Contracting State from determining the profits to be taxed by such an apportionment as may be customary; the method of apportionment adopted shall, however, be such that the result shall be in accordance with the principles of this Article.

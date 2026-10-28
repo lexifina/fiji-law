@@ -1,0 +1,2 @@
+# ARTICLE 20 STUDENTS
+Payments which a student or business apprentice who is or was immediately before visiting a Contracting State a resident of the other Contracting State and who is present in the first-mentioned Contracting State solely for the purpose of his or her education or training receives for the purpose of his or her maintenance, education or training shall not be taxed in the first-mentioned State, provided that such payments are made to him or her from sources outside that State.

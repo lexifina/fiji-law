@@ -1,0 +1,2 @@
+# cl 6.
+The provisions of paragraphs (1), (2) and (3) of this Article shall not apply if beneficial owner of the royalties or management fees, being a resident of a Contracting State, has in the other Contracting State in which the royalties or management fees arise, a permanent establishment and the right or property giving rise to the royalties is, or the management fees are, effectively connected with a business carried on through that permanent establishment. In such a case, the provisions of Article 8 shall apply.

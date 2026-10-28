@@ -1,0 +1,2 @@
+# cl 6.
+The provisions of paragraph (5) of this Article shall not affect the right of a Contracting State to levy according to its own law a tax on capital gains from the alienation of any property derived by a person who is a resident of the other Contracting State and has been a resident of the first-mentioned Contracting State at any time during the five years immediately preceding the alienation of the property.

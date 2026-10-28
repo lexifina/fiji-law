@@ -1,0 +1,2 @@
+# cl 2.
+Subject to the provisions of paragraph (3) of this Article, the Arrangement between the Government of the United Kingdom and the Government of Fiji made in 1950, as amended by the Arrangement made in 1968 (hereinafter referred to as “the 1950 Arrangement”), shall cease to have effect as respects taxes to which this Convention in accordance with the provisions of paragraph (1) of this Article applies.

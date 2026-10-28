@@ -1,0 +1,4 @@
+# cl 9.
+Nothing in this Article shall affect any provisions of the law of either Contracting State regarding the taxation of:
+(a)any person who carries on a business of any form of insurance. Provided that if the law in force in either Contracting State at the date of signature of this Convention relating to the taxation of any such person is varied (otherwise than in minor respects so as not to affect its general character), the Contracting Governments shall consult each other with a view to agreeing to such amendment of this subparagraph as may be necessary;
+(b)any income from the alienation of immovable property as defined in paragraph (2) of Article 7 which is situated in that Contracting State or from the alienation of shares in a company incorporated in that Contracting State whose assets consist wholly or mainly of such immovable property situated therein.

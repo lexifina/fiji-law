@@ -1,0 +1,3 @@
+# reg 4 Application of the Convention under written laws
+(1) In accordance with the provisions of the Act, the Convention shall be a maritime convention to be applied, implemented and enforced in accordance with the Act, and shall be deemed to be an international marine pollution convention.
+(2) The obligations, duties, legal processes and rights provided for under the Convention shall be deemed to be requirements enforceable in accordance with these Regulations in relation to ships to which these Regulations apply, and a breach of any such obligation or duty shall be an offence for the purposes of regulation 14.

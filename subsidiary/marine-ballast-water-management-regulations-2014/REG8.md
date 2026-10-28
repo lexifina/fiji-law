@@ -1,0 +1,3 @@
+# reg 8 Transfer of flag
+(1) Upon the transfer of the flag of a Fiji ship to the flag of another Party, the Authority shall transmit as soon as possible to the Government of the Party concerned, a copy of the Certificate carried by the ship before the transfer and if available, a copy of the ship’s most recent survey report, if the State makes such a request within 3 months after the transfer has taken place.
+(2) Where a ship is transferred to the Fiji Register of Ships, a new certificate shall only be issued when the Authority is fully satisfied that the ship is in compliance with the requirements of these Regulations and the Convention.

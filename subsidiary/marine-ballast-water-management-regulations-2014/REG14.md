@@ -1,0 +1,6 @@
+# reg 14 Offences against these Regulations
+(1) The owner and master of a ship to which these Regulations apply each have a duty to ensure that the ship complies with the provisions of these Regulations, and are jointly and severally liable in relation to any breach.
+(2) Any person who contravenes these Regulations commits an offence and shall be liable upon conviction to a fine not exceeding $5,000 or to imprisonment for a term of 3 months, or both.
+(3) It shall be a defence for a person charged with a breach of subregulation (1) or (2) to show that all reasonable precautions were taken and that he or she exercised all due diligence to avoid the commission of the offence.
+(4) If a fine, or an order for the payment of costs or expenses, imposed by a court in proceedings for an offence under these Regulations is not paid, the court may, in addition to any other powers for enforcing payment, order the amount remaining unpaid to be levied by distress or arrest and sale of the ships, or its tackle, furniture and apparel.
+(5) In addition to imposing a fine upon conviction of a person under these Regulations, the court may order the person to pay compensation arising from any pollution caused by the commission of the offence, including the costs of responding to any such pollution.

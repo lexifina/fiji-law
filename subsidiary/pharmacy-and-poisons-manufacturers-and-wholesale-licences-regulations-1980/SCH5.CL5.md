@@ -1,0 +1,2 @@
+# reg 5
+Where the licence holder has been informed by the Board or by the manufacturer that any batch of any medicine to which his or her licence relates has been found not to conform as regards strength, quality or purity with the specifications of that product or with the provisions of the Act or of any regulation under the Act that are applicable to the medicine, he or she shall, if so directed, withhold such batch from sale or exportation, so far as may be reasonably practicable, for such period as the Board shall determine.

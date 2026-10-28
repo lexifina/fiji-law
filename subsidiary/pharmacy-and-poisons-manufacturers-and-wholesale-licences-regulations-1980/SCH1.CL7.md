@@ -1,0 +1,5 @@
+# reg 7
+(1) The name and address and qualifications and experience of the production manager or other persons whose duty it will be to supervise the production operations at each of the premises referred to in paragraph 5, and the name and function of the person to whom he or she is responsible.
+(2) The name and address and degrees, diplomas or other qualifications and experience of the person to be in charge of quality control over all the premises referred to in paragraph 5, and the extent of the authority to be delegated to him or her to reject unsatisfactory batches of medicines, and the name and function of the person to whom he or she is responsible (if ultimate responsibility for quality control is to be exercised by any other person this is to be stated).
+(3) The name and address and degrees, diplomas or other qualifications of the person in charge of the animals referred to in subparagraph (2) of paragraph 5.
+(4) The name and address and degrees, diplomas or other qualifications of the person to be responsible for the culture of any living tissue to be used in the manufacture of medicines.

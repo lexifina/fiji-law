@@ -1,0 +1,2 @@
+# reg 19
+Copies of reports and evaluations of any experimental and biological studies and of other preclinical, clinical or laboratory studies carried out with the medicine or its constituents which, in the view of the proposed licensee, are relevant to the assessment of the safety, quality or efficacy of the medicine, together with reference to relevant publications, clinical trials or animal tests.

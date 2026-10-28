@@ -1,0 +1,2 @@
+# reg 2
+The licence holder shall provide and maintain such staff, premises, equipment and facilities for the handling, storage and distribution of the medicines which he or she handles, stores or distributes under his or her licence as are necessary to avoid deterioration of the medicines and he or she shall not use for such purposes premises other than those specified in the licence or which may be approved from time to time by the Board.

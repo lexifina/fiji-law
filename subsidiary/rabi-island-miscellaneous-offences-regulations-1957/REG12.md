@@ -1,0 +1,4 @@
+# reg 12 Abusive, indecent or threatening language
+(1) Any person who makes use of any abusive, indecent or threatening language in any place to the annoyance of anyone or by reason whereof an assault may be committed or any person may fear that an assault may be committed, shall be liable on conviction to imprisonment for any period not exceeding one month or to a fine not exceeding $20.
+(2) Any person who repeats any such language where the repetition is in the opinion of the court likely to cause an assault to be committed or any person to fear that an assault may be committed shall be liable on conviction to imprisonment for any period not exceeding 14 days or to a fine not exceeding $10.
+(3) Whosoever shall spread any evil and untrue report about any person, which may cause such person to suffer in reputation, shall be liable on conviction to imprisonment for any period not exceeding 14 days or to a fine not exceeding $10.

@@ -1,0 +1,2 @@
+# reg 10 Theft of fruit and vegetables
+Any person who steals, destroys, roots up or damages, with intent to steal, any plant, root, fruit or vegetable production, used for the food of man or beast or for medicine, or for distilling, or for dyeing, or for or in the course of any manufacture, and growing in any garden, orchard, pleasure-ground, hot-house, green-house or conservatory, or in any land, open or enclosed, shall be liable on conviction to imprisonment for any period not exceeding 2 months or to a fine not exceeding $50 or to both such imprisonment and fine.

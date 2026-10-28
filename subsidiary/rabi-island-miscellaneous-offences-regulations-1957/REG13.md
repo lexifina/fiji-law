@@ -1,0 +1,2 @@
+# reg 13 Drunken and disorderly conduct
+Any person who is drunk and disorderly in any public place or who in any public place, behaves in a riotous or disorderly manner, and every person who in any other place whatsoever on Rabi Island assembles together with others and while so assembled behaves in a riotous or disorderly manner, shall be liable on conviction to imprisonment for any period not exceeding one month or to a fine not exceeding $10.

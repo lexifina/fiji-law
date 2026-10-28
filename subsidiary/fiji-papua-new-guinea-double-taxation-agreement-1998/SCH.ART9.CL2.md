@@ -1,0 +1,2 @@
+# cl 2.
+Nothing in this Article shall affect the application of any law of a Contracting State relating to the determination of the tax liability of a person, including determinations in cases where the information available to the competent authority of that State is inadequate to determine the income to be attributed to an enterprise, provided that that law shall be applied, so far as it is practicable to do so, consistent with the principles of this Article.

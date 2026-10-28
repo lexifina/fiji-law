@@ -1,0 +1,2 @@
+# cl 4.
+Profits derived by an enterprise of a Contracting State from a contract which provides for the rental of a ship on a bareboat basis in the course of a business principally consisting of the operation of ships for the carriage of passengers, livestock, mail, goods or merchandise shall be taxable only in that State except where the profits are derived from a contract under which the ship is used wholly or mainly in the other Contracting State. If the ship is so used the profits from that contract may be taxed in that State.

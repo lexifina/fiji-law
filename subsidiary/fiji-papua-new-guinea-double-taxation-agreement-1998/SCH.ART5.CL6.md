@@ -1,0 +1,3 @@
+# cl 6.
+An enterprise of a Contracting State shall not be deemed to have a permanent establishment in the other Contracting State merely because it carries on business in that other State through a broker, general commission agent or any other agent of an independent status, provided that such persons are acting in the ordinary course of their business.
+However, when the activities of such an agent are devoted wholly or almost wholly on behalf of that enterprise, he or she shall not be considered an agent of an independent status if the transactions between the agent and the enterprise were not made under arm's length conditions.

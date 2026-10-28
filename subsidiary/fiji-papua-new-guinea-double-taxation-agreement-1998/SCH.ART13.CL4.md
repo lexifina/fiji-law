@@ -1,0 +1,2 @@
+# cl 4.
+The provisions of paragraphs 1 and 2 shall not apply if the beneficial owner of the technical fees, being a resident of a Contracting State, carries on business in the other Contracting State in which the technical fees arise, through a permanent establishment situated therein, or performs in that other State independent personal services from a fixed base situated therein, and the technical fees are effectively connected with such permanent establishment or fixed base. In such case, the provisions of Article 7 or 15, as the case may be, shall apply.

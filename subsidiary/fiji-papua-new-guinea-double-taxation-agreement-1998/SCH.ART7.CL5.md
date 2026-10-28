@@ -1,0 +1,2 @@
+# cl 5.
+Nothing in this Article shall affect the application of any law of a Contracting State relating to the determination of the tax liability of a person in cases where the information available to the competent authority of that State is inadequate to determine the profits to be attributed to a permanent establishment, provided that the law shall be applied, so far as the information available to the competent authority permits, consistent with the principles of this Article.

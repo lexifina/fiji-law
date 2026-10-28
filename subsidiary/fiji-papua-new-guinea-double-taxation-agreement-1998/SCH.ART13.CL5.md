@@ -1,0 +1,2 @@
+# cl 5.
+If a resident of one of the Contracting States, who receives and beneficially owns technical fees which arise in the other Contracting State, so elects for any year of assessment, financial year or year of income, the tax in respect of those technical fees in the Contracting State in which they arise shall be calculated in the last mentioned Contracting State and as if those technical fees were taxable in accordance with Article 7 or 15, as the case may be, as profits attributable to that permanent establishment or fixed base.

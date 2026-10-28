@@ -1,0 +1,2 @@
+# cl 2.
+Profits derived by an enterprise of a Contracting State from containers in the course of a business principally consisting of the operation of ships shall be taxable only in that State except in a case where the containers are shipped in the other Contracting State for delivery in that State. In that case the profits of the enterprise from the containers for the period for which the containers are so shipped may be taxed in that other State.

@@ -1,0 +1,2 @@
+# cl 3.
+Income derived by a resident of a Contracting State from activities exercised in the other Contracting State as envisaged in paragraphs 1 and 2 of this Article, shall be exempted from tax in that other State if the visit to that other State is supported wholly or substantially by funds of either Contracting State, a political subdivision or a local authority thereof, or takes place under a cultural agreement or arrangement between the Governments of the Contracting States.

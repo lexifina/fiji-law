@@ -1,0 +1,2 @@
+# cl 2.
+The term “interest” as used in this Article means income from debt claims of every kind, whether or not secured by mortgage and whether or not carrying a right to participate in the debtor‘s profits, and in particular, income from government securities and income from bonds or debentures, including premiums and prizes attaching to such securities, bonds or debentures. Penalty charges for late payment shall not be regarded as interest for the purposes of this Article.

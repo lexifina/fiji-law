@@ -1,0 +1,2 @@
+# cl 4.
+Notwithstanding the preceding provisions of this Article, salaries, wages, allowances and other remuneration received by an employee in a top-level managerial position in an airline or shipping enterprise of a Contracting State, who is stationed in the other Contracting State, shall be taxable only in the Contracting State in which the place of effective management of the enterprise is situated. This provision shall not apply to pilots and crew members.

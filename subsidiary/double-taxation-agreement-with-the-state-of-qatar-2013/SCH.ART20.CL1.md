@@ -1,0 +1,3 @@
+## ARTICLE 20 TEACHERS AND RESEARCHERS
+# cl 1.
+An individual who is or was immediately before visiting a Contracting State a resident of the other Contracting State and who, at the invitation of the Government of the first mentioned Contracting State or of a university, college, school, museum or other cultural institution in that first mentioned Contracting State or under an official program of cultural exchange, is present in that Contracting State for a period not exceeding three consecutive years solely for the purpose of teaching, giving lectures or carrying out research at such institution shall be exempt from tax in that Contracting State on his remuneration for such activity.

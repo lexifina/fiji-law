@@ -1,0 +1,2 @@
+# ARTICLE 36Administrative and technical staff
+Members of the administrative and technical staff of the special mission shall enjoy the privileges and immunities specified in Articles 29 to 34, except that the immunity from civil and administrative jurisdiction of the receiving State specified in paragraph 2 of Article 31 shall not extend to acts performed outside the course of their duties. They shall also enjoy the privileges mentioned in paragraph 1 of Article 35 in respect of articles imported at the time of their first entry into the territory of the receiving State.

@@ -1,0 +1,2 @@
+# cl 2.
+The personal baggage of the representatives of the sending State in the special mission and of the members of its diplomatic staff shall be exempt from inspection, unless there are serious grounds for presuming that it contains articles not covered by the exemptions mentioned in paragraph 1 of this article, or articles the import or export of which is prohibited by the law or controlled by the quarantine regulations of the receiving State. In such cases, inspection shall be conducted only in the presence of the person concerned or of his authorized representative.

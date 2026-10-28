@@ -1,0 +1,2 @@
+# cl 2.
+When the functions of a member of the special mission have come to an end, his privileges and immunities shall normally cease at the moment when he leaves the territory of the receiving State, or on the expiry of a reasonable period in which to do so, but shall subsist until that time, even in case of armed conflict. However, in respect of acts performed by such a member in the exercise of his functions, immunity shall continue to subsist.

@@ -1,0 +1,3 @@
+## ARTICLE 42Transit through the territory of a third State
+# cl 1.
+If a representative of the sending State in the special mission or a member of its diplomatic staff passes through or is in the territory of a third State while proceeding to take up his functions or returning to the sending State, the third State shall accord him inviolability and such other immunities as may be required to ensure his transit or return. The same shall apply in the case of any members of his family enjoying privileges or immunities who are accompanying the person referred to in this paragraph, whether travelling with him or travelling separately to join him or to return to their country.

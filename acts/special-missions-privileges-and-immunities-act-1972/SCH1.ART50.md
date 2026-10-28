@@ -1,0 +1,2 @@
+# ARTICLE 50Signature
+The present Convention shall be open for signature by all States Members of the United Nations or of any of the specialized agencies or of the International Atomic Energy Agency or Parties to the Statute of the International Court of Justice, and by any other State invited by the General Assembly of the United Nations to become a Party to the Convention, until 31st December, 1970 at United Nations Headquarters in New York.

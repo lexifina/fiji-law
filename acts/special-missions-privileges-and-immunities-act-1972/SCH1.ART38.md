@@ -1,0 +1,2 @@
+# ARTICLE 38Private staff
+Private staff of the members of the special mission shall be exempt from dues and taxes on the emoluments they receive by reason of their employment. In all other respects, they may enjoy privileges and immunities only to the extent permitted by the receiving State. However, the receiving State must exercise its jurisdiction over those persons in such a manner as not to interfere unduly with the performance of the functions of the special mission.

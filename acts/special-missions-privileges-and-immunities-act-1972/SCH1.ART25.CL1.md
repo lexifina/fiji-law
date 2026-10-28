@@ -1,0 +1,3 @@
+## ARTICLE 25Inviolability of the premises
+# cl 1.
+The premises where the special mission is established in accordance with the present Convention shall be inviolable. The agents of the receiving State may not enter the said premises, except with the consent of the head of the special mission or, if appropriate, of the head of the permanent diplomatic mission of the sending State accredited to the receiving State. Such consent may be assumed in case of fire or other disaster that seriously endangers public safety, and only in the event that it has not been possible to obtain the express consent of the head of the special mission or, where appropriate, of the head of the permanent mission.

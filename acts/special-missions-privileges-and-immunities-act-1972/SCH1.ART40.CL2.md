@@ -1,0 +1,2 @@
+# cl 2.
+Other members of the special mission and private staff who are nationals of or permanently resident in the receiving State shall enjoy privileges and immunities only to the extent granted to them by that State. However, the receiving State must exercise its jurisdiction over those persons in such a manner as not to interfere unduly with the performance of the functions of the special mission.

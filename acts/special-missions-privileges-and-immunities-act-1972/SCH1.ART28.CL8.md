@@ -1,0 +1,2 @@
+# cl 8.
+The bag of the special mission may be entrusted to the captain of a ship or of a commercial aircraft scheduled to land at an authorized port of entry. The captain shall be provided with an official document indicating the number of packages constituting the bag, but he shall not be considered to be a courier of the special mission. By arrangement with the appropriate authorities, the special mission may send one of its members to take possession of the bag directly and freely from the captain of the ship or of the aircraft.

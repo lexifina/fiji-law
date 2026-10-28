@@ -1,0 +1,2 @@
+# reg 4.3
+“Enforcement and Compliance Officer” in this part means the person or persons to whom the Chief Executive Officer has delegated the powers for entry and clearance of ship and to inspect and verify compliance of the condition of a ship’s loading, manning, survey certificates, and other statutory ships documentation prior to departure or on arrival of the ships at the port or at any place out at sea.

@@ -1,0 +1,2 @@
+# reg 11.2.7
+SHIP CLEARANCE BOOKThe clearance book containing various statutory ship’s documentations (licences and certificates) currently valid for the ship which shall be produced to the Shipping Officer or authorised officer as specified in section 4 of this schedule.Any master or owner who fails to comply with this subsection commits an infringement offence and is liable to a fine not exceeding $1,000.

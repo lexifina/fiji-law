@@ -1,0 +1,2 @@
+# reg 7.3
+This method shall only be applied to ships possessing normal geometric characteristics (ie ships having a L/B ratio of 4.0 or less). For ships of other than normal geometric characteristics and ships of normal geometric characteristics having a GM less than 0.75m or angle of deck edge immersion less than l4°, the matter shall be referred to the Principal Surveyor, who may require an inclining test to be carried out. Where the GM is in excess of 0.75 m the Surveyor may permit the angle of deck edge immersion to be reduced to not less than 10°.

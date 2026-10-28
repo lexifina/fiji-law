@@ -1,0 +1,2 @@
+# reg 4.15
+When entering prescribed ports, the master shall “Enter Inwards” by delivering the clearance book to the Shipping Officer, showing the amount of cargo, type of cargo, manifest for dangerous goods and passengers to be discharged. At the same time the Master shall report any maritime accident or incident, or change of crew which occurred during the voyage since previously clearing outwards within 24 hours after arrival of ship in port.

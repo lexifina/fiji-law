@@ -1,0 +1,2 @@
+# reg 6.2
+A loadline as described in paragraph 6.4 shall be permanently marked, each side of the ship amidships, so that the centre of the disc indicates the assigned freeboard below the upper edge of the freeboard deck. If there are port holes below the freeboard deck, the freeboard shall be calculated as below the lowest part of the port opening. The deckline shall, however, always be shown at the actual deckline. For ships without a continuous deck the freeboard shall be measured below a fore and aft horizontal line through the lowest point on the gunwhale.

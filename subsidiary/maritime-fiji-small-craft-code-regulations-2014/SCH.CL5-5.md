@@ -1,0 +1,3 @@
+# reg 5.5 Galley spaces
+5.5.1 Galley cooking areas shall be well ventilated to prevent heat accumulation on a combustible surface. The surveyor may require combustible bulkheads and deck-head close to the cooker to be insulated and steel lined.
+5.5.2 Gas supplies for gas cooking shall be in standard gas cylinders securely fitted outside any enclosed space and so that any gas leakage, which maybe heavier than air, can gravitate away over the ship’s side. All piping between the cylinder and the cooker shall be approved by the Chief Executive Officer. All gas piping should be made of copper or similar material.

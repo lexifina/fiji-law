@@ -1,0 +1,2 @@
+# reg 4.10
+“The Interim Survey Certificate” in this part means the maritime document issued by the Chief Executive Officer for the purpose of allowing the ship to travel on that voyage for a period of not more than 2 weeks. An Interim Survey Certificate is issued only when the survey report is still in the process of completion but then the delay in the completion of such a report subsequently delays a ship’s outward clearance.

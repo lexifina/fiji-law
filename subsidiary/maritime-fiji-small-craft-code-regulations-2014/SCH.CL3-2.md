@@ -1,0 +1,2 @@
+# reg 3.2
+The Chief Executive Officer may increase the total number of persons required to be carried, or require higher qualified persons to be carried, or both, where in the opinion of the Chief Executive Officer the nature of the ship or its voyage makes this requirement necessary. In particular, ships carrying passengers should be required to increase the total number of crew in proportion to the number of passengers carried.

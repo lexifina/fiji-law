@@ -1,0 +1,2 @@
+# reg 10.7
+The power supply for the transceiver shall be provided by batteries which shall not be of a dry cell type. There shall be a means of charging the batteries such that the charging process shall not cause damage to the Radio equipment. If the batteries are not used exclusively for the Radio equipment, there shall be a means of isolating other loads in an emergency. There shall be a means of testing the charge condition of the batteries.

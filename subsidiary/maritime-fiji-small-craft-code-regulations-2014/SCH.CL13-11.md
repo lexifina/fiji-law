@@ -1,0 +1,3 @@
+# reg 13.11 Distress at Sea
+13.11.1 The master of a ship at sea which is in a position to be able to provide assistance on receiving information from any source that persons are in distress at sea, shall proceed with all speed to their assistance, if possible informing them, the MRCC and the Authority that the ship is doing so.
+13.11.2 The master of a ship shall be released from the obligation imposed by subregulation (1), on being informed by the persons in distress or by the MRCC, or the Authority, or by the master of another ship which has reached such persons that assistance is no longer necessary.

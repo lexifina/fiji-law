@@ -1,0 +1,3 @@
+# reg 13.7 Pre Departure Safety Briefing
+13.7.1 It is mandatory for all passenger ships including tourist vessels to carry out a pre-departure safety briefing which includes instructions for donning of life jackets, procedures to follow in case of fire, collision, grounding or sinking of ships or any other emergency, location of emergency station, lifeboat and liferaft stations, emergency exits, form of emergency signals including fire alarms, general alarms, CO2 alarms for fixed firefighting installations and ships abandonment order by the master.
+13.7.2 Safety briefing shall be in the form of verbal instruction by a ship’s officer or delegated ship’s crew or by any digital means or the combination of both methods.

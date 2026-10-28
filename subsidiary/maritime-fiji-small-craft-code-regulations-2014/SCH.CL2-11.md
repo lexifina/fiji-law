@@ -1,0 +1,2 @@
+# reg 2.11
+The Chief Executive Officer may approve employees of the Authority to conduct Boat Masters, Restricted or Full Class 6 Master/Engineer training as part of the maritime awareness program if the current approved maritime training institutions do not have the capacity to deliver such courses to meet the demand from the maritime sector. Government may need to subsidise the Authority or the Authority will prescribe appropriate fees to cover the training expenses.

@@ -1,0 +1,6 @@
+# reg 8 Vapours
+(1) Where any highly inflammable liquid is present in any workroom, steps shall be taken to prevent so far as is reasonably practicable the escape of vapours from any such highly inflammable liquid into the general atmosphere of that or any other workroom.
+(2) Where a dangerous concentration of inflammable vapours from any highly inflammable liquid is liable to be present in the general atmosphere of any workroom then (unless the source of such vapours is confined within a cabinet or other effective enclosure which, in either case, is adequately ventilated by mechanical means and is a fire resisting structure) the workroom shall—
+(a)have adequate exhaust ventilation provided by mechanical means; and
+(b)be a fire resisting structure, provided that notwithstanding anything contained in any specification approved for the purposes of the definition of “fire resisting structure” contained in regulation 3, provision may be made in the structure of a workroom for pressure relief in the case of explosion.
+(3) All vent pipes and breather valves of vessels and tanks containing highly inflammable liquids shall discharge to a safe place and, where necessary, shall be provided with a suitable wire gauze or a suitable flame arrester.

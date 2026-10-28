@@ -1,0 +1,8 @@
+# reg 4 Storage
+(1) All highly inflammable liquids when not in use shall be kept either—
+(a)in suitably closed vessels kept in a suitably placed storeroom which shall be a fire resisting structure, provided that notwithstanding anything contained in any specification approved for the purposes of the definition of “fire resisting structure” contained in regulation 3, provision may be made in the structure of a storeroom for pressure relief in the case of explosion;
+(b)in suitably closed vessels kept in a safe position in the open air at least 10 m from any occupied building; or
+(c)in the fixed storage tanks in safe positions at least 3 m from any occupied building, provided that nothing in this regulation shall apply to a factory where the aggregate quantity of highly inflammable liquids does not exceed 50 l that such highly inflammable liquids are in closed vessels each of which contains not more than 25 l and that such vessels are kept in a suitably placed cupboard or bin being a cupboard or bin which is a fire resisting structure or which is made of sheet steel.
+(2) Vessels and tanks used for storing highly inflammable liquids shall have no openings other than those necessary for charging, discharging, dipping and venting.
+(3) All openings (other than those for venting) in vessels and tanks used for storing highly inflammable liquids shall be kept securely closed except as necessary for charging, discharging and dipping.
+(4) Wherever highly inflammable liquids are stored, all practicable steps shall be taken to ensure that any highly inflammable liquid which leaks, is spilt or otherwise escapes from its immediate container, shall be contained or immediately drained off to a suitable or to a safe place.

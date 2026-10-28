@@ -1,0 +1,2 @@
+# reg 16 Duties of persons employed
+It shall be the duty of every person employed in a factory or premises to which these Regulations apply to comply with the requirements of such Regulations as relate to the doing or refraining from an act by him or her and to the use by him or her of any plant, equipment or appliance and to cooperate in carrying out these Regulations. If a person employed as aforesaid discovers any defect in such plant, equipment or appliance he or she shall report such defect without delay to the occupier, manager or other responsible person.

@@ -1,0 +1,3 @@
+# SCHEDULE NABOUWALU RURAL TOWN PLANNING AREA
+All that portion of land in the Tikina of Vuya in the Province of Bua situated in and around Nabouwalu Government Station bounded generally by Wainisevu Creek to the north, Nabouwalu Creek to the South, high water mark on the sea coast to the West and extending inland for approximately 32 chains.
+The above described area is more particularly delineated on plan T.P.O. 234 deposited in the office of the Director of Town and Country Planning, Suva and copies of such plan are available for inspection at the Offices of the Commissioner Northern, Labasa and the Bua Rural Local Authority, Nabouwalu.

@@ -1,0 +1,2 @@
+# cl (3)
+In the determination of the profits of a permanent establishment, there shall be allowed as deductions expenses of the enterprise, being expenses which are incurred for the purposes of the permanent establishment (including executive and general administrative expenses so incurred) and which would be deductible if the permanent establishment were an independent entity which paid those expenses, whether incurred in the Contracting State in which the permanent establishment is situated or elsewhere.

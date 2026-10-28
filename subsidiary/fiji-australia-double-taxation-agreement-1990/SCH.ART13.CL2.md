@@ -1,0 +1,2 @@
+# cl (2)
+Income, profits or gains from the alienation of property, other than real property as defined in Article 6, that forms part of the business property of a permanent establishment which an enterprise of one of the Contracting States has in the other Contracting State, including income, profits or gains from the alienation of such a permanent establishment (alone or with the whole enterprise), may be taxed in that other State.

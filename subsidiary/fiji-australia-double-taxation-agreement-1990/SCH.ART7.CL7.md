@@ -1,0 +1,2 @@
+# cl (7)
+Nothing in this Article shall affect the operation of any law of a Contracting State relating to taxation of profits from insurance with nonresidents provided that, if the relevant law in force in either Contracting State at the date of signature of this Agreement is varied (otherwise than in minor respects so as not to affect its general character), the Contracting States shall consult with each other with a view to agreeing to any amendment of this paragraph that may be appropriate.

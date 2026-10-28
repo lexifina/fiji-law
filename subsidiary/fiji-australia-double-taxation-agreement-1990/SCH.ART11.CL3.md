@@ -1,0 +1,2 @@
+# cl (3)
+The term “interest” in this Article includes interest from Government securities or from bonds or debentures, whether or not secured by mortgage and whether or not carrying a right to participate in profits, and interest from any other form of indebtedness as well as all other income assimilated to income from money lent by the law, relating to tax, of the Contracting State in which the income arises.

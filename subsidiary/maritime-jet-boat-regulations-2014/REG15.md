@@ -1,0 +1,2 @@
+# reg 15 New commercial jet boats or those with major alteration or modification
+A commercial jet boat operator shall ensure that a new commercial jet boat or an existing commercial jet boat that has had a major alteration or modification, is not used in a commercial jet boat operation until an application is made to the Authority in an approved form and an approval is obtained from the Chief Executive Officer.

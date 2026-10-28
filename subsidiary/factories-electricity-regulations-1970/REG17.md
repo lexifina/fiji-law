@@ -1,0 +1,6 @@
+# reg 17 Portable apparatus
+(1) Every flexible wire for portable apparatus, for alternating currents or for voltage above 115 volts direct current, shall be connected to the system by a properly constructed connection.
+(2) In all cases where a person handling portable apparatus for alternating current or voltage above 115 volts direct current, might be liable to receive an electric shock through a conducting floor or conducting work, or otherwise, if the metal work of the portable apparatus became charged, such metal work must be efficiently earthed, and any flexible metallic covering of the conductors shall be efficiently earthed and shall not be the only earth connection for the metal of the apparatus.
+(3) No lamp-holder shall be in metallic connection with the guard or other metal work of a portable lamp.
+(4) In the circumstances in which subregulations (2) and (3) apply and in any place where the voltage exceeds low voltage, the portable apparatus and its flexible wire shall be controlled by efficient means suitably located and capable of cutting off the voltage, and the metal work shall be efficiently earthed independently of any flexible metallic cover of the conductors and any such flexible covering shall be independently earthed.
+(5) All means referred to in subregulation (2) shall comply with the approved standard.

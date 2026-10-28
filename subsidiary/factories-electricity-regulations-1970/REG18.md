@@ -1,0 +1,2 @@
+# reg 18 Protection of apparatus
+All conductors and apparatus exposed to weather, dampness, corrosion, inflammable surroundings or explosive atmosphere, or used in any process or for any special purpose other than for lighting or power, shall be so constructed or protected, and such special precautions shall be taken, as may be necessary adequately to prevent danger in view of such exposure or use.

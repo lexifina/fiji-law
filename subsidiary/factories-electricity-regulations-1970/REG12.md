@@ -1,0 +1,2 @@
+# reg 12 Fuses etc
+Every fuse and every automatic circuit-breaker used instead thereof shall be so constructed and arranged as to interrupt the current effectively before it so exceeds the working rate as to involve danger and shall be so constructed, guarded or placed as to prevent danger from overheating or from arcing or the scattering of hot metal or other substance when it comes into operation. Every fuse shall be either of such construction or so protected by a switch that the fusible metal therein may be readily renewed without danger.

@@ -1,0 +1,2 @@
+# reg 6 Exemption by Minister
+The Minister may by order exempt from the application of these Regulations or any part thereof any premises to which any regulations under any other written law as to the generation, transformation or use of electricity apply or, if he or she is satisfied that safety is otherwise secured or in the event of emergency or other special circumstances, any apparatus to which these Regulations would otherwise apply.

@@ -1,0 +1,2 @@
+# reg 7 Non-application to service lines etc
+Nothing in these Regulations shall apply to any service lines or apparatus on the supply side of the terminals of any consumer or to any chamber containing such service lines or apparatus, where the supply is given from outside by or with the authority of the Fiji Electricity Authority, provided that nothing in this regulation shall be deemed to authorise the exposure of any live metal so that it may be touched by any person.

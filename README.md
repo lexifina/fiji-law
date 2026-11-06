@@ -1,5 +1,7 @@
 # The laws of Fiji, as a git repository
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Fiji's national law, which global-law reads at `fiji/national/acts/`.
+
 The consolidated legislation of Fiji as a git repository: 381 Acts (including the Constitution of 2013, in the Schedule to its Promulgation Act) and 913 pieces of subsidiary legislation. The source is the [Laws of Fiji](https://www.laws.gov.fj) website, run by the Office of the Attorney-General. There is one file per section, regulation, schedule or form (42547 files), with one paragraph per line, so `git blame` and `git diff` work line by line.
 
 **What this repository is not, yet: a history.** laws.gov.fj publishes only the current consolidated text of each law and keeps no earlier versions. So each law is a single commit holding its whole current text. Nothing before that text can be reconstructed from this source, so there is no line-by-line history before the consolidation date. New consolidations will be added from now on as later commits, so the history grows forward from here. The amendment history that the site prints is kept: each Act's Table of Amendments and the history note under each section are in the files and in [`data/amendments.csv`](data/amendments.csv).

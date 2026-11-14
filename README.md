@@ -1,63 +1,87 @@
-# The laws of Fiji, as a git repository
+# Fiji: law history in git
+
+
+The law of Fiji as a git history: one file per section, regulation, schedule or form, one commit per consolidation on the day the official site last updated it, and the publisher as each commit's author. laws.gov.fj keeps only the current text of each law, so each law has one version here so far; later consolidations are to be appended as new commits, so that `git log` and `git diff` show each change line by line.
 
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Fiji's national law, which global-law reads at `fiji/national/acts/`.
 
-The consolidated legislation of Fiji as a git repository: 381 Acts (including the Constitution of 2013, in the Schedule to its Promulgation Act) and 913 pieces of subsidiary legislation. The source is the [Laws of Fiji](https://www.laws.gov.fj) website, run by the Office of the Attorney-General. There is one file per section, regulation, schedule or form (42547 files), with one paragraph per line, so `git blame` and `git diff` work line by line.
+**What is in it now:** 1,294 laws as laws.gov.fj consolidates them, each in one version dated between 1928 and 2026: 381 Acts, among them the Constitution of 2013 (in the Schedule to its Promulgation Act), and 913 pieces of subsidiary legislation. [`laws.csv`](laws.csv) lists every law with its kind, parent Act and date; [`data/amendments.csv`](data/amendments.csv) holds the Tables of Amendments (4,292 rows naming 3,030 amending laws) and the 12,744 history notes printed under sections.
 
-**What this repository is not, yet: a history.** laws.gov.fj publishes only the current consolidated text of each law and keeps no earlier versions. So each law is a single commit holding its whole current text. Nothing before that text can be reconstructed from this source, so there is no line-by-line history before the consolidation date. New consolidations will be added from now on as later commits, so the history grows forward from here. The amendment history that the site prints is kept: each Act's Table of Amendments and the history note under each section are in the files and in [`data/amendments.csv`](data/amendments.csv).
+Each law is a folder `<kind>/<year>/<name>/`, with one file per unit, a `title.md` (its title, long title and Table of Amendments) and an `index.txt` (its files in order): `act/2007/employment-relations/S59.md` is section 59, paid annual holidays, of the Employment Relations Act 2007, and `act/2013/constitution-of-the-republic-of-fiji-promulgation/SCH.S1.md` is section 1 of the Constitution. [`data/paths.json`](data/paths.json) maps each law's former folder to its present one; 35 folders not placed by that rule keep their former names, under `subsidiary/` and `acts/`.
 
-The record holds 1294 laws, consolidated between 1928-02-28 and 2026-10-28, in 1295 commits.
+The text is in English, as laws.gov.fj prints it, one paragraph per line; each section ends with the history note the consolidation prints (`[s 1A insrt Act 44 of 2017 s 57, effective 4 December 2018]`).
 
-## A lawyer's questions as git commands
+## Questions as git commands
 
 | Question | Command |
 | --- | --- |
-| What does section 1A of the Arbitration Act 1965 say? | `python tools/in_force_on.py 2026-10-28 acts/arbitration-act-1965 S1A` |
-| The whole of a law, in order | `python tools/in_force_on.py 2026-10-28 acts/arbitration-act-1965` |
-| Which laws amended an Act, and when they commenced | `cat acts/arbitration-act-1965/title.md` (its Table of Amendments) |
-| What a section's history note says | `grep -h '^\[' acts/arbitration-act-1965/S1A.md` |
-| Every section an amending Act touched, by its notes | `grep -i 'Act 44 of 2017' data/amendments.csv` |
-| What changed in a law since this build (after later builds) | `git log -p -- acts/arbitration-act-1965` |
-| Which consolidation last wrote each line | `git blame acts/arbitration-act-1965/S2.md` |
-| The list of laws, with their dates | [`laws.csv`](laws.csv) |
+| Every change to section 59 of the Employment Relations Act | `git log -p --word-diff --follow -- act/2007/employment-relations/S59.md` |
+| Which consolidation wrote each line of section 59? | `git blame act/2007/employment-relations/S59.md` |
+| Every version of section 59, with the day the site last updated it | `git log --follow --format="%h %(trailers:key=Consolidated,valueonly,separator=) %an" -- act/2007/employment-relations/S59.md` |
+| Which laws amended the Act, and the day each commenced | `cat act/2007/employment-relations/title.md` |
+| Section 59 as the record holds it on 14 November 2026 | `python tools/in_force_on.py 2026-11-14 act/2007/employment-relations S59` |
 
-Each file starts with any Part or Division headings above it (`## PART 1 PRELIMINARY`), then its own heading as laws.gov.fj gives it (`# s 1A Scope of application`). Then come its paragraphs, one per line: `(1) ...`, `(a) ...`, with a defined term in quotes (`"court" means the High Court; and`). Last is the history note the consolidation prints, copied as it is: `[s 1A insrt Act 44 of 2017 s 57, effective 4 December 2018]`. Each law's `title.md` holds its title, long title and Table of Amendments, and its `index.txt` lists its files in the order of the law.
+**Outside git**, we also host this record publicly, for free:
 
-## The dates, and which one we use
+- **[Ask Claude about Fijian law](https://global-law.lexifina.com/v1/try_claude?country=fiji)**: opens Claude with a first question ready.
+- **[Ask ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=fiji)**: the same question in ChatGPT.
+- **[Call the API in your browser](https://global-law.lexifina.com/v1/search_law?query=annual+leave&jurisdictions=fiji)**: a search of Fijian law for "annual leave", returned as JSON. See the [documentation here](https://lexifina.com/api/global-law).
 
-For each law laws.gov.fj gives one date: the date the law was last updated on the site. **Each commit is dated by that date**, at noon Fiji standard time (UTC+12), and the date is also in the `Consolidated:` trailer. For 257 laws the site gives no date. Those are dated by the day the text was retrieved (`Date-source: retrieved`; the others have `Date-source: last-updated`). It is a publication date for the consolidation. It is not the date any amendment took effect, and it is not proof that the text was in force on that day. Commencement dates are in each Table of Amendments, and effective dates are in the section history notes (`effective 4 December 2018`). [`data/amendments.csv`](data/amendments.csv) lists both kinds of date and does not convert one into the other.
+Both assistants read the record through the free Global law connector (MCP, `https://global-law.lexifina.com/mcp`); the first time, the chat gives you the link that adds it. Ask in English.
 
-`tools/in_force_on.py` answers for any date on or after a law's consolidation date. For an earlier date it says there is no version, because the source has none.
+**Host it yourself easily.** All it takes is git and Python, and the tools run on your machine:
 
-## What "author" means
+```sh
+git clone --depth 1 https://github.com/lexifina/global-law && cd global-law
+python3 tools/countries.py add fiji/national/acts
+python3 tools/law.py show 2026-11-14 fiji/national/acts/act/2007/employment-relations/S59.md
+```
 
-Every law-text commit has the same author: `Laws of Fiji (Office of the Attorney-General) <laws-of-fiji@laws-gov-fj.invalid>`, with the trailer `Kind: consolidated`. The address cannot exist. The author is the publisher of the consolidation, not a lawmaker. No line is credited to an amending law, because without the earlier text nobody can tell which words an amendment wrote. The history notes say which law inserted, amended or substituted a section. They are kept as text and are not used to credit lines. In the shared design for these repositories, a change is credited to an amending law only when the source shows the text before and after it. When later consolidations are added and the text changes, that change will be credited to an amending law only where a new history note names one. Otherwise it is labelled `Kind: unexplained` and authored by the publisher.
+Opened in Claude Code, Cursor, VS Code or Codex, the clone also starts a local MCP server with the same tools ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).
 
-There are 1294 consolidated commits, 0 amendment commits and 0 unexplained ones. The Tables of Amendments name 3030 distinct amending laws in 4292 rows, and the sections carry 12744 history notes.
+## Dates
 
-## What it does not show
+Each law's commit is dated at noon, Fiji time (UTC+12), on the day laws.gov.fj gives as the law's last update, and carries it in its `Consolidated:` trailer:
 
-- Any text before the current consolidation. laws.gov.fj has none.
-- Amendments that have not commenced or have not been incorporated. Some Tables of Amendments have a footnote saying so, and it is copied into `title.md`.
-- Repealed and omitted laws. The site publishes these only as scanned PDF volumes ("Omitted and repealed laws"), and they are not included.
-- Acts as made. The site's "Laws as published" PDFs, from 2014, are not included.
-- Pictures in the text (marked `[image]`) and the site's page and paragraph numbering (`[ARB 1]`).
-- Table-of-contents entries with no text, laws listed with an empty table of contents, and laws with no last-update date (267 rows in all). They are listed in [`data/unreadable.csv`](data/unreadable.csv).
+- it is the day of the consolidation, not the day any amendment took effect, and not proof that the text was in force that day; commencement days are in each Table of Amendments and effective days in the history notes, and `data/amendments.csv` keeps both as printed;
+- for the 257 laws the site gives no date, the day the text was retrieved, 2026-10-28 (`Date-source: retrieved`);
+- git cannot store dates before 1970, so the 25 earlier commits are dated from 1970-01-01, one second apart, with the real day in `Consolidated:`. Ask for a date with global-law's `law.py show` (above), or with `tools/in_force_on.py` for a day from 2026-11-10; not with `git log --before`.
 
-This is a research aid. The Laws of Fiji website says that it is not authoritative and gives no assurance of accuracy, and the same is true of this repository.
+Every law's commit is credited to the publisher, `Laws of Fiji (Office of the Attorney-General)` (`Kind: consolidated`): without the earlier text nobody can tell which words an amendment wrote. When a later consolidation changes the text, the change is credited to an amending law only where a new history note names one; otherwise it is the publisher's, as `Kind: unexplained`.
 
 ## How it is checked
 
-`tools/build/` holds the build as it was run. [`data/source-sha256.tsv`](data/source-sha256.tsv) has the sha256 of every answer from the laws.gov.fj API that the build read. The build is deterministic: from the same answers it gives the same commit hashes. See [`REPRODUCE.md`](REPRODUCE.md). Before publishing, the build was checked for these things:
-- the text `tools/in_force_on.py` prints for sample sections matches the live site;
-- every commit's trailers parse;
-- there are no merges, no dates that go backwards and no dates after the build date;
-- two builds from the same retrieved files give the same HEAD.
+- The build in `tools/build/` is deterministic: [`data/source-sha256.tsv`](data/source-sha256.tsv) holds the sha256 of every laws.gov.fj answer it read, and two builds from the same answers gave the same commit hashes (see [`REPRODUCE.md`](REPRODUCE.md)).
+- The text `tools/in_force_on.py` prints for sample sections was compared with the live site.
+- Every commit's trailers parse; there are no merge commits, no dates that go back and none after the build day.
+- History is append-only: the move of 1,258 laws to their present folders (2026-11-10) is a commit of its own, with no law text changed.
 
-## How it is built
+## What it does not show
 
-The record uses the site's own JSON API: the list of Acts by initial letter, each Act's table of contents (`get_act_by_id`), which also lists its subsidiary legislation, and the HTML of every entry in it (`retrieve_html`). `build.py` turns each entry into lines, puts Part headings on the first file below them, and writes one commit per law with `git fast-import`. No AI model takes part in building or checking it.
+- **Any text before the current consolidation.** laws.gov.fj keeps no earlier versions; the Tables of Amendments and history notes say what changed, not the words before.
+- **Amendments not yet commenced or not yet incorporated.** Some Tables of Amendments say so in a footnote, copied into `title.md`.
+- **Repealed and omitted laws**, which the site publishes only as scanned PDF volumes, and **Acts as made** (its "Laws as published" PDFs, from 2014).
+- **Nine laws the site lists with no text** and one part of the Limitation Act 1971 it did not serve; [`data/unreadable.csv`](data/unreadable.csv) lists them, with the laws dated by retrieval.
+- **Pictures** (marked `[image]`) and the site's page and paragraph numbering.
+- **Case law** is not part of this record.
+
+## Sources
+
+| Source | Kind | Past versions | Notes |
+| --- | --- | --- | --- |
+| [Laws of Fiji](https://www.laws.gov.fj) (Office of the Attorney-General) | Official consolidation site | no, the current text only | Read through its JSON API: the list of Acts, each Act's table of contents with its subsidiary legislation, and the HTML of every entry; the site says it is not authoritative |
 
 ## Licence
 
-Source: the Laws of Fiji website (https://www.laws.gov.fj), Office of the Attorney-General, Republic of Fiji. The site states no licence. The wording was not changed; it was only split into files and lines. **This repository is private. Check the Copyright Act 1999 (Fiji) before making it public.** Lexifina's own contributions (the tools, the arrangement and the commit messages) are CC0. See [`LICENSE`](LICENSE).
+See [`LICENSE`](LICENSE). The Laws of Fiji website states no licence for reuse; the texts are reproduced without change to their wording, only split into files and lines. Lexifina's own contributions (the tools, the arrangement, the commit messages and the documentation) are CC0 1.0.
+
+## More
+
+From [lexifina/global-law](https://github.com/lexifina/global-law):
+
+- [FEATURES.md](https://github.com/lexifina/global-law/blob/main/FEATURES.md): every feature, and what every corpus must support (`git blame`, `law.py`, the MCP tools)
+- [FAQ.md](https://github.com/lexifina/global-law/blob/main/FAQ.md): questions and answers · [CONTRIBUTING.md](https://github.com/lexifina/global-law/blob/main/CONTRIBUTING.md): proposing changes · [MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md): the MCP server · [REPRODUCE.md](https://github.com/lexifina/global-law/blob/main/REPRODUCE.md): how it was built · [CHANGELOG.md](https://github.com/lexifina/global-law/blob/main/CHANGELOG.md)
+- [FRESHNESS.md](https://github.com/lexifina/global-law/blob/main/FRESHNESS.md): how current each corpus is · [Monitoring](https://github.com/lexifina/global-law/tree/main/monitoring): whether updates are running · [WATCHING.md](https://github.com/lexifina/global-law/blob/main/WATCHING.md): how each official source is watched for changes
+- [performance/](https://github.com/lexifina/global-law/tree/main/performance): how fast the tools are, measured
+- [visualisations/](https://github.com/lexifina/global-law/tree/main/visualisations): charts and bridges across the world's law
+- [Vulnerabilities](https://github.com/lexifina/global-law/tree/main/vulnerabilities): mistakes in legislation as published

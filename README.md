@@ -17,8 +17,7 @@ The text is in English, as laws.gov.fj prints it, one paragraph per line; each s
 | --- | --- |
 | Every change to section 59 of the Employment Relations Act | `git log -p --word-diff --follow -- act/2007/employment-relations/S59.md` |
 | Which consolidation wrote each line of section 59? | `git blame act/2007/employment-relations/S59.md` |
-| Every version of section 59, with the day the site last updated it | `git log --follow --format="%h %(trailers:key=Consolidated,valueonly,separator=) %an" -- act/2007/employment-relations/S59.md` |
-| Which laws amended the Act, and the day each commenced | `cat act/2007/employment-relations/title.md` |
+| Every version of section 59, with the day the site last updated it | `git log --follow --diff-filter=AM --format="%h %(trailers:key=Consolidated,valueonly,separator=) %an" -- act/2007/employment-relations/S59.md` |
 | Section 59 as the record holds it on 14 November 2026 | `python tools/in_force_on.py 2026-11-14 act/2007/employment-relations S59` |
 
 **Outside git**, we also host this record publicly, for free:
@@ -53,12 +52,12 @@ Every law's commit is credited to the publisher, `Laws of Fiji (Office of the At
 
 - The build in `tools/build/` is deterministic: [`data/source-sha256.tsv`](data/source-sha256.tsv) holds the sha256 of every laws.gov.fj answer it read, and two builds from the same answers gave the same commit hashes (see [`REPRODUCE.md`](REPRODUCE.md)).
 - The text `tools/in_force_on.py` prints for sample sections was compared with the live site.
-- Every commit's trailers parse; there are no merge commits, no dates that go back and none after the build day.
+- Every commit's trailers parse; there are no merge commits, commit dates never go back and none is in the future.
 - History is append-only: the move of 1,258 laws to their present folders (2026-11-10) is a commit of its own, with no law text changed.
 
 ## What it does not show
 
-- **Any text before the current consolidation.** laws.gov.fj keeps no earlier versions; the Tables of Amendments and history notes say what changed, not the words before.
+- **Any text but the consolidation retrieved on 2026-10-28.** laws.gov.fj keeps no earlier versions, and the Tables of Amendments and history notes say what changed, not the words before; later consolidations have not been read yet.
 - **Amendments not yet commenced or not yet incorporated.** Some Tables of Amendments say so in a footnote, copied into `title.md`.
 - **Repealed and omitted laws**, which the site publishes only as scanned PDF volumes, and **Acts as made** (its "Laws as published" PDFs, from 2014).
 - **Nine laws the site lists with no text** and one part of the Limitation Act 1971 it did not serve; [`data/unreadable.csv`](data/unreadable.csv) lists them, with the laws dated by retrieval.

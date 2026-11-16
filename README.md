@@ -59,6 +59,7 @@ Every law's commit is credited to the publisher, `Laws of Fiji (Office of the At
 - The text `tools/in_force_on.py` prints for sample sections was compared with the live site.
 - Every commit's trailers parse; there are no merge commits, commit dates never go back and none is in the future.
 - History is append-only: the move of 1,258 laws to their present folders (2026-11-10) is a commit of its own, with no law text changed.
+- [vulnerabilities/](vulnerabilities/): possible drafting mistakes in this law, found by global-law's detectors and checked by hand. Not run yet.
 
 ## What it does not show
 
@@ -78,6 +79,10 @@ Every law's commit is credited to the publisher, `Laws of Fiji (Office of the At
 ## Licence
 
 See [`LICENSE`](LICENSE). The Laws of Fiji website states no licence for reuse; the texts are reproduced without change to their wording, only split into files and lines. Lexifina's own contributions (the tools, the arrangement, the commit messages and the documentation) are CC0 1.0.
+
+## Visualisations
+
+- [visualisations/](visualisations/): charts drawn from this repository. Not drawn yet.
 
 ## More
 

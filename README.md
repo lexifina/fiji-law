@@ -1,5 +1,9 @@
 # Fiji: law history in git
 
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="data/effort-dark.svg">
+<img alt="Fijian law in this repository: what it holds, changes by the year they took effect, completeness against the official sources, and the correctness of what is held" src="data/effort-light.svg" width="880">
+</picture>
 
 The law of Fiji as a git history: one file per section, regulation, schedule or form, one commit per consolidation on the day the official site last updated it, and the publisher as each commit's author. laws.gov.fj keeps only the current text of each law, so each law has one version here so far; later consolidations are to be appended as new commits, so that `git log` and `git diff` show each change line by line.
 
